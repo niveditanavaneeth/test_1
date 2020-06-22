@@ -1,0 +1,180 @@
+{ "Ranji2018": 
+  [
+    {
+      "matchInfo": {
+        "matchType": "Ranji Test Match",
+        "teams": {
+          "team1": "",
+          "team2": ""
+        },
+        "toss": {
+          "winner": "",
+          "decision": ""
+        },
+        "venue": "",
+        "date": {
+          "startDate": "",
+          "endDate": ""
+        },
+        "umpire": {
+          "umpire1": "",
+          "umpire2": "",
+          "thirdUmpire": ""
+        },
+        "roundNo": "",
+        "groupName": "",
+        "squad": {
+          "team1": {
+            "teamName": "",
+            "playing11": [],
+            "bench": []
+          },
+          "team2": {
+            "teamName": "",
+            "playing11": [],
+            "bench": []
+          }
+        },
+        "MoM": ""
+      },
+      "innings10": {
+        "batTeam": "",
+        "batScoreCard": {
+          "player1": [],
+          "playerN": []
+        },
+        "FallOfWickets": {
+          "player1": {
+            "teamScore": "",
+            "ballNo": ""
+          },
+          "playerN": {
+            "teamScore": "",
+            "ballNo": ""
+          }
+        },
+        "bowlTeam": "",
+        "bowlScoreCard": {
+          "player1": [],
+          "playerN": []
+        },
+        "extras": {
+          "wide": "",
+          "nb": "",
+          "lb": "",
+          "b": "",
+          "p": ""
+        },
+        "total": {
+          "runs": "",
+          "overs": ""
+        }
+      },
+      "innings11": {
+        "batTeam": "",
+        "batScoreCard": {
+          "player1": [],
+          "playerN": []
+        },
+        "FallOfWickets": {
+          "player1": {
+            "teamScore": "",
+            "ballNo": ""
+          },
+          "playerN": {
+            "teamScore": "",
+            "ballNo": ""
+          }
+        },
+        "bowlTeam": "",
+        "bowlScoreCard": {
+          "player1": [],
+          "playerN": []
+        },
+        "extras": {
+          "wide": "",
+          "nb": "",
+          "lb": "",
+          "b": "",
+          "p": ""
+        },
+        "total": {
+          "runs": "",
+          "overs": ""
+        }
+      },
+      "innings20": {
+        "batTeam": "",
+        "batScoreCard": {
+          "player1": [],
+          "playerN": []
+        },
+        "FallOfWickets": {
+          "player1": {
+            "teamScore": "",
+            "ballNo": ""
+          },
+          "playerN": {
+            "teamScore": "",
+            "ballNo": ""
+          }
+        },
+        "bowlTeam": "",
+        "bowlScoreCard": {
+          "player1": [],
+          "playerN": []
+        },
+        "extras": {
+          "wide": "",
+          "nb": "",
+          "lb": "",
+          "b": "",
+          "p": ""
+        },
+        "total": {
+          "runs": "",
+          "overs": ""
+        }
+      },
+      "innings21": {
+        "batTeam": "",
+        "batScoreCard": {
+          "player1": [],
+          "playerN": []
+        },
+        "FallOfWickets": {
+          "player1": {
+            "teamScore": "",
+            "ballNo": ""
+          },
+          "playerN": {
+            "teamScore": "",
+            "ballNo": ""
+          }
+        },
+        "bowlTeam": "",
+        "bowlScoreCard": {
+          "player1": [],
+          "playerN": []
+        },
+        "extras": {
+          "wide": "",
+          "nb": "",
+          "lb": "",
+          "b": "",
+          "p": ""
+        },
+        "total": {
+          "runs": "",
+          "overs": ""
+        }
+      }
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+  ]
+}
