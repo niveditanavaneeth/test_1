@@ -38,6 +38,8 @@ teams = {
         'team2' : teamList[1].strip()
 }
 
+# INNINGS 10
+
 innings10BattingTeam = innings10id.find(class_='cb-col cb-col-100 cb-scrd-hdr-rw').text.strip(' ').split(' ') 
 
 batScoreCard = {}
@@ -46,9 +48,7 @@ extras = {}
 total = {}
 index_bat = 1
 index_bowl = 1
-for i,div in enumerate(innings10Players):
-    # print i
-    # print div.text
+for div in innings10Players:
     tempvar = []
     for div1 in div.find_all('div'):
         tempvar.append(div1.text)
@@ -120,17 +120,268 @@ innings10 = {
         "total": total
     }
 
-print '\n INNINGS 1 \n'
+print '\n INNINGS 1 Bar \n'
 print innings10
+
+#  INNINGS 11
+
+innings11BattingTeam = innings11id.find(class_='cb-col cb-col-100 cb-scrd-hdr-rw').text.strip(' ').split(' ') 
+
+batScoreCard11 = {}
+bowlScoreCard11 = {}
+extras11 = {}
+total11 = {}
+index_bat = 1
+index_bowl = 1
+for div in innings11Players:
+    tempvar = []
+    for div1 in div.find_all('div'):
+        tempvar.append(div1.text.strip())
+    # print tempvar
+    if len(tempvar) == 7:
+        batScoreCard11['player'+ str(index_bat)] = tempvar
+        index_bat +=1
+    elif len(tempvar) == 8:
+        bowlScoreCard11['player'+ str(index_bowl)] = tempvar
+        index_bowl +=1
+    else:
+        if tempvar[0] == "Extras":
+            tempvar[2] = tempvar[2].replace('(',' ')
+            tempvar[2] = tempvar[2].replace(')',' ')
+            x = tempvar[2].split(',')
+            # print x
+            extras11 = {
+                'wide' : x[2].strip().split(' ')[1] ,
+                'nb' : x[3].strip().split(' ')[1],
+                'lb' : x[1].strip().split(' ')[1],
+                'b' : x[0].strip().split(' ')[1],
+                'p' : x[4].strip().split(' ')[1]
+            }
+        if tempvar[0] == "Total":
+            tempvar[2] = tempvar[2].replace('(',' ')
+            tempvar[2] = tempvar[2].replace(')',' ')
+            x = tempvar[2].split(',') 
+            total11 = {
+                'runs' : tempvar[1].strip(),
+                'overs': x[1].strip().split(' ')[0],
+                'wickets' : x[0].strip().split(' ')[0]
+            }
+
+fallOfWicket = innings11id.find(class_='cb-col cb-col-100 cb-col-rt cb-font-13')
+fallOfWicketList = []
+fallOfWicketList = (x.text for x in fallOfWicket.find_all('span'))
+# fallOfWicket = fallOfWicket.replace('(','') 
+# fallOfWicket = fallOfWicket.replace(')','')
+# print list(fallOfWicketList)
+
+FallOfWickets11 = {}
+index_wicket = 1
+for x in fallOfWicketList:
+    x = x.split('-')
+    # print x
+    overNo = x[1].replace(')','').split(',')[1].strip()
+    calcBall = list(int(x) for x in overNo.split('.'))
+    ball = ((calcBall[0] * 6 + calcBall[1]) if len(calcBall) > 1 else calcBall[0]*6 )
+    # ball = 'yes' if len(calcBall) > 1 else 'no'
+    FallOfWickets11['player' + str(index_wicket)] = {
+        'teamScore' : x[0],
+        'ballNo' : ball
+    }
+    index_wicket += 1
+
+
+innings11BowlingTeam = (teams['team1'] if teams['team1'] != innings11BattingTeam[0] else teams['team2'])
+
+innings11 = {
+        "batTeam": innings11BattingTeam[0],
+        "batScoreCard": batScoreCard11,
+        "FallOfWickets": FallOfWickets11,
+        "bowlTeam": innings11BowlingTeam,
+        "bowlScoreCard": bowlScoreCard11,
+        "extras": extras11,
+        "total": total11
+    }
+
+print '\n INNINGS 1 Guj \n'
+print innings11
 
 # for div in innings11Players:
     # print div.text
 
-# for div in innings21Players:
+#  INNINGS 20
+
+innings20BattingTeam = innings20id.find(class_='cb-col cb-col-100 cb-scrd-hdr-rw').text.strip(' ').split(' ') 
+
+batScoreCard20 = {}
+bowlScoreCard20 = {}
+extras20 = {}
+total20 = {}
+index_bat = 1
+index_bowl = 1
+for div in innings20Players:
+    tempvar = []
+    for div1 in div.find_all('div'):
+        tempvar.append(div1.text.strip())
+    # print tempvar
+    if len(tempvar) == 7:
+        batScoreCard20['player'+ str(index_bat)] = tempvar
+        index_bat +=1
+    elif len(tempvar) == 8:
+        bowlScoreCard20['player'+ str(index_bowl)] = tempvar
+        index_bowl +=1
+    else:
+        if tempvar[0] == "Extras":
+            tempvar[2] = tempvar[2].replace('(',' ')
+            tempvar[2] = tempvar[2].replace(')',' ')
+            x = tempvar[2].split(',')
+            # print x
+            extras20 = {
+                'wide' : x[2].strip().split(' ')[1] ,
+                'nb' : x[3].strip().split(' ')[1],
+                'lb' : x[1].strip().split(' ')[1],
+                'b' : x[0].strip().split(' ')[1],
+                'p' : x[4].strip().split(' ')[1]
+            }
+        if tempvar[0] == "Total":
+            tempvar[2] = tempvar[2].replace('(',' ')
+            tempvar[2] = tempvar[2].replace(')',' ')
+            x = tempvar[2].split(',') 
+            total20 = {
+                'runs' : tempvar[1].strip(),
+                'overs': x[1].strip().split(' ')[0],
+                'wickets' : x[0].strip().split(' ')[0]
+            }
+
+fallOfWicket = innings20id.find(class_='cb-col cb-col-100 cb-col-rt cb-font-13')
+fallOfWicketList = []
+fallOfWicketList = (x.text for x in fallOfWicket.find_all('span'))
+# fallOfWicket = fallOfWicket.replace('(','') 
+# fallOfWicket = fallOfWicket.replace(')','')
+# print list(fallOfWicketList)
+
+FallOfWickets20 = {}
+index_wicket = 1
+for x in fallOfWicketList:
+    x = x.split('-')
+    # print x
+    overNo = x[1].replace(')','').split(',')[1].strip()
+    calcBall = list(int(x) for x in overNo.split('.'))
+    ball = ((calcBall[0] * 6 + calcBall[1]) if len(calcBall) > 1 else calcBall[0]*6 )
+    # ball = 'yes' if len(calcBall) > 1 else 'no'
+    FallOfWickets20['player' + str(index_wicket)] = {
+        'teamScore' : x[0],
+        'ballNo' : ball
+    }
+    index_wicket += 1
+
+
+innings20BowlingTeam = (teams['team1'] if teams['team1'] != innings20BattingTeam[0] else teams['team2'])
+
+innings20 = {
+        "batTeam": innings20BattingTeam[0],
+        "batScoreCard": batScoreCard20,
+        "FallOfWickets": FallOfWickets20,
+        "bowlTeam": innings20BowlingTeam,
+        "bowlScoreCard": bowlScoreCard20,
+        "extras": extras20,
+        "total": total20
+    }
+
+print '\n INNINGS 2 Brd \n'
+print innings20
+
+# for div in innings20Players:
     # print div.text
+
+
+#  INNINGS 20
+
+innings21BattingTeam = innings21id.find(class_='cb-col cb-col-100 cb-scrd-hdr-rw').text.strip(' ').split(' ') 
+
+batScoreCard21 = {}
+bowlScoreCard21 = {}
+extras21 = {}
+total21 = {}
+index_bat = 1
+index_bowl = 1
+for div in innings21Players:
+    tempvar = []
+    for div1 in div.find_all('div'):
+        tempvar.append(div1.text.strip())
+    # print tempvar
+    if len(tempvar) == 7:
+        batScoreCard21['player'+ str(index_bat)] = tempvar
+        index_bat +=1
+    elif len(tempvar) == 8:
+        bowlScoreCard21['player'+ str(index_bowl)] = tempvar
+        index_bowl +=1
+    else:
+        if tempvar[0] == "Extras":
+            tempvar[2] = tempvar[2].replace('(',' ')
+            tempvar[2] = tempvar[2].replace(')',' ')
+            x = tempvar[2].split(',')
+            # print x
+            extras21 = {
+                'wide' : x[2].strip().split(' ')[1] ,
+                'nb' : x[3].strip().split(' ')[1],
+                'lb' : x[1].strip().split(' ')[1],
+                'b' : x[0].strip().split(' ')[1],
+                'p' : x[4].strip().split(' ')[1]
+            }
+        if tempvar[0] == "Total":
+            tempvar[2] = tempvar[2].replace('(',' ')
+            tempvar[2] = tempvar[2].replace(')',' ')
+            x = tempvar[2].split(',') 
+            total21 = {
+                'runs' : tempvar[1].strip(),
+                'overs': x[1].strip().split(' ')[0],
+                'wickets' : x[0].strip().split(' ')[0]
+            }
+
+fallOfWicket = innings21id.find(class_='cb-col cb-col-100 cb-col-rt cb-font-13')
+fallOfWicketList = []
+fallOfWicketList = (x.text for x in fallOfWicket.find_all('span'))
+# fallOfWicket = fallOfWicket.replace('(','') 
+# fallOfWicket = fallOfWicket.replace(')','')
+# print list(fallOfWicketList)
+
+FallOfWickets21 = {}
+index_wicket = 1
+for x in fallOfWicketList:
+    x = x.split('-')
+    # print x
+    overNo = x[1].replace(')','').split(',')[1].strip()
+    calcBall = list(int(x) for x in overNo.split('.'))
+    ball = ((calcBall[0] * 6 + calcBall[1]) if len(calcBall) > 1 else calcBall[0]*6 )
+    # ball = 'yes' if len(calcBall) > 1 else 'no'
+    FallOfWickets21['player' + str(index_wicket)] = {
+        'teamScore' : x[0],
+        'ballNo' : ball
+    }
+    index_wicket += 1
+
+
+innings21BowlingTeam = (teams['team1'] if teams['team1'] != innings21BattingTeam[0] else teams['team2'])
+
+innings21 = {
+        "batTeam": innings21BattingTeam[0],
+        "batScoreCard": batScoreCard21,
+        "FallOfWickets": FallOfWickets21,
+        "bowlTeam": innings21BowlingTeam,
+        "bowlScoreCard": bowlScoreCard21,
+        "extras": extras21,
+        "total": total21
+    }
+
+print '\n INNINGS 2 Guj \n'
+print innings21
 
 # for div in innings21Players:
     # print div.text
+
+
+
+#  MATCH DETAILS
 
 matchDetails = soup.find(class_="cb-col cb-col-100 cb-font-13") 
 
@@ -199,5 +450,20 @@ matchInfo = {
         "groupName": matchHeader[2].split('-')[0].strip(),
         "squad": squad
     }
-print '\n MATCH INFO \n'
-print matchInfo
+
+finalObject = {
+    "Ranji2018": 
+  [{
+      "matchInfo" : matchInfo,
+      "innings10" : innings10,
+      "innings11" : innings11,
+      "innings20" : innings20,
+      "innings21" : innings21
+  }]
+}
+
+with open('RanjiStructure.json', 'w') as json_file:
+  json.dump(finalObject, json_file, indent=4, sort_keys= True)
+
+# print '\n MATCH INFO \n'
+# print matchInfo
