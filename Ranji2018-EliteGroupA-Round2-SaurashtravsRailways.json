@@ -1,0 +1,893 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 384, 
+                        "teamScore": "200"
+                    }, 
+                    "player2": {
+                        "ballNo": 56, 
+                        "teamScore": "25"
+                    }, 
+                    "player3": {
+                        "ballNo": 99, 
+                        "teamScore": "57"
+                    }, 
+                    "player4": {
+                        "ballNo": 136, 
+                        "teamScore": "66"
+                    }, 
+                    "player5": {
+                        "ballNo": 236, 
+                        "teamScore": "135"
+                    }, 
+                    "player6": {
+                        "ballNo": 273, 
+                        "teamScore": "151"
+                    }, 
+                    "player7": {
+                        "ballNo": 307, 
+                        "teamScore": "160"
+                    }, 
+                    "player8": {
+                        "ballNo": 344, 
+                        "teamScore": "169"
+                    }, 
+                    "player9": {
+                        "ballNo": 364, 
+                        "teamScore": "179"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  S Wakaskar  ", 
+                        " c Snell Patel b Prerak Mankad ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Anureet Singh  ", 
+                        " not out ", 
+                        "27", 
+                        "27", 
+                        "3", 
+                        "2", 
+                        "100.00"
+                    ], 
+                    "player11": [
+                        "  Manjeet Singh  ", 
+                        "  b DA Jadeja ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player2": [
+                        "  N Bhille  ", 
+                        " c Jackson b K Makvana ", 
+                        "4", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player3": [
+                        "  Pratham Singh  ", 
+                        " lbw b Ravindra Jadeja ", 
+                        "45", 
+                        "52", 
+                        "6", 
+                        "1", 
+                        "86.54"
+                    ], 
+                    "player4": [
+                        "  A Ghosh  ", 
+                        "  b Ravindra Jadeja ", 
+                        "12", 
+                        "43", 
+                        "1", 
+                        "0", 
+                        "27.91"
+                    ], 
+                    "player5": [
+                        "  Faiz Ahmed  ", 
+                        " lbw b K Makvana ", 
+                        "38", 
+                        "93", 
+                        "2", 
+                        "0", 
+                        "40.86"
+                    ], 
+                    "player6": [
+                        "  Mahesh Rawat (c) (wk)  ", 
+                        " c Jackson b Ravindra Jadeja ", 
+                        "46", 
+                        "56", 
+                        "8", 
+                        "0", 
+                        "82.14"
+                    ], 
+                    "player7": [
+                        "  Harsh Tyagi  ", 
+                        " lbw b K Makvana ", 
+                        "8", 
+                        "20", 
+                        "0", 
+                        "1", 
+                        "40.00"
+                    ], 
+                    "player8": [
+                        "  Avinash Yadav  ", 
+                        " c Prerak Mankad b DA Jadeja ", 
+                        "7", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "21.21"
+                    ], 
+                    "player9": [
+                        "  Madhur Khatri  ", 
+                        " c Jackson b Ravindra Jadeja ", 
+                        "4", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "13.33"
+                    ]
+                }, 
+                "batTeam": "Railways", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Unadkat  ", 
+                        "5", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player2": [
+                        "  Prerak Mankad  ", 
+                        "2", 
+                        "0", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player3": [
+                        "  K Makvana  ", 
+                        "20", 
+                        "3", 
+                        "55", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Ravindra Jadeja  ", 
+                        "20", 
+                        "4", 
+                        "58", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player5": [
+                        "  DA Jadeja  ", 
+                        "17", 
+                        "2", 
+                        "67", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ]
+                }, 
+                "bowlTeam": "Saurashtra", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "64", 
+                    "runs": "200", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 21, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 711, 
+                        "teamScore": "348"
+                    }, 
+                    "player2": {
+                        "ballNo": 53, 
+                        "teamScore": "24"
+                    }, 
+                    "player3": {
+                        "ballNo": 64, 
+                        "teamScore": "30"
+                    }, 
+                    "player4": {
+                        "ballNo": 68, 
+                        "teamScore": "32"
+                    }, 
+                    "player5": {
+                        "ballNo": 213, 
+                        "teamScore": "105"
+                    }, 
+                    "player6": {
+                        "ballNo": 256, 
+                        "teamScore": "128"
+                    }, 
+                    "player7": {
+                        "ballNo": 359, 
+                        "teamScore": "173"
+                    }, 
+                    "player8": {
+                        "ballNo": 699, 
+                        "teamScore": "344"
+                    }, 
+                    "player9": {
+                        "ballNo": 701, 
+                        "teamScore": "344"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Harvik Desai  ", 
+                        "  b Avinash Yadav ", 
+                        "8", 
+                        "11", 
+                        "2", 
+                        "0", 
+                        "72.73"
+                    ], 
+                    "player10": [
+                        "  Unadkat  ", 
+                        " c Mahesh Rawat b Harsh Tyagi ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  DA Jadeja  ", 
+                        "  c and b Harsh Tyagi ", 
+                        "4", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Snell Patel (wk)  ", 
+                        "  c and b Anureet Singh ", 
+                        "10", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "37.04"
+                    ], 
+                    "player3": [
+                        "  Samarth Vyas  ", 
+                        "  b Avinash Yadav ", 
+                        "6", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "27.27"
+                    ], 
+                    "player4": [
+                        "  Jackson  ", 
+                        " c Avinash Yadav b Anureet Singh ", 
+                        "5", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "83.33"
+                    ], 
+                    "player5": [
+                        "  Ravindra Jadeja  ", 
+                        " not out ", 
+                        "178", 
+                        "327", 
+                        "16", 
+                        "4", 
+                        "54.43"
+                    ], 
+                    "player6": [
+                        "  Jaydev Shah (c)  ", 
+                        " c S Wakaskar b Avinash Yadav ", 
+                        "25", 
+                        "69", 
+                        "4", 
+                        "0", 
+                        "36.23"
+                    ], 
+                    "player7": [
+                        "  Vasavada  ", 
+                        " c (sub)S Shukla b Madhur Khatri ", 
+                        "12", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "48.00"
+                    ], 
+                    "player8": [
+                        "  Prerak Mankad  ", 
+                        " c Mahesh Rawat b Manjeet Singh ", 
+                        "28", 
+                        "51", 
+                        "4", 
+                        "0", 
+                        "54.90"
+                    ], 
+                    "player9": [
+                        "  K Makvana  ", 
+                        " lbw b Harsh Tyagi ", 
+                        "62", 
+                        "163", 
+                        "9", 
+                        "1", 
+                        "38.04"
+                    ]
+                }, 
+                "batTeam": "Saurashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Anureet Singh  ", 
+                        "8", 
+                        "1", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  Avinash Yadav  ", 
+                        "33", 
+                        "4", 
+                        "95", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Manjeet Singh  ", 
+                        "18", 
+                        "2", 
+                        "70", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player4": [
+                        "  Madhur Khatri  ", 
+                        "32", 
+                        "8", 
+                        "61", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player5": [
+                        "  Harsh Tyagi  ", 
+                        "25.3", 
+                        "7", 
+                        "78", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player6": [
+                        "  Faiz Ahmed  ", 
+                        "2", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ]
+                }, 
+                "bowlTeam": "Railways", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "2", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "118.3", 
+                    "runs": "348", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 57, 
+                        "teamScore": "47"
+                    }, 
+                    "player10": {
+                        "ballNo": 718, 
+                        "teamScore": "331"
+                    }, 
+                    "player2": {
+                        "ballNo": 85, 
+                        "teamScore": "59"
+                    }, 
+                    "player3": {
+                        "ballNo": 154, 
+                        "teamScore": "111"
+                    }, 
+                    "player4": {
+                        "ballNo": 167, 
+                        "teamScore": "114"
+                    }, 
+                    "player5": {
+                        "ballNo": 351, 
+                        "teamScore": "158"
+                    }, 
+                    "player6": {
+                        "ballNo": 391, 
+                        "teamScore": "191"
+                    }, 
+                    "player7": {
+                        "ballNo": 456, 
+                        "teamScore": "221"
+                    }, 
+                    "player8": {
+                        "ballNo": 491, 
+                        "teamScore": "247"
+                    }, 
+                    "player9": {
+                        "ballNo": 697, 
+                        "teamScore": "329"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  S Wakaskar  ", 
+                        " lbw b DA Jadeja ", 
+                        "30", 
+                        "37", 
+                        "6", 
+                        "0", 
+                        "81.08"
+                    ], 
+                    "player10": [
+                        "  Anureet Singh  ", 
+                        "  b Samarth Vyas ", 
+                        "44", 
+                        "128", 
+                        "6", 
+                        "0", 
+                        "34.38"
+                    ], 
+                    "player11": [
+                        "  Manjeet Singh  ", 
+                        " not out ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  N Bhille  ", 
+                        " lbw b Ravindra Jadeja ", 
+                        "20", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "74.07"
+                    ], 
+                    "player3": [
+                        "  Pratham Singh  ", 
+                        " c Unadkat b Ravindra Jadeja ", 
+                        "30", 
+                        "64", 
+                        "4", 
+                        "0", 
+                        "46.88"
+                    ], 
+                    "player4": [
+                        "  A Ghosh  ", 
+                        " c Jackson b Ravindra Jadeja ", 
+                        "21", 
+                        "36", 
+                        "2", 
+                        "1", 
+                        "58.33"
+                    ], 
+                    "player5": [
+                        "  Faiz Ahmed  ", 
+                        " lbw b DA Jadeja ", 
+                        "26", 
+                        "94", 
+                        "1", 
+                        "0", 
+                        "27.66"
+                    ], 
+                    "player6": [
+                        "  Harsh Tyagi  ", 
+                        " c Jackson b DA Jadeja ", 
+                        "93", 
+                        "240", 
+                        "4", 
+                        "2", 
+                        "38.75"
+                    ], 
+                    "player7": [
+                        "  Mahesh Rawat (c) (wk)  ", 
+                        " lbw b DA Jadeja ", 
+                        "17", 
+                        "19", 
+                        "3", 
+                        "0", 
+                        "89.47"
+                    ], 
+                    "player8": [
+                        "  Avinash Yadav  ", 
+                        " c Vasavada b K Makvana ", 
+                        "21", 
+                        "44", 
+                        "1", 
+                        "0", 
+                        "47.73"
+                    ], 
+                    "player9": [
+                        "  Madhur Khatri  ", 
+                        " c Unadkat b DA Jadeja ", 
+                        "15", 
+                        "22", 
+                        "3", 
+                        "0", 
+                        "68.18"
+                    ]
+                }, 
+                "batTeam": "Railways", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Unadkat  ", 
+                        "8", 
+                        "1", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  K Makvana  ", 
+                        "31", 
+                        "7", 
+                        "78", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Ravindra Jadeja  ", 
+                        "44", 
+                        "8", 
+                        "123", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  DA Jadeja  ", 
+                        "34", 
+                        "7", 
+                        "95", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Samarth Vyas  ", 
+                        "2.4", 
+                        "0", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.10"
+                    ]
+                }, 
+                "bowlTeam": "Saurashtra", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "7", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "119.4", 
+                    "runs": "331", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 87, 
+                        "teamScore": "43"
+                    }, 
+                    "player2": {
+                        "ballNo": 136, 
+                        "teamScore": "64"
+                    }, 
+                    "player3": {
+                        "ballNo": 137, 
+                        "teamScore": "64"
+                    }, 
+                    "player4": {
+                        "ballNo": 150, 
+                        "teamScore": "65"
+                    }, 
+                    "player5": {
+                        "ballNo": 249, 
+                        "teamScore": "151"
+                    }, 
+                    "player6": {
+                        "ballNo": 270, 
+                        "teamScore": "166"
+                    }, 
+                    "player7": {
+                        "ballNo": 274, 
+                        "teamScore": "169"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Harvik Desai  ", 
+                        "  b Avinash Yadav ", 
+                        "17", 
+                        "60", 
+                        "3", 
+                        "0", 
+                        "28.33"
+                    ], 
+                    "player2": [
+                        "  Snell Patel (wk)  ", 
+                        " c (sub)S Shukla b Avinash Yadav ", 
+                        "28", 
+                        "43", 
+                        "5", 
+                        "0", 
+                        "65.12"
+                    ], 
+                    "player3": [
+                        "  Samarth Vyas  ", 
+                        "  b Avinash Yadav ", 
+                        "16", 
+                        "39", 
+                        "0", 
+                        "2", 
+                        "41.03"
+                    ], 
+                    "player4": [
+                        "  Jaydev Shah (c)  ", 
+                        " c A Ghosh b Avinash Yadav ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Sheldon Jackson  ", 
+                        " c N Bhille b Madhur Khatri ", 
+                        "54", 
+                        "55", 
+                        "8", 
+                        "2", 
+                        "98.18"
+                    ], 
+                    "player6": [
+                        "  Ravindra Jadeja  ", 
+                        " not out ", 
+                        "48", 
+                        "68", 
+                        "6", 
+                        "0", 
+                        "70.59"
+                    ], 
+                    "player7": [
+                        "  Prerak Mankad  ", 
+                        " c N Bhille b Avinash Yadav ", 
+                        "6", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player8": [
+                        "  Aarpit Vasavada  ", 
+                        " c (sub)S Shukla b Madhur Khatri ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Kamlesh Makvana  ", 
+                        " not out ", 
+                        "14", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "87.50"
+                    ]
+                }, 
+                "batTeam": "Saurashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Anureet Singh  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player2": [
+                        "  Manjeet Singh  ", 
+                        "3", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player3": [
+                        "  Avinash Yadav  ", 
+                        "23", 
+                        "4", 
+                        "88", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player4": [
+                        "  Harsh Tyagi  ", 
+                        "13", 
+                        "3", 
+                        "56", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player5": [
+                        "  Madhur Khatri  ", 
+                        "8", 
+                        "1", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ]
+                }, 
+                "bowlTeam": "Railways", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "49", 
+                    "runs": "186", 
+                    "wickets": "7"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T16:30:00", 
+                    "startDate": "2018-11-12T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Shaurya Sanandia", 
+                            " Chirag Jani  "
+                        ], 
+                        "playing11": [
+                            " Harvik Desai", 
+                            " Snell Patel (wk)", 
+                            " Sheldon Jackson", 
+                            " Jaydev Shah (c)", 
+                            " Arpit Vasavada", 
+                            " Ravindra Jadeja", 
+                            " Jaydev Unadkat", 
+                            " Dharmendrasinh Jadeja", 
+                            " Samarth Vyas", 
+                            " Prerak Mankad", 
+                            " Kamlesh Makvana  "
+                        ], 
+                        "teamName": "Saurashtra\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Karan Thakur", 
+                            " Shivakant Shukla  "
+                        ], 
+                        "playing11": [
+                            " Saurabh Wakaskar", 
+                            " Nitin Bhille", 
+                            " Pratham Singh", 
+                            " Faiz Ahmed", 
+                            " Arindam Ghosh", 
+                            " Mahesh Rawat (c & wk)", 
+                            " Manjeet Singh", 
+                            " Harsh Tyagi", 
+                            " Avinash Yadav", 
+                            " Madhur Khatri", 
+                            " Anureet Singh  "
+                        ], 
+                        "teamName": "Railways\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Saurashtra", 
+                    "team2": "Railways"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Railways"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Verma"
+                }, 
+                "venue": "Saurashtra Cricket Association Stadium, Rajkot"
+            }
+        }
+    ]
+}

@@ -1,0 +1,935 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 61, 
+                        "teamScore": "21"
+                    }, 
+                    "player10": {
+                        "ballNo": 636, 
+                        "teamScore": "263"
+                    }, 
+                    "player2": {
+                        "ballNo": 235, 
+                        "teamScore": "94"
+                    }, 
+                    "player3": {
+                        "ballNo": 253, 
+                        "teamScore": "95"
+                    }, 
+                    "player4": {
+                        "ballNo": 394, 
+                        "teamScore": "155"
+                    }, 
+                    "player5": {
+                        "ballNo": 410, 
+                        "teamScore": "167"
+                    }, 
+                    "player6": {
+                        "ballNo": 430, 
+                        "teamScore": "170"
+                    }, 
+                    "player7": {
+                        "ballNo": 465, 
+                        "teamScore": "186"
+                    }, 
+                    "player8": {
+                        "ballNo": 608, 
+                        "teamScore": "250"
+                    }, 
+                    "player9": {
+                        "ballNo": 614, 
+                        "teamScore": "251"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kaushik Gandhi  ", 
+                        " c Koushik Ghosh b Ishan Porel ", 
+                        "51", 
+                        "128", 
+                        "6", 
+                        "0", 
+                        "39.84"
+                    ], 
+                    "player10": [
+                        "  Rahil  ", 
+                        " c Goswami b Ishan Porel ", 
+                        "8", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player11": [
+                        "  T Natarajan  ", 
+                        " not out ", 
+                        "4", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Mukund  ", 
+                        " lbw b Ishan Porel ", 
+                        "9", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "34.62"
+                    ], 
+                    "player3": [
+                        "  Aparajith  ", 
+                        " c Manoj Tiwary b Pradipta Pramanik ", 
+                        "103", 
+                        "273", 
+                        "8", 
+                        "1", 
+                        "37.73"
+                    ], 
+                    "player4": [
+                        "  Indrajith (c)  ", 
+                        "  b Pradipta Pramanik ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  N Jagadeesan (wk)  ", 
+                        " c Writtick Chatterjee b Pradipta Pramanik ", 
+                        "39", 
+                        "69", 
+                        "3", 
+                        "2", 
+                        "56.52"
+                    ], 
+                    "player6": [
+                        "  Balchander Anirudh  ", 
+                        " lbw b A Gani ", 
+                        "7", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "70.00"
+                    ], 
+                    "player7": [
+                        "  J Kousik  ", 
+                        " lbw b Ishan Porel ", 
+                        "1", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "7.14"
+                    ], 
+                    "player8": [
+                        "  Sai Kishore  ", 
+                        " c Manoj Tiwary b A Gani ", 
+                        "9", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "45.00"
+                    ], 
+                    "player9": [
+                        "  M Mohammed  ", 
+                        " c Goswami b Ishan Porel ", 
+                        "24", 
+                        "66", 
+                        "2", 
+                        "0", 
+                        "36.36"
+                    ]
+                }, 
+                "batTeam": "TN", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Dinda  ", 
+                        "18", 
+                        "7", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player2": [
+                        "  A Gani  ", 
+                        "23", 
+                        "2", 
+                        "66", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Ishan Porel  ", 
+                        "27", 
+                        "12", 
+                        "48", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player4": [
+                        "  Pradipta Pramanik  ", 
+                        "27", 
+                        "6", 
+                        "82", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Writtick Chatterjee  ", 
+                        "7", 
+                        "2", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player6": [
+                        "  A Majumdar  ", 
+                        "4", 
+                        "0", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.80"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "4", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "106", 
+                    "runs": "263", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 10, 
+                        "teamScore": "6"
+                    }, 
+                    "player10": {
+                        "ballNo": 383, 
+                        "teamScore": "189"
+                    }, 
+                    "player2": {
+                        "ballNo": 21, 
+                        "teamScore": "8"
+                    }, 
+                    "player3": {
+                        "ballNo": 32, 
+                        "teamScore": "11"
+                    }, 
+                    "player4": {
+                        "ballNo": 109, 
+                        "teamScore": "38"
+                    }, 
+                    "player5": {
+                        "ballNo": 194, 
+                        "teamScore": "70"
+                    }, 
+                    "player6": {
+                        "ballNo": 281, 
+                        "teamScore": "119"
+                    }, 
+                    "player7": {
+                        "ballNo": 311, 
+                        "teamScore": "142"
+                    }, 
+                    "player8": {
+                        "ballNo": 370, 
+                        "teamScore": "178"
+                    }, 
+                    "player9": {
+                        "ballNo": 382, 
+                        "teamScore": "189"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Abhishek Raman  ", 
+                        " c J Kousik b Rahil ", 
+                        "98", 
+                        "173", 
+                        "10", 
+                        "1", 
+                        "56.65"
+                    ], 
+                    "player10": [
+                        "  Dinda  ", 
+                        "  b Rahil ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player11": [
+                        "  Ishan Porel  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Koushik Ghosh  ", 
+                        " c Balchander Anirudh b M Mohammed ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player3": [
+                        "  Sudip Chatterjee  ", 
+                        " c Indrajith b M Mohammed ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Manoj Tiwary (c)  ", 
+                        " c Mukund b M Mohammed ", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "11.11"
+                    ], 
+                    "player5": [
+                        "  A Majumdar  ", 
+                        " c Indrajith b Rahil ", 
+                        "16", 
+                        "43", 
+                        "2", 
+                        "0", 
+                        "37.21"
+                    ], 
+                    "player6": [
+                        "  Writtick Chatterjee  ", 
+                        " c Aparajith b Rahil ", 
+                        "11", 
+                        "45", 
+                        "0", 
+                        "0", 
+                        "24.44"
+                    ], 
+                    "player7": [
+                        "  Goswami (wk)  ", 
+                        "  c and b M Mohammed ", 
+                        "19", 
+                        "56", 
+                        "2", 
+                        "0", 
+                        "33.93"
+                    ], 
+                    "player8": [
+                        "  A Gani  ", 
+                        "  c and b Sai Kishore ", 
+                        "13", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "65.00"
+                    ], 
+                    "player9": [
+                        "  Pradipta Pramanik  ", 
+                        "  b Rahil ", 
+                        "11", 
+                        "28", 
+                        "0", 
+                        "1", 
+                        "39.29"
+                    ]
+                }, 
+                "batTeam": "Bengal", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  T Natarajan  ", 
+                        "14", 
+                        "2", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player2": [
+                        "  M Mohammed  ", 
+                        "14", 
+                        "5", 
+                        "39", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  Rahil  ", 
+                        "18.5", 
+                        "5", 
+                        "46", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player4": [
+                        "  Sai Kishore  ", 
+                        "14", 
+                        "0", 
+                        "59", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player5": [
+                        "  Aparajith  ", 
+                        "3", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "4", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "5"
+                }, 
+                "total": {
+                    "overs": "63.5", 
+                    "runs": "189", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "7"
+                    }, 
+                    "player10": {
+                        "ballNo": 377, 
+                        "teamScore": "141"
+                    }, 
+                    "player2": {
+                        "ballNo": 46, 
+                        "teamScore": "23"
+                    }, 
+                    "player3": {
+                        "ballNo": 90, 
+                        "teamScore": "44"
+                    }, 
+                    "player4": {
+                        "ballNo": 132, 
+                        "teamScore": "53"
+                    }, 
+                    "player5": {
+                        "ballNo": 219, 
+                        "teamScore": "83"
+                    }, 
+                    "player6": {
+                        "ballNo": 221, 
+                        "teamScore": "83"
+                    }, 
+                    "player7": {
+                        "ballNo": 291, 
+                        "teamScore": "108"
+                    }, 
+                    "player8": {
+                        "ballNo": 338, 
+                        "teamScore": "127"
+                    }, 
+                    "player9": {
+                        "ballNo": 341, 
+                        "teamScore": "127"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kaushik Gandhi  ", 
+                        " c Abhishek Raman b Ishan Porel ", 
+                        "9", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player10": [
+                        "  Rahil  ", 
+                        " lbw b A Gani ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  T Natarajan  ", 
+                        " lbw b Writtick Chatterjee ", 
+                        "1", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "9.09"
+                    ], 
+                    "player2": [
+                        "  Mukund  ", 
+                        "  b Dinda ", 
+                        "2", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player3": [
+                        "  Sai Kishore  ", 
+                        " lbw b Writtick Chatterjee ", 
+                        "18", 
+                        "55", 
+                        "1", 
+                        "1", 
+                        "32.73"
+                    ], 
+                    "player4": [
+                        "  Aparajith  ", 
+                        " c Koushik Ghosh b Writtick Chatterjee ", 
+                        "21", 
+                        "88", 
+                        "0", 
+                        "0", 
+                        "23.86"
+                    ], 
+                    "player5": [
+                        "  Indrajith (c)  ", 
+                        " c Abhishek Raman b Pradipta Pramanik ", 
+                        "4", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "21.05"
+                    ], 
+                    "player6": [
+                        "  N Jagadeesan (wk)  ", 
+                        "  b Writtick Chatterjee ", 
+                        "38", 
+                        "72", 
+                        "2", 
+                        "0", 
+                        "52.78"
+                    ], 
+                    "player7": [
+                        "  Balchander Anirudh  ", 
+                        "  b Writtick Chatterjee ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  J Kousik  ", 
+                        " lbw b A Gani ", 
+                        "10", 
+                        "58", 
+                        "1", 
+                        "0", 
+                        "17.24"
+                    ], 
+                    "player9": [
+                        "  M Mohammed  ", 
+                        " not out ", 
+                        "23", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "46.94"
+                    ]
+                }, 
+                "batTeam": "TN", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Dinda  ", 
+                        "7", 
+                        "2", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  A Gani  ", 
+                        "14", 
+                        "2", 
+                        "41", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Ishan Porel  ", 
+                        "8", 
+                        "4", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player4": [
+                        "  Writtick Chatterjee  ", 
+                        "13.5", 
+                        "3", 
+                        "22", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player5": [
+                        "  Pradipta Pramanik  ", 
+                        "20", 
+                        "8", 
+                        "36", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "10", 
+                    "lb": "4", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "62.5", 
+                    "runs": "141", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 97, 
+                        "teamScore": "45"
+                    }, 
+                    "player2": {
+                        "ballNo": 157, 
+                        "teamScore": "80"
+                    }, 
+                    "player3": {
+                        "ballNo": 229, 
+                        "teamScore": "114"
+                    }, 
+                    "player4": {
+                        "ballNo": 245, 
+                        "teamScore": "121"
+                    }, 
+                    "player5": {
+                        "ballNo": 262, 
+                        "teamScore": "134"
+                    }, 
+                    "player6": {
+                        "ballNo": 271, 
+                        "teamScore": "134"
+                    }, 
+                    "player7": {
+                        "ballNo": 310, 
+                        "teamScore": "150"
+                    }, 
+                    "player8": {
+                        "ballNo": 466, 
+                        "teamScore": "207"
+                    }, 
+                    "player9": {
+                        "ballNo": 495, 
+                        "teamScore": "215"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Abhishek Raman  ", 
+                        " c Indrajith b Kaushik Gandhi ", 
+                        "53", 
+                        "58", 
+                        "7", 
+                        "0", 
+                        "91.38"
+                    ], 
+                    "player10": [
+                        "  Ashok Dinda  ", 
+                        " run out (Rahil)  ", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player11": [
+                        "  Ishan Porel  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Koushik Ghosh  ", 
+                        " c Indrajith b Rahil ", 
+                        "13", 
+                        "63", 
+                        "1", 
+                        "0", 
+                        "20.63"
+                    ], 
+                    "player3": [
+                        "  Manoj Tiwary (c)  ", 
+                        " lbw b T Natarajan ", 
+                        "18", 
+                        "76", 
+                        "2", 
+                        "0", 
+                        "23.68"
+                    ], 
+                    "player4": [
+                        "  Aamir Gani  ", 
+                        " lbw b T Natarajan ", 
+                        "25", 
+                        "44", 
+                        "4", 
+                        "0", 
+                        "56.82"
+                    ], 
+                    "player5": [
+                        "  Sudip Chatterjee  ", 
+                        " st N Jagadeesan b Rahil ", 
+                        "40", 
+                        "118", 
+                        "2", 
+                        "0", 
+                        "33.90"
+                    ], 
+                    "player6": [
+                        "  Anustup Majumdar  ", 
+                        " lbw b Rahil ", 
+                        "7", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player7": [
+                        "  Writtick Chatterjee  ", 
+                        " c Aparajith b Rahil ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Shreevats Goswami (wk)  ", 
+                        " c Indrajith b Rahil ", 
+                        "9", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player9": [
+                        "  Pradipta Pramanik  ", 
+                        " not out ", 
+                        "25", 
+                        "97", 
+                        "0", 
+                        "1", 
+                        "25.77"
+                    ]
+                }, 
+                "batTeam": "Bengal", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  T Natarajan  ", 
+                        "22.5", 
+                        "5", 
+                        "49", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  M Mohammed  ", 
+                        "6", 
+                        "1", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  Kaushik Gandhi  ", 
+                        "11", 
+                        "2", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player4": [
+                        "  Rahil Shah  ", 
+                        "25", 
+                        "4", 
+                        "68", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player5": [
+                        "  Ravisrinivasan Sai Kishore  ", 
+                        "13", 
+                        "3", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player6": [
+                        "  Baba Aparajith  ", 
+                        "5", 
+                        "3", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.60"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "12", 
+                    "lb": "10", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "82.5", 
+                    "runs": "216", 
+                    "wickets": "9"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Krishnamoorthy Vignesh", 
+                            " Shahrukh Khan", 
+                            " Varun Chakravarthy", 
+                            " Abhishek Tanwar", 
+                            " Rohit Raj  "
+                        ], 
+                        "playing11": [
+                            " Abhinav Mukund", 
+                            " Baba Aparajith", 
+                            " Baba Indrajith (c)", 
+                            " Kaushik Gandhi", 
+                            " M Mohammed", 
+                            " Rahil Shah", 
+                            " N Jagadeesan (wk)", 
+                            " Jagatheesan Kousik", 
+                            " Balchander Anirudh", 
+                            " T Natarajan", 
+                            " Ravisrinivasan Sai Kishore  "
+                        ], 
+                        "teamName": "Tamil Nadu\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Vivek Singh", 
+                            " Boddupalli Amit", 
+                            " Saurabh Singh", 
+                            " Mukesh Kumar", 
+                            " Prayas Barman  "
+                        ], 
+                        "playing11": [
+                            " Sudip Chatterjee", 
+                            " Aamir Gani", 
+                            " Manoj Tiwary (c)", 
+                            " Anustup Majumdar", 
+                            " Ashok Dinda", 
+                            " Shreevats Goswami (wk)", 
+                            " Writtick Chatterjee", 
+                            "  Abhishek Raman", 
+                            " Koushik Ghosh", 
+                            " Ishan Porel", 
+                            " Pradipta Pramanik  "
+                        ], 
+                        "teamName": "Bengal\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Tamil Nadu", 
+                    "team2": "Bengal"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Tamil"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sankinani Vishnuvardhan"
+                }, 
+                "venue": "MA Chidambaram Stadium, Chennai"
+            }
+        }
+    ]
+}

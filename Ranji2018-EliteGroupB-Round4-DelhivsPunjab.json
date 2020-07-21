@@ -1,0 +1,788 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 7, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 257, 
+                        "teamScore": "107"
+                    }, 
+                    "player2": {
+                        "ballNo": 37, 
+                        "teamScore": "22"
+                    }, 
+                    "player3": {
+                        "ballNo": 46, 
+                        "teamScore": "30"
+                    }, 
+                    "player4": {
+                        "ballNo": 62, 
+                        "teamScore": "48"
+                    }, 
+                    "player5": {
+                        "ballNo": 72, 
+                        "teamScore": "52"
+                    }, 
+                    "player6": {
+                        "ballNo": 225, 
+                        "teamScore": "101"
+                    }, 
+                    "player7": {
+                        "ballNo": 229, 
+                        "teamScore": "102"
+                    }, 
+                    "player8": {
+                        "ballNo": 233, 
+                        "teamScore": "102"
+                    }, 
+                    "player9": {
+                        "ballNo": 234, 
+                        "teamScore": "102"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Gambhir  ", 
+                        " lbw b Arpit Pannu ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player10": [
+                        "  Simarjeet Singh  ", 
+                        " c Abhishek Gupta b S Kaul ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  V Mishra  ", 
+                        " not out ", 
+                        "2", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player2": [
+                        "  Hiten Dalal  ", 
+                        " c Abhishek Gupta b Vinay Choudhary ", 
+                        "18", 
+                        "19", 
+                        "3", 
+                        "1", 
+                        "94.74"
+                    ], 
+                    "player3": [
+                        "  D Shorey  ", 
+                        "  b S Kaul ", 
+                        "3", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "15.79"
+                    ], 
+                    "player4": [
+                        "  Nitish Rana (c)  ", 
+                        "  b S Kaul ", 
+                        "17", 
+                        "10", 
+                        "2", 
+                        "1", 
+                        "170.00"
+                    ], 
+                    "player5": [
+                        "  Himmat Singh  ", 
+                        " lbw b Vinay Choudhary ", 
+                        "12", 
+                        "17", 
+                        "2", 
+                        "0", 
+                        "70.59"
+                    ], 
+                    "player6": [
+                        "  Anuj Rawat (wk)  ", 
+                        "  b S Kaul ", 
+                        "22", 
+                        "102", 
+                        "0", 
+                        "0", 
+                        "21.57"
+                    ], 
+                    "player7": [
+                        "  Kunwar Bidhuri  ", 
+                        " lbw b Vinay Choudhary ", 
+                        "27", 
+                        "70", 
+                        "2", 
+                        "1", 
+                        "38.57"
+                    ], 
+                    "player8": [
+                        "  Varun Sood  ", 
+                        " c J Singh b S Kaul ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player9": [
+                        "  Pulkit Narang  ", 
+                        " lbw b S Kaul ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Delhi", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  S Kaul  ", 
+                        "12.5", 
+                        "4", 
+                        "32", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  Arpit Pannu  ", 
+                        "8", 
+                        "3", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player3": [
+                        "  Vinay Choudhary  ", 
+                        "9", 
+                        "1", 
+                        "34", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player4": [
+                        "  Gurkeerat Singh  ", 
+                        "7", 
+                        "3", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.10"
+                    ], 
+                    "player5": [
+                        "  Markande  ", 
+                        "6", 
+                        "1", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Punjab", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "42.5", 
+                    "runs": "107", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "5"
+                    }, 
+                    "player10": {
+                        "ballNo": 551, 
+                        "teamScore": "282"
+                    }, 
+                    "player2": {
+                        "ballNo": 68, 
+                        "teamScore": "38"
+                    }, 
+                    "player3": {
+                        "ballNo": 174, 
+                        "teamScore": "98"
+                    }, 
+                    "player4": {
+                        "ballNo": 361, 
+                        "teamScore": "168"
+                    }, 
+                    "player5": {
+                        "ballNo": 423, 
+                        "teamScore": "227"
+                    }, 
+                    "player6": {
+                        "ballNo": 445, 
+                        "teamScore": "236"
+                    }, 
+                    "player7": {
+                        "ballNo": 447, 
+                        "teamScore": "236"
+                    }, 
+                    "player8": {
+                        "ballNo": 495, 
+                        "teamScore": "258"
+                    }, 
+                    "player9": {
+                        "ballNo": 516, 
+                        "teamScore": "262"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  J Singh  ", 
+                        " lbw b V Mishra ", 
+                        "39", 
+                        "89", 
+                        "5", 
+                        "0", 
+                        "43.82"
+                    ], 
+                    "player10": [
+                        "  Vinay Choudhary  ", 
+                        " not out ", 
+                        "7", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "26.92"
+                    ], 
+                    "player11": [
+                        "  S Kaul  ", 
+                        " st Anuj Rawat b V Mishra ", 
+                        "13", 
+                        "17", 
+                        "3", 
+                        "0", 
+                        "76.47"
+                    ], 
+                    "player2": [
+                        "  Abhishek Sharma  ", 
+                        " c V Mishra b Simarjeet Singh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Anmolpreet Singh  ", 
+                        " lbw b V Mishra ", 
+                        "22", 
+                        "30", 
+                        "2", 
+                        "1", 
+                        "73.33"
+                    ], 
+                    "player4": [
+                        "  Mandeep (c)  ", 
+                        "  b Nitish Rana ", 
+                        "90", 
+                        "180", 
+                        "8", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Yuvraj  ", 
+                        " c Varun Sood b Pulkit Narang ", 
+                        "24", 
+                        "88", 
+                        "4", 
+                        "0", 
+                        "27.27"
+                    ], 
+                    "player6": [
+                        "  Gurkeerat Singh  ", 
+                        " c Anuj Rawat b Simarjeet Singh ", 
+                        "40", 
+                        "45", 
+                        "5", 
+                        "1", 
+                        "88.89"
+                    ], 
+                    "player7": [
+                        "  Abhishek Gupta (wk)  ", 
+                        " lbw b Simarjeet Singh ", 
+                        "4", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player8": [
+                        "  Markande  ", 
+                        " lbw b V Mishra ", 
+                        "14", 
+                        "38", 
+                        "2", 
+                        "0", 
+                        "36.84"
+                    ], 
+                    "player9": [
+                        "  Arpit Pannu  ", 
+                        " c Anuj Rawat b Simarjeet Singh ", 
+                        "9", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "39.13"
+                    ]
+                }, 
+                "batTeam": "Punjab", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Simarjeet Singh  ", 
+                        "17", 
+                        "3", 
+                        "43", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  V Mishra  ", 
+                        "30.5", 
+                        "7", 
+                        "57", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player3": [
+                        "  Pulkit Narang  ", 
+                        "23", 
+                        "3", 
+                        "84", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player4": [
+                        "  Varun Sood  ", 
+                        "11", 
+                        "1", 
+                        "44", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  Nitish Rana (c)  ", 
+                        "5", 
+                        "1", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player6": [
+                        "  Kunwar Bidhuri  ", 
+                        "5", 
+                        "2", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Delhi", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "12", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "91.5", 
+                    "runs": "282", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 140, 
+                        "teamScore": "72"
+                    }, 
+                    "player10": {
+                        "ballNo": 506, 
+                        "teamScore": "179"
+                    }, 
+                    "player2": {
+                        "ballNo": 143, 
+                        "teamScore": "72"
+                    }, 
+                    "player3": {
+                        "ballNo": 214, 
+                        "teamScore": "98"
+                    }, 
+                    "player4": {
+                        "ballNo": 216, 
+                        "teamScore": "99"
+                    }, 
+                    "player5": {
+                        "ballNo": 217, 
+                        "teamScore": "99"
+                    }, 
+                    "player6": {
+                        "ballNo": 234, 
+                        "teamScore": "105"
+                    }, 
+                    "player7": {
+                        "ballNo": 307, 
+                        "teamScore": "119"
+                    }, 
+                    "player8": {
+                        "ballNo": 451, 
+                        "teamScore": "173"
+                    }, 
+                    "player9": {
+                        "ballNo": 502, 
+                        "teamScore": "179"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Gambhir  ", 
+                        " c Abhishek Gupta b S Kaul ", 
+                        "60", 
+                        "95", 
+                        "6", 
+                        "1", 
+                        "63.16"
+                    ], 
+                    "player10": [
+                        "  V Mishra  ", 
+                        " lbw b Markande ", 
+                        "0", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Simarjeet Singh  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Hiten Dalal  ", 
+                        " lbw b Vinay Choudhary ", 
+                        "27", 
+                        "77", 
+                        "3", 
+                        "0", 
+                        "35.06"
+                    ], 
+                    "player3": [
+                        "  D Shorey  ", 
+                        " lbw b Vinay Choudhary ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Nitish Rana (c)  ", 
+                        " c Abhishek Sharma b S Kaul ", 
+                        "10", 
+                        "40", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player5": [
+                        "  Himmat Singh  ", 
+                        "  b Vinay Choudhary ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player6": [
+                        "  Anuj Rawat (wk)  ", 
+                        " c Mandeep b Markande ", 
+                        "12", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player7": [
+                        "  Kunwar Bidhuri  ", 
+                        " lbw b Arpit Pannu ", 
+                        "2", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "18.18"
+                    ], 
+                    "player8": [
+                        "  Varun Sood  ", 
+                        " lbw b Markande ", 
+                        "25", 
+                        "89", 
+                        "2", 
+                        "0", 
+                        "28.09"
+                    ], 
+                    "player9": [
+                        "  Pulkit Narang  ", 
+                        " c J Singh b Vinay Choudhary ", 
+                        "31", 
+                        "117", 
+                        "1", 
+                        "0", 
+                        "26.50"
+                    ]
+                }, 
+                "batTeam": "Delhi", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  S Kaul  ", 
+                        "14", 
+                        "1", 
+                        "54", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player2": [
+                        "  Vinay Choudhary  ", 
+                        "33.2", 
+                        "12", 
+                        "39", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ], 
+                    "player3": [
+                        "  Arpit Pannu  ", 
+                        "18", 
+                        "3", 
+                        "41", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player4": [
+                        "  Markande  ", 
+                        "17", 
+                        "3", 
+                        "30", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player5": [
+                        "  Gurkeerat Singh  ", 
+                        "2", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Punjab", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "84.2", 
+                    "runs": "179", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {}, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Jiwanjot Singh  ", 
+                        " not out ", 
+                        "6", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "85.71"
+                    ], 
+                    "player2": [
+                        "  Abhishek Sharma  ", 
+                        " not out ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ]
+                }, 
+                "batTeam": "Punjab", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pulkit Narang  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  Vikas Mishra  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player3": [
+                        "  Varun Sood  ", 
+                        "0.1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "24.00"
+                    ]
+                }, 
+                "bowlTeam": "Delhi", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "2.1", 
+                    "runs": "8", 
+                    "wickets": "0"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Sarthak Ranjan", 
+                            " Lalit Yadav", 
+                            " Gaurav Kumar", 
+                            " Kulwant Khejroliya", 
+                            " Vaibhav Rawal", 
+                            " Shivank Vashisht  "
+                        ], 
+                        "playing11": [
+                            " Gautam Gambhir", 
+                            " Dhruv Shorey", 
+                            " Hiten Dalal", 
+                            " Himmat Singh", 
+                            " Nitish Rana (c)", 
+                            " Kunwar Bidhuri", 
+                            " Simarjeet Singh", 
+                            " Anuj Rawat (wk)", 
+                            " Varun Sood", 
+                            " Pulkit Narang", 
+                            " Vikas Mishra  "
+                        ], 
+                        "teamName": "Delhi\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Sanvir Singh", 
+                            " Barinder Sran", 
+                            " Sharad Lumba", 
+                            " Baltej Singh", 
+                            " Shubek Gill  "
+                        ], 
+                        "playing11": [
+                            " Jiwanjot Singh", 
+                            " Anmolpreet Singh", 
+                            " Mandeep Singh (c)", 
+                            " Yuvraj Singh", 
+                            " Abhishek Sharma", 
+                            " Gurkeerat Singh Mann", 
+                            " Abhishek Gupta (wk)", 
+                            " Vinay Choudhary", 
+                            " Arpit Pannu", 
+                            " Mayank Markande", 
+                            " Siddarth Kaul  "
+                        ], 
+                        "teamName": "Punjab\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Delhi", 
+                    "team2": "Punjab"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Delhi"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Verma"
+                }, 
+                "venue": "Arun Jaitley Stadium, Delhi"
+            }
+        }
+    ]
+}

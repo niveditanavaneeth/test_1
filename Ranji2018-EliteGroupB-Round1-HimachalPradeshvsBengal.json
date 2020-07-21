@@ -1,0 +1,643 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 111, 
+                        "teamScore": "64"
+                    }, 
+                    "player10": {
+                        "ballNo": 697, 
+                        "teamScore": "308"
+                    }, 
+                    "player2": {
+                        "ballNo": 267, 
+                        "teamScore": "128"
+                    }, 
+                    "player3": {
+                        "ballNo": 307, 
+                        "teamScore": "151"
+                    }, 
+                    "player4": {
+                        "ballNo": 431, 
+                        "teamScore": "224"
+                    }, 
+                    "player5": {
+                        "ballNo": 507, 
+                        "teamScore": "258"
+                    }, 
+                    "player6": {
+                        "ballNo": 525, 
+                        "teamScore": "260"
+                    }, 
+                    "player7": {
+                        "ballNo": 602, 
+                        "teamScore": "301"
+                    }, 
+                    "player8": {
+                        "ballNo": 615, 
+                        "teamScore": "306"
+                    }, 
+                    "player9": {
+                        "ballNo": 668, 
+                        "teamScore": "364"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Abhishek Raman  ", 
+                        " c Ankush Bains b P Jaiswal ", 
+                        "48", 
+                        "132", 
+                        "7", 
+                        "0", 
+                        "36.36"
+                    ], 
+                    "player10": [
+                        "  Dinda  ", 
+                        "  b Chopra ", 
+                        "38", 
+                        "28", 
+                        "6", 
+                        "0", 
+                        "135.71"
+                    ], 
+                    "player11": [
+                        "  Ishan Porel  ", 
+                        " not out ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Abhimanyu Easwaran  ", 
+                        " c Chopra b Rishi Dhawan ", 
+                        "21", 
+                        "54", 
+                        "3", 
+                        "0", 
+                        "38.89"
+                    ], 
+                    "player3": [
+                        "  Sudip Chatterjee  ", 
+                        " c Shresth Nirmohi b G Singh ", 
+                        "43", 
+                        "104", 
+                        "6", 
+                        "0", 
+                        "41.35"
+                    ], 
+                    "player4": [
+                        "  Manoj Tiwary (c)  ", 
+                        " lbw b Chopra ", 
+                        "55", 
+                        "85", 
+                        "8", 
+                        "0", 
+                        "64.71"
+                    ], 
+                    "player5": [
+                        "  A Majumdar  ", 
+                        " c Priyanshu Khanduri b Rishi Dhawan ", 
+                        "52", 
+                        "99", 
+                        "4", 
+                        "0", 
+                        "52.53"
+                    ], 
+                    "player6": [
+                        "  Goswami (wk)  ", 
+                        " c Ankush Bains b P Jaiswal ", 
+                        "10", 
+                        "47", 
+                        "1", 
+                        "0", 
+                        "21.28"
+                    ], 
+                    "player7": [
+                        "  A Gani  ", 
+                        " lbw b P Jaiswal ", 
+                        "47", 
+                        "92", 
+                        "8", 
+                        "0", 
+                        "51.09"
+                    ], 
+                    "player8": [
+                        "  Boddupalli Amit  ", 
+                        " c S Verma b P Jaiswal ", 
+                        "19", 
+                        "43", 
+                        "3", 
+                        "0", 
+                        "44.19"
+                    ], 
+                    "player9": [
+                        "  Pradipta Pramanik  ", 
+                        "  b P Jaiswal ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Bengal", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Shresth Nirmohi  ", 
+                        "22", 
+                        "6", 
+                        "65", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  P Jaiswal  ", 
+                        "23.1", 
+                        "5", 
+                        "81", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Rishi Dhawan  ", 
+                        "28", 
+                        "11", 
+                        "56", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player4": [
+                        "  G Singh  ", 
+                        "19", 
+                        "3", 
+                        "55", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player5": [
+                        "  Akash Vasisht  ", 
+                        "13", 
+                        "2", 
+                        "55", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player6": [
+                        "  Chopra (c)  ", 
+                        "11", 
+                        "2", 
+                        "29", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ]
+                }, 
+                "bowlTeam": "Himachal Pradesh", 
+                "extras": {
+                    "b": "18", 
+                    "lb": "21", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "4"
+                }, 
+                "total": {
+                    "overs": "116.1", 
+                    "runs": "380", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 15, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 690, 
+                        "teamScore": "324"
+                    }, 
+                    "player2": {
+                        "ballNo": 51, 
+                        "teamScore": "40"
+                    }, 
+                    "player3": {
+                        "ballNo": 250, 
+                        "teamScore": "123"
+                    }, 
+                    "player4": {
+                        "ballNo": 286, 
+                        "teamScore": "136"
+                    }, 
+                    "player5": {
+                        "ballNo": 385, 
+                        "teamScore": "176"
+                    }, 
+                    "player6": {
+                        "ballNo": 548, 
+                        "teamScore": "255"
+                    }, 
+                    "player7": {
+                        "ballNo": 560, 
+                        "teamScore": "256"
+                    }, 
+                    "player8": {
+                        "ballNo": 587, 
+                        "teamScore": "276"
+                    }, 
+                    "player9": {
+                        "ballNo": 598, 
+                        "teamScore": "286"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Priyanshu Khanduri  ", 
+                        " c Pradipta Pramanik b Dinda ", 
+                        "15", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player10": [
+                        "  P Jaiswal  ", 
+                        "  c and b Pradipta Pramanik ", 
+                        "5", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player11": [
+                        "  G Singh  ", 
+                        " c Goswami b Ishan Porel ", 
+                        "5", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "13.51"
+                    ], 
+                    "player2": [
+                        "  Chopra (c)  ", 
+                        " lbw b Dinda ", 
+                        "8", 
+                        "7", 
+                        "2", 
+                        "0", 
+                        "114.29"
+                    ], 
+                    "player3": [
+                        "  Ankush Bains (wk)  ", 
+                        "  b A Gani ", 
+                        "86", 
+                        "139", 
+                        "12", 
+                        "0", 
+                        "61.87"
+                    ], 
+                    "player4": [
+                        "  Nikhil Gangta  ", 
+                        " c Abhimanyu Easwaran b A Gani ", 
+                        "22", 
+                        "97", 
+                        "1", 
+                        "0", 
+                        "22.68"
+                    ], 
+                    "player5": [
+                        "  Akash Vasisht  ", 
+                        " c A Majumdar b Ishan Porel ", 
+                        "21", 
+                        "67", 
+                        "4", 
+                        "0", 
+                        "31.34"
+                    ], 
+                    "player6": [
+                        "  S Verma  ", 
+                        " c Abhimanyu Easwaran b Pradipta Pramanik ", 
+                        "46", 
+                        "128", 
+                        "6", 
+                        "0", 
+                        "35.94"
+                    ], 
+                    "player7": [
+                        "  Ekant Sen  ", 
+                        " c Goswami b Pradipta Pramanik ", 
+                        "43", 
+                        "87", 
+                        "5", 
+                        "1", 
+                        "49.43"
+                    ], 
+                    "player8": [
+                        "  Rishi Dhawan  ", 
+                        " not out ", 
+                        "37", 
+                        "80", 
+                        "4", 
+                        "0", 
+                        "46.25"
+                    ], 
+                    "player9": [
+                        "  Shresth Nirmohi  ", 
+                        " c Manoj Tiwary b Pradipta Pramanik ", 
+                        "11", 
+                        "17", 
+                        "2", 
+                        "0", 
+                        "64.71"
+                    ]
+                }, 
+                "batTeam": "HP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Dinda  ", 
+                        "20.1", 
+                        "7", 
+                        "57", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Ishan Porel  ", 
+                        "28", 
+                        "7", 
+                        "74", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Boddupalli Amit  ", 
+                        "28", 
+                        "4", 
+                        "63", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player4": [
+                        "  Pradipta Pramanik  ", 
+                        "19", 
+                        "2", 
+                        "60", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player5": [
+                        "  A Gani  ", 
+                        "19.5", 
+                        "4", 
+                        "51", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ]
+                }, 
+                "bowlTeam": "Himachal Pradesh", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "10", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "5"
+                }, 
+                "total": {
+                    "overs": "115", 
+                    "runs": "324", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 286, 
+                        "teamScore": "139"
+                    }, 
+                    "player2": {
+                        "ballNo": 366, 
+                        "teamScore": "184"
+                    }, 
+                    "player3": {
+                        "ballNo": 367, 
+                        "teamScore": "184"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Abhishek Raman  ", 
+                        " c Ankush Bains b Chopra ", 
+                        "87", 
+                        "207", 
+                        "7", 
+                        "0", 
+                        "42.03"
+                    ], 
+                    "player2": [
+                        "  Abhimanyu Easwaran  ", 
+                        " c Ankush Bains b Chopra ", 
+                        "76", 
+                        "121", 
+                        "11", 
+                        "0", 
+                        "62.81"
+                    ], 
+                    "player3": [
+                        "  Sudip Chatterjee  ", 
+                        "  b Akash Vasisht ", 
+                        "15", 
+                        "40", 
+                        "1", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player4": [
+                        "  Manoj Tiwary (c)  ", 
+                        " not out ", 
+                        "12", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "70.59"
+                    ], 
+                    "player5": [
+                        "  Anustup Majumdar  ", 
+                        " not out ", 
+                        "7", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "38.89"
+                    ]
+                }, 
+                "batTeam": "Bengal", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rishi Dhawan  ", 
+                        "7", 
+                        "1", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Shresth Nirmohi  ", 
+                        "7", 
+                        "1", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player3": [
+                        "  Pankaj Jaiswal  ", 
+                        "7", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.30"
+                    ], 
+                    "player4": [
+                        "  Gurvinder Singh  ", 
+                        "17", 
+                        "3", 
+                        "52", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  Akash Vasisht  ", 
+                        "14", 
+                        "4", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player6": [
+                        "  Prashant Chopra (c)  ", 
+                        "15", 
+                        "1", 
+                        "53", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ]
+                }, 
+                "bowlTeam": "Himachal Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "67", 
+                    "runs": "203", 
+                    "wickets": "3"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Amit Kumar", 
+                            " Mayank Dagar", 
+                            " Ankit Kalsi  "
+                        ], 
+                        "playing11": [
+                            " Priyanshu Khanduri ", 
+                            " Prashant Chopra (c)", 
+                            " Sumeet Verma", 
+                            " Nikhil Gangta", 
+                            " Ankush Bains (wk)", 
+                            " Akash Vasisht", 
+                            " Ekant Sen", 
+                            " Rishi Dhawan", 
+                            " Pankaj Jaiswal", 
+                            " Shresth Nirmohi", 
+                            " Gurvinder Singh  "
+                        ], 
+                        "teamName": "Himachal Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Koushik Ghosh", 
+                            " Mukesh Kumar", 
+                            " Saurabh Singh", 
+                            " Prayas Barman  "
+                        ], 
+                        "playing11": [
+                            "  Abhishek Raman", 
+                            " Abhimanyu Easwaran", 
+                            " Sudip Chatterjee", 
+                            " Manoj Tiwary (c)", 
+                            " Shreevats Goswami (wk)", 
+                            " Anustup Majumdar", 
+                            " Pradipta Pramanik", 
+                            " Boddupalli Amit", 
+                            " Aamir Gani", 
+                            " Ashok Dinda", 
+                            " Ishan Porel  "
+                        ], 
+                        "teamName": "Bengal\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Himachal Pradesh", 
+                    "team2": "Bengal"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Bengal"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Daniel Manohar"
+                }, 
+                "venue": "Atal Bihari Vajpayee Stadium, Nadaun"
+            }
+        }
+    ]
+}

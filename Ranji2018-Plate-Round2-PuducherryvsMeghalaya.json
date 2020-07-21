@@ -1,0 +1,757 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 36, 
+                        "teamScore": "10"
+                    }, 
+                    "player10": {
+                        "ballNo": 765, 
+                        "teamScore": "389"
+                    }, 
+                    "player2": {
+                        "ballNo": 125, 
+                        "teamScore": "79"
+                    }, 
+                    "player3": {
+                        "ballNo": 366, 
+                        "teamScore": "185"
+                    }, 
+                    "player4": {
+                        "ballNo": 504, 
+                        "teamScore": "263"
+                    }, 
+                    "player5": {
+                        "ballNo": 509, 
+                        "teamScore": "264"
+                    }, 
+                    "player6": {
+                        "ballNo": 511, 
+                        "teamScore": "265"
+                    }, 
+                    "player7": {
+                        "ballNo": 530, 
+                        "teamScore": "266"
+                    }, 
+                    "player8": {
+                        "ballNo": 570, 
+                        "teamScore": "280"
+                    }, 
+                    "player9": {
+                        "ballNo": 746, 
+                        "teamScore": "381"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Narayanan  ", 
+                        "  b Lakhan Singh ", 
+                        "8", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player10": [
+                        "  Vengat  ", 
+                        " c Puneet Bisht b Raj Biswa ", 
+                        "26", 
+                        "77", 
+                        "2", 
+                        "0", 
+                        "33.77"
+                    ], 
+                    "player11": [
+                        "  Akshay Jain  ", 
+                        " not out ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player2": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        " run out (Abhay Negi)  ", 
+                        "27", 
+                        "63", 
+                        "4", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player3": [
+                        "  P Dogra  ", 
+                        " c Puneet Bisht b Aditya Singhania ", 
+                        "101", 
+                        "169", 
+                        "16", 
+                        "0", 
+                        "59.76"
+                    ], 
+                    "player4": [
+                        "  D Rohit (c)  ", 
+                        " lbw b Gurinder Singh ", 
+                        "138", 
+                        "321", 
+                        "10", 
+                        "1", 
+                        "42.99"
+                    ], 
+                    "player5": [
+                        "  Nayar  ", 
+                        "  b Dippu Sangma ", 
+                        "57", 
+                        "74", 
+                        "8", 
+                        "0", 
+                        "77.03"
+                    ], 
+                    "player6": [
+                        "  Pawan Kumar  ", 
+                        "  b Gurinder Singh ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Fabid Ahmed  ", 
+                        " lbw b Lakhan Singh ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player8": [
+                        "  B Ranjit (wk)  ", 
+                        "  b Gurinder Singh ", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player9": [
+                        "  Pankaj Singh  ", 
+                        " c Dippu Sangma b Gurinder Singh ", 
+                        "10", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "41.67"
+                    ]
+                }, 
+                "batTeam": "PDC", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Abhay Negi  ", 
+                        "16", 
+                        "3", 
+                        "48", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Lakhan Singh  ", 
+                        "25", 
+                        "3", 
+                        "103", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player3": [
+                        "  Amiangshu Sen  ", 
+                        "2", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Dippu Sangma  ", 
+                        "11", 
+                        "3", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player5": [
+                        "  Gurinder Singh  ", 
+                        "42.3", 
+                        "5", 
+                        "106", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player6": [
+                        "  Aditya Singhania  ", 
+                        "25", 
+                        "3", 
+                        "68", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player7": [
+                        "  Raj Biswa  ", 
+                        "6", 
+                        "0", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "8", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "127.3", 
+                    "runs": "389", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 91, 
+                        "teamScore": "48"
+                    }, 
+                    "player10": {
+                        "ballNo": 672, 
+                        "teamScore": "326"
+                    }, 
+                    "player2": {
+                        "ballNo": 95, 
+                        "teamScore": "48"
+                    }, 
+                    "player3": {
+                        "ballNo": 101, 
+                        "teamScore": "48"
+                    }, 
+                    "player4": {
+                        "ballNo": 279, 
+                        "teamScore": "145"
+                    }, 
+                    "player5": {
+                        "ballNo": 281, 
+                        "teamScore": "145"
+                    }, 
+                    "player6": {
+                        "ballNo": 293, 
+                        "teamScore": "147"
+                    }, 
+                    "player7": {
+                        "ballNo": 472, 
+                        "teamScore": "232"
+                    }, 
+                    "player8": {
+                        "ballNo": 657, 
+                        "teamScore": "326"
+                    }, 
+                    "player9": {
+                        "ballNo": 667, 
+                        "teamScore": "326"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Raj Biswa  ", 
+                        " lbw b Akshay Jain ", 
+                        "31", 
+                        "50", 
+                        "6", 
+                        "0", 
+                        "62.00"
+                    ], 
+                    "player10": [
+                        "  Dippu Sangma  ", 
+                        " lbw b Pankaj Singh ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Lakhan Singh  ", 
+                        "  b Pankaj Singh ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Jason Lamare (c)  ", 
+                        " st B Ranjit b Fabid Ahmed ", 
+                        "16", 
+                        "47", 
+                        "2", 
+                        "1", 
+                        "34.04"
+                    ], 
+                    "player3": [
+                        "  Sylvester Mylliempdah  ", 
+                        " lbw b Akshay Jain ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Puneet Bisht (wk)  ", 
+                        " lbw b Pankaj Singh ", 
+                        "58", 
+                        "93", 
+                        "8", 
+                        "0", 
+                        "62.37"
+                    ], 
+                    "player5": [
+                        "  Nagar  ", 
+                        " not out ", 
+                        "141", 
+                        "270", 
+                        "8", 
+                        "4", 
+                        "52.22"
+                    ], 
+                    "player6": [
+                        "  Amiangshu Sen  ", 
+                        " lbw b Pankaj Singh ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Gurinder Singh  ", 
+                        "  b Pankaj Singh ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Abhay Negi  ", 
+                        " run out (P Dogra)  ", 
+                        "29", 
+                        "99", 
+                        "5", 
+                        "0", 
+                        "29.29"
+                    ], 
+                    "player9": [
+                        "  Aditya Singhania  ", 
+                        " c B Ranjit b Pankaj Singh ", 
+                        "42", 
+                        "93", 
+                        "7", 
+                        "0", 
+                        "45.16"
+                    ]
+                }, 
+                "batTeam": "MGLY", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Singh  ", 
+                        "25", 
+                        "14", 
+                        "39", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player2": [
+                        "  Vengat  ", 
+                        "7", 
+                        "2", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Fabid Ahmed  ", 
+                        "30", 
+                        "7", 
+                        "106", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Akshay Jain  ", 
+                        "27", 
+                        "2", 
+                        "83", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        "8", 
+                        "0", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player6": [
+                        "  D Rohit (c)  ", 
+                        "4", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player7": [
+                        "  Narayanan  ", 
+                        "6", 
+                        "2", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player8": [
+                        "  Pawan Kumar  ", 
+                        "2", 
+                        "0", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "9.00"
+                    ], 
+                    "player9": [
+                        "  Nayar  ", 
+                        "3", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.30"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "112", 
+                    "runs": "326", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 85, 
+                        "teamScore": "50"
+                    }, 
+                    "player2": {
+                        "ballNo": 164, 
+                        "teamScore": "94"
+                    }, 
+                    "player3": {
+                        "ballNo": 167, 
+                        "teamScore": "94"
+                    }, 
+                    "player4": {
+                        "ballNo": 179, 
+                        "teamScore": "95"
+                    }, 
+                    "player5": {
+                        "ballNo": 207, 
+                        "teamScore": "101"
+                    }, 
+                    "player6": {
+                        "ballNo": 268, 
+                        "teamScore": "124"
+                    }, 
+                    "player7": {
+                        "ballNo": 277, 
+                        "teamScore": "127"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Narayanan  ", 
+                        " c Jason Lamare b Gurinder Singh ", 
+                        "13", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "36.11"
+                    ], 
+                    "player2": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        "  b Gurinder Singh ", 
+                        "47", 
+                        "91", 
+                        "6", 
+                        "0", 
+                        "51.65"
+                    ], 
+                    "player3": [
+                        "  Paras Dogra  ", 
+                        " c Puneet Bisht b Gurinder Singh ", 
+                        "16", 
+                        "45", 
+                        "0", 
+                        "0", 
+                        "35.56"
+                    ], 
+                    "player4": [
+                        "  Pawan Kumar  ", 
+                        "  b Gurinder Singh ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  D Rohit (c)  ", 
+                        " c Raj Biswa b Gurinder Singh ", 
+                        "4", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "16.00"
+                    ], 
+                    "player6": [
+                        "  Abhishek Nayar  ", 
+                        " lbw b Aditya Singhania ", 
+                        "16", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "44.44"
+                    ], 
+                    "player7": [
+                        "  Fabid Ahmed  ", 
+                        " c Sylvester Mylliempdah b Aditya Singhania ", 
+                        "10", 
+                        "36", 
+                        "0", 
+                        "0", 
+                        "27.78"
+                    ], 
+                    "player8": [
+                        "  Vengat  ", 
+                        " not out ", 
+                        "3", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player9": [
+                        "  Pankaj Singh  ", 
+                        " not out ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ]
+                }, 
+                "batTeam": "PDC", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Lakhan Singh  ", 
+                        "5", 
+                        "1", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player2": [
+                        "  Abhay Negi  ", 
+                        "12", 
+                        "3", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player3": [
+                        "  Gurinder Singh  ", 
+                        "16.1", 
+                        "4", 
+                        "44", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player4": [
+                        "  Dippu Sangma  ", 
+                        "7", 
+                        "0", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  Aditya Singhania  ", 
+                        "6", 
+                        "1", 
+                        "10", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player6": [
+                        "  Raj Biswa  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "5", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "9"
+                }, 
+                "total": {
+                    "overs": "47.1", 
+                    "runs": "129", 
+                    "wickets": "7"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T16:30:00", 
+                    "startDate": "2018-11-12T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Abdul Safar", 
+                            " Govindaraajan", 
+                            " Madhavan Manohar", 
+                            " Ashith Rajiv", 
+                            " Shashank Singh", 
+                            " Sarag Udheshi", 
+                            " Parikshit Valsangkar", 
+                            " Saiju Titus", 
+                            " Prabhakaran Gopalakrishnan", 
+                            " Magendiran Chinnadurai", 
+                            " Nikhilesh Surendran", 
+                            " Thalaivan Sargunam", 
+                            " Sagar Trivedi", 
+                            " Iqlas Naha  "
+                        ], 
+                        "playing11": [
+                            " Narayanan", 
+                            " Vikneshwaran Marimuthu", 
+                            " Paras Dogra", 
+                            " D Rohit (c)", 
+                            " B Ranjit (wk)", 
+                            " Pankaj Singh", 
+                            " Fabid Ahmed", 
+                            " Abhishek Nayar", 
+                            " Akshay Jain", 
+                            " Pawan Kumar", 
+                            " Vengadeshwaran  "
+                        ], 
+                        "teamName": "Puducherry\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Babloo Passah", 
+                            " Chengkam Sangma", 
+                            " Wanlambok Nongkhlaw", 
+                            " Lakhan Singh", 
+                            " Mark Ingty  "
+                        ], 
+                        "playing11": [
+                            " Dippu Sangma", 
+                            " Aditya Singhania", 
+                            " Jason Lamare (c)", 
+                            " Sylvester Mylliempdah", 
+                            " Gurinder Singh", 
+                            " Puneet Bisht (wk)", 
+                            " Yogesh Nagar", 
+                            " Raj Biswa", 
+                            " Lakhan Singh", 
+                            " Amiangshu Sen", 
+                            " Abhay Negi  "
+                        ], 
+                        "teamName": "Meghalaya\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Puducherry", 
+                    "team2": "Meghalaya"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Puducherry"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Pankaj Dharmani"
+                }, 
+                "venue": "Cricket Association Puducherry Siechem Ground, Puducherry"
+            }
+        }
+    ]
+}

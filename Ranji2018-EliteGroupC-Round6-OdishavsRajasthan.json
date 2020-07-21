@@ -1,0 +1,891 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 8, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 222, 
+                        "teamScore": "135"
+                    }, 
+                    "player2": {
+                        "ballNo": 26, 
+                        "teamScore": "6"
+                    }, 
+                    "player3": {
+                        "ballNo": 69, 
+                        "teamScore": "26"
+                    }, 
+                    "player4": {
+                        "ballNo": 126, 
+                        "teamScore": "57"
+                    }, 
+                    "player5": {
+                        "ballNo": 130, 
+                        "teamScore": "58"
+                    }, 
+                    "player6": {
+                        "ballNo": 138, 
+                        "teamScore": "67"
+                    }, 
+                    "player7": {
+                        "ballNo": 183, 
+                        "teamScore": "105"
+                    }, 
+                    "player8": {
+                        "ballNo": 186, 
+                        "teamScore": "107"
+                    }, 
+                    "player9": {
+                        "ballNo": 206, 
+                        "teamScore": "134"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        " c A Raut b Basant Mohanty ", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  TM Ul-Haq  ", 
+                        " c Roshan Kumar Rao b Basant Mohanty ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player11": [
+                        "  Nathu Singh  ", 
+                        " not out ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " lbw b Rajesh Mohanty ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Lomror (c)  ", 
+                        " c Roshan Kumar Rao b Basant Mohanty ", 
+                        "85", 
+                        "105", 
+                        "14", 
+                        "1", 
+                        "80.95"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        " c Santanu Mishra b Pradhan ", 
+                        "9", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "45.00"
+                    ], 
+                    "player5": [
+                        "  Menaria  ", 
+                        " c Santanu Mishra b Rajesh Mohanty ", 
+                        "10", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "29.41"
+                    ], 
+                    "player6": [
+                        "  Salman Khan  ", 
+                        " c Roshan Kumar Rao b Basant Mohanty ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  A Gupta  ", 
+                        " lbw b Rajesh Mohanty ", 
+                        "8", 
+                        "7", 
+                        "2", 
+                        "0", 
+                        "114.29"
+                    ], 
+                    "player8": [
+                        "  Rahul Chahar  ", 
+                        " c Roshan Kumar Rao b Basant Mohanty ", 
+                        "18", 
+                        "25", 
+                        "1", 
+                        "1", 
+                        "72.00"
+                    ], 
+                    "player9": [
+                        "  Aniket Choudhary  ", 
+                        " c Roshan Kumar Rao b Basant Mohanty ", 
+                        "2", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "66.67"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Basant Mohanty  ", 
+                        "15", 
+                        "6", 
+                        "20", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "1.30"
+                    ], 
+                    "player2": [
+                        "  Rajesh Mohanty  ", 
+                        "13", 
+                        "2", 
+                        "63", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player3": [
+                        "  Pradhan  ", 
+                        "8", 
+                        "1", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "6.10"
+                    ], 
+                    "player4": [
+                        "  Dhiraj Singh  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Odisha", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "37", 
+                    "runs": "135", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 25, 
+                        "teamScore": "7"
+                    }, 
+                    "player10": {
+                        "ballNo": 344, 
+                        "teamScore": "111"
+                    }, 
+                    "player2": {
+                        "ballNo": 70, 
+                        "teamScore": "17"
+                    }, 
+                    "player3": {
+                        "ballNo": 81, 
+                        "teamScore": "17"
+                    }, 
+                    "player4": {
+                        "ballNo": 164, 
+                        "teamScore": "42"
+                    }, 
+                    "player5": {
+                        "ballNo": 247, 
+                        "teamScore": "80"
+                    }, 
+                    "player6": {
+                        "ballNo": 255, 
+                        "teamScore": "83"
+                    }, 
+                    "player7": {
+                        "ballNo": 256, 
+                        "teamScore": "83"
+                    }, 
+                    "player8": {
+                        "ballNo": 266, 
+                        "teamScore": "83"
+                    }, 
+                    "player9": {
+                        "ballNo": 335, 
+                        "teamScore": "106"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Santanu Mishra  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "7", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "22.58"
+                    ], 
+                    "player10": [
+                        "  Basant Mohanty  ", 
+                        "  b Aniket Choudhary ", 
+                        "4", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "12.12"
+                    ], 
+                    "player11": [
+                        "  Dhiraj Singh  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Ranjit Singh  ", 
+                        " c R Bist b Aniket Choudhary ", 
+                        "2", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player3": [
+                        "  Debasish Samantray  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "50", 
+                        "161", 
+                        "9", 
+                        "0", 
+                        "31.06"
+                    ], 
+                    "player4": [
+                        "  Subhranshu Senapati  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Samantray (c)  ", 
+                        " lbw b Aniket Choudhary ", 
+                        "8", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "22.86"
+                    ], 
+                    "player6": [
+                        "  A Raut  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "24", 
+                        "51", 
+                        "3", 
+                        "0", 
+                        "47.06"
+                    ], 
+                    "player7": [
+                        "  Roshan Kumar Rao (wk)  ", 
+                        " c A Gupta b TM Ul-Haq ", 
+                        "3", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player8": [
+                        "  Pradhan  ", 
+                        "  b TM Ul-Haq ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Rajesh Mohanty  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aniket Choudhary  ", 
+                        "18.2", 
+                        "4", 
+                        "49", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "23", 
+                        "15", 
+                        "14", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.60"
+                    ], 
+                    "player3": [
+                        "  Nathu Singh  ", 
+                        "14", 
+                        "5", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "2", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "12", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "57.2", 
+                    "runs": "111", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 2, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 302, 
+                        "teamScore": "148"
+                    }, 
+                    "player2": {
+                        "ballNo": 60, 
+                        "teamScore": "32"
+                    }, 
+                    "player3": {
+                        "ballNo": 68, 
+                        "teamScore": "36"
+                    }, 
+                    "player4": {
+                        "ballNo": 151, 
+                        "teamScore": "68"
+                    }, 
+                    "player5": {
+                        "ballNo": 242, 
+                        "teamScore": "106"
+                    }, 
+                    "player6": {
+                        "ballNo": 263, 
+                        "teamScore": "118"
+                    }, 
+                    "player7": {
+                        "ballNo": 268, 
+                        "teamScore": "123"
+                    }, 
+                    "player8": {
+                        "ballNo": 285, 
+                        "teamScore": "134"
+                    }, 
+                    "player9": {
+                        "ballNo": 296, 
+                        "teamScore": "144"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        " c A Raut b Dhiraj Singh ", 
+                        "51", 
+                        "119", 
+                        "8", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player10": [
+                        "  TM Ul-Haq  ", 
+                        " c Santanu Mishra b Basant Mohanty ", 
+                        "8", 
+                        "6", 
+                        "2", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player11": [
+                        "  Nathu Singh  ", 
+                        " not out ", 
+                        "4", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        "  b Rajesh Mohanty ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Lomror (c)  ", 
+                        "  b Basant Mohanty ", 
+                        "17", 
+                        "28", 
+                        "3", 
+                        "0", 
+                        "60.71"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        "  b Basant Mohanty ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Menaria  ", 
+                        " c Roshan Kumar Rao b Rajesh Mohanty ", 
+                        "13", 
+                        "41", 
+                        "1", 
+                        "0", 
+                        "31.71"
+                    ], 
+                    "player6": [
+                        "  Salman Khan  ", 
+                        "  b Pradhan ", 
+                        "39", 
+                        "78", 
+                        "7", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player7": [
+                        "  A Gupta  ", 
+                        "  b Basant Mohanty ", 
+                        "10", 
+                        "10", 
+                        "1", 
+                        "1", 
+                        "100.00"
+                    ], 
+                    "player8": [
+                        "  Rahul Chahar  ", 
+                        " c Pradhan b Dhiraj Singh ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Aniket Choudhary  ", 
+                        " c Samantray b Basant Mohanty ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajesh Mohanty  ", 
+                        "7", 
+                        "1", 
+                        "31", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player2": [
+                        "  Basant Mohanty  ", 
+                        "19", 
+                        "9", 
+                        "29", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player3": [
+                        "  Pradhan  ", 
+                        "10.2", 
+                        "1", 
+                        "36", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Samantray (c)  ", 
+                        "9", 
+                        "2", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player5": [
+                        "  Dhiraj Singh  ", 
+                        "5", 
+                        "0", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "5.40"
+                    ]
+                }, 
+                "bowlTeam": "Odisha", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "50.2", 
+                    "runs": "148", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 21, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 274, 
+                        "teamScore": "137"
+                    }, 
+                    "player2": {
+                        "ballNo": 24, 
+                        "teamScore": "2"
+                    }, 
+                    "player3": {
+                        "ballNo": 68, 
+                        "teamScore": "11"
+                    }, 
+                    "player4": {
+                        "ballNo": 130, 
+                        "teamScore": "42"
+                    }, 
+                    "player5": {
+                        "ballNo": 167, 
+                        "teamScore": "56"
+                    }, 
+                    "player6": {
+                        "ballNo": 204, 
+                        "teamScore": "69"
+                    }, 
+                    "player7": {
+                        "ballNo": 236, 
+                        "teamScore": "122"
+                    }, 
+                    "player8": {
+                        "ballNo": 242, 
+                        "teamScore": "125"
+                    }, 
+                    "player9": {
+                        "ballNo": 270, 
+                        "teamScore": "137"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Santanu Mishra  ", 
+                        "  b TM Ul-Haq ", 
+                        "5", 
+                        "34", 
+                        "0", 
+                        "0", 
+                        "14.71"
+                    ], 
+                    "player10": [
+                        "  Dhiraj Singh  ", 
+                        " lbw b Aniket Choudhary ", 
+                        "4", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player11": [
+                        "  Rajesh Mohanty  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Ranjit Singh  ", 
+                        "  b TM Ul-Haq ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player3": [
+                        "  Roshan Kumar Rao (wk)  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Debasish Samantray  ", 
+                        " lbw b Aniket Choudhary ", 
+                        "21", 
+                        "56", 
+                        "2", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player5": [
+                        "  Subhranshu Senapati  ", 
+                        " c Salman Khan b Aniket Choudhary ", 
+                        "36", 
+                        "67", 
+                        "8", 
+                        "0", 
+                        "53.73"
+                    ], 
+                    "player6": [
+                        "  Biplab Samantray (c)  ", 
+                        " lbw b Aniket Choudhary ", 
+                        "0", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Abhishek Raut  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "8", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "26.67"
+                    ], 
+                    "player8": [
+                        "  Suryakant Pradhan  ", 
+                        " c A Gupta b Nathu Singh ", 
+                        "56", 
+                        "33", 
+                        "5", 
+                        "4", 
+                        "169.70"
+                    ], 
+                    "player9": [
+                        "  Basant Mohanty  ", 
+                        "  b Nathu Singh ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aniket Choudhary  ", 
+                        "20.2", 
+                        "6", 
+                        "25", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "14", 
+                        "6", 
+                        "39", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  Rahul Chahar  ", 
+                        "2", 
+                        "0", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "13.00"
+                    ], 
+                    "player4": [
+                        "  Nathu Singh  ", 
+                        "9", 
+                        "0", 
+                        "43", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "45.2", 
+                    "runs": "137", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-17T16:30:00", 
+                    "startDate": "2018-12-14T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 6", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Subham Nayak", 
+                            " Sandeep Pattnaik", 
+                            " Sujit Lenka", 
+                            " Anurag Sarangi", 
+                            " Debabrata Pradhan", 
+                            " Pappu Roy", 
+                            " Govinda Poddar", 
+                            " Rajesh Dhuper  "
+                        ], 
+                        "playing11": [
+                            " Santanu Mishra", 
+                            " Ranjit Singh", 
+                            " Debasish Samantray", 
+                            " Subhranshu Senapati", 
+                            " Biplab Samantray (c)", 
+                            " Abhishek Raut", 
+                            " Roshan Kumar Rao (wk)", 
+                            " Suryakant Pradhan", 
+                            " Rajesh Mohanty", 
+                            " Basant Mohanty", 
+                            " Dhiraj Singh  "
+                        ], 
+                        "teamName": "Odisha\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Rajesh Bishnoi Jr", 
+                            " Manender Narender Singh", 
+                            " Tajinder Singh", 
+                            " Deepak Chahar  "
+                        ], 
+                        "playing11": [
+                            " Amitkumar Gautam", 
+                            " Chetan Bist (wk)", 
+                            " Mahipal Lomror (c)", 
+                            " Robin Bist", 
+                            " Ashok Menaria", 
+                            " Salman Khan", 
+                            " Arjit Gupta", 
+                            " Rahul Chahar", 
+                            " Aniket Choudhary", 
+                            " Tanveer Ul-Haq", 
+                            " Nathu Singh  "
+                        ], 
+                        "teamName": "Rajasthan\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Odisha", 
+                    "team2": "Rajasthan"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Odisha"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sankinani Vishnuvardhan"
+                }, 
+                "venue": "KIIT Stadium, Bhubaneswar"
+            }
+        }
+    ]
+}

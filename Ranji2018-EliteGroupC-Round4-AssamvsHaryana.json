@@ -1,0 +1,716 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 104, 
+                        "teamScore": "45"
+                    }, 
+                    "player10": {
+                        "ballNo": 705, 
+                        "teamScore": "310"
+                    }, 
+                    "player2": {
+                        "ballNo": 240, 
+                        "teamScore": "86"
+                    }, 
+                    "player3": {
+                        "ballNo": 352, 
+                        "teamScore": "140"
+                    }, 
+                    "player4": {
+                        "ballNo": 370, 
+                        "teamScore": "143"
+                    }, 
+                    "player5": {
+                        "ballNo": 476, 
+                        "teamScore": "175"
+                    }, 
+                    "player6": {
+                        "ballNo": 484, 
+                        "teamScore": "180"
+                    }, 
+                    "player7": {
+                        "ballNo": 566, 
+                        "teamScore": "229"
+                    }, 
+                    "player8": {
+                        "ballNo": 606, 
+                        "teamScore": "247"
+                    }, 
+                    "player9": {
+                        "ballNo": 676, 
+                        "teamScore": "283"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Rishav Das  ", 
+                        " c Poonish Mehta b Harshal Patel ", 
+                        "25", 
+                        "53", 
+                        "4", 
+                        "0", 
+                        "47.17"
+                    ], 
+                    "player10": [
+                        "  Mukhtar Hussain  ", 
+                        " st N Saini b Tinu Kundu ", 
+                        "33", 
+                        "52", 
+                        "2", 
+                        "3", 
+                        "63.46"
+                    ], 
+                    "player11": [
+                        "  Rahul Singh  ", 
+                        " not out ", 
+                        "4", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player2": [
+                        "  Aziz  ", 
+                        "  b Jayant Yadav ", 
+                        "41", 
+                        "126", 
+                        "7", 
+                        "0", 
+                        "32.54"
+                    ], 
+                    "player3": [
+                        "  Sibsankar Roy  ", 
+                        " c Rohilla b Tinu Kundu ", 
+                        "49", 
+                        "121", 
+                        "9", 
+                        "0", 
+                        "40.50"
+                    ], 
+                    "player4": [
+                        "  G Sharma  ", 
+                        " c Poonish Mehta b Jayant Yadav ", 
+                        "96", 
+                        "229", 
+                        "14", 
+                        "0", 
+                        "41.92"
+                    ], 
+                    "player5": [
+                        "  K Saikia (wk)  ", 
+                        " c Chaitanya Bishnoi b Jayant Yadav ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player6": [
+                        "  A Sinha (c)  ", 
+                        " c Rohilla b A Hooda ", 
+                        "12", 
+                        "51", 
+                        "2", 
+                        "0", 
+                        "23.53"
+                    ], 
+                    "player7": [
+                        "  Rajjakuddin  ", 
+                        "  b Poonish Mehta ", 
+                        "5", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "83.33"
+                    ], 
+                    "player8": [
+                        "  Arup Das  ", 
+                        " c Rohilla b Poonish Mehta ", 
+                        "28", 
+                        "29", 
+                        "5", 
+                        "0", 
+                        "96.55"
+                    ], 
+                    "player9": [
+                        "  Ranjit Mali  ", 
+                        " c N Saini b Poonish Mehta ", 
+                        "6", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "27.27"
+                    ]
+                }, 
+                "batTeam": "Assam", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Harshal Patel (c)  ", 
+                        "26", 
+                        "5", 
+                        "77", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  A Hooda  ", 
+                        "23", 
+                        "8", 
+                        "69", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Poonish Mehta  ", 
+                        "21", 
+                        "5", 
+                        "51", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player4": [
+                        "  Jayant Yadav  ", 
+                        "24", 
+                        "9", 
+                        "63", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player5": [
+                        "  Chaitanya Bishnoi  ", 
+                        "2", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player6": [
+                        "  Tinu Kundu  ", 
+                        "21.3", 
+                        "7", 
+                        "37", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "6", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "117.3", 
+                    "runs": "310", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 15, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 164, 
+                        "teamScore": "97"
+                    }, 
+                    "player2": {
+                        "ballNo": 41, 
+                        "teamScore": "15"
+                    }, 
+                    "player3": {
+                        "ballNo": 47, 
+                        "teamScore": "15"
+                    }, 
+                    "player4": {
+                        "ballNo": 48, 
+                        "teamScore": "15"
+                    }, 
+                    "player5": {
+                        "ballNo": 53, 
+                        "teamScore": "22"
+                    }, 
+                    "player6": {
+                        "ballNo": 98, 
+                        "teamScore": "62"
+                    }, 
+                    "player7": {
+                        "ballNo": 117, 
+                        "teamScore": "69"
+                    }, 
+                    "player8": {
+                        "ballNo": 123, 
+                        "teamScore": "72"
+                    }, 
+                    "player9": {
+                        "ballNo": 162, 
+                        "teamScore": "97"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  N Saini (wk)  ", 
+                        " c Rajjakuddin b Ranjit Mali ", 
+                        "10", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "37.04"
+                    ], 
+                    "player10": [
+                        "  A Hooda  ", 
+                        " c K Saikia b Mukhtar Hussain ", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player11": [
+                        "  Tinu Kundu  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rohilla  ", 
+                        "  b Arup Das ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        "  b Arup Das ", 
+                        "4", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player4": [
+                        "  H Rana  ", 
+                        " c Rajjakuddin b Mukhtar Hussain ", 
+                        "21", 
+                        "31", 
+                        "3", 
+                        "0", 
+                        "67.74"
+                    ], 
+                    "player5": [
+                        "  Prashant Vashist  ", 
+                        "  b Ranjit Mali ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Pramod Chandila  ", 
+                        "  b Arup Das ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Jayant Yadav  ", 
+                        " c K Saikia b Arup Das ", 
+                        "30", 
+                        "25", 
+                        "4", 
+                        "0", 
+                        "120.00"
+                    ], 
+                    "player8": [
+                        "  Poonish Mehta  ", 
+                        " lbw b Arup Das ", 
+                        "2", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "13.33"
+                    ], 
+                    "player9": [
+                        "  Harshal Patel (c)  ", 
+                        " c Rajjakuddin b Ranjit Mali ", 
+                        "25", 
+                        "34", 
+                        "1", 
+                        "2", 
+                        "73.53"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Arup Das  ", 
+                        "12", 
+                        "1", 
+                        "52", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player2": [
+                        "  Ranjit Mali  ", 
+                        "10", 
+                        "3", 
+                        "25", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Mukhtar Hussain  ", 
+                        "5.2", 
+                        "0", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ]
+                }, 
+                "bowlTeam": "Assam", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "27.2", 
+                    "runs": "97", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "5"
+                    }, 
+                    "player10": {
+                        "ballNo": 312, 
+                        "teamScore": "178"
+                    }, 
+                    "player2": {
+                        "ballNo": 10, 
+                        "teamScore": "5"
+                    }, 
+                    "player3": {
+                        "ballNo": 12, 
+                        "teamScore": "9"
+                    }, 
+                    "player4": {
+                        "ballNo": 40, 
+                        "teamScore": "26"
+                    }, 
+                    "player5": {
+                        "ballNo": 41, 
+                        "teamScore": "26"
+                    }, 
+                    "player6": {
+                        "ballNo": 65, 
+                        "teamScore": "32"
+                    }, 
+                    "player7": {
+                        "ballNo": 89, 
+                        "teamScore": "40"
+                    }, 
+                    "player8": {
+                        "ballNo": 309, 
+                        "teamScore": "174"
+                    }, 
+                    "player9": {
+                        "ballNo": 310, 
+                        "teamScore": "174"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nitin Saini (wk)  ", 
+                        " c Rajjakuddin b Mukhtar Hussain ", 
+                        "4", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player10": [
+                        "  Ashish Hooda  ", 
+                        " c Sibsankar Roy b Mukhtar Hussain ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Tinu Kundu  ", 
+                        " c G Sharma b Mukhtar Hussain ", 
+                        "4", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "200.00"
+                    ], 
+                    "player2": [
+                        "  Harshal Patel (c)  ", 
+                        " c Mukhtar Hussain b Ranjit Mali ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        "  b Mukhtar Hussain ", 
+                        "78", 
+                        "165", 
+                        "9", 
+                        "0", 
+                        "47.27"
+                    ], 
+                    "player4": [
+                        "  Himanshu Rana  ", 
+                        " c K Saikia b Ranjit Mali ", 
+                        "4", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "200.00"
+                    ], 
+                    "player5": [
+                        "  Shubham Rohilla  ", 
+                        " c Rishav Das b Arup Das ", 
+                        "8", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player6": [
+                        "  Prashant Vashist  ", 
+                        " c K Saikia b Arup Das ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Pramod Chandila  ", 
+                        "  b Arup Das ", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player8": [
+                        "  Jayant Yadav  ", 
+                        " c K Saikia b Arup Das ", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Poonish Mehta  ", 
+                        " not out ", 
+                        "70", 
+                        "94", 
+                        "11", 
+                        "0", 
+                        "74.47"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Mukhtar Hussain  ", 
+                        "14", 
+                        "1", 
+                        "58", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player2": [
+                        "  Ranjit Mali  ", 
+                        "10.4", 
+                        "1", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.90"
+                    ], 
+                    "player3": [
+                        "  Rajjakuddin Ahmed  ", 
+                        "6.2", 
+                        "1", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player4": [
+                        "  Arup Das  ", 
+                        "16", 
+                        "3", 
+                        "37", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player5": [
+                        "  Rahul Singh  ", 
+                        "3", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player6": [
+                        "  Amit Sinha (c)  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player7": [
+                        "  Gokul Sharma  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Assam", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "2", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "52", 
+                    "runs": "178", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T15:30:00", 
+                    "startDate": "2018-11-28T08:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Romario Sharma", 
+                            " Jitumoni Kalita", 
+                            " Riyan Parag", 
+                            " Wasiqur Rahman", 
+                            " Pallavkumar Das", 
+                            " Mrinmoy Dutta  "
+                        ], 
+                        "playing11": [
+                            " Rishav Das", 
+                            " Parvez Aziz", 
+                            " Sibsankar Roy", 
+                            " Kunal Saikia (wk)", 
+                            " Amit Sinha (c)", 
+                            " Gokul Sharma", 
+                            " Arup Das", 
+                            " Ranjit Mali", 
+                            " Mukhtar Hussain", 
+                            " Rahul Singh", 
+                            " Rajjakuddin Ahmed  "
+                        ], 
+                        "teamName": "Assam\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Ajit Chahal", 
+                            " Rohit Parmod Sharma  "
+                        ], 
+                        "playing11": [
+                            " Nitin Saini (wk)", 
+                            " Shubham Rohilla", 
+                            " Chaitanya Bishnoi", 
+                            " Himanshu Rana", 
+                            " Prashant Vashist", 
+                            " Pramod Chandila", 
+                            " Jayant Yadav", 
+                            " Poonish Mehta", 
+                            " Tinu Kundu", 
+                            " Harshal Patel (c)", 
+                            " Ashish Hooda  "
+                        ], 
+                        "teamName": "Haryana\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Assam", 
+                    "team2": "Haryana"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Haryana"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Rajib Deb Burman"
+                }, 
+                "venue": "Barsapara Cricket Stadium, Guwahati"
+            }
+        }
+    ]
+}

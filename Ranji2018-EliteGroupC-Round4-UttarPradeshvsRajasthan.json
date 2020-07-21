@@ -1,0 +1,864 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 43, 
+                        "teamScore": "16"
+                    }, 
+                    "player10": {
+                        "ballNo": 676, 
+                        "teamScore": "311"
+                    }, 
+                    "player2": {
+                        "ballNo": 61, 
+                        "teamScore": "17"
+                    }, 
+                    "player3": {
+                        "ballNo": 485, 
+                        "teamScore": "214"
+                    }, 
+                    "player4": {
+                        "ballNo": 493, 
+                        "teamScore": "219"
+                    }, 
+                    "player5": {
+                        "ballNo": 495, 
+                        "teamScore": "219"
+                    }, 
+                    "player6": {
+                        "ballNo": 514, 
+                        "teamScore": "222"
+                    }, 
+                    "player7": {
+                        "ballNo": 519, 
+                        "teamScore": "222"
+                    }, 
+                    "player8": {
+                        "ballNo": 576, 
+                        "teamScore": "251"
+                    }, 
+                    "player9": {
+                        "ballNo": 657, 
+                        "teamScore": "290"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        "  b Rajpoot ", 
+                        "93", 
+                        "232", 
+                        "10", 
+                        "3", 
+                        "40.09"
+                    ], 
+                    "player10": [
+                        "  Rahul Chahar  ", 
+                        " not out ", 
+                        "32", 
+                        "56", 
+                        "5", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player11": [
+                        "  Nathu Singh  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "12", 
+                        "12", 
+                        "0", 
+                        "2", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " lbw b Yash Dayal ", 
+                        "13", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "46.43"
+                    ], 
+                    "player3": [
+                        "  Manender Singh  ", 
+                        "  b Rajpoot ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        "  b Shivam Chaudhary ", 
+                        "96", 
+                        "195", 
+                        "8", 
+                        "0", 
+                        "49.23"
+                    ], 
+                    "player5": [
+                        "  Lomror (c)  ", 
+                        "  b Rajpoot ", 
+                        "36", 
+                        "88", 
+                        "2", 
+                        "2", 
+                        "40.91"
+                    ], 
+                    "player6": [
+                        "  Rajesh Bishnoi Jr  ", 
+                        " c Upendra Yadav b Rajpoot ", 
+                        "3", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "27.27"
+                    ], 
+                    "player7": [
+                        "  Tajinder Singh  ", 
+                        " c Upendra Yadav b Rajpoot ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  TM Ul-Haq  ", 
+                        " lbw b Yash Dayal ", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Aniket Choudhary  ", 
+                        "  b Shivam Mavi ", 
+                        "16", 
+                        "34", 
+                        "3", 
+                        "0", 
+                        "47.06"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajpoot  ", 
+                        "25", 
+                        "5", 
+                        "61", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player2": [
+                        "  Yash Dayal  ", 
+                        "25", 
+                        "6", 
+                        "67", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Shivam Mavi  ", 
+                        "22", 
+                        "7", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player4": [
+                        "  Akshdeep Nath (c)  ", 
+                        "3", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player5": [
+                        "  Saurabh Kumar  ", 
+                        "25.4", 
+                        "9", 
+                        "69", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player6": [
+                        "  Shivam Chaudhary  ", 
+                        "9", 
+                        "2", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player7": [
+                        "  M Saif  ", 
+                        "3", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "8", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "112.4", 
+                    "runs": "311", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 371, 
+                        "teamScore": "214"
+                    }, 
+                    "player2": {
+                        "ballNo": 28, 
+                        "teamScore": "31"
+                    }, 
+                    "player3": {
+                        "ballNo": 50, 
+                        "teamScore": "35"
+                    }, 
+                    "player4": {
+                        "ballNo": 53, 
+                        "teamScore": "36"
+                    }, 
+                    "player5": {
+                        "ballNo": 153, 
+                        "teamScore": "102"
+                    }, 
+                    "player6": {
+                        "ballNo": 167, 
+                        "teamScore": "105"
+                    }, 
+                    "player7": {
+                        "ballNo": 202, 
+                        "teamScore": "117"
+                    }, 
+                    "player8": {
+                        "ballNo": 327, 
+                        "teamScore": "174"
+                    }, 
+                    "player9": {
+                        "ballNo": 328, 
+                        "teamScore": "174"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Shivam Chaudhary  ", 
+                        " lbw b Aniket Choudhary ", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player10": [
+                        "  Rajpoot  ", 
+                        "  b Nathu Singh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Yash Dayal  ", 
+                        " not out ", 
+                        "10", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "83.33"
+                    ], 
+                    "player2": [
+                        "  M Saif  ", 
+                        " c Amitkumar Gautam b Aniket Choudhary ", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Priyam Garg  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "29", 
+                        "20", 
+                        "4", 
+                        "0", 
+                        "145.00"
+                    ], 
+                    "player4": [
+                        "  Akshdeep Nath (c)  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "1", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "5.88"
+                    ], 
+                    "player5": [
+                        "  Raina  ", 
+                        "  b TM Ul-Haq ", 
+                        "33", 
+                        "57", 
+                        "6", 
+                        "0", 
+                        "57.89"
+                    ], 
+                    "player6": [
+                        "  Rinku Singh  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "31", 
+                        "54", 
+                        "3", 
+                        "0", 
+                        "57.41"
+                    ], 
+                    "player7": [
+                        "  Upendra Yadav (wk)  ", 
+                        " c Amitkumar Gautam b Aniket Choudhary ", 
+                        "67", 
+                        "127", 
+                        "8", 
+                        "1", 
+                        "52.76"
+                    ], 
+                    "player8": [
+                        "  Saurabh Kumar  ", 
+                        "  b TM Ul-Haq ", 
+                        "11", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "55.00"
+                    ], 
+                    "player9": [
+                        "  Shivam Mavi  ", 
+                        " c Chetan Bist b Nathu Singh ", 
+                        "21", 
+                        "50", 
+                        "2", 
+                        "0", 
+                        "42.00"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aniket Choudhary  ", 
+                        "20.5", 
+                        "2", 
+                        "64", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "19", 
+                        "4", 
+                        "55", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Nathu Singh  ", 
+                        "13", 
+                        "1", 
+                        "47", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "8", 
+                        "1", 
+                        "39", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.90"
+                    ], 
+                    "player5": [
+                        "  Tajinder Singh  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "3", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "61.5", 
+                    "runs": "214", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 14, 
+                        "teamScore": "10"
+                    }, 
+                    "player10": {
+                        "ballNo": 590, 
+                        "teamScore": "232"
+                    }, 
+                    "player2": {
+                        "ballNo": 73, 
+                        "teamScore": "34"
+                    }, 
+                    "player3": {
+                        "ballNo": 165, 
+                        "teamScore": "79"
+                    }, 
+                    "player4": {
+                        "ballNo": 280, 
+                        "teamScore": "128"
+                    }, 
+                    "player5": {
+                        "ballNo": 442, 
+                        "teamScore": "181"
+                    }, 
+                    "player6": {
+                        "ballNo": 447, 
+                        "teamScore": "181"
+                    }, 
+                    "player7": {
+                        "ballNo": 534, 
+                        "teamScore": "213"
+                    }, 
+                    "player8": {
+                        "ballNo": 553, 
+                        "teamScore": "220"
+                    }, 
+                    "player9": {
+                        "ballNo": 579, 
+                        "teamScore": "225"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        " c M Saif b Yash Dayal ", 
+                        "86", 
+                        "202", 
+                        "10", 
+                        "1", 
+                        "42.57"
+                    ], 
+                    "player10": [
+                        "  TM Ul-Haq  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "5", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "31.25"
+                    ], 
+                    "player11": [
+                        "  Nathu Singh  ", 
+                        " not out ", 
+                        "5", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "125.00"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        "  b Rajpoot ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Manender Singh  ", 
+                        "  b Rajpoot ", 
+                        "6", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "18.75"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        "  c and b Saurabh Kumar ", 
+                        "32", 
+                        "57", 
+                        "4", 
+                        "0", 
+                        "56.14"
+                    ], 
+                    "player5": [
+                        "  Lomror (c)  ", 
+                        " lbw b Shivam Chaudhary ", 
+                        "26", 
+                        "57", 
+                        "5", 
+                        "0", 
+                        "45.61"
+                    ], 
+                    "player6": [
+                        "  Rajesh Bishnoi Jr  ", 
+                        " c Shivam Chaudhary b Saurabh Kumar ", 
+                        "30", 
+                        "93", 
+                        "4", 
+                        "0", 
+                        "32.26"
+                    ], 
+                    "player7": [
+                        "  Tajinder Singh  ", 
+                        " c Upendra Yadav b Saurabh Kumar ", 
+                        "20", 
+                        "56", 
+                        "3", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player8": [
+                        "  Rahul Chahar  ", 
+                        " c Upendra Yadav b Saurabh Kumar ", 
+                        "18", 
+                        "44", 
+                        "2", 
+                        "0", 
+                        "40.91"
+                    ], 
+                    "player9": [
+                        "  Aniket Choudhary  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "3", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "12.00"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajpoot  ", 
+                        "22", 
+                        "7", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player2": [
+                        "  Yash Dayal  ", 
+                        "20", 
+                        "2", 
+                        "50", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Shivam Mavi  ", 
+                        "5", 
+                        "0", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player4": [
+                        "  Shivam Chaudhary  ", 
+                        "10", 
+                        "3", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player5": [
+                        "  Saurabh Kumar  ", 
+                        "34.2", 
+                        "9", 
+                        "77", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player6": [
+                        "  Akshdeep Nath (c)  ", 
+                        "3", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player7": [
+                        "  M Saif  ", 
+                        "4", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "98.2", 
+                    "runs": "232", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 163, 
+                        "teamScore": "85"
+                    }, 
+                    "player2": {
+                        "ballNo": 216, 
+                        "teamScore": "116"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Shivam Chaudhary  ", 
+                        "  b Tajinder Singh ", 
+                        "36", 
+                        "76", 
+                        "3", 
+                        "0", 
+                        "47.37"
+                    ], 
+                    "player2": [
+                        "  Mohammad Saif  ", 
+                        " run out (Rahul Chahar)  ", 
+                        "58", 
+                        "113", 
+                        "6", 
+                        "0", 
+                        "51.33"
+                    ], 
+                    "player3": [
+                        "  Priyam Garg  ", 
+                        " not out ", 
+                        "14", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "51.85"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aniket Choudhary  ", 
+                        "5", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "6", 
+                        "1", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  Rahul Chahar  ", 
+                        "13", 
+                        "1", 
+                        "42", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Nathu Singh  ", 
+                        "5", 
+                        "2", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Tajinder Singh  ", 
+                        "6", 
+                        "2", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player6": [
+                        "  Mahipal Lomror (c)  ", 
+                        "1", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "36", 
+                    "runs": "116", 
+                    "wickets": "2"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Madhav Kaushik", 
+                            " Samarth Singh", 
+                            " Zeeshan Ansari", 
+                            " Umang Sharma", 
+                            " Dhruv Pratap Singh", 
+                            " Almas Shaukat  "
+                        ], 
+                        "playing11": [
+                            " Mohammad Saif", 
+                            " Shivam Chaudhary", 
+                            " Priyam Garg", 
+                            " Akshdeep Nath (c)", 
+                            " Suresh Raina", 
+                            " Rinku Singh", 
+                            " Shivam Mavi", 
+                            " Ankit Rajpoot", 
+                            " Saurabh Kumar", 
+                            " Upendra Yadav (wk)", 
+                            " Yash Dayal  "
+                        ], 
+                        "teamName": "Uttar Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Ashok Menaria", 
+                            " Arjit Gupta", 
+                            " Salman Khan  "
+                        ], 
+                        "playing11": [
+                            " Amitkumar Gautam", 
+                            " Chetan Bist (wk)", 
+                            " Mahipal Lomror (c)", 
+                            " Robin Bist", 
+                            " Rajesh Bishnoi Jr", 
+                            " Tajinder Singh", 
+                            " Tanveer Ul-Haq", 
+                            " Manender Narender Singh", 
+                            " Aniket Choudhary", 
+                            " Rahul Chahar", 
+                            " Nathu Singh  "
+                        ], 
+                        "teamName": "Rajasthan\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Uttar Pradesh", 
+                    "team2": "Rajasthan"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Uttar"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Shakti Singh"
+                }, 
+                "venue": "Green Park, Kanpur"
+            }
+        }
+    ]
+}

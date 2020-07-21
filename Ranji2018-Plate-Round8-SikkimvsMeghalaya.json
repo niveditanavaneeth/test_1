@@ -1,0 +1,680 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 35, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 378, 
+                        "teamScore": "219"
+                    }, 
+                    "player2": {
+                        "ballNo": 61, 
+                        "teamScore": "25"
+                    }, 
+                    "player3": {
+                        "ballNo": 85, 
+                        "teamScore": "26"
+                    }, 
+                    "player4": {
+                        "ballNo": 114, 
+                        "teamScore": "43"
+                    }, 
+                    "player5": {
+                        "ballNo": 158, 
+                        "teamScore": "81"
+                    }, 
+                    "player6": {
+                        "ballNo": 230, 
+                        "teamScore": "148"
+                    }, 
+                    "player7": {
+                        "ballNo": 315, 
+                        "teamScore": "192"
+                    }, 
+                    "player8": {
+                        "ballNo": 362, 
+                        "teamScore": "204"
+                    }, 
+                    "player9": {
+                        "ballNo": 369, 
+                        "teamScore": "211"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bibek Dayali (wk)  ", 
+                        " c Jason Lamare b Chengkam Sangma ", 
+                        "14", 
+                        "45", 
+                        "3", 
+                        "0", 
+                        "31.11"
+                    ], 
+                    "player10": [
+                        "  Ishwar Chaudhary  ", 
+                        "  b Gurinder Singh ", 
+                        "7", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player11": [
+                        "  Karma Rinzing  ", 
+                        " run out (Gurinder Singh)  ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        "  b Dippu Sangma ", 
+                        "1", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "6.25"
+                    ], 
+                    "player3": [
+                        "  Asish Thapa  ", 
+                        " c Gurinder Singh b Mark Ingty ", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player4": [
+                        "  Tshering Bhutia  ", 
+                        " lbw b Gurinder Singh ", 
+                        "2", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ], 
+                    "player5": [
+                        "  Milind Kumar  ", 
+                        " c Puneet Bisht b Raj Biswa ", 
+                        "117", 
+                        "129", 
+                        "19", 
+                        "0", 
+                        "90.70"
+                    ], 
+                    "player6": [
+                        "  Karma Bhutia  ", 
+                        "  b Gurinder Singh ", 
+                        "12", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player7": [
+                        "  Bipul Sharma  ", 
+                        " run out (Nagar)  ", 
+                        "27", 
+                        "39", 
+                        "4", 
+                        "0", 
+                        "69.23"
+                    ], 
+                    "player8": [
+                        "  Jahan Uddin  ", 
+                        " not out ", 
+                        "20", 
+                        "59", 
+                        "4", 
+                        "0", 
+                        "33.90"
+                    ], 
+                    "player9": [
+                        "  Lee Yong Lepcha  ", 
+                        " lbw b Aditya Singhania ", 
+                        "5", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "21.74"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Abhay Negi  ", 
+                        "10", 
+                        "2", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player2": [
+                        "  Chengkam Sangma  ", 
+                        "4", 
+                        "1", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Dippu Sangma  ", 
+                        "9", 
+                        "3", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player4": [
+                        "  Mark Ingty  ", 
+                        "5", 
+                        "2", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Gurinder Singh  ", 
+                        "22", 
+                        "7", 
+                        "71", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player6": [
+                        "  Aditya Singhania  ", 
+                        "9", 
+                        "1", 
+                        "39", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player7": [
+                        "  Raj Biswa  ", 
+                        "4", 
+                        "0", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ]
+                }, 
+                "bowlTeam": "Sikkim", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "8", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "63", 
+                    "runs": "219", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 23, 
+                        "teamScore": "12"
+                    }, 
+                    "player2": {
+                        "ballNo": 88, 
+                        "teamScore": "51"
+                    }, 
+                    "player3": {
+                        "ballNo": 628, 
+                        "teamScore": "484"
+                    }, 
+                    "player4": {
+                        "ballNo": 787, 
+                        "teamScore": "645"
+                    }, 
+                    "player5": {
+                        "ballNo": 965, 
+                        "teamScore": "795"
+                    }, 
+                    "player6": {
+                        "ballNo": 977, 
+                        "teamScore": "797"
+                    }, 
+                    "player7": {
+                        "ballNo": 980, 
+                        "teamScore": "799"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Raj Biswa  ", 
+                        " lbw b Milind Kumar ", 
+                        "175", 
+                        "321", 
+                        "25", 
+                        "0", 
+                        "54.52"
+                    ], 
+                    "player2": [
+                        "  Laxman Chettri  ", 
+                        " c Bibek Dayali b Karma Rinzing ", 
+                        "8", 
+                        "11", 
+                        "2", 
+                        "0", 
+                        "72.73"
+                    ], 
+                    "player3": [
+                        "  Jason Lamare (c)  ", 
+                        " lbw b Milind Kumar ", 
+                        "12", 
+                        "40", 
+                        "2", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player4": [
+                        "  Puneet Bisht (wk)  ", 
+                        " c Nilesh Lamichaney b Lee Yong Lepcha ", 
+                        "343", 
+                        "332", 
+                        "53", 
+                        "1", 
+                        "103.31"
+                    ], 
+                    "player5": [
+                        "  Nagar  ", 
+                        " st Bibek Dayali b Lee Yong Lepcha ", 
+                        "148", 
+                        "184", 
+                        "19", 
+                        "0", 
+                        "80.43"
+                    ], 
+                    "player6": [
+                        "  Gurinder Singh  ", 
+                        " not out ", 
+                        "101", 
+                        "135", 
+                        "7", 
+                        "2", 
+                        "74.81"
+                    ], 
+                    "player7": [
+                        "  Abhay Negi  ", 
+                        " run out (Milind Kumar)  ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Mark Ingty  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Aditya Singhania  ", 
+                        " not out ", 
+                        "2", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ]
+                }, 
+                "batTeam": "MGLY", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "39.4", 
+                        "6", 
+                        "202", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.10"
+                    ], 
+                    "player2": [
+                        "  Karma Rinzing  ", 
+                        "11", 
+                        "2", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player3": [
+                        "  Milind Kumar  ", 
+                        "49", 
+                        "5", 
+                        "180", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player4": [
+                        "  Bipul Sharma  ", 
+                        "43", 
+                        "2", 
+                        "185", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player5": [
+                        "  Lee Yong Lepcha  ", 
+                        "26", 
+                        "0", 
+                        "157", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player6": [
+                        "  Asish Thapa  ", 
+                        "2", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.50"
+                    ], 
+                    "player7": [
+                        "  Tshering Bhutia  ", 
+                        "1", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ]
+                }, 
+                "bowlTeam": "Sikkim", 
+                "extras": {
+                    "b": "16", 
+                    "lb": "12", 
+                    "nb": "9", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "171.4", 
+                    "runs": "826", 
+                    "wickets": "7"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 19, 
+                        "teamScore": "7"
+                    }, 
+                    "player2": {
+                        "ballNo": 149, 
+                        "teamScore": "59"
+                    }, 
+                    "player3": {
+                        "ballNo": 420, 
+                        "teamScore": "141"
+                    }, 
+                    "player4": {
+                        "ballNo": 451, 
+                        "teamScore": "162"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Tshering Bhutia  ", 
+                        " lbw b Gurinder Singh ", 
+                        "6", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player2": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " c (sub)Wanlambok Nongkhlaw b Gurinder Singh ", 
+                        "70", 
+                        "241", 
+                        "11", 
+                        "0", 
+                        "29.05"
+                    ], 
+                    "player3": [
+                        "  Jahan Uddin  ", 
+                        " c Jason Lamare b Aditya Singhania ", 
+                        "11", 
+                        "60", 
+                        "2", 
+                        "0", 
+                        "18.33"
+                    ], 
+                    "player4": [
+                        "  Asish Thapa  ", 
+                        " c (sub)Wanlambok Nongkhlaw b Gurinder Singh ", 
+                        "43", 
+                        "127", 
+                        "8", 
+                        "0", 
+                        "33.86"
+                    ], 
+                    "player5": [
+                        "  Milind Kumar  ", 
+                        " not out ", 
+                        "127", 
+                        "121", 
+                        "20", 
+                        "1", 
+                        "104.96"
+                    ], 
+                    "player6": [
+                        "  Karma Bhutia  ", 
+                        " not out ", 
+                        "14", 
+                        "89", 
+                        "2", 
+                        "0", 
+                        "15.73"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Abhay Negi  ", 
+                        "17", 
+                        "2", 
+                        "58", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  Gurinder Singh  ", 
+                        "35", 
+                        "12", 
+                        "84", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player3": [
+                        "  Chengkam Sangma  ", 
+                        "10", 
+                        "1", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player4": [
+                        "  Mark Ingty  ", 
+                        "12", 
+                        "2", 
+                        "41", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player5": [
+                        "  Aditya Singhania  ", 
+                        "20", 
+                        "11", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player6": [
+                        "  Raj Biswa  ", 
+                        "13", 
+                        "6", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player7": [
+                        "  Jason Lamare (c)  ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "bowlTeam": "Sikkim", 
+                "extras": {
+                    "b": "29", 
+                    "lb": "2", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "108", 
+                    "runs": "304", 
+                    "wickets": "4"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-02T16:00:00", 
+                    "startDate": "2018-12-30T09:00:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Faizan Khan", 
+                            " Bijay Subba", 
+                            " Padam limboo", 
+                            " Amos Rai", 
+                            " Plazor Tamang", 
+                            " Bhusan Subba", 
+                            " Binod Gupta", 
+                            " Ajay Shrestha", 
+                            " Chitiz Tamang", 
+                            " Pritam Nirala", 
+                            " Mandup Bhutia", 
+                            " Dinesh Rai  "
+                        ], 
+                        "playing11": [
+                            " Nilesh Lamichaney (c)", 
+                            " Bibek Diyali (wk)", 
+                            " Ashish Thapa", 
+                            " Jahan Uddin", 
+                            " Lee Yong Lepcha", 
+                            " Karma Bhutia", 
+                            " Bipul Sharma", 
+                            " Milind Kumar", 
+                            " Ishwar Chaudhary", 
+                            " Karma Rinzing", 
+                            " Tshering Bhutia  "
+                        ], 
+                        "teamName": "Sikkim\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Lakhan Singh", 
+                            " Sylvester Mylliempdah", 
+                            " Wanlambok Nongkhlaw", 
+                            " Babloo Passah", 
+                            " Lakhan Singh", 
+                            " Amiangshu Sen", 
+                            " Tarique Siddique", 
+                            " Swarajeet Das", 
+                            " Bijon Dey  "
+                        ], 
+                        "playing11": [
+                            " Raj Biswa", 
+                            " Laxman Chettri", 
+                            " Jason Lamare (c)", 
+                            " Puneet Bisht (wk)", 
+                            " Yogesh Nagar", 
+                            " Gurinder Singh", 
+                            " Abhay Negi", 
+                            " Mark Ingty", 
+                            " Chengkam Sangma", 
+                            " Aditya Singhania", 
+                            " Dippu Sangma  "
+                        ], 
+                        "teamName": "Meghalaya\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Sikkim", 
+                    "team2": "Meghalaya"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Meghalaya"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Rajib Deb Burman"
+                }, 
+                "venue": "KIIT Stadium, Bhubaneswar"
+            }
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 36, 
+                        "teamScore": "13"
+                    }, 
+                    "player2": {
+                        "ballNo": 130, 
+                        "teamScore": "54"
+                    }, 
+                    "player3": {
+                        "ballNo": 302, 
+                        "teamScore": "113"
+                    }, 
+                    "player4": {
+                        "ballNo": 732, 
+                        "teamScore": "359"
+                    }, 
+                    "player5": {
+                        "ballNo": 778, 
+                        "teamScore": "375"
+                    }, 
+                    "player6": {
+                        "ballNo": 810, 
+                        "teamScore": "397"
+                    }, 
+                    "player7": {
+                        "ballNo": 1036, 
+                        "teamScore": "506"
+                    }, 
+                    "player8": {
+                        "ballNo": 1089, 
+                        "teamScore": "538"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Tanmay Agarwal  ", 
+                        " c N Jagadeesan b M Mohammed ", 
+                        "10", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player10": [
+                        "  M Hasan  ", 
+                        " not out ", 
+                        "14", 
+                        "15", 
+                        "0", 
+                        "1", 
+                        "93.33"
+                    ], 
+                    "player2": [
+                        "  Akshath Reddy (c)  ", 
+                        " c Mukund b M Mohammed ", 
+                        "250", 
+                        "480", 
+                        "22", 
+                        "3", 
+                        "52.08"
+                    ], 
+                    "player3": [
+                        "  Rohit Rayudu  ", 
+                        " c Balchander Anirudh b Rahil ", 
+                        "13", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "24.07"
+                    ], 
+                    "player4": [
+                        "  Himalay Agarwal  ", 
+                        " c N Jagadeesan b K Vignesh ", 
+                        "29", 
+                        "93", 
+                        "2", 
+                        "0", 
+                        "31.18"
+                    ], 
+                    "player5": [
+                        "  Sandeep  ", 
+                        " c Aparajith b M Mohammed ", 
+                        "130", 
+                        "221", 
+                        "15", 
+                        "1", 
+                        "58.82"
+                    ], 
+                    "player6": [
+                        "  Sumanth (wk)  ", 
+                        " c N Jagadeesan b K Vignesh ", 
+                        "5", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "17.86"
+                    ], 
+                    "player7": [
+                        "  A Bhandari  ", 
+                        "  b Varun Chakravathi ", 
+                        "17", 
+                        "23", 
+                        "4", 
+                        "0", 
+                        "73.91"
+                    ], 
+                    "player8": [
+                        "  Saaketh Sairam  ", 
+                        " c N Jagadeesan b Rahil ", 
+                        "42", 
+                        "132", 
+                        "4", 
+                        "0", 
+                        "31.82"
+                    ], 
+                    "player9": [
+                        "  Milind  ", 
+                        " not out ", 
+                        "33", 
+                        "53", 
+                        "3", 
+                        "1", 
+                        "62.26"
+                    ]
+                }, 
+                "batTeam": "Hyderabad", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  K Vignesh  ", 
+                        "30", 
+                        "1", 
+                        "102", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  M Mohammed  ", 
+                        "31", 
+                        "5", 
+                        "102", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Varun Chakravathi  ", 
+                        "39", 
+                        "8", 
+                        "105", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player4": [
+                        "  Rahil  ", 
+                        "43", 
+                        "8", 
+                        "109", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player5": [
+                        "  Aparajith  ", 
+                        "15", 
+                        "1", 
+                        "53", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player6": [
+                        "  J Kousik  ", 
+                        "17", 
+                        "3", 
+                        "50", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player7": [
+                        "  Kaushik Gandhi  ", 
+                        "9", 
+                        "0", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player8": [
+                        "  Balchander Anirudh  ", 
+                        "2", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "2", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "11"
+                }, 
+                "total": {
+                    "overs": "186", 
+                    "runs": "565", 
+                    "wickets": "8"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 234, 
+                        "teamScore": "80"
+                    }, 
+                    "player2": {
+                        "ballNo": 269, 
+                        "teamScore": "94"
+                    }, 
+                    "player3": {
+                        "ballNo": 508, 
+                        "teamScore": "178"
+                    }, 
+                    "player4": {
+                        "ballNo": 801, 
+                        "teamScore": "439"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kaushik Gandhi  ", 
+                        "  b Milind ", 
+                        "21", 
+                        "117", 
+                        "1", 
+                        "0", 
+                        "17.95"
+                    ], 
+                    "player2": [
+                        "  Abhinav Mukund  ", 
+                        " c Tanmay Agarwal b A Bhandari ", 
+                        "178", 
+                        "398", 
+                        "25", 
+                        "0", 
+                        "44.72"
+                    ], 
+                    "player3": [
+                        "  Baba Aparajith  ", 
+                        "  c and b Milind ", 
+                        "4", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player4": [
+                        "  Baba Indrajith (c)  ", 
+                        " c Sumanth b Ravi Kiran ", 
+                        "33", 
+                        "125", 
+                        "4", 
+                        "0", 
+                        "26.40"
+                    ], 
+                    "player5": [
+                        "  N Jagadeesan (wk)  ", 
+                        " not out ", 
+                        "131", 
+                        "201", 
+                        "16", 
+                        "3", 
+                        "65.17"
+                    ], 
+                    "player6": [
+                        "  Balchander Anirudh  ", 
+                        " not out ", 
+                        "21", 
+                        "70", 
+                        "2", 
+                        "0", 
+                        "30.00"
+                    ]
+                }, 
+                "batTeam": "TN", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ravi Kiran  ", 
+                        "23", 
+                        "4", 
+                        "57", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  Chama V Milind  ", 
+                        "21", 
+                        "6", 
+                        "46", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  Mehdi Hasan  ", 
+                        "38", 
+                        "11", 
+                        "76", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player4": [
+                        "  Akash Bhandari  ", 
+                        "34", 
+                        "8", 
+                        "131", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player5": [
+                        "  Saaketh Sairam  ", 
+                        "28", 
+                        "3", 
+                        "63", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player6": [
+                        "  Bavanaka Sandeep  ", 
+                        "4", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player7": [
+                        "  Tanmay Agarwal  ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Rohit Rayudu  ", 
+                        "5", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "15", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "154", 
+                    "runs": "409", 
+                    "wickets": "4"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T16:30:00", 
+                    "startDate": "2018-11-12T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Washington Sundar", 
+                            " Ravisrinivasan Sai Kishore", 
+                            " Rohit Raj", 
+                            " Abhishek Tanwar", 
+                            " Shahrukh Khan  "
+                        ], 
+                        "playing11": [
+                            " Abhinav Mukund", 
+                            " Kaushik Gandhi", 
+                            " Balchander Anirudh", 
+                            " Baba Indrajith (c)", 
+                            " Baba Aparajith", 
+                            " N Jagadeesan (wk)", 
+                            " Varun Chakravarthy", 
+                            " Rahil Shah", 
+                            " Jagatheesan Kousik", 
+                            " M Mohammed", 
+                            " Krishnamoorthy Vignesh  "
+                        ], 
+                        "teamName": "Tamil Nadu\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Ajay Dev Goud", 
+                            " Tanay Thyagarajan", 
+                            " Mohammed Siraj", 
+                            " Palakodeti Sairam", 
+                            " PS Chaitanya Reddy", 
+                            " Telukupalli Ravi Teja  "
+                        ], 
+                        "playing11": [
+                            " Tanmay Agarwal", 
+                            " Akshath Reddy (c)", 
+                            " Rohit Rayudu", 
+                            " Himalay Agarwal", 
+                            " Bavanaka Sandeep", 
+                            " Akash Bhandari", 
+                            " Kolla Sumanth (wk)", 
+                            " Chama V Milind", 
+                            " Mehdi Hassan", 
+                            " Saaketh Sairam", 
+                            " Ravi Kiran  "
+                        ], 
+                        "teamName": "Hyderabad\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Tamil Nadu", 
+                    "team2": "Hyderabad"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Hyderabad"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Valmik Nalinkant Buch"
+                }, 
+                "venue": "Indian Cement Company Ground, Tirunelveli"
+            }
+        }
+    ]
+}

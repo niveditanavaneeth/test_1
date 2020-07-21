@@ -1,0 +1,652 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 3, 
+                        "teamScore": "0"
+                    }, 
+                    "player2": {
+                        "ballNo": 23, 
+                        "teamScore": "9"
+                    }, 
+                    "player3": {
+                        "ballNo": 41, 
+                        "teamScore": "21"
+                    }, 
+                    "player4": {
+                        "ballNo": 446, 
+                        "teamScore": "228"
+                    }, 
+                    "player5": {
+                        "ballNo": 796, 
+                        "teamScore": "483"
+                    }, 
+                    "player6": {
+                        "ballNo": 806, 
+                        "teamScore": "484"
+                    }, 
+                    "player7": {
+                        "ballNo": 861, 
+                        "teamScore": "519"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samarth Singh  ", 
+                        "  b Saurabh Das ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Shivam Chaudhary  ", 
+                        " c Smit Patel b Saurabh Das ", 
+                        "10", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player3": [
+                        "  UA Sharma  ", 
+                        "  b Rana Dutta ", 
+                        "7", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "77.78"
+                    ], 
+                    "player4": [
+                        "  Akshdeep Nath (c)  ", 
+                        " lbw b Rana Dutta ", 
+                        "106", 
+                        "216", 
+                        "12", 
+                        "2", 
+                        "49.07"
+                    ], 
+                    "player5": [
+                        "  Priyam Garg  ", 
+                        " c Smit Patel b Saurabh Das ", 
+                        "206", 
+                        "371", 
+                        "23", 
+                        "1", 
+                        "55.53"
+                    ], 
+                    "player6": [
+                        "  Rinku Singh  ", 
+                        " c Smit Patel b Saurabh Das ", 
+                        "149", 
+                        "181", 
+                        "17", 
+                        "1", 
+                        "82.32"
+                    ], 
+                    "player7": [
+                        "  Upendra Yadav (wk)  ", 
+                        " not out ", 
+                        "25", 
+                        "48", 
+                        "3", 
+                        "0", 
+                        "52.08"
+                    ], 
+                    "player8": [
+                        "  Saurabh Kumar  ", 
+                        " lbw b Nirupam Sen ", 
+                        "27", 
+                        "27", 
+                        "4", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player9": [
+                        "  Zeeshan Ansari  ", 
+                        " not out ", 
+                        "17", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "85.00"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Saurabh Das  ", 
+                        "37.4", 
+                        "3", 
+                        "164", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player2": [
+                        "  M Murasingh  ", 
+                        "0.2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Rana Dutta  ", 
+                        "31", 
+                        "7", 
+                        "79", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Harmeet Singh  ", 
+                        "47.1", 
+                        "10", 
+                        "132", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  R Saha  ", 
+                        "17", 
+                        "2", 
+                        "83", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.90"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        "9", 
+                        "0", 
+                        "64", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.10"
+                    ], 
+                    "player7": [
+                        "  Nirupam Sen  ", 
+                        "6.5", 
+                        "1", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "149", 
+                    "runs": "552", 
+                    "wickets": "7"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 29, 
+                        "teamScore": "16"
+                    }, 
+                    "player2": {
+                        "ballNo": 36, 
+                        "teamScore": "16"
+                    }, 
+                    "player3": {
+                        "ballNo": 38, 
+                        "teamScore": "16"
+                    }, 
+                    "player4": {
+                        "ballNo": 66, 
+                        "teamScore": "32"
+                    }, 
+                    "player5": {
+                        "ballNo": 214, 
+                        "teamScore": "95"
+                    }, 
+                    "player6": {
+                        "ballNo": 222, 
+                        "teamScore": "95"
+                    }, 
+                    "player7": {
+                        "ballNo": 239, 
+                        "teamScore": "101"
+                    }, 
+                    "player8": {
+                        "ballNo": 246, 
+                        "teamScore": "102"
+                    }, 
+                    "player9": {
+                        "ballNo": 264, 
+                        "teamScore": "108"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh  ", 
+                        " lbw b I Ahmed ", 
+                        "7", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "29.17"
+                    ], 
+                    "player10": [
+                        "  Saurabh Das  ", 
+                        " not out ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  M Murasingh  ", 
+                        " abs hurt ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rajesh Banik  ", 
+                        " run out (Zeeshan Ansari)  ", 
+                        "9", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "81.82"
+                    ], 
+                    "player3": [
+                        "  BR Shetty  ", 
+                        "  b Rajpoot ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Smit Patel (c) (wk)  ", 
+                        " st Upendra Yadav b Saurabh Kumar ", 
+                        "47", 
+                        "96", 
+                        "7", 
+                        "0", 
+                        "48.96"
+                    ], 
+                    "player5": [
+                        "  Pratyush Singh  ", 
+                        " c Upendra Yadav b Rajpoot ", 
+                        "10", 
+                        "11", 
+                        "2", 
+                        "0", 
+                        "90.91"
+                    ], 
+                    "player6": [
+                        "  Nirupam Sen  ", 
+                        " lbw b Zeeshan Ansari ", 
+                        "20", 
+                        "77", 
+                        "1", 
+                        "0", 
+                        "25.97"
+                    ], 
+                    "player7": [
+                        "  R Saha  ", 
+                        "  b Zeeshan Ansari ", 
+                        "2", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "13.33"
+                    ], 
+                    "player8": [
+                        "  Harmeet Singh  ", 
+                        " c Upendra Yadav b Zeeshan Ansari ", 
+                        "10", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player9": [
+                        "  Rana Dutta  ", 
+                        "  c and b Saurabh Kumar ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajpoot  ", 
+                        "14", 
+                        "2", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  I Ahmed  ", 
+                        "13", 
+                        "6", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player3": [
+                        "  Saurabh Kumar  ", 
+                        "8", 
+                        "3", 
+                        "9", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.10"
+                    ], 
+                    "player4": [
+                        "  Zeeshan Ansari  ", 
+                        "8", 
+                        "0", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player5": [
+                        "  Shivam Chaudhary  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "44", 
+                    "runs": "108", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 10, 
+                        "teamScore": "4"
+                    }, 
+                    "player2": {
+                        "ballNo": 23, 
+                        "teamScore": "6"
+                    }, 
+                    "player3": {
+                        "ballNo": 48, 
+                        "teamScore": "21"
+                    }, 
+                    "player4": {
+                        "ballNo": 49, 
+                        "teamScore": "21"
+                    }, 
+                    "player5": {
+                        "ballNo": 75, 
+                        "teamScore": "28"
+                    }, 
+                    "player6": {
+                        "ballNo": 76, 
+                        "teamScore": "28"
+                    }, 
+                    "player7": {
+                        "ballNo": 100, 
+                        "teamScore": "31"
+                    }, 
+                    "player8": {
+                        "ballNo": 133, 
+                        "teamScore": "54"
+                    }, 
+                    "player9": {
+                        "ballNo": 150, 
+                        "teamScore": "60"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh  ", 
+                        " c Upendra Yadav b I Ahmed ", 
+                        "4", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "17.39"
+                    ], 
+                    "player10": [
+                        "  Saurabh Das  ", 
+                        " c Upendra Yadav b Rajpoot ", 
+                        "1", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "8.33"
+                    ], 
+                    "player11": [
+                        "  Manisankar Murasingh  ", 
+                        " abs hurt ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rajesh Banik  ", 
+                        " c Upendra Yadav b I Ahmed ", 
+                        "4", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player3": [
+                        "  Nirupam Sen  ", 
+                        " c Upendra Yadav b I Ahmed ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player4": [
+                        "  Smit Patel (c) (wk)  ", 
+                        "  b Rajpoot ", 
+                        "7", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "58.33"
+                    ], 
+                    "player5": [
+                        "  Pratyush Singh  ", 
+                        " c Shivam Chaudhary b Rajpoot ", 
+                        "3", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "21.43"
+                    ], 
+                    "player6": [
+                        "  Bravish Shetty  ", 
+                        " c Shivam Chaudhary b Rajpoot ", 
+                        "7", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player7": [
+                        "  Harmeet Singh  ", 
+                        "  b Rajpoot ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Rajib Saha  ", 
+                        " c Upendra Yadav b Rajpoot ", 
+                        "5", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "20.83"
+                    ], 
+                    "player9": [
+                        "  Rana Dutta  ", 
+                        " not out ", 
+                        "22", 
+                        "29", 
+                        "4", 
+                        "0", 
+                        "75.86"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ankit Rajpoot  ", 
+                        "13", 
+                        "6", 
+                        "25", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player2": [
+                        "  Imtiaz Ahmed  ", 
+                        "12", 
+                        "3", 
+                        "30", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "25", 
+                    "runs": "60", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-25T16:30:00", 
+                    "startDate": "2018-12-22T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 7", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Mohammad Saif  "
+                        ], 
+                        "playing11": [
+                            " Samarth Singh", 
+                            " Zeeshan Ansari", 
+                            " Shivam Chaudhary", 
+                            " Priyam Garg", 
+                            " Akshdeep Nath (c)", 
+                            " Rinku Singh", 
+                            " Upendra Yadav (wk)", 
+                            " Saurabh Kumar", 
+                            " Imtiaz Ahmed", 
+                            " Umang Sharma", 
+                            " Ankit Rajpoot  "
+                        ], 
+                        "teamName": "Uttar Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Samrat Singha  "
+                        ], 
+                        "playing11": [
+                            " Bishal Ghosh", 
+                            " Rana Dutta", 
+                            " Manisankar Murasingh", 
+                            " Nirupam Sen", 
+                            " Rajib Saha", 
+                            " Smit Patel (c & wk)", 
+                            " Bravish Shetty", 
+                            " Rajesh Banik", 
+                            " Pratyush Singh", 
+                            " Saurabh Das", 
+                            " Harmeet Singh  "
+                        ], 
+                        "teamName": "Tripura\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Uttar Pradesh", 
+                    "team2": "Tripura"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Uttar"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Madhusudhan Reddy"
+                }, 
+                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+            }
+        }
+    ]
+}

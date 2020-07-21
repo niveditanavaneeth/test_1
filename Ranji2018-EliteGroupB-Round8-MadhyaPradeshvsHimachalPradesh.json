@@ -1,0 +1,945 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 22, 
+                        "teamScore": "6"
+                    }, 
+                    "player10": {
+                        "ballNo": 591, 
+                        "teamScore": "265"
+                    }, 
+                    "player2": {
+                        "ballNo": 94, 
+                        "teamScore": "39"
+                    }, 
+                    "player3": {
+                        "ballNo": 240, 
+                        "teamScore": "106"
+                    }, 
+                    "player4": {
+                        "ballNo": 375, 
+                        "teamScore": "169"
+                    }, 
+                    "player5": {
+                        "ballNo": 399, 
+                        "teamScore": "174"
+                    }, 
+                    "player6": {
+                        "ballNo": 546, 
+                        "teamScore": "239"
+                    }, 
+                    "player7": {
+                        "ballNo": 562, 
+                        "teamScore": "246"
+                    }, 
+                    "player8": {
+                        "ballNo": 581, 
+                        "teamScore": "257"
+                    }, 
+                    "player9": {
+                        "ballNo": 585, 
+                        "teamScore": "258"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Aryaman Birla  ", 
+                        " st Ankush Bains b Mayank Dagar ", 
+                        "32", 
+                        "54", 
+                        "3", 
+                        "1", 
+                        "59.26"
+                    ], 
+                    "player10": [
+                        "  Kuldeep Sen  ", 
+                        " lbw b P Jaiswal ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  G Yadav  ", 
+                        "  b Rishi Dhawan ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player2": [
+                        "  Bais  ", 
+                        " c Ankush Bains b P Jaiswal ", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Rajat Patidar  ", 
+                        " c A Kumar b P Jaiswal ", 
+                        "47", 
+                        "121", 
+                        "8", 
+                        "0", 
+                        "38.84"
+                    ], 
+                    "player4": [
+                        "  Naman Ojha (c) (wk)  ", 
+                        "  b Arpit Guleria ", 
+                        "41", 
+                        "129", 
+                        "4", 
+                        "0", 
+                        "31.78"
+                    ], 
+                    "player5": [
+                        "  Yash Dubey  ", 
+                        " c Ankush Bains b Arpit Guleria ", 
+                        "31", 
+                        "74", 
+                        "4", 
+                        "0", 
+                        "41.89"
+                    ], 
+                    "player6": [
+                        "  Shubham Sharma  ", 
+                        " not out ", 
+                        "54", 
+                        "110", 
+                        "6", 
+                        "1", 
+                        "49.09"
+                    ], 
+                    "player7": [
+                        "  Puneet Datey  ", 
+                        " lbw b Rishi Dhawan ", 
+                        "26", 
+                        "67", 
+                        "2", 
+                        "1", 
+                        "38.81"
+                    ], 
+                    "player8": [
+                        "  Kumar Kartikeya  ", 
+                        " lbw b P Jaiswal ", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player9": [
+                        "  Avesh Khan  ", 
+                        " lbw b Rishi Dhawan ", 
+                        "4", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "36.36"
+                    ]
+                }, 
+                "batTeam": "MP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Arpit Guleria  ", 
+                        "17", 
+                        "6", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  P Jaiswal  ", 
+                        "23", 
+                        "4", 
+                        "56", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player3": [
+                        "  Rishi Dhawan  ", 
+                        "27.3", 
+                        "8", 
+                        "54", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player4": [
+                        "  Mayank Dagar  ", 
+                        "16", 
+                        "5", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player5": [
+                        "  G Singh  ", 
+                        "8", 
+                        "1", 
+                        "33", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player6": [
+                        "  Raghav Dhawan  ", 
+                        "5", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player7": [
+                        "  Chopra (c)  ", 
+                        "2", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.50"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "20", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "5"
+                }, 
+                "total": {
+                    "overs": "98.3", 
+                    "runs": "265", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 113, 
+                        "teamScore": "61"
+                    }, 
+                    "player10": {
+                        "ballNo": 333, 
+                        "teamScore": "127"
+                    }, 
+                    "player2": {
+                        "ballNo": 114, 
+                        "teamScore": "61"
+                    }, 
+                    "player3": {
+                        "ballNo": 179, 
+                        "teamScore": "82"
+                    }, 
+                    "player4": {
+                        "ballNo": 180, 
+                        "teamScore": "82"
+                    }, 
+                    "player5": {
+                        "ballNo": 223, 
+                        "teamScore": "90"
+                    }, 
+                    "player6": {
+                        "ballNo": 277, 
+                        "teamScore": "103"
+                    }, 
+                    "player7": {
+                        "ballNo": 302, 
+                        "teamScore": "120"
+                    }, 
+                    "player8": {
+                        "ballNo": 305, 
+                        "teamScore": "120"
+                    }, 
+                    "player9": {
+                        "ballNo": 330, 
+                        "teamScore": "127"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Raghav Dhawan  ", 
+                        " c Naman Ojha b Kumar Kartikeya ", 
+                        "37", 
+                        "129", 
+                        "3", 
+                        "0", 
+                        "28.68"
+                    ], 
+                    "player10": [
+                        "  G Singh  ", 
+                        "  b G Yadav ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Arpit Guleria  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Chopra (c)  ", 
+                        " c Naman Ojha b Kumar Kartikeya ", 
+                        "34", 
+                        "58", 
+                        "6", 
+                        "0", 
+                        "58.62"
+                    ], 
+                    "player3": [
+                        "  Ankush Bains (wk)  ", 
+                        " lbw b Kumar Kartikeya ", 
+                        "12", 
+                        "41", 
+                        "2", 
+                        "0", 
+                        "29.27"
+                    ], 
+                    "player4": [
+                        "  Nikhil Gangta  ", 
+                        " c Naman Ojha b Kuldeep Sen ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player5": [
+                        "  Ankit Kalsi  ", 
+                        " lbw b Kuldeep Sen ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Rishi Dhawan  ", 
+                        " c G Yadav b Puneet Datey ", 
+                        "5", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "21.74"
+                    ], 
+                    "player7": [
+                        "  A Kumar  ", 
+                        " c Avesh Khan b Kumar Kartikeya ", 
+                        "10", 
+                        "29", 
+                        "2", 
+                        "0", 
+                        "34.48"
+                    ], 
+                    "player8": [
+                        "  Mayank Dagar  ", 
+                        "  b Kumar Kartikeya ", 
+                        "20", 
+                        "37", 
+                        "2", 
+                        "1", 
+                        "54.05"
+                    ], 
+                    "player9": [
+                        "  P Jaiswal  ", 
+                        "  b Kumar Kartikeya ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "HP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Avesh Khan  ", 
+                        "9", 
+                        "1", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Kuldeep Sen  ", 
+                        "11", 
+                        "1", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Puneet Datey  ", 
+                        "7", 
+                        "5", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player4": [
+                        "  G Yadav  ", 
+                        "9.3", 
+                        "2", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Kumar Kartikeya  ", 
+                        "19", 
+                        "9", 
+                        "28", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "55.3", 
+                    "runs": "127", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 26, 
+                        "teamScore": "15"
+                    }, 
+                    "player10": {
+                        "ballNo": 353, 
+                        "teamScore": "193"
+                    }, 
+                    "player2": {
+                        "ballNo": 77, 
+                        "teamScore": "30"
+                    }, 
+                    "player3": {
+                        "ballNo": 158, 
+                        "teamScore": "60"
+                    }, 
+                    "player4": {
+                        "ballNo": 246, 
+                        "teamScore": "119"
+                    }, 
+                    "player5": {
+                        "ballNo": 271, 
+                        "teamScore": "130"
+                    }, 
+                    "player6": {
+                        "ballNo": 295, 
+                        "teamScore": "139"
+                    }, 
+                    "player7": {
+                        "ballNo": 301, 
+                        "teamScore": "140"
+                    }, 
+                    "player8": {
+                        "ballNo": 340, 
+                        "teamScore": "170"
+                    }, 
+                    "player9": {
+                        "ballNo": 342, 
+                        "teamScore": "170"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Aryaman Birla  ", 
+                        " st Ankush Bains b G Singh ", 
+                        "12", 
+                        "43", 
+                        "1", 
+                        "0", 
+                        "27.91"
+                    ], 
+                    "player10": [
+                        "  Kuldeep Sen  ", 
+                        " st Ankush Bains b G Singh ", 
+                        "19", 
+                        "8", 
+                        "1", 
+                        "2", 
+                        "237.50"
+                    ], 
+                    "player11": [
+                        "  G Yadav  ", 
+                        " not out ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player2": [
+                        "  Bais  ", 
+                        " st Ankush Bains b Mayank Dagar ", 
+                        "2", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player3": [
+                        "  Rajat Patidar  ", 
+                        " c Arpit Guleria b G Singh ", 
+                        "54", 
+                        "101", 
+                        "8", 
+                        "0", 
+                        "53.47"
+                    ], 
+                    "player4": [
+                        "  Naman Ojha (c) (wk)  ", 
+                        " c Nikhil Gangta b Mayank Dagar ", 
+                        "20", 
+                        "43", 
+                        "2", 
+                        "1", 
+                        "46.51"
+                    ], 
+                    "player5": [
+                        "  Yash Dubey  ", 
+                        " lbw b Rishi Dhawan ", 
+                        "31", 
+                        "61", 
+                        "5", 
+                        "0", 
+                        "50.82"
+                    ], 
+                    "player6": [
+                        "  Shubham Sharma  ", 
+                        " lbw b Rishi Dhawan ", 
+                        "9", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "39.13"
+                    ], 
+                    "player7": [
+                        "  Puneet Datey  ", 
+                        " st Ankush Bains b G Singh ", 
+                        "10", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "38.46"
+                    ], 
+                    "player8": [
+                        "  Kumar Kartikeya  ", 
+                        "  b G Singh ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player9": [
+                        "  Avesh Khan  ", 
+                        " c Mayank Dagar b G Singh ", 
+                        "22", 
+                        "26", 
+                        "2", 
+                        "1", 
+                        "84.62"
+                    ]
+                }, 
+                "batTeam": "MP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Mayank Dagar  ", 
+                        "14", 
+                        "0", 
+                        "40", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  Arpit Guleria  ", 
+                        "10", 
+                        "4", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player3": [
+                        "  Rishi Dhawan  ", 
+                        "17", 
+                        "0", 
+                        "54", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  G Singh  ", 
+                        "13.5", 
+                        "0", 
+                        "63", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player5": [
+                        "  P Jaiswal  ", 
+                        "4", 
+                        "1", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "5", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "58.5", 
+                    "runs": "193", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 36, 
+                        "teamScore": "39"
+                    }, 
+                    "player10": {
+                        "ballNo": 268, 
+                        "teamScore": "191"
+                    }, 
+                    "player2": {
+                        "ballNo": 42, 
+                        "teamScore": "44"
+                    }, 
+                    "player3": {
+                        "ballNo": 64, 
+                        "teamScore": "65"
+                    }, 
+                    "player4": {
+                        "ballNo": 70, 
+                        "teamScore": "66"
+                    }, 
+                    "player5": {
+                        "ballNo": 108, 
+                        "teamScore": "78"
+                    }, 
+                    "player6": {
+                        "ballNo": 117, 
+                        "teamScore": "79"
+                    }, 
+                    "player7": {
+                        "ballNo": 181, 
+                        "teamScore": "106"
+                    }, 
+                    "player8": {
+                        "ballNo": 189, 
+                        "teamScore": "111"
+                    }, 
+                    "player9": {
+                        "ballNo": 262, 
+                        "teamScore": "185"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Ankush Bains (wk)  ", 
+                        " c Yash Dubey b Puneet Datey ", 
+                        "26", 
+                        "23", 
+                        "4", 
+                        "0", 
+                        "113.04"
+                    ], 
+                    "player10": [
+                        "  Gurvinder Singh  ", 
+                        " run out (Yash Dubey)  ", 
+                        "26", 
+                        "39", 
+                        "4", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player11": [
+                        "  Arpit Guleria  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Prashant Chopra (c)  ", 
+                        "  b Kumar Kartikeya ", 
+                        "22", 
+                        "26", 
+                        "3", 
+                        "0", 
+                        "84.62"
+                    ], 
+                    "player3": [
+                        "  Raghav Dhawan  ", 
+                        "  b Kumar Kartikeya ", 
+                        "4", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player4": [
+                        "  Nikhil Gangta  ", 
+                        " c Shubham Sharma b Kuldeep Sen ", 
+                        "14", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player5": [
+                        "  Ankit Kalsi  ", 
+                        " c Rajat Patidar b Avesh Khan ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Rishi Dhawan  ", 
+                        " c Naman Ojha b Kuldeep Sen ", 
+                        "8", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "47.06"
+                    ], 
+                    "player7": [
+                        "  Amit Kumar  ", 
+                        " c Naman Ojha b G Yadav ", 
+                        "11", 
+                        "43", 
+                        "0", 
+                        "0", 
+                        "25.58"
+                    ], 
+                    "player8": [
+                        "  Mayank Dagar  ", 
+                        " run out (Bais)  ", 
+                        "17", 
+                        "27", 
+                        "2", 
+                        "1", 
+                        "62.96"
+                    ], 
+                    "player9": [
+                        "  Pankaj Jaiswal  ", 
+                        " c Kuldeep Sen b Kumar Kartikeya ", 
+                        "44", 
+                        "41", 
+                        "3", 
+                        "5", 
+                        "107.32"
+                    ]
+                }, 
+                "batTeam": "HP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Avesh Khan  ", 
+                        "8", 
+                        "0", 
+                        "45", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.60"
+                    ], 
+                    "player2": [
+                        "  Kuldeep Sen  ", 
+                        "9", 
+                        "2", 
+                        "30", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Puneet Datey  ", 
+                        "5", 
+                        "0", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player4": [
+                        "  Kumar Kartikeya  ", 
+                        "16.4", 
+                        "3", 
+                        "58", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player5": [
+                        "  Gaurav Yadav  ", 
+                        "6", 
+                        "1", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "11", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "44.4", 
+                    "runs": "191", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-02T16:30:00", 
+                    "startDate": "2018-12-30T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Venkatesh Iyer", 
+                            " Mihir Hirwani", 
+                            " Ankit Sharma", 
+                            " Ankit Dane", 
+                            " Saransh Jain", 
+                            " Mohnish Mishra", 
+                            " Ishwar Pandey", 
+                            " Anshul Tripathi", 
+                            " Ajay Rohera  "
+                        ], 
+                        "playing11": [
+                            " Aryaman Birla", 
+                            " Anand Bais", 
+                            " Rajat Patidar", 
+                            " Naman Ojha (c & wk)", 
+                            " Shubham Sharma", 
+                            " Yash Dubey", 
+                            " Puneet Datey", 
+                            " Kumar Kartikeya", 
+                            " Gaurav Yadav", 
+                            " Kuldeep Sen", 
+                            " Avesh Khan  "
+                        ], 
+                        "teamName": "Madhya Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Praveen Thakur", 
+                            " Sumeet Verma", 
+                            " Priyanshu Khanduri ", 
+                            " Shresth Nirmohi", 
+                            " Ekant Sen", 
+                            " Akash Vasisht", 
+                            " RI Thakur  "
+                        ], 
+                        "playing11": [
+                            " Raghav Dhawan", 
+                            " Prashant Chopra (c)", 
+                            " Gurvinder Singh", 
+                            " Ankush Bains (wk)", 
+                            " Nikhil Gangta", 
+                            " Ankit Kalsi", 
+                            " Rishi Dhawan", 
+                            " Amit Kumar", 
+                            " Mayank Dagar", 
+                            " Pankaj Jaiswal", 
+                            " Arpit Guleria  "
+                        ], 
+                        "teamName": "Himachal Pradesh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Madhya Pradesh", 
+                    "team2": "Himachal Pradesh"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Himachal"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Raul"
+                }, 
+                "venue": "Holkar Cricket Stadium, Indore"
+            }
+        }
+    ]
+}

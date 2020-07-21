@@ -1,0 +1,626 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 27, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 723, 
+                        "teamScore": "336"
+                    }, 
+                    "player2": {
+                        "ballNo": 197, 
+                        "teamScore": "82"
+                    }, 
+                    "player3": {
+                        "ballNo": 263, 
+                        "teamScore": "112"
+                    }, 
+                    "player4": {
+                        "ballNo": 423, 
+                        "teamScore": "195"
+                    }, 
+                    "player5": {
+                        "ballNo": 500, 
+                        "teamScore": "224"
+                    }, 
+                    "player6": {
+                        "ballNo": 587, 
+                        "teamScore": "270"
+                    }, 
+                    "player7": {
+                        "ballNo": 693, 
+                        "teamScore": "318"
+                    }, 
+                    "player8": {
+                        "ballNo": 707, 
+                        "teamScore": "330"
+                    }, 
+                    "player9": {
+                        "ballNo": 709, 
+                        "teamScore": "330"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Abhishek Raman  ", 
+                        " c Rohit Rayudu b Ravi Kiran ", 
+                        "3", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "21.43"
+                    ], 
+                    "player10": [
+                        "  Mukesh Kumar  ", 
+                        " not out ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Ishan Porel  ", 
+                        " c Akshath Reddy b Ravi Kiran ", 
+                        "6", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "75.00"
+                    ], 
+                    "player2": [
+                        "  Abhimanyu Easwaran  ", 
+                        " c KSK Chaitnay b Ravi Kiran ", 
+                        "186", 
+                        "337", 
+                        "17", 
+                        "1", 
+                        "55.19"
+                    ], 
+                    "player3": [
+                        "  Sudip Chatterjee  ", 
+                        " lbw b Milind ", 
+                        "32", 
+                        "88", 
+                        "4", 
+                        "0", 
+                        "36.36"
+                    ], 
+                    "player4": [
+                        "  Manoj Tiwary (c)  ", 
+                        " c KSK Chaitnay b Siraj ", 
+                        "8", 
+                        "29", 
+                        "1", 
+                        "0", 
+                        "27.59"
+                    ], 
+                    "player5": [
+                        "  A Majumdar  ", 
+                        " c Tanmay Agarwal b Ravi Kiran ", 
+                        "32", 
+                        "76", 
+                        "4", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player6": [
+                        "  Agniv Pan (wk)  ", 
+                        " lbw b Milind ", 
+                        "8", 
+                        "45", 
+                        "0", 
+                        "0", 
+                        "17.78"
+                    ], 
+                    "player7": [
+                        "  Sahabaz Ahmed  ", 
+                        " c Tanmay Agarwal b Saaketh Sairam ", 
+                        "27", 
+                        "59", 
+                        "5", 
+                        "0", 
+                        "45.76"
+                    ], 
+                    "player8": [
+                        "  A Gani  ", 
+                        " lbw b Tanay Thyagarajan ", 
+                        "11", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "20.37"
+                    ], 
+                    "player9": [
+                        "  Dinda  ", 
+                        " lbw b Tanay Thyagarajan ", 
+                        "3", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "37.50"
+                    ]
+                }, 
+                "batTeam": "Bengal", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ravi Kiran  ", 
+                        "26.3", 
+                        "11", 
+                        "46", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player2": [
+                        "  Siraj  ", 
+                        "31", 
+                        "6", 
+                        "81", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Milind  ", 
+                        "23", 
+                        "4", 
+                        "76", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player4": [
+                        "  Tanay Thyagarajan  ", 
+                        "22", 
+                        "5", 
+                        "69", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  Saaketh Sairam  ", 
+                        "17", 
+                        "2", 
+                        "46", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player6": [
+                        "  Tanmay Agarwal  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Hyderabad", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "6", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "120.3", 
+                    "runs": "336", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 18, 
+                        "teamScore": "11"
+                    }, 
+                    "player10": {
+                        "ballNo": 739, 
+                        "teamScore": "312"
+                    }, 
+                    "player2": {
+                        "ballNo": 139, 
+                        "teamScore": "38"
+                    }, 
+                    "player3": {
+                        "ballNo": 486, 
+                        "teamScore": "187"
+                    }, 
+                    "player4": {
+                        "ballNo": 507, 
+                        "teamScore": "203"
+                    }, 
+                    "player5": {
+                        "ballNo": 537, 
+                        "teamScore": "205"
+                    }, 
+                    "player6": {
+                        "ballNo": 593, 
+                        "teamScore": "231"
+                    }, 
+                    "player7": {
+                        "ballNo": 647, 
+                        "teamScore": "260"
+                    }, 
+                    "player8": {
+                        "ballNo": 665, 
+                        "teamScore": "268"
+                    }, 
+                    "player9": {
+                        "ballNo": 735, 
+                        "teamScore": "310"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Tanmay Agarwal  ", 
+                        " lbw b Sahabaz Ahmed ", 
+                        "18", 
+                        "65", 
+                        "1", 
+                        "0", 
+                        "27.69"
+                    ], 
+                    "player10": [
+                        "  Siraj  ", 
+                        " c Manoj Tiwary b Mukesh Kumar ", 
+                        "22", 
+                        "50", 
+                        "3", 
+                        "0", 
+                        "44.00"
+                    ], 
+                    "player11": [
+                        "  Ravi Kiran  ", 
+                        " not out ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Akshath Reddy (c)  ", 
+                        " c Agniv Pan b Dinda ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player3": [
+                        "  Rohit Rayudu  ", 
+                        "  b Mukesh Kumar ", 
+                        "93", 
+                        "261", 
+                        "10", 
+                        "0", 
+                        "35.63"
+                    ], 
+                    "player4": [
+                        "  Himalay Agarwal  ", 
+                        " c A Majumdar b Dinda ", 
+                        "65", 
+                        "180", 
+                        "6", 
+                        "1", 
+                        "36.11"
+                    ], 
+                    "player5": [
+                        "  Sandeep  ", 
+                        " c Agniv Pan b Dinda ", 
+                        "13", 
+                        "11", 
+                        "3", 
+                        "0", 
+                        "118.18"
+                    ], 
+                    "player6": [
+                        "  KSK Chaitnay (wk)  ", 
+                        " lbw b Mukesh Kumar ", 
+                        "22", 
+                        "60", 
+                        "3", 
+                        "0", 
+                        "36.67"
+                    ], 
+                    "player7": [
+                        "  Saaketh Sairam  ", 
+                        " lbw b Ishan Porel ", 
+                        "39", 
+                        "68", 
+                        "2", 
+                        "1", 
+                        "57.35"
+                    ], 
+                    "player8": [
+                        "  Milind  ", 
+                        " c A Majumdar b Mukesh Kumar ", 
+                        "13", 
+                        "30", 
+                        "2", 
+                        "0", 
+                        "43.33"
+                    ], 
+                    "player9": [
+                        "  Tanay Thyagarajan  ", 
+                        " lbw b Dinda ", 
+                        "6", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "60.00"
+                    ]
+                }, 
+                "batTeam": "Hyderabad", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Dinda  ", 
+                        "31", 
+                        "5", 
+                        "88", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Mukesh Kumar  ", 
+                        "27", 
+                        "8", 
+                        "54", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player3": [
+                        "  A Gani  ", 
+                        "18", 
+                        "4", 
+                        "38", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player4": [
+                        "  Sahabaz Ahmed  ", 
+                        "20", 
+                        "6", 
+                        "43", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player5": [
+                        "  Ishan Porel  ", 
+                        "25.1", 
+                        "6", 
+                        "68", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player6": [
+                        "  A Majumdar  ", 
+                        "1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player7": [
+                        "  Manoj Tiwary (c)  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Bengal", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "5", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "123.1", 
+                    "runs": "312", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 8, 
+                        "teamScore": "2"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Abhishek Raman  ", 
+                        " not out ", 
+                        "15", 
+                        "39", 
+                        "3", 
+                        "0", 
+                        "38.46"
+                    ], 
+                    "player2": [
+                        "  Abhimanyu Easwaran  ", 
+                        " c KSK Chaitnay b Milind ", 
+                        "2", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player3": [
+                        "  Sudip Chatterjee  ", 
+                        " not out ", 
+                        "30", 
+                        "43", 
+                        "5", 
+                        "0", 
+                        "69.77"
+                    ]
+                }, 
+                "batTeam": "Bengal", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Mohammed Siraj  ", 
+                        "5", 
+                        "2", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Chama V Milind  ", 
+                        "5", 
+                        "1", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  Ravi Kiran  ", 
+                        "2", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.50"
+                    ], 
+                    "player4": [
+                        "  Tanay Thyagarajan  ", 
+                        "2", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Hyderabad", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "14", 
+                    "runs": "49", 
+                    "wickets": "1"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-17T16:30:00", 
+                    "startDate": "2018-12-14T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 6", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Ajay Dev Goud", 
+                            " Kolla Sumanth", 
+                            " Akash Bhandari", 
+                            " Mehdi Hassan", 
+                            " Telukupalli Ravi Teja", 
+                            " Palakodeti Sairam", 
+                            " Mohammad Muddassir", 
+                            " PS Chaitanya Reddy  "
+                        ], 
+                        "playing11": [
+                            " Tanmay Agarwal", 
+                            " Akshath Reddy (c)", 
+                            " Tanay Thyagarajan", 
+                            " Rohit Rayudu", 
+                            " Bavanaka Sandeep", 
+                            " KSK Chaitnay (wk)", 
+                            " Himalay Agarwal", 
+                            " Mohammed Siraj", 
+                            " Saaketh Sairam", 
+                            " Chama V Milind", 
+                            " Ravi Kiran  "
+                        ], 
+                        "teamName": "Hyderabad\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Koushik Ghosh", 
+                            " Vivek Singh", 
+                            " Saurabh Singh", 
+                            " Boddupalli Amit", 
+                            " Shreevats Goswami", 
+                            " Pradipta Pramanik", 
+                            " Prayas Barman", 
+                            " Writtick Chatterjee  "
+                        ], 
+                        "playing11": [
+                            "  Abhishek Raman", 
+                            " Abhimanyu Easwaran", 
+                            " Sudip Chatterjee", 
+                            " Manoj Tiwary (c)", 
+                            " Anustup Majumdar", 
+                            " Agniv Pan (wk)", 
+                            " Aamir Gani", 
+                            " Mukesh Kumar", 
+                            " Ashok Dinda", 
+                            " Sahabaz Ahmed", 
+                            " Ishan Porel  "
+                        ], 
+                        "teamName": "Bengal\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Hyderabad", 
+                    "team2": "Bengal"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Hyderabad"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Madhusudhan Reddy"
+                }, 
+                "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+            }
+        }
+    ]
+}

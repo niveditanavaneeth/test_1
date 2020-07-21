@@ -1,0 +1,947 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 20, 
+                        "teamScore": "10"
+                    }, 
+                    "player10": {
+                        "ballNo": 528, 
+                        "teamScore": "276"
+                    }, 
+                    "player2": {
+                        "ballNo": 52, 
+                        "teamScore": "39"
+                    }, 
+                    "player3": {
+                        "ballNo": 274, 
+                        "teamScore": "155"
+                    }, 
+                    "player4": {
+                        "ballNo": 388, 
+                        "teamScore": "216"
+                    }, 
+                    "player5": {
+                        "ballNo": 417, 
+                        "teamScore": "230"
+                    }, 
+                    "player6": {
+                        "ballNo": 435, 
+                        "teamScore": "234"
+                    }, 
+                    "player7": {
+                        "ballNo": 438, 
+                        "teamScore": "234"
+                    }, 
+                    "player8": {
+                        "ballNo": 440, 
+                        "teamScore": "234"
+                    }, 
+                    "player9": {
+                        "ballNo": 443, 
+                        "teamScore": "234"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  N Saini (wk)  ", 
+                        " lbw b Krishna Das ", 
+                        "64", 
+                        "134", 
+                        "8", 
+                        "0", 
+                        "47.76"
+                    ], 
+                    "player10": [
+                        "  Mohit Sharma (c)  ", 
+                        "  b Krishna Das ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  A Hooda  ", 
+                        " c Keenan Vaz b Krishna Das ", 
+                        "10", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "32.26"
+                    ], 
+                    "player2": [
+                        "  Rohilla  ", 
+                        " c Sumiran Amonkar b Lakshay Garg ", 
+                        "5", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "71.43"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        " c AS Desai b Krishna Das ", 
+                        "16", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "76.19"
+                    ], 
+                    "player4": [
+                        "  H Rana  ", 
+                        " c Darshan Misal b Krishna Das ", 
+                        "86", 
+                        "174", 
+                        "10", 
+                        "0", 
+                        "49.43"
+                    ], 
+                    "player5": [
+                        "  Prashant Vashist  ", 
+                        " c Suyash Prabhudessai b Darshan Misal ", 
+                        "42", 
+                        "65", 
+                        "5", 
+                        "0", 
+                        "64.62"
+                    ], 
+                    "player6": [
+                        "  Pramod Chandila  ", 
+                        "  b Krishna Das ", 
+                        "7", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "23.33"
+                    ], 
+                    "player7": [
+                        "  Jayant Yadav  ", 
+                        " c Darshan Misal b Lakshay Garg ", 
+                        "3", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player8": [
+                        "  Poonish Mehta  ", 
+                        "  b Lakshay Garg ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Harshal Patel  ", 
+                        " not out ", 
+                        "30", 
+                        "55", 
+                        "4", 
+                        "0", 
+                        "54.55"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Krishna Das  ", 
+                        "30", 
+                        "9", 
+                        "75", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  Lakshay Garg  ", 
+                        "26", 
+                        "6", 
+                        "102", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player3": [
+                        "  Felix Alemao  ", 
+                        "16", 
+                        "2", 
+                        "51", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  AS Desai  ", 
+                        "5.4", 
+                        "1", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player5": [
+                        "  Darshan Misal  ", 
+                        "8.2", 
+                        "2", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player6": [
+                        "  Amit Verma  ", 
+                        "2", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "2", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "4"
+                }, 
+                "total": {
+                    "overs": "88", 
+                    "runs": "276", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 22, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 475, 
+                        "teamScore": "177"
+                    }, 
+                    "player2": {
+                        "ballNo": 118, 
+                        "teamScore": "37"
+                    }, 
+                    "player3": {
+                        "ballNo": 212, 
+                        "teamScore": "87"
+                    }, 
+                    "player4": {
+                        "ballNo": 365, 
+                        "teamScore": "141"
+                    }, 
+                    "player5": {
+                        "ballNo": 369, 
+                        "teamScore": "141"
+                    }, 
+                    "player6": {
+                        "ballNo": 412, 
+                        "teamScore": "156"
+                    }, 
+                    "player7": {
+                        "ballNo": 439, 
+                        "teamScore": "166"
+                    }, 
+                    "player8": {
+                        "ballNo": 453, 
+                        "teamScore": "168"
+                    }, 
+                    "player9": {
+                        "ballNo": 472, 
+                        "teamScore": "174"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sumiran Amonkar  ", 
+                        " lbw b Poonish Mehta ", 
+                        "9", 
+                        "65", 
+                        "1", 
+                        "0", 
+                        "13.85"
+                    ], 
+                    "player10": [
+                        "  Felix Alemao  ", 
+                        " not out ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player11": [
+                        "  Krishna Das  ", 
+                        "  b Poonish Mehta ", 
+                        "3", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  AS Desai  ", 
+                        "  b A Hooda ", 
+                        "4", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player3": [
+                        "  SK Kamat (c)  ", 
+                        "  b Chaitanya Bishnoi ", 
+                        "68", 
+                        "186", 
+                        "7", 
+                        "0", 
+                        "36.56"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " st N Saini b Jayant Yadav ", 
+                        "17", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Snehal Kauthankar  ", 
+                        " c Chaitanya Bishnoi b Harshal Patel ", 
+                        "25", 
+                        "74", 
+                        "4", 
+                        "0", 
+                        "33.78"
+                    ], 
+                    "player6": [
+                        "  Suyash Prabhudessai  ", 
+                        " c N Saini b Poonish Mehta ", 
+                        "10", 
+                        "33", 
+                        "2", 
+                        "0", 
+                        "30.30"
+                    ], 
+                    "player7": [
+                        "  Keenan Vaz (wk)  ", 
+                        " c N Saini b A Hooda ", 
+                        "5", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "26.32"
+                    ], 
+                    "player8": [
+                        "  Darshan Misal  ", 
+                        " c (sub)Rohit Parmod Sharma b A Hooda ", 
+                        "13", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "34.21"
+                    ], 
+                    "player9": [
+                        "  Lakshay Garg  ", 
+                        " c H Rana b Poonish Mehta ", 
+                        "2", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Mohit Sharma (c)  ", 
+                        "6", 
+                        "3", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  A Hooda  ", 
+                        "18", 
+                        "6", 
+                        "36", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player3": [
+                        "  Harshal Patel  ", 
+                        "20", 
+                        "6", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player4": [
+                        "  Poonish Mehta  ", 
+                        "14.1", 
+                        "3", 
+                        "21", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player5": [
+                        "  Jayant Yadav  ", 
+                        "16", 
+                        "6", 
+                        "39", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player6": [
+                        "  Chaitanya Bishnoi  ", 
+                        "5", 
+                        "0", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "13", 
+                    "lb": "4", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "79.1", 
+                    "runs": "177", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 1, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 420, 
+                        "teamScore": "185"
+                    }, 
+                    "player2": {
+                        "ballNo": 5, 
+                        "teamScore": "0"
+                    }, 
+                    "player3": {
+                        "ballNo": 27, 
+                        "teamScore": "8"
+                    }, 
+                    "player4": {
+                        "ballNo": 59, 
+                        "teamScore": "22"
+                    }, 
+                    "player5": {
+                        "ballNo": 97, 
+                        "teamScore": "23"
+                    }, 
+                    "player6": {
+                        "ballNo": 105, 
+                        "teamScore": "23"
+                    }, 
+                    "player7": {
+                        "ballNo": 135, 
+                        "teamScore": "34"
+                    }, 
+                    "player8": {
+                        "ballNo": 296, 
+                        "teamScore": "114"
+                    }, 
+                    "player9": {
+                        "ballNo": 303, 
+                        "teamScore": "115"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  N Saini (wk)  ", 
+                        " c AS Desai b Krishna Das ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  A Hooda  ", 
+                        " lbw b Darshan Misal ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Mohit Sharma (c)  ", 
+                        " c Snehal Kauthankar b Lakshay Garg ", 
+                        "12", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "34.29"
+                    ], 
+                    "player2": [
+                        "  Rohilla  ", 
+                        " c Keenan Vaz b Felix Alemao ", 
+                        "8", 
+                        "51", 
+                        "1", 
+                        "0", 
+                        "15.69"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        " c Darshan Misal b Krishna Das ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  H Rana  ", 
+                        " lbw b Krishna Das ", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player5": [
+                        "  Prashant Vashist  ", 
+                        " lbw b Felix Alemao ", 
+                        "12", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player6": [
+                        "  Harshal Patel  ", 
+                        " c Keenan Vaz b Krishna Das ", 
+                        "1", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "5.56"
+                    ], 
+                    "player7": [
+                        "  Pramod Chandila  ", 
+                        " not out ", 
+                        "122", 
+                        "182", 
+                        "14", 
+                        "5", 
+                        "67.03"
+                    ], 
+                    "player8": [
+                        "  Jayant Yadav  ", 
+                        " lbw b Krishna Das ", 
+                        "2", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "11.11"
+                    ], 
+                    "player9": [
+                        "  Poonish Mehta  ", 
+                        "  b Amit Verma ", 
+                        "23", 
+                        "81", 
+                        "3", 
+                        "0", 
+                        "28.40"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Krishna Das  ", 
+                        "22", 
+                        "11", 
+                        "41", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player2": [
+                        "  Lakshay Garg  ", 
+                        "18", 
+                        "2", 
+                        "56", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Felix Alemao  ", 
+                        "11.2", 
+                        "2", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player4": [
+                        "  Darshan Misal  ", 
+                        "10.4", 
+                        "3", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  AS Desai  ", 
+                        "2", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player6": [
+                        "  Amit Verma  ", 
+                        "6", 
+                        "2", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "70", 
+                    "runs": "185", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 11, 
+                        "teamScore": "3"
+                    }, 
+                    "player10": {
+                        "ballNo": 297, 
+                        "teamScore": "141"
+                    }, 
+                    "player2": {
+                        "ballNo": 26, 
+                        "teamScore": "9"
+                    }, 
+                    "player3": {
+                        "ballNo": 85, 
+                        "teamScore": "30"
+                    }, 
+                    "player4": {
+                        "ballNo": 130, 
+                        "teamScore": "59"
+                    }, 
+                    "player5": {
+                        "ballNo": 144, 
+                        "teamScore": "60"
+                    }, 
+                    "player6": {
+                        "ballNo": 188, 
+                        "teamScore": "73"
+                    }, 
+                    "player7": {
+                        "ballNo": 233, 
+                        "teamScore": "102"
+                    }, 
+                    "player8": {
+                        "ballNo": 261, 
+                        "teamScore": "120"
+                    }, 
+                    "player9": {
+                        "ballNo": 285, 
+                        "teamScore": "134"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sumiran Amonkar  ", 
+                        " c (sub)Rohit Parmod Sharma b A Hooda ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player10": [
+                        "  Felix Alemao  ", 
+                        "  b A Hooda ", 
+                        "2", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player11": [
+                        "  Krishna Das  ", 
+                        " c (sub)Rohit Parmod Sharma b A Hooda ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Amogh Sunil Desai  ", 
+                        " c (sub)Rohit Parmod Sharma b Harshal Patel ", 
+                        "5", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player3": [
+                        "  Sagun Kamat (c)  ", 
+                        " c Pramod Chandila b Harshal Patel ", 
+                        "10", 
+                        "34", 
+                        "1", 
+                        "0", 
+                        "29.41"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " c (sub)Rohit Parmod Sharma b A Hooda ", 
+                        "23", 
+                        "63", 
+                        "4", 
+                        "0", 
+                        "36.51"
+                    ], 
+                    "player5": [
+                        "  Snehal Suhas Kauthankar  ", 
+                        "  b A Hooda ", 
+                        "14", 
+                        "20", 
+                        "3", 
+                        "0", 
+                        "70.00"
+                    ], 
+                    "player6": [
+                        "  Suyash Prabhudessai  ", 
+                        " lbw b A Hooda ", 
+                        "36", 
+                        "74", 
+                        "5", 
+                        "0", 
+                        "48.65"
+                    ], 
+                    "player7": [
+                        "  Keenan Vaz (wk)  ", 
+                        "  b Harshal Patel ", 
+                        "3", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player8": [
+                        "  Darshan Misal  ", 
+                        "  b Jayant Yadav ", 
+                        "11", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "44.00"
+                    ], 
+                    "player9": [
+                        "  Lakshay Garg  ", 
+                        " not out ", 
+                        "24", 
+                        "27", 
+                        "3", 
+                        "0", 
+                        "88.89"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Harshal Patel  ", 
+                        "18", 
+                        "4", 
+                        "40", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Ashish Hooda  ", 
+                        "18.3", 
+                        "3", 
+                        "54", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Poonish Mehta  ", 
+                        "8", 
+                        "3", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player4": [
+                        "  Jayant Yadav  ", 
+                        "4", 
+                        "1", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player5": [
+                        "  Chaitanya Bishnoi  ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "9", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "49.3", 
+                    "runs": "141", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-23T16:30:00", 
+                    "startDate": "2018-11-20T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 3", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Rohit Parmod Sharma", 
+                            " Ajit Chahal", 
+                            " Rahul Tewatia", 
+                            " Tinu Kundu  "
+                        ], 
+                        "playing11": [
+                            " Nitin Saini (wk)", 
+                            " Shubham Rohilla", 
+                            " Harshal Patel", 
+                            " Ashish Hooda", 
+                            " Jayant Yadav", 
+                            " Mohit Sharma (c)", 
+                            " Poonish Mehta", 
+                            " Chaitanya Bishnoi", 
+                            " Pramod Chandila", 
+                            " Himanshu Rana", 
+                            " Prashant Vashist  "
+                        ], 
+                        "teamName": "Haryana\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Amulya Pandrekar", 
+                            " Samar Shravan Dubhashi", 
+                            " Vishamber Kahlon", 
+                            " Vijesh Prabhudessai  "
+                        ], 
+                        "playing11": [
+                            " Lakshay Garg ", 
+                            " Snehal Suhas Kauthankar", 
+                            " Suyash Prabhudessai", 
+                            " Amogh Sunil Desai", 
+                            " Darshan Misal", 
+                            " Keenan Vaz (wk)", 
+                            " Sagun Kamat (c)", 
+                            " Sumiran Amonkar", 
+                            " Amit Verma", 
+                            " Krishna Das", 
+                            " Felix Alemao  "
+                        ], 
+                        "teamName": "Goa\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Haryana", 
+                    "team2": "Goa"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Goa"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Youraj Singh"
+                }, 
+                "venue": "Ch Bansi Lal Cricket Stadium, Rohtak"
+            }
+        }
+    ]
+}

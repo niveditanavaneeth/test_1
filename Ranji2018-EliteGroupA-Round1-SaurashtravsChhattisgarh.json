@@ -1,0 +1,701 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 284, 
+                        "teamScore": "149"
+                    }, 
+                    "player10": {
+                        "ballNo": 854, 
+                        "teamScore": "475"
+                    }, 
+                    "player2": {
+                        "ballNo": 403, 
+                        "teamScore": "212"
+                    }, 
+                    "player3": {
+                        "ballNo": 459, 
+                        "teamScore": "249"
+                    }, 
+                    "player4": {
+                        "ballNo": 714, 
+                        "teamScore": "391"
+                    }, 
+                    "player5": {
+                        "ballNo": 722, 
+                        "teamScore": "393"
+                    }, 
+                    "player6": {
+                        "ballNo": 822, 
+                        "teamScore": "458"
+                    }, 
+                    "player7": {
+                        "ballNo": 825, 
+                        "teamScore": "459"
+                    }, 
+                    "player8": {
+                        "ballNo": 843, 
+                        "teamScore": "474"
+                    }, 
+                    "player9": {
+                        "ballNo": 846, 
+                        "teamScore": "474"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Harvik Desai  ", 
+                        " c Sanjeet Desai b Sumit Ruikar ", 
+                        "78", 
+                        "152", 
+                        "14", 
+                        "0", 
+                        "51.32"
+                    ], 
+                    "player10": [
+                        "  Sanandia  ", 
+                        " c Sahil Gupta b Shahnawaz ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  H Rathod  ", 
+                        " not out ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Snell Patel (wk)  ", 
+                        " c Sahil Gupta b Omkar Verma ", 
+                        "91", 
+                        "176", 
+                        "12", 
+                        "0", 
+                        "51.70"
+                    ], 
+                    "player3": [
+                        "  Pujara  ", 
+                        " c Sahil Gupta b Shahnawaz ", 
+                        "56", 
+                        "116", 
+                        "5", 
+                        "0", 
+                        "48.28"
+                    ], 
+                    "player4": [
+                        "  Jackson  ", 
+                        " c Rishabh Tiwari b Shahnawaz ", 
+                        "147", 
+                        "202", 
+                        "18", 
+                        "2", 
+                        "72.77"
+                    ], 
+                    "player5": [
+                        "  Jaydev Shah (c)  ", 
+                        " lbw b Sahil Gupta ", 
+                        "21", 
+                        "32", 
+                        "4", 
+                        "0", 
+                        "65.62"
+                    ], 
+                    "player6": [
+                        "  Vasavada  ", 
+                        " c Omkar Verma b Sahil Gupta ", 
+                        "63", 
+                        "147", 
+                        "8", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player7": [
+                        "  Chirag Jani  ", 
+                        " c Sanjeet Desai b Sahil Gupta ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Unadkat  ", 
+                        " lbw b Sumit Ruikar ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  DA Jadeja  ", 
+                        " c Sanjeet Desai b Shahnawaz ", 
+                        "13", 
+                        "17", 
+                        "2", 
+                        "0", 
+                        "76.47"
+                    ]
+                }, 
+                "batTeam": "Saurashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Rao  ", 
+                        "24", 
+                        "2", 
+                        "71", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Shahnawaz  ", 
+                        "19.2", 
+                        "2", 
+                        "97", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player3": [
+                        "  Sumit Ruikar  ", 
+                        "43.4", 
+                        "4", 
+                        "134", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Omkar Verma  ", 
+                        "26", 
+                        "7", 
+                        "82", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player5": [
+                        "  Sahil Gupta  ", 
+                        "19.2", 
+                        "0", 
+                        "63", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player6": [
+                        "  Ashutosh  ", 
+                        "5", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player7": [
+                        "  Harpreet Singh (c)  ", 
+                        "5", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "142.2", 
+                    "runs": "475", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 196, 
+                        "teamScore": "90"
+                    }, 
+                    "player10": {
+                        "ballNo": 752, 
+                        "teamScore": "355"
+                    }, 
+                    "player2": {
+                        "ballNo": 232, 
+                        "teamScore": "103"
+                    }, 
+                    "player3": {
+                        "ballNo": 413, 
+                        "teamScore": "180"
+                    }, 
+                    "player4": {
+                        "ballNo": 434, 
+                        "teamScore": "191"
+                    }, 
+                    "player5": {
+                        "ballNo": 438, 
+                        "teamScore": "196"
+                    }, 
+                    "player6": {
+                        "ballNo": 555, 
+                        "teamScore": "240"
+                    }, 
+                    "player7": {
+                        "ballNo": 627, 
+                        "teamScore": "282"
+                    }, 
+                    "player8": {
+                        "ballNo": 630, 
+                        "teamScore": "282"
+                    }, 
+                    "player9": {
+                        "ballNo": 741, 
+                        "teamScore": "350"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sahil Gupta  ", 
+                        " c Harvik Desai b Unadkat ", 
+                        "53", 
+                        "104", 
+                        "10", 
+                        "0", 
+                        "50.96"
+                    ], 
+                    "player10": [
+                        "  Pankaj Rao  ", 
+                        "  b Sanandia ", 
+                        "26", 
+                        "47", 
+                        "6", 
+                        "0", 
+                        "55.32"
+                    ], 
+                    "player11": [
+                        "  Shahnawaz  ", 
+                        " not out ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player2": [
+                        "  Rishabh Tiwari  ", 
+                        " lbw b Unadkat ", 
+                        "40", 
+                        "112", 
+                        "6", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player3": [
+                        "  Ashutosh  ", 
+                        "  b Unadkat ", 
+                        "26", 
+                        "107", 
+                        "4", 
+                        "0", 
+                        "24.30"
+                    ], 
+                    "player4": [
+                        "  Harpreet Singh (c)  ", 
+                        " lbw b Unadkat ", 
+                        "60", 
+                        "101", 
+                        "9", 
+                        "0", 
+                        "59.41"
+                    ], 
+                    "player5": [
+                        "  Amandeep Khare  ", 
+                        " c Snell Patel b Unadkat ", 
+                        "14", 
+                        "15", 
+                        "3", 
+                        "0", 
+                        "93.33"
+                    ], 
+                    "player6": [
+                        "  M Singh (wk)  ", 
+                        " c Harvik Desai b H Rathod ", 
+                        "25", 
+                        "72", 
+                        "3", 
+                        "1", 
+                        "34.72"
+                    ], 
+                    "player7": [
+                        "  Sanjeet Desai  ", 
+                        "  b Unadkat ", 
+                        "36", 
+                        "88", 
+                        "4", 
+                        "1", 
+                        "40.91"
+                    ], 
+                    "player8": [
+                        "  Sumit Ruikar  ", 
+                        "  b Sanandia ", 
+                        "67", 
+                        "102", 
+                        "11", 
+                        "0", 
+                        "65.69"
+                    ], 
+                    "player9": [
+                        "  Omkar Verma  ", 
+                        " c Snell Patel b Unadkat ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Unadkat  ", 
+                        "33", 
+                        "10", 
+                        "86", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player2": [
+                        "  Sanandia  ", 
+                        "18.2", 
+                        "5", 
+                        "65", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  H Rathod  ", 
+                        "22", 
+                        "3", 
+                        "89", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player4": [
+                        "  DA Jadeja  ", 
+                        "34", 
+                        "9", 
+                        "86", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player5": [
+                        "  Chirag Jani  ", 
+                        "17", 
+                        "5", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player6": [
+                        "  Vasavada  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Saurashtra", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "125.2", 
+                    "runs": "355", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 132, 
+                        "teamScore": "81"
+                    }, 
+                    "player2": {
+                        "ballNo": 151, 
+                        "teamScore": "87"
+                    }, 
+                    "player3": {
+                        "ballNo": 156, 
+                        "teamScore": "88"
+                    }, 
+                    "player4": {
+                        "ballNo": 213, 
+                        "teamScore": "124"
+                    }, 
+                    "player5": {
+                        "ballNo": 341, 
+                        "teamScore": "175"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Harvik Desai  ", 
+                        "  b Sahil Gupta ", 
+                        "46", 
+                        "61", 
+                        "8", 
+                        "0", 
+                        "75.41"
+                    ], 
+                    "player2": [
+                        "  Snell Patel (wk)  ", 
+                        " c Harpreet Singh b Sahil Gupta ", 
+                        "33", 
+                        "86", 
+                        "5", 
+                        "0", 
+                        "38.37"
+                    ], 
+                    "player3": [
+                        "  Chirag Jani  ", 
+                        " c Amandeep Khare b Sahil Gupta ", 
+                        "4", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player4": [
+                        "  Sheldon Jackson  ", 
+                        " not out ", 
+                        "53", 
+                        "72", 
+                        "3", 
+                        "2", 
+                        "73.61"
+                    ], 
+                    "player5": [
+                        "  Aarpit Vasavada  ", 
+                        " c Sanjeet Desai b Sahil Gupta ", 
+                        "12", 
+                        "38", 
+                        "2", 
+                        "0", 
+                        "31.58"
+                    ], 
+                    "player6": [
+                        "  Jaydev Shah (c)  ", 
+                        " c M Singh b Sumit Ruikar ", 
+                        "24", 
+                        "82", 
+                        "3", 
+                        "0", 
+                        "29.27"
+                    ], 
+                    "player7": [
+                        "  Dharmendrasinh Jadeja  ", 
+                        " not out ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ]
+                }, 
+                "batTeam": "Saurashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Kumar Rao  ", 
+                        "6", 
+                        "3", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Omkar Verma  ", 
+                        "6", 
+                        "1", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Shahnawaz Hussain  ", 
+                        "3", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player4": [
+                        "  Sumit Ruikar  ", 
+                        "22.2", 
+                        "5", 
+                        "51", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player5": [
+                        "  Sahil Gupta  ", 
+                        "19", 
+                        "4", 
+                        "69", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player6": [
+                        "  Ashutosh Singh  ", 
+                        "2", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "5", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "58.2", 
+                    "runs": "179", 
+                    "wickets": "5"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Agnivesh Ayachi", 
+                            " Prerak Mankad", 
+                            " Samarth Vyas", 
+                            " Yuvraj Chudasama", 
+                            " Kishan Parmar", 
+                            " Jay Chauhan", 
+                            " Kamlesh Makvana", 
+                            " Avi Barot   "
+                        ], 
+                        "playing11": [
+                            " Cheteshwar Pujara", 
+                            " Arpit Vasavada", 
+                            " Chirag Jani", 
+                            " Dharmendrasinh Jadeja", 
+                            " Hardik Rathod", 
+                            " Jaydev Shah (c)", 
+                            " Snell Patel (wk)", 
+                            " Shaurya Sanandia", 
+                            " Sheldon Jackson", 
+                            " Jaydev Unadkat", 
+                            " Harvik Desai  "
+                        ], 
+                        "teamName": "Saurashtra\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Jatin Saxena", 
+                            " Shubham Agarwal", 
+                            " Abhimanyu Chauhan", 
+                            " Shivendra Singh", 
+                            " Abhishek Tamrakar ", 
+                            " Ajay Jadav Mandal", 
+                            " Shubham Singh", 
+                            " Avnish Dhaliwal", 
+                            " Shashank Chandraker", 
+                            " Sahban Khan", 
+                            " Siddharth Chandrakar  "
+                        ], 
+                        "playing11": [
+                            " Sanjeet Desai", 
+                            " Sumit Ruikar", 
+                            " Harpreet Singh (c)", 
+                            " Ashutosh Singh", 
+                            " Rishabh Tiwari", 
+                            " Manoj Singh (wk)", 
+                            " Pankaj Kumar Rao", 
+                            " Amandeep Khare", 
+                            " Sahil Gupta", 
+                            " Shahnawaz Hussain", 
+                            " Omkar Verma  "
+                        ], 
+                        "teamName": "Chhattisgarh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Saurashtra", 
+                    "team2": "Chhattisgarh"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Chhattisgarh"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sunil Chaturvedi"
+                }, 
+                "venue": "Saurashtra Cricket Association Stadium, Rajkot"
+            }
+        }
+    ]
+}

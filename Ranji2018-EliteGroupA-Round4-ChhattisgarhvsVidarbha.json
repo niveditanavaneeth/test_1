@@ -1,0 +1,804 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 22, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 654, 
+                        "teamScore": "232"
+                    }, 
+                    "player2": {
+                        "ballNo": 54, 
+                        "teamScore": "20"
+                    }, 
+                    "player3": {
+                        "ballNo": 152, 
+                        "teamScore": "66"
+                    }, 
+                    "player4": {
+                        "ballNo": 192, 
+                        "teamScore": "80"
+                    }, 
+                    "player5": {
+                        "ballNo": 300, 
+                        "teamScore": "127"
+                    }, 
+                    "player6": {
+                        "ballNo": 391, 
+                        "teamScore": "159"
+                    }, 
+                    "player7": {
+                        "ballNo": 528, 
+                        "teamScore": "192"
+                    }, 
+                    "player8": {
+                        "ballNo": 614, 
+                        "teamScore": "214"
+                    }, 
+                    "player9": {
+                        "ballNo": 617, 
+                        "teamScore": "214"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sahil Gupta  ", 
+                        "  b Lalit M Yadav ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player10": [
+                        "  Pankaj Rao  ", 
+                        " c Mohit Kale b F Fazal ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Omkar Verma  ", 
+                        "  b Aditya Thakare ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player2": [
+                        "  Sanjeet Desai  ", 
+                        " lbw b Yash Thakur ", 
+                        "6", 
+                        "33", 
+                        "0", 
+                        "0", 
+                        "18.18"
+                    ], 
+                    "player3": [
+                        "  Ashutosh  ", 
+                        " c Akshay Wadkar b Aditya Thakare ", 
+                        "17", 
+                        "59", 
+                        "1", 
+                        "0", 
+                        "28.81"
+                    ], 
+                    "player4": [
+                        "  Harpreet Singh (c)  ", 
+                        " c F Fazal b Aditya Thakare ", 
+                        "63", 
+                        "117", 
+                        "9", 
+                        "0", 
+                        "53.85"
+                    ], 
+                    "player5": [
+                        "  Amandeep Khare  ", 
+                        " c Sanjay Ramaswamy b Lalit M Yadav ", 
+                        "4", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "19.05"
+                    ], 
+                    "player6": [
+                        "  M Singh (wk)  ", 
+                        " not out ", 
+                        "77", 
+                        "237", 
+                        "11", 
+                        "0", 
+                        "32.49"
+                    ], 
+                    "player7": [
+                        "  Vishal Kushwah  ", 
+                        " c Wakhare b Aditya Thakare ", 
+                        "20", 
+                        "40", 
+                        "3", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player8": [
+                        "  Sumit Ruikar  ", 
+                        " c Akshay Wadkar b Aditya Thakare ", 
+                        "8", 
+                        "75", 
+                        "0", 
+                        "0", 
+                        "10.67"
+                    ], 
+                    "player9": [
+                        "  Shakeeb Ahmed  ", 
+                        " lbw b F Fazal ", 
+                        "5", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "10.20"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aditya Thakare  ", 
+                        "26", 
+                        "9", 
+                        "56", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Lalit M Yadav  ", 
+                        "28", 
+                        "8", 
+                        "65", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player3": [
+                        "  Yash Thakur  ", 
+                        "23", 
+                        "9", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.30"
+                    ], 
+                    "player4": [
+                        "  F Fazal (c)  ", 
+                        "12", 
+                        "5", 
+                        "15", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ], 
+                    "player5": [
+                        "  Wakhare  ", 
+                        "12", 
+                        "4", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player6": [
+                        "  Sarwate  ", 
+                        "8", 
+                        "2", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ]
+                }, 
+                "bowlTeam": "Vidarbha", 
+                "extras": {
+                    "b": "13", 
+                    "lb": "9", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "6"
+                }, 
+                "total": {
+                    "overs": "109", 
+                    "runs": "232", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "4"
+                    }, 
+                    "player2": {
+                        "ballNo": 22, 
+                        "teamScore": "4"
+                    }, 
+                    "player3": {
+                        "ballNo": 106, 
+                        "teamScore": "31"
+                    }, 
+                    "player4": {
+                        "ballNo": 638, 
+                        "teamScore": "303"
+                    }, 
+                    "player5": {
+                        "ballNo": 678, 
+                        "teamScore": "322"
+                    }, 
+                    "player6": {
+                        "ballNo": 687, 
+                        "teamScore": "330"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  F Fazal (c)  ", 
+                        " c Pankaj Rao b Sumit Ruikar ", 
+                        "146", 
+                        "302", 
+                        "21", 
+                        "1", 
+                        "48.34"
+                    ], 
+                    "player2": [
+                        "  Sanjay Ramaswamy  ", 
+                        " lbw b Omkar Verma ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  W Jaffer  ", 
+                        " lbw b Omkar Verma ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  G Satish  ", 
+                        " c Harpreet Singh b Pankaj Rao ", 
+                        "15", 
+                        "44", 
+                        "2", 
+                        "0", 
+                        "34.09"
+                    ], 
+                    "player5": [
+                        "  Akshay Wadkar (wk)  ", 
+                        " not out ", 
+                        "144", 
+                        "315", 
+                        "21", 
+                        "0", 
+                        "45.71"
+                    ], 
+                    "player6": [
+                        "  Mohit Kale  ", 
+                        " c Ashutosh b Sumit Ruikar ", 
+                        "4", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "26.67"
+                    ], 
+                    "player7": [
+                        "  Lalit M Yadav  ", 
+                        " c M Singh b Sumit Ruikar ", 
+                        "7", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player8": [
+                        "  Sarwate  ", 
+                        " not out ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ]
+                }, 
+                "batTeam": "Vidarbha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Rao  ", 
+                        "26", 
+                        "9", 
+                        "66", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  Omkar Verma  ", 
+                        "26", 
+                        "5", 
+                        "90", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Shakeeb Ahmed  ", 
+                        "23", 
+                        "10", 
+                        "57", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Sumit Ruikar  ", 
+                        "27", 
+                        "12", 
+                        "46", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player5": [
+                        "  Vishal Kushwah  ", 
+                        "6", 
+                        "1", 
+                        "35", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.80"
+                    ], 
+                    "player6": [
+                        "  Sahil Gupta  ", 
+                        "8", 
+                        "2", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "5", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "4"
+                }, 
+                "total": {
+                    "overs": "116", 
+                    "runs": "332", 
+                    "wickets": "6"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 2, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 342, 
+                        "teamScore": "143"
+                    }, 
+                    "player2": {
+                        "ballNo": 47, 
+                        "teamScore": "17"
+                    }, 
+                    "player3": {
+                        "ballNo": 49, 
+                        "teamScore": "17"
+                    }, 
+                    "player4": {
+                        "ballNo": 82, 
+                        "teamScore": "27"
+                    }, 
+                    "player5": {
+                        "ballNo": 111, 
+                        "teamScore": "33"
+                    }, 
+                    "player6": {
+                        "ballNo": 221, 
+                        "teamScore": "85"
+                    }, 
+                    "player7": {
+                        "ballNo": 281, 
+                        "teamScore": "96"
+                    }, 
+                    "player8": {
+                        "ballNo": 316, 
+                        "teamScore": "131"
+                    }, 
+                    "player9": {
+                        "ballNo": 336, 
+                        "teamScore": "138"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sahil Gupta  ", 
+                        "  b Lalit M Yadav ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Pankaj Rao  ", 
+                        "  b Yash Thakur ", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Omkar Verma  ", 
+                        "  b Lalit M Yadav ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Sanjeet Desai  ", 
+                        "  b Yash Thakur ", 
+                        "4", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player3": [
+                        "  Ashutosh  ", 
+                        " lbw b Lalit M Yadav ", 
+                        "12", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "52.17"
+                    ], 
+                    "player4": [
+                        "  Harpreet Singh (c)  ", 
+                        " st Akshay Wadkar b Wakhare ", 
+                        "8", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player5": [
+                        "  Amandeep Khare  ", 
+                        " lbw b Lalit M Yadav ", 
+                        "5", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "16.13"
+                    ], 
+                    "player6": [
+                        "  Shakeeb Ahmed  ", 
+                        " c Sanjay Ramaswamy b Lalit M Yadav ", 
+                        "31", 
+                        "96", 
+                        "3", 
+                        "0", 
+                        "32.29"
+                    ], 
+                    "player7": [
+                        "  M Singh (wk)  ", 
+                        " c Wakhare b Lalit M Yadav ", 
+                        "30", 
+                        "62", 
+                        "4", 
+                        "0", 
+                        "48.39"
+                    ], 
+                    "player8": [
+                        "  Vishal Kushwah  ", 
+                        " c F Fazal b Lalit M Yadav ", 
+                        "11", 
+                        "39", 
+                        "1", 
+                        "0", 
+                        "28.21"
+                    ], 
+                    "player9": [
+                        "  Sumit Ruikar  ", 
+                        " not out ", 
+                        "39", 
+                        "36", 
+                        "7", 
+                        "0", 
+                        "108.33"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Lalit M Yadav  ", 
+                        "22", 
+                        "8", 
+                        "56", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  Aditya Thakare  ", 
+                        "13", 
+                        "4", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  Yash Thakur  ", 
+                        "12", 
+                        "3", 
+                        "33", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Sarwate  ", 
+                        "2", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.50"
+                    ], 
+                    "player5": [
+                        "  Wakhare  ", 
+                        "6", 
+                        "3", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player6": [
+                        "  F Fazal (c)  ", 
+                        "2", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.00"
+                    ]
+                }, 
+                "bowlTeam": "Vidarbha", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "57", 
+                    "runs": "143", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {}, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Faiz Fazal (c)  ", 
+                        " not out ", 
+                        "20", 
+                        "56", 
+                        "4", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player2": [
+                        "  Akshay Wadkar (wk)  ", 
+                        " not out ", 
+                        "25", 
+                        "60", 
+                        "5", 
+                        "0", 
+                        "41.67"
+                    ]
+                }, 
+                "batTeam": "Vidarbha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Kumar Rao  ", 
+                        "5", 
+                        "3", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ], 
+                    "player2": [
+                        "  Omkar Verma  ", 
+                        "3", 
+                        "1", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player3": [
+                        "  Sumit Ruikar  ", 
+                        "6", 
+                        "2", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.30"
+                    ], 
+                    "player4": [
+                        "  Shakeeb Ahmed  ", 
+                        "4", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player5": [
+                        "  Vishal Kushwah  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player6": [
+                        "  Sahil Gupta  ", 
+                        "0.2", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "12.00"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "19.2", 
+                    "runs": "46", 
+                    "wickets": "0"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:15:00", 
+                    "startDate": "2018-11-28T09:15:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Rishabh Tiwari", 
+                            " Shivendra Singh", 
+                            " Shahnawaz Hussain", 
+                            " Shubham Singh", 
+                            " Abhimanyu Chauhan", 
+                            " Jatin Saxena", 
+                            " Avnish Dhaliwal", 
+                            " Shubham Agarwal", 
+                            " Shashank Chandraker", 
+                            " Sahban Khan", 
+                            " Abhishek Tamrakar ", 
+                            " Siddharth Chandrakar", 
+                            " Ajay Jadav Mandal  "
+                        ], 
+                        "playing11": [
+                            " Sahil Gupta", 
+                            " Sanjeet Desai", 
+                            " Harpreet Singh (c)", 
+                            " Amandeep Khare", 
+                            " Manoj Singh (wk)", 
+                            " Vishal Kushwah", 
+                            " Shakeeb Ahmed", 
+                            " Ashutosh Singh", 
+                            " Sumit Ruikar", 
+                            " Omkar Verma", 
+                            " Pankaj Kumar Rao  "
+                        ], 
+                        "teamName": "Chhattisgarh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Apoorv Wankhade", 
+                            " Ravi Jangid", 
+                            " Akshay Karnewar", 
+                            " Atharwa Taide", 
+                            " Shrikant Wagh", 
+                            " Siddhesh Wath", 
+                            " Darshan Nalkande  "
+                        ], 
+                        "playing11": [
+                            " Faiz Fazal (c)", 
+                            " Sanjay Raghunath", 
+                            " Wasim Jaffer", 
+                            " Ganesh Satish", 
+                            " Akshay Wadkar (wk)", 
+                            " Lalit M Yadav", 
+                            " Akshay Wakhare", 
+                            " Aditya Sarwate", 
+                            " Aditya Thakare", 
+                            " Mohit Kale", 
+                            " Yash Thakur  "
+                        ], 
+                        "teamName": "Vidarbha\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Chhattisgarh", 
+                    "team2": "Vidarbha"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Chhattisgarh"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Madhusudhan Reddy"
+                }, 
+                "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur"
+            }
+        }
+    ]
+}

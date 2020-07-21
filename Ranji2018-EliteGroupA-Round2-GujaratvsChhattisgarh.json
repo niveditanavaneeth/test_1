@@ -1,0 +1,636 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 46, 
+                        "teamScore": "35"
+                    }, 
+                    "player2": {
+                        "ballNo": 144, 
+                        "teamScore": "89"
+                    }, 
+                    "player3": {
+                        "ballNo": 331, 
+                        "teamScore": "192"
+                    }, 
+                    "player4": {
+                        "ballNo": 492, 
+                        "teamScore": "274"
+                    }, 
+                    "player5": {
+                        "ballNo": 592, 
+                        "teamScore": "315"
+                    }, 
+                    "player6": {
+                        "ballNo": 608, 
+                        "teamScore": "326"
+                    }, 
+                    "player7": {
+                        "ballNo": 765, 
+                        "teamScore": "445"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samit Gohel  ", 
+                        " run out (Sumit Ruikar)  ", 
+                        "16", 
+                        "24", 
+                        "3", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player2": [
+                        "  Panchal (c)  ", 
+                        " lbw b Vishal Kushwah ", 
+                        "50", 
+                        "71", 
+                        "8", 
+                        "0", 
+                        "70.42"
+                    ], 
+                    "player3": [
+                        "  B Merai  ", 
+                        " c M Singh b Sumit Ruikar ", 
+                        "60", 
+                        "133", 
+                        "4", 
+                        "0", 
+                        "45.11"
+                    ], 
+                    "player4": [
+                        "  Juneja  ", 
+                        " c Shivendra Singh b Vishal Kushwah ", 
+                        "107", 
+                        "189", 
+                        "16", 
+                        "2", 
+                        "56.61"
+                    ], 
+                    "player5": [
+                        "  Rujul Bhatt  ", 
+                        " c Sanjeet Desai b Shivendra Singh ", 
+                        "48", 
+                        "114", 
+                        "3", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player6": [
+                        "  Dhruv Raval (wk)  ", 
+                        " not out ", 
+                        "116", 
+                        "204", 
+                        "13", 
+                        "1", 
+                        "56.86"
+                    ], 
+                    "player7": [
+                        "  Rush Kalaria  ", 
+                        " c Ashutosh b Shahnawaz ", 
+                        "5", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player8": [
+                        "  Chawla  ", 
+                        "  b Vishal Kushwah ", 
+                        "61", 
+                        "79", 
+                        "5", 
+                        "2", 
+                        "77.22"
+                    ], 
+                    "player9": [
+                        "  Chintan Gaja  ", 
+                        " not out ", 
+                        "59", 
+                        "61", 
+                        "5", 
+                        "4", 
+                        "96.72"
+                    ]
+                }, 
+                "batTeam": "Gujarat", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Rao  ", 
+                        "30", 
+                        "4", 
+                        "78", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player2": [
+                        "  Shahnawaz  ", 
+                        "26", 
+                        "3", 
+                        "97", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player3": [
+                        "  Vishal Kushwah  ", 
+                        "24", 
+                        "1", 
+                        "92", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player4": [
+                        "  Sumit Ruikar  ", 
+                        "32", 
+                        "3", 
+                        "124", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player5": [
+                        "  Harpreet Singh (c)  ", 
+                        "7", 
+                        "1", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player6": [
+                        "  Shivendra Singh  ", 
+                        "23", 
+                        "4", 
+                        "91", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player7": [
+                        "  Sahil Gupta  ", 
+                        "4", 
+                        "0", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "3", 
+                    "nb": "7", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "146", 
+                    "runs": "538", 
+                    "wickets": "7"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 55, 
+                        "teamScore": "21"
+                    }, 
+                    "player10": {
+                        "ballNo": 765, 
+                        "teamScore": "420"
+                    }, 
+                    "player2": {
+                        "ballNo": 63, 
+                        "teamScore": "21"
+                    }, 
+                    "player3": {
+                        "ballNo": 312, 
+                        "teamScore": "169"
+                    }, 
+                    "player4": {
+                        "ballNo": 341, 
+                        "teamScore": "182"
+                    }, 
+                    "player5": {
+                        "ballNo": 360, 
+                        "teamScore": "187"
+                    }, 
+                    "player6": {
+                        "ballNo": 378, 
+                        "teamScore": "188"
+                    }, 
+                    "player7": {
+                        "ballNo": 414, 
+                        "teamScore": "214"
+                    }, 
+                    "player8": {
+                        "ballNo": 705, 
+                        "teamScore": "391"
+                    }, 
+                    "player9": {
+                        "ballNo": 757, 
+                        "teamScore": "414"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sahil Gupta  ", 
+                        " c Dhruv Raval b Chintan Gaja ", 
+                        "11", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "32.35"
+                    ], 
+                    "player10": [
+                        "  Pankaj Rao  ", 
+                        " c Juneja b Chawla ", 
+                        "6", 
+                        "24", 
+                        "0", 
+                        "1", 
+                        "25.00"
+                    ], 
+                    "player11": [
+                        "  Shahnawaz  ", 
+                        " not out ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rishabh Tiwari  ", 
+                        " c Samit Gohel b Arzan Nagwaswalla ", 
+                        "9", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "36.00"
+                    ], 
+                    "player3": [
+                        "  Ashutosh  ", 
+                        " c B Merai b Siddharth Desai ", 
+                        "41", 
+                        "127", 
+                        "5", 
+                        "0", 
+                        "32.28"
+                    ], 
+                    "player4": [
+                        "  Harpreet Singh (c)  ", 
+                        "  c and b Rush Kalaria ", 
+                        "110", 
+                        "149", 
+                        "17", 
+                        "2", 
+                        "73.83"
+                    ], 
+                    "player5": [
+                        "  Sanjeet Desai  ", 
+                        " c Panchal b Siddharth Desai ", 
+                        "5", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "17.86"
+                    ], 
+                    "player6": [
+                        "  M Singh (wk)  ", 
+                        " c Panchal b Arzan Nagwaswalla ", 
+                        "0", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Vishal Kushwah  ", 
+                        " c Dhruv Raval b Arzan Nagwaswalla ", 
+                        "159", 
+                        "197", 
+                        "10", 
+                        "12", 
+                        "80.71"
+                    ], 
+                    "player8": [
+                        "  Sumit Ruikar  ", 
+                        " lbw b Arzan Nagwaswalla ", 
+                        "8", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player9": [
+                        "  Shivendra Singh  ", 
+                        " run out (Juneja)  ", 
+                        "52", 
+                        "147", 
+                        "7", 
+                        "1", 
+                        "35.37"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rush Kalaria  ", 
+                        "23", 
+                        "4", 
+                        "82", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player2": [
+                        "  Chintan Gaja  ", 
+                        "17", 
+                        "5", 
+                        "60", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Arzan Nagwaswalla  ", 
+                        "21", 
+                        "6", 
+                        "66", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Rujul Bhatt  ", 
+                        "8", 
+                        "2", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player5": [
+                        "  Siddharth Desai  ", 
+                        "33", 
+                        "7", 
+                        "86", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player6": [
+                        "  Chawla  ", 
+                        "25.3", 
+                        "4", 
+                        "103", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Gujarat", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "6", 
+                    "nb": "12", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "127.3", 
+                    "runs": "420", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 110, 
+                        "teamScore": "83"
+                    }, 
+                    "player2": {
+                        "ballNo": 114, 
+                        "teamScore": "84"
+                    }, 
+                    "player3": {
+                        "ballNo": 141, 
+                        "teamScore": "90"
+                    }, 
+                    "player4": {
+                        "ballNo": 187, 
+                        "teamScore": "108"
+                    }, 
+                    "player5": {
+                        "ballNo": 290, 
+                        "teamScore": "153"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samit Gohel  ", 
+                        " c M Singh b Pankaj Rao ", 
+                        "21", 
+                        "61", 
+                        "3", 
+                        "0", 
+                        "34.43"
+                    ], 
+                    "player2": [
+                        "  Priyank Panchal (c)  ", 
+                        " c M Singh b Pankaj Rao ", 
+                        "50", 
+                        "55", 
+                        "6", 
+                        "1", 
+                        "90.91"
+                    ], 
+                    "player3": [
+                        "  Bhargav Merai  ", 
+                        " c M Singh b Shivendra Singh ", 
+                        "4", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player4": [
+                        "  Manprit Juneja  ", 
+                        " not out ", 
+                        "50", 
+                        "98", 
+                        "2", 
+                        "2", 
+                        "51.02"
+                    ], 
+                    "player5": [
+                        "  Rujul Bhatt  ", 
+                        "  b Shivendra Singh ", 
+                        "7", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "26.92"
+                    ], 
+                    "player6": [
+                        "  Dhruv Raval (wk)  ", 
+                        " c (sub)Omkar Verma b Shahnawaz ", 
+                        "18", 
+                        "58", 
+                        "3", 
+                        "0", 
+                        "31.03"
+                    ], 
+                    "player7": [
+                        "  Rush Kalaria  ", 
+                        " not out ", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ]
+                }, 
+                "batTeam": "Gujarat", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Kumar Rao  ", 
+                        "15", 
+                        "5", 
+                        "31", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Shahnawaz Hussain  ", 
+                        "14.4", 
+                        "2", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Shivendra Singh  ", 
+                        "16", 
+                        "2", 
+                        "54", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player4": [
+                        "  Sumit Ruikar  ", 
+                        "7", 
+                        "0", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "12", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "52.4", 
+                    "runs": "167", 
+                    "wickets": "5"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T16:30:00", 
+                    "startDate": "2018-11-12T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Mehul Patel", 
+                            " Kshitij Patel  "
+                        ], 
+                        "playing11": [
+                            " Samit Gohel", 
+                            " Priyank Panchal (c)", 
+                            " Bhargav Merai", 
+                            " Dhruv Raval (wk)", 
+                            " Manprit Juneja", 
+                            " Rujul Bhatt", 
+                            " Piyush Chawla", 
+                            " Roosh Kalaria", 
+                            " Chintan Gaja", 
+                            " Arzan Nagwaswalla", 
+                            " Siddharth Desai  "
+                        ], 
+                        "teamName": "Gujarat\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Abhimanyu Chauhan", 
+                            " Omkar Verma  "
+                        ], 
+                        "playing11": [
+                            " Sahil Gupta", 
+                            " Rishabh Tiwari", 
+                            " Ashutosh Singh", 
+                            " Harpreet Singh (c)", 
+                            " Manoj Singh (wk)", 
+                            " Sanjeet Desai", 
+                            " Sumit Ruikar", 
+                            " Shivendra Singh", 
+                            " Pankaj Kumar Rao", 
+                            " Shahnawaz Hussain", 
+                            " Vishal Kushwah  "
+                        ], 
+                        "teamName": "Chhattisgarh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Gujarat", 
+                    "team2": "Chhattisgarh"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Gujarat"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Ajay Verma"
+                }, 
+                "venue": "Sardar Vallabhai Patel Stadium, Valsad"
+            }
+        }
+    ]
+}

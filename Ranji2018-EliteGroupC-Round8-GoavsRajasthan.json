@@ -1,0 +1,791 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 32, 
+                        "teamScore": "15"
+                    }, 
+                    "player10": {
+                        "ballNo": 480, 
+                        "teamScore": "244"
+                    }, 
+                    "player2": {
+                        "ballNo": 46, 
+                        "teamScore": "20"
+                    }, 
+                    "player3": {
+                        "ballNo": 118, 
+                        "teamScore": "62"
+                    }, 
+                    "player4": {
+                        "ballNo": 281, 
+                        "teamScore": "128"
+                    }, 
+                    "player5": {
+                        "ballNo": 310, 
+                        "teamScore": "158"
+                    }, 
+                    "player6": {
+                        "ballNo": 342, 
+                        "teamScore": "174"
+                    }, 
+                    "player7": {
+                        "ballNo": 378, 
+                        "teamScore": "192"
+                    }, 
+                    "player8": {
+                        "ballNo": 386, 
+                        "teamScore": "192"
+                    }, 
+                    "player9": {
+                        "ballNo": 440, 
+                        "teamScore": "215"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  SK Kamat (c)  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "9", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "45.00"
+                    ], 
+                    "player10": [
+                        "  Pandrekar  ", 
+                        " not out ", 
+                        "36", 
+                        "66", 
+                        "6", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player11": [
+                        "  Krishna Das  ", 
+                        " lbw b Lomror ", 
+                        "11", 
+                        "19", 
+                        "1", 
+                        "1", 
+                        "57.89"
+                    ], 
+                    "player2": [
+                        "  Sumiran Amonkar  ", 
+                        " c R Bishnoi b TM Ul-Haq ", 
+                        "6", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player3": [
+                        "  AS Desai  ", 
+                        " lbw b Rahul Chahar ", 
+                        "44", 
+                        "128", 
+                        "6", 
+                        "0", 
+                        "34.38"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " c Chetan Bist b Nathu Singh ", 
+                        "32", 
+                        "35", 
+                        "5", 
+                        "0", 
+                        "91.43"
+                    ], 
+                    "player5": [
+                        "  Snehal Kauthankar  ", 
+                        " run out (R Bist)  ", 
+                        "48", 
+                        "95", 
+                        "5", 
+                        "0", 
+                        "50.53"
+                    ], 
+                    "player6": [
+                        "  Suyash Prabhudessai  ", 
+                        " c Menaria b Rahul Chahar ", 
+                        "23", 
+                        "25", 
+                        "4", 
+                        "0", 
+                        "92.00"
+                    ], 
+                    "player7": [
+                        "  Darshan Misal  ", 
+                        " run out (Nathu Singh)  ", 
+                        "29", 
+                        "55", 
+                        "2", 
+                        "0", 
+                        "52.73"
+                    ], 
+                    "player8": [
+                        "  Samar Dubhashi (wk)  ", 
+                        " c R Bishnoi b Rahul Chahar ", 
+                        "6", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player9": [
+                        "  Lakshay Garg  ", 
+                        "  c and b Rahul Chahar ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  D Chahar  ", 
+                        "11", 
+                        "1", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "15", 
+                        "5", 
+                        "39", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Nathu Singh  ", 
+                        "14", 
+                        "4", 
+                        "40", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "23", 
+                        "3", 
+                        "86", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player5": [
+                        "  Lomror (c)  ", 
+                        "9", 
+                        "2", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player6": [
+                        "  Tajinder Singh  ", 
+                        "8", 
+                        "3", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "80", 
+                    "runs": "244", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 94, 
+                        "teamScore": "43"
+                    }, 
+                    "player2": {
+                        "ballNo": 260, 
+                        "teamScore": "150"
+                    }, 
+                    "player3": {
+                        "ballNo": 377, 
+                        "teamScore": "222"
+                    }, 
+                    "player4": {
+                        "ballNo": 627, 
+                        "teamScore": "358"
+                    }, 
+                    "player5": {
+                        "ballNo": 630, 
+                        "teamScore": "362"
+                    }, 
+                    "player6": {
+                        "ballNo": 709, 
+                        "teamScore": "422"
+                    }, 
+                    "player7": {
+                        "ballNo": 794, 
+                        "teamScore": "474"
+                    }, 
+                    "player8": {
+                        "ballNo": 800, 
+                        "teamScore": "475"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        "  b Amit Verma ", 
+                        "24", 
+                        "52", 
+                        "3", 
+                        "0", 
+                        "46.15"
+                    ], 
+                    "player10": [
+                        "  TM Ul-Haq  ", 
+                        " not out ", 
+                        "12", 
+                        "10", 
+                        "2", 
+                        "0", 
+                        "120.00"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " c Sumiran Amonkar b AS Desai ", 
+                        "63", 
+                        "122", 
+                        "5", 
+                        "2", 
+                        "51.64"
+                    ], 
+                    "player3": [
+                        "  Lomror (c)  ", 
+                        " c Suyash Prabhudessai b Krishna Das ", 
+                        "89", 
+                        "141", 
+                        "12", 
+                        "1", 
+                        "63.12"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        " not out ", 
+                        "169", 
+                        "265", 
+                        "11", 
+                        "4", 
+                        "63.77"
+                    ], 
+                    "player5": [
+                        "  Menaria  ", 
+                        "  b Lakshay Garg ", 
+                        "76", 
+                        "145", 
+                        "8", 
+                        "1", 
+                        "52.41"
+                    ], 
+                    "player6": [
+                        "  R Bishnoi  ", 
+                        " c SK Kamat b Lakshay Garg ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player7": [
+                        "  Tajinder Singh  ", 
+                        "  c and b AS Desai ", 
+                        "40", 
+                        "31", 
+                        "6", 
+                        "1", 
+                        "129.03"
+                    ], 
+                    "player8": [
+                        "  D Chahar  ", 
+                        " lbw b Darshan Misal ", 
+                        "32", 
+                        "53", 
+                        "4", 
+                        "1", 
+                        "60.38"
+                    ], 
+                    "player9": [
+                        "  Rahul Chahar  ", 
+                        "  b Lakshay Garg ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Krishna Das  ", 
+                        "19", 
+                        "1", 
+                        "64", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  Lakshay Garg  ", 
+                        "30", 
+                        "4", 
+                        "127", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player3": [
+                        "  Amit Verma  ", 
+                        "26", 
+                        "2", 
+                        "98", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player4": [
+                        "  Pandrekar  ", 
+                        "24", 
+                        "2", 
+                        "71", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  AS Desai  ", 
+                        "16", 
+                        "3", 
+                        "64", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player6": [
+                        "  Darshan Misal  ", 
+                        "21", 
+                        "0", 
+                        "78", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player7": [
+                        "  Suyash Prabhudessai  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "138", 
+                    "runs": "513", 
+                    "wickets": "8"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 8, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 415, 
+                        "teamScore": "295"
+                    }, 
+                    "player2": {
+                        "ballNo": 20, 
+                        "teamScore": "11"
+                    }, 
+                    "player3": {
+                        "ballNo": 274, 
+                        "teamScore": "186"
+                    }, 
+                    "player4": {
+                        "ballNo": 278, 
+                        "teamScore": "189"
+                    }, 
+                    "player5": {
+                        "ballNo": 297, 
+                        "teamScore": "199"
+                    }, 
+                    "player6": {
+                        "ballNo": 359, 
+                        "teamScore": "258"
+                    }, 
+                    "player7": {
+                        "ballNo": 375, 
+                        "teamScore": "271"
+                    }, 
+                    "player8": {
+                        "ballNo": 383, 
+                        "teamScore": "275"
+                    }, 
+                    "player9": {
+                        "ballNo": 394, 
+                        "teamScore": "276"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  SK Kamat (c)  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "96", 
+                        "139", 
+                        "15", 
+                        "0", 
+                        "69.06"
+                    ], 
+                    "player10": [
+                        "  Lakshay Garg  ", 
+                        " c R Bist b Rahul Chahar ", 
+                        "14", 
+                        "18", 
+                        "3", 
+                        "0", 
+                        "77.78"
+                    ], 
+                    "player11": [
+                        "  Krishna Das  ", 
+                        " not out ", 
+                        "5", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player2": [
+                        "  Sumiran Amonkar  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player3": [
+                        "  AS Desai  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " c Chetan Bist b Rahul Chahar ", 
+                        "118", 
+                        "173", 
+                        "15", 
+                        "1", 
+                        "68.21"
+                    ], 
+                    "player5": [
+                        "  Pandrekar  ", 
+                        " lbw b D Chahar ", 
+                        "3", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player6": [
+                        "  Snehal Kauthankar  ", 
+                        " c Chetan Bist b Rahul Chahar ", 
+                        "1", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "7.69"
+                    ], 
+                    "player7": [
+                        "  Suyash Prabhudessai  ", 
+                        " lbw b Rahul Chahar ", 
+                        "37", 
+                        "37", 
+                        "7", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player8": [
+                        "  Darshan Misal  ", 
+                        "  b TM Ul-Haq ", 
+                        "5", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player9": [
+                        "  Samar Dubhashi (wk)  ", 
+                        " c Chetan Bist b Rahul Chahar ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  D Chahar  ", 
+                        "8", 
+                        "1", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "22", 
+                        "4", 
+                        "87", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player3": [
+                        "  Nathu Singh  ", 
+                        "7", 
+                        "2", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "18.1", 
+                        "2", 
+                        "81", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player5": [
+                        "  Tajinder Singh  ", 
+                        "10", 
+                        "0", 
+                        "39", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player6": [
+                        "  Lomror (c)  ", 
+                        "4", 
+                        "1", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "2", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "69.1", 
+                    "runs": "295", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {}, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        " not out ", 
+                        "11", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "73.33"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " not out ", 
+                        "15", 
+                        "15", 
+                        "3", 
+                        "0", 
+                        "100.00"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Lakshay Garg  ", 
+                        "3", 
+                        "0", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player2": [
+                        "  Amit Verma  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "5", 
+                    "runs": "27", 
+                    "wickets": "0"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-02T16:30:00", 
+                    "startDate": "2018-12-30T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Felix Alemao", 
+                            " Vishamber Kahlon", 
+                            " Vijesh Prabhudessai", 
+                            " Keenan Vaz", 
+                            " Mohammad Asaduddin", 
+                            " Rajashekhar Harikant  "
+                        ], 
+                        "playing11": [
+                            " Sagun Kamat (c)", 
+                            " Sumiran Amonkar", 
+                            " Amogh Sunil Desai", 
+                            " Amit Verma", 
+                            " Snehal Suhas Kauthankar", 
+                            " Suyash Prabhudessai", 
+                            " Darshan Misal", 
+                            " Samar Shravan Dubhashi (wk)", 
+                            " Lakshay Garg ", 
+                            " Amulya Pandrekar", 
+                            " Krishna Das  "
+                        ], 
+                        "teamName": "Goa\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Salman Khan", 
+                            " Aniket Choudhary", 
+                            " Arjit Gupta", 
+                            " Manender Narender Singh", 
+                            " K Khaleel Ahmed  "
+                        ], 
+                        "playing11": [
+                            " Amitkumar Gautam", 
+                            " Chetan Bist (wk)", 
+                            " Mahipal Lomror (c)", 
+                            " Robin Bist", 
+                            " Ashok Menaria", 
+                            " Rajesh Bishnoi", 
+                            " Tajinder Singh", 
+                            " Deepak Chahar", 
+                            " Rahul Chahar", 
+                            " Tanveer Ul-Haq", 
+                            " Nathu Singh  "
+                        ], 
+                        "teamName": "Rajasthan\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Goa", 
+                    "team2": "Rajasthan"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Goa"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Manu Nayyar"
+                }, 
+                "venue": "Goa Cricket Association Academy Ground, Porvorim"
+            }
+        }
+    ]
+}

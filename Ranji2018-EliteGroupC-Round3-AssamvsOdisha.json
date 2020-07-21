@@ -1,0 +1,772 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 57, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 307, 
+                        "teamScore": "121"
+                    }, 
+                    "player2": {
+                        "ballNo": 79, 
+                        "teamScore": "18"
+                    }, 
+                    "player3": {
+                        "ballNo": 85, 
+                        "teamScore": "19"
+                    }, 
+                    "player4": {
+                        "ballNo": 156, 
+                        "teamScore": "46"
+                    }, 
+                    "player5": {
+                        "ballNo": 212, 
+                        "teamScore": "68"
+                    }, 
+                    "player6": {
+                        "ballNo": 221, 
+                        "teamScore": "69"
+                    }, 
+                    "player7": {
+                        "ballNo": 227, 
+                        "teamScore": "69"
+                    }, 
+                    "player8": {
+                        "ballNo": 279, 
+                        "teamScore": "103"
+                    }, 
+                    "player9": {
+                        "ballNo": 287, 
+                        "teamScore": "110"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Rishav Das  ", 
+                        " c G Poddar b Rajesh Mohanty ", 
+                        "14", 
+                        "42", 
+                        "3", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player10": [
+                        "  Mukhtar Hussain  ", 
+                        " c Sujit Lenka b Rajesh Mohanty ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player11": [
+                        "  Rahul Singh  ", 
+                        " not out ", 
+                        "6", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player2": [
+                        "  Aziz  ", 
+                        " c Sujit Lenka b Rajesh Mohanty ", 
+                        "3", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player3": [
+                        "  Sibsankar Roy  ", 
+                        " lbw b Samantray ", 
+                        "16", 
+                        "52", 
+                        "4", 
+                        "0", 
+                        "30.77"
+                    ], 
+                    "player4": [
+                        "  K Saikia (wk)  ", 
+                        " c Anurag Sarangi b Debabrata Pradhan ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player5": [
+                        "  Riyan Parag  ", 
+                        " lbw b Rajesh Mohanty ", 
+                        "24", 
+                        "70", 
+                        "3", 
+                        "1", 
+                        "34.29"
+                    ], 
+                    "player6": [
+                        "  A Sinha (c)  ", 
+                        " c Sujit Lenka b Rajesh Mohanty ", 
+                        "5", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player7": [
+                        "  Romario Sharma  ", 
+                        " c Rajesh Dhuper b Dhiraj Singh ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Arup Das  ", 
+                        " c G Poddar b Basant Mohanty ", 
+                        "16", 
+                        "23", 
+                        "2", 
+                        "1", 
+                        "69.57"
+                    ], 
+                    "player9": [
+                        "  Ranjit Mali  ", 
+                        " c Sujit Lenka b Debabrata Pradhan ", 
+                        "28", 
+                        "46", 
+                        "5", 
+                        "0", 
+                        "60.87"
+                    ]
+                }, 
+                "batTeam": "Assam", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Basant Mohanty  ", 
+                        "13", 
+                        "4", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player2": [
+                        "  Rajesh Mohanty  ", 
+                        "18", 
+                        "9", 
+                        "31", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player3": [
+                        "  Debabrata Pradhan  ", 
+                        "7.1", 
+                        "1", 
+                        "27", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player4": [
+                        "  Samantray (c)  ", 
+                        "5", 
+                        "3", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0.60"
+                    ], 
+                    "player5": [
+                        "  Dhiraj Singh  ", 
+                        "8", 
+                        "0", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ]
+                }, 
+                "bowlTeam": "Odisha", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "5", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "51.1", 
+                    "runs": "121", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 44, 
+                        "teamScore": "16"
+                    }, 
+                    "player10": {
+                        "ballNo": 512, 
+                        "teamScore": "240"
+                    }, 
+                    "player2": {
+                        "ballNo": 47, 
+                        "teamScore": "16"
+                    }, 
+                    "player3": {
+                        "ballNo": 103, 
+                        "teamScore": "45"
+                    }, 
+                    "player4": {
+                        "ballNo": 244, 
+                        "teamScore": "112"
+                    }, 
+                    "player5": {
+                        "ballNo": 365, 
+                        "teamScore": "158"
+                    }, 
+                    "player6": {
+                        "ballNo": 449, 
+                        "teamScore": "204"
+                    }, 
+                    "player7": {
+                        "ballNo": 450, 
+                        "teamScore": "204"
+                    }, 
+                    "player8": {
+                        "ballNo": 462, 
+                        "teamScore": "214"
+                    }, 
+                    "player9": {
+                        "ballNo": 493, 
+                        "teamScore": "228"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anurag Sarangi  ", 
+                        " c Riyan Parag b Ranjit Mali ", 
+                        "77", 
+                        "124", 
+                        "16", 
+                        "0", 
+                        "62.10"
+                    ], 
+                    "player10": [
+                        "  Basant Mohanty  ", 
+                        " c K Saikia b Arup Das ", 
+                        "10", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player11": [
+                        "  Dhiraj Singh  ", 
+                        " not out ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rajesh Dhuper  ", 
+                        " lbw b Mukhtar Hussain ", 
+                        "1", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "4.76"
+                    ], 
+                    "player3": [
+                        "  G Poddar  ", 
+                        "  b Mukhtar Hussain ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Subhranshu Senapati  ", 
+                        " c K Saikia b Mukhtar Hussain ", 
+                        "10", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player5": [
+                        "  Samantray (c)  ", 
+                        " lbw b Ranjit Mali ", 
+                        "62", 
+                        "189", 
+                        "9", 
+                        "0", 
+                        "32.80"
+                    ], 
+                    "player6": [
+                        "  Santanu Mishra  ", 
+                        "  b Ranjit Mali ", 
+                        "17", 
+                        "66", 
+                        "2", 
+                        "0", 
+                        "25.76"
+                    ], 
+                    "player7": [
+                        "  Sujit Lenka (wk)  ", 
+                        " c K Saikia b Ranjit Mali ", 
+                        "28", 
+                        "54", 
+                        "5", 
+                        "0", 
+                        "51.85"
+                    ], 
+                    "player8": [
+                        "  Rajesh Mohanty  ", 
+                        " c Sibsankar Roy b Ranjit Mali ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Debabrata Pradhan  ", 
+                        " lbw b Ranjit Mali ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Arup Das  ", 
+                        "24.2", 
+                        "10", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player2": [
+                        "  Ranjit Mali  ", 
+                        "30", 
+                        "9", 
+                        "80", 
+                        "6", 
+                        "0", 
+                        "1", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Mukhtar Hussain  ", 
+                        "22", 
+                        "6", 
+                        "75", 
+                        "3", 
+                        "8", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player4": [
+                        "  Riyan Parag  ", 
+                        "4", 
+                        "0", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player5": [
+                        "  Rahul Singh  ", 
+                        "5", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ]
+                }, 
+                "bowlTeam": "Assam", 
+                "extras": {
+                    "b": "10", 
+                    "lb": "16", 
+                    "nb": "8", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "85.2", 
+                    "runs": "240", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 34, 
+                        "teamScore": "19"
+                    }, 
+                    "player10": {
+                        "ballNo": 300, 
+                        "teamScore": "132"
+                    }, 
+                    "player2": {
+                        "ballNo": 77, 
+                        "teamScore": "33"
+                    }, 
+                    "player3": {
+                        "ballNo": 95, 
+                        "teamScore": "34"
+                    }, 
+                    "player4": {
+                        "ballNo": 107, 
+                        "teamScore": "41"
+                    }, 
+                    "player5": {
+                        "ballNo": 143, 
+                        "teamScore": "61"
+                    }, 
+                    "player6": {
+                        "ballNo": 216, 
+                        "teamScore": "86"
+                    }, 
+                    "player7": {
+                        "ballNo": 231, 
+                        "teamScore": "96"
+                    }, 
+                    "player8": {
+                        "ballNo": 288, 
+                        "teamScore": "131"
+                    }, 
+                    "player9": {
+                        "ballNo": 289, 
+                        "teamScore": "131"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Rishav Das  ", 
+                        " c Sujit Lenka b Debabrata Pradhan ", 
+                        "15", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "44.12"
+                    ], 
+                    "player10": [
+                        "  Mukhtar Hussain  ", 
+                        " not out ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player11": [
+                        "  Rahul Singh  ", 
+                        "  c and b Rajesh Mohanty ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Aziz  ", 
+                        "  b Rajesh Mohanty ", 
+                        "7", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "30.43"
+                    ], 
+                    "player3": [
+                        "  Sibsankar Roy  ", 
+                        " c Samantray b Debabrata Pradhan ", 
+                        "56", 
+                        "124", 
+                        "7", 
+                        "1", 
+                        "45.16"
+                    ], 
+                    "player4": [
+                        "  K Saikia (wk)  ", 
+                        " lbw b Rajesh Mohanty ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Riyan Parag  ", 
+                        " lbw b Rajesh Mohanty ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  A Sinha (c)  ", 
+                        " c Santanu Mishra b Rajesh Mohanty ", 
+                        "7", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player7": [
+                        "  Romario Sharma  ", 
+                        " c Samantray b Basant Mohanty ", 
+                        "7", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "18.92"
+                    ], 
+                    "player8": [
+                        "  Arup Das  ", 
+                        " run out (Debabrata Pradhan)  ", 
+                        "5", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player9": [
+                        "  Ranjit Mali  ", 
+                        " c Sujit Lenka b Rajesh Mohanty ", 
+                        "11", 
+                        "29", 
+                        "2", 
+                        "0", 
+                        "37.93"
+                    ]
+                }, 
+                "batTeam": "Assam", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Basant Mohanty  ", 
+                        "14", 
+                        "3", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player2": [
+                        "  Rajesh Mohanty  ", 
+                        "21", 
+                        "3", 
+                        "55", 
+                        "6", 
+                        "2", 
+                        "2", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Debabrata Pradhan  ", 
+                        "15", 
+                        "5", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "1", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Odisha", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "13", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "50", 
+                    "runs": "132", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 16, 
+                        "teamScore": "12"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anurag Sarangi  ", 
+                        "  c and b Mukhtar Hussain ", 
+                        "5", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player2": [
+                        "  Govinda Poddar  ", 
+                        " not out ", 
+                        "9", 
+                        "7", 
+                        "2", 
+                        "0", 
+                        "128.57"
+                    ], 
+                    "player3": [
+                        "  Rajesh Dhuper  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Arup Das  ", 
+                        "1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player2": [
+                        "  Ranjit Mali  ", 
+                        "1.3", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.70"
+                    ], 
+                    "player3": [
+                        "  Mukhtar Hussain  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Assam", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "3.3", 
+                    "runs": "16", 
+                    "wickets": "1"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-23T16:30:00", 
+                    "startDate": "2018-11-20T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 3", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Gokul Sharma", 
+                            " Wasiqur Rahman", 
+                            " Mrinmoy Dutta", 
+                            " Pallavkumar Das", 
+                            " Jitumoni Kalita  "
+                        ], 
+                        "playing11": [
+                            " Ranjit Mali", 
+                            " Mukhtar Hussain", 
+                            " Amit Sinha (c)", 
+                            " Riyan Parag", 
+                            " Arup Das", 
+                            " Parvez Aziz", 
+                            " Rishav Das", 
+                            " Sibsankar Roy", 
+                            " Romario Sharma", 
+                            " Kunal Saikia (wk)", 
+                            " Rahul Singh  "
+                        ], 
+                        "teamName": "Assam\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Sandeep Pattnaik", 
+                            " Pappu Roy", 
+                            " Abhishek Raut", 
+                            " Ranjit Singh", 
+                            " Suryakant Pradhan", 
+                            " Subham Nayak  "
+                        ], 
+                        "playing11": [
+                            " Govinda Poddar", 
+                            " Basant Mohanty", 
+                            " Anurag Sarangi", 
+                            " Biplab Samantray (c)", 
+                            " Subhranshu Senapati", 
+                            " Santanu Mishra", 
+                            " Rajesh Mohanty", 
+                            " Sujit Lenka (wk)", 
+                            " Debabrata Pradhan", 
+                            " Dhiraj Singh", 
+                            " Rajesh Dhuper  "
+                        ], 
+                        "teamName": "Odisha\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Assam", 
+                    "team2": "Odisha"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Odisha"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Rajan Seth"
+                }, 
+                "venue": "Barsapara Cricket Stadium, Guwahati"
+            }
+        }
+    ]
+}

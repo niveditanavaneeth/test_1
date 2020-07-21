@@ -1,0 +1,911 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 1, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 156, 
+                        "teamScore": "85"
+                    }, 
+                    "player2": {
+                        "ballNo": 24, 
+                        "teamScore": "25"
+                    }, 
+                    "player3": {
+                        "ballNo": 33, 
+                        "teamScore": "25"
+                    }, 
+                    "player4": {
+                        "ballNo": 38, 
+                        "teamScore": "27"
+                    }, 
+                    "player5": {
+                        "ballNo": 45, 
+                        "teamScore": "32"
+                    }, 
+                    "player6": {
+                        "ballNo": 96, 
+                        "teamScore": "49"
+                    }, 
+                    "player7": {
+                        "ballNo": 103, 
+                        "teamScore": "50"
+                    }, 
+                    "player8": {
+                        "ballNo": 122, 
+                        "teamScore": "58"
+                    }, 
+                    "player9": {
+                        "ballNo": 155, 
+                        "teamScore": "85"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prafullomani Singh (wk)  ", 
+                        " lbw b Licha Tehi ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Bishworjit Konthoujam  ", 
+                        " c Ketan Garg b Techi Doria ", 
+                        "13", 
+                        "19", 
+                        "1", 
+                        "1", 
+                        "68.42"
+                    ], 
+                    "player11": [
+                        "  Bobin Singh  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Hrithik Kanojia  ", 
+                        " c Techi Neri b Licha Tehi ", 
+                        "8", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player3": [
+                        "  Mayank Raghav  ", 
+                        " lbw b Deendyal ", 
+                        "17", 
+                        "16", 
+                        "4", 
+                        "0", 
+                        "106.25"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        " c Kamsha Yangfo b Deendyal ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Priyojit K Singh  ", 
+                        "  b Deendyal ", 
+                        "18", 
+                        "29", 
+                        "4", 
+                        "0", 
+                        "62.07"
+                    ], 
+                    "player6": [
+                        "  Samson Singh  ", 
+                        "  b Deendyal ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player7": [
+                        "  Iboyaima  ", 
+                        " lbw b Deendyal ", 
+                        "5", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player8": [
+                        "  Kabrambam Homendro  ", 
+                        "  b Licha Tehi ", 
+                        "2", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player9": [
+                        "  Thokchom Kishan  ", 
+                        " st Kamsha Yangfo b Techi Doria ", 
+                        "19", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "90.48"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "12", 
+                        "3", 
+                        "36", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Deendyal  ", 
+                        "12", 
+                        "4", 
+                        "38", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  Techi Neri  ", 
+                        "1", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ], 
+                    "player4": [
+                        "  Techi Doria  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Manipur", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "26", 
+                    "runs": "85", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 6, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 141, 
+                        "teamScore": "66"
+                    }, 
+                    "player2": {
+                        "ballNo": 29, 
+                        "teamScore": "7"
+                    }, 
+                    "player3": {
+                        "ballNo": 35, 
+                        "teamScore": "7"
+                    }, 
+                    "player4": {
+                        "ballNo": 38, 
+                        "teamScore": "11"
+                    }, 
+                    "player5": {
+                        "ballNo": 62, 
+                        "teamScore": "21"
+                    }, 
+                    "player6": {
+                        "ballNo": 106, 
+                        "teamScore": "35"
+                    }, 
+                    "player7": {
+                        "ballNo": 122, 
+                        "teamScore": "42"
+                    }, 
+                    "player8": {
+                        "ballNo": 126, 
+                        "teamScore": "45"
+                    }, 
+                    "player9": {
+                        "ballNo": 135, 
+                        "teamScore": "50"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Utsav Pankaj  ", 
+                        "  b Thokchom Kishan ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Licha Tehi  ", 
+                        "  b Thokchom Kishan ", 
+                        "6", 
+                        "3", 
+                        "0", 
+                        "1", 
+                        "200.00"
+                    ], 
+                    "player11": [
+                        "  Deendyal  ", 
+                        " not out ", 
+                        "10", 
+                        "4", 
+                        "2", 
+                        "0", 
+                        "250.00"
+                    ], 
+                    "player2": [
+                        "  Techi Doria  ", 
+                        "  b Thokchom Kishan ", 
+                        "5", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player3": [
+                        "  Neelam Obi  ", 
+                        "  b Bishworjit Konthoujam ", 
+                        "2", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "11.76"
+                    ], 
+                    "player4": [
+                        "  Nipun Malhotra  ", 
+                        " c Prafullomani Singh b Thokchom Kishan ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Kshitiz Sharma  ", 
+                        "  b Priyojit K Singh ", 
+                        "11", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "44.00"
+                    ], 
+                    "player6": [
+                        "  Kamsha Yangfo (c) (wk)  ", 
+                        " c Prafullomani Singh b Thokchom Kishan ", 
+                        "9", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player7": [
+                        "  Song Tacho  ", 
+                        " lbw b Bishworjit Konthoujam ", 
+                        "8", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "21.62"
+                    ], 
+                    "player8": [
+                        "  Ketan Garg  ", 
+                        " lbw b Bishworjit Konthoujam ", 
+                        "7", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "70.00"
+                    ], 
+                    "player9": [
+                        "  Techi Neri  ", 
+                        " lbw b Bishworjit Konthoujam ", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Thokchom Kishan  ", 
+                        "10.3", 
+                        "4", 
+                        "16", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player2": [
+                        "  Kabrambam Homendro  ", 
+                        "2", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Bishworjit Konthoujam  ", 
+                        "7", 
+                        "1", 
+                        "27", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player4": [
+                        "  Priyojit K Singh  ", 
+                        "4", 
+                        "1", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Manipur", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "23.3", 
+                    "runs": "66", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 18, 
+                        "teamScore": "27"
+                    }, 
+                    "player10": {
+                        "ballNo": 336, 
+                        "teamScore": "253"
+                    }, 
+                    "player2": {
+                        "ballNo": 46, 
+                        "teamScore": "56"
+                    }, 
+                    "player3": {
+                        "ballNo": 175, 
+                        "teamScore": "154"
+                    }, 
+                    "player4": {
+                        "ballNo": 241, 
+                        "teamScore": "208"
+                    }, 
+                    "player5": {
+                        "ballNo": 260, 
+                        "teamScore": "217"
+                    }, 
+                    "player6": {
+                        "ballNo": 266, 
+                        "teamScore": "217"
+                    }, 
+                    "player7": {
+                        "ballNo": 292, 
+                        "teamScore": "228"
+                    }, 
+                    "player8": {
+                        "ballNo": 309, 
+                        "teamScore": "247"
+                    }, 
+                    "player9": {
+                        "ballNo": 318, 
+                        "teamScore": "247"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Hrithik Kanojia  ", 
+                        " c Kshitiz Sharma b Licha Tehi ", 
+                        "91", 
+                        "119", 
+                        "12", 
+                        "1", 
+                        "76.47"
+                    ], 
+                    "player10": [
+                        "  Bishworjit Konthoujam  ", 
+                        "  c and b Techi Neri ", 
+                        "4", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "26.67"
+                    ], 
+                    "player11": [
+                        "  Bobin Singh  ", 
+                        " not out ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player2": [
+                        "  Prafullomani Singh (wk)  ", 
+                        "  b Licha Tehi ", 
+                        "25", 
+                        "14", 
+                        "6", 
+                        "0", 
+                        "178.57"
+                    ], 
+                    "player3": [
+                        "  Mayank Raghav  ", 
+                        "  b Deendyal ", 
+                        "13", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "92.86"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        " lbw b Techi Doria ", 
+                        "51", 
+                        "65", 
+                        "9", 
+                        "0", 
+                        "78.46"
+                    ], 
+                    "player5": [
+                        "  Priyojit K Singh  ", 
+                        " c Kamsha Yangfo b Licha Tehi ", 
+                        "24", 
+                        "35", 
+                        "3", 
+                        "0", 
+                        "68.57"
+                    ], 
+                    "player6": [
+                        "  Samson Singh  ", 
+                        " c Kamsha Yangfo b Deendyal ", 
+                        "6", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player7": [
+                        "  Iboyaima  ", 
+                        " lbw b Techi Doria ", 
+                        "1", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "5.26"
+                    ], 
+                    "player8": [
+                        "  Kabrambam Homendro  ", 
+                        " lbw b Techi Doria ", 
+                        "11", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "52.38"
+                    ], 
+                    "player9": [
+                        "  Thokchom Kishan  ", 
+                        "  b Techi Neri ", 
+                        "18", 
+                        "13", 
+                        "2", 
+                        "1", 
+                        "138.46"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "13", 
+                        "2", 
+                        "74", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "5.70"
+                    ], 
+                    "player2": [
+                        "  Deendyal  ", 
+                        "19", 
+                        "2", 
+                        "66", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Techi Doria  ", 
+                        "13", 
+                        "1", 
+                        "71", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player4": [
+                        "  Techi Neri  ", 
+                        "7", 
+                        "3", 
+                        "17", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player5": [
+                        "  Kshitiz Sharma  ", 
+                        "4", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ]
+                }, 
+                "bowlTeam": "Manipur", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "6", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "56", 
+                    "runs": "253", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 28, 
+                        "teamScore": "18"
+                    }, 
+                    "player10": {
+                        "ballNo": 225, 
+                        "teamScore": "160"
+                    }, 
+                    "player2": {
+                        "ballNo": 31, 
+                        "teamScore": "22"
+                    }, 
+                    "player3": {
+                        "ballNo": 40, 
+                        "teamScore": "35"
+                    }, 
+                    "player4": {
+                        "ballNo": 810, 
+                        "teamScore": "60"
+                    }, 
+                    "player5": {
+                        "ballNo": 96, 
+                        "teamScore": "64"
+                    }, 
+                    "player6": {
+                        "ballNo": 112, 
+                        "teamScore": "71"
+                    }, 
+                    "player7": {
+                        "ballNo": 116, 
+                        "teamScore": "72"
+                    }, 
+                    "player8": {
+                        "ballNo": 123, 
+                        "teamScore": "80"
+                    }, 
+                    "player9": {
+                        "ballNo": 129, 
+                        "teamScore": "86"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Techi Doria  ", 
+                        " lbw b Thokchom Kishan ", 
+                        "9", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "45.00"
+                    ], 
+                    "player10": [
+                        "  Licha Tehi  ", 
+                        " not out ", 
+                        "26", 
+                        "49", 
+                        "5", 
+                        "0", 
+                        "53.06"
+                    ], 
+                    "player11": [
+                        "  Deendyal  ", 
+                        "  b Thokchom Kishan ", 
+                        "52", 
+                        "50", 
+                        "9", 
+                        "0", 
+                        "104.00"
+                    ], 
+                    "player2": [
+                        "  Kamsha Yangfo (c) (wk)  ", 
+                        " lbw b Bishworjit Konthoujam ", 
+                        "9", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player3": [
+                        "  Neelam Obi  ", 
+                        " run out (Thokchom Kishan)  ", 
+                        "5", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        " c Prafullomani Singh b Iboyaima ", 
+                        "34", 
+                        "31", 
+                        "4", 
+                        "1", 
+                        "109.68"
+                    ], 
+                    "player5": [
+                        "  Nipun Malhotra  ", 
+                        " c Yashpal Singh b Priyojit K Singh ", 
+                        "10", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "30.30"
+                    ], 
+                    "player6": [
+                        "  Utsav Pankaj  ", 
+                        " c Prafullomani Singh b Priyojit K Singh ", 
+                        "2", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player7": [
+                        "  Song Tacho  ", 
+                        "  c and b Yashpal Singh ", 
+                        "4", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player8": [
+                        "  Ketan Garg  ", 
+                        " lbw b Priyojit K Singh ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Techi Neri  ", 
+                        " c Mayank Raghav b Bobin Singh ", 
+                        "5", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "83.33"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Thokchom Kishan  ", 
+                        "9.3", 
+                        "1", 
+                        "37", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player2": [
+                        "  Kabrambam Homendro  ", 
+                        "2", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player3": [
+                        "  Bishworjit Konthoujam  ", 
+                        "5", 
+                        "0", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "7.00"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        "8", 
+                        "1", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player5": [
+                        "  Priyojit K Singh  ", 
+                        "7", 
+                        "1", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player6": [
+                        "  Iboyaima  ", 
+                        "3", 
+                        "0", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player7": [
+                        "  Bobin Singh  ", 
+                        "3", 
+                        "0", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Manipur", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "37.3", 
+                    "runs": "160", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-25T15:45:00", 
+                    "startDate": "2018-12-22T08:45:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 7", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Lakhan Rawat  "
+                        ], 
+                        "playing11": [
+                            " Prafullomani Singh (wk)", 
+                            " Hrithik Kanojia", 
+                            " Mayank Raghav", 
+                            " Yashpal Singh (c)", 
+                            " Kangabam Singh", 
+                            " Samson Singh", 
+                            " Iboyaima", 
+                            " Homendro Meitei", 
+                            " Thokchom Kishan", 
+                            " Bishworjit Konthoujam", 
+                            " Bobin Singh  "
+                        ], 
+                        "teamName": "Manipur\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Tana Davit  "
+                        ], 
+                        "playing11": [
+                            " Utsav Pankaj", 
+                            " Techi Doria", 
+                            " Neelam Obi", 
+                            " Nipun Malhotra", 
+                            " Deendyal", 
+                            " Licha Tehi", 
+                            " Kamsha Yangfo (c & wk)", 
+                            " Ketan Garg", 
+                            " Techi Neri", 
+                            " Kshitiz Sharma", 
+                            " Song Tacho  "
+                        ], 
+                        "teamName": "Arunachal Pradesh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Manipur", 
+                    "team2": "Arunachal Pradesh"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Arunachal"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Pankaj Dharmani"
+                }, 
+                "venue": "Videocon Academy Ground, Saltair, Kolkata"
+            }
+        }
+    ]
+}

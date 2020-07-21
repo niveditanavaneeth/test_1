@@ -1,0 +1,852 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 26, 
+                        "teamScore": "19"
+                    }, 
+                    "player10": {
+                        "ballNo": 389, 
+                        "teamScore": "228"
+                    }, 
+                    "player2": {
+                        "ballNo": 44, 
+                        "teamScore": "24"
+                    }, 
+                    "player3": {
+                        "ballNo": 134, 
+                        "teamScore": "76"
+                    }, 
+                    "player4": {
+                        "ballNo": 202, 
+                        "teamScore": "128"
+                    }, 
+                    "player5": {
+                        "ballNo": 224, 
+                        "teamScore": "137"
+                    }, 
+                    "player6": {
+                        "ballNo": 274, 
+                        "teamScore": "161"
+                    }, 
+                    "player7": {
+                        "ballNo": 330, 
+                        "teamScore": "206"
+                    }, 
+                    "player8": {
+                        "ballNo": 383, 
+                        "teamScore": "228"
+                    }, 
+                    "player9": {
+                        "ballNo": 388, 
+                        "teamScore": "228"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Gupta  ", 
+                        " c Rajesh Bishnoi Jr b TM Ul-Haq ", 
+                        "54", 
+                        "119", 
+                        "8", 
+                        "0", 
+                        "45.38"
+                    ], 
+                    "player10": [
+                        "  S Pandey  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Akash Sharma  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Nakul Verma (wk)  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "11", 
+                        "13", 
+                        "2", 
+                        "0", 
+                        "84.62"
+                    ], 
+                    "player3": [
+                        "  Ravi Chauhan  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  R Paliwal (c)  ", 
+                        " c Tajinder Singh b Nathu Singh ", 
+                        "26", 
+                        "40", 
+                        "2", 
+                        "0", 
+                        "65.00"
+                    ], 
+                    "player5": [
+                        "  G Rahul Singh  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "28", 
+                        "32", 
+                        "5", 
+                        "0", 
+                        "87.50"
+                    ], 
+                    "player6": [
+                        "  Vikas Hathwala  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "49", 
+                        "61", 
+                        "7", 
+                        "0", 
+                        "80.33"
+                    ], 
+                    "player7": [
+                        "  Vikas Yadav  ", 
+                        " c Tajinder Singh b Nathu Singh ", 
+                        "6", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "20.69"
+                    ], 
+                    "player8": [
+                        "  Nitin Tanwar  ", 
+                        "  c and b Rahul Chahar ", 
+                        "26", 
+                        "56", 
+                        "4", 
+                        "0", 
+                        "46.43"
+                    ], 
+                    "player9": [
+                        "  Diwesh Pathania  ", 
+                        "  b Aniket Choudhary ", 
+                        "13", 
+                        "30", 
+                        "1", 
+                        "1", 
+                        "43.33"
+                    ]
+                }, 
+                "batTeam": "Services", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aniket Choudhary  ", 
+                        "18.5", 
+                        "4", 
+                        "59", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "20", 
+                        "4", 
+                        "61", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Nathu Singh  ", 
+                        "13", 
+                        "2", 
+                        "49", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "12", 
+                        "0", 
+                        "46", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player5": [
+                        "  Tajinder Singh  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "12", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "64.5", 
+                    "runs": "228", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 40, 
+                        "teamScore": "19"
+                    }, 
+                    "player10": {
+                        "ballNo": 337, 
+                        "teamScore": "136"
+                    }, 
+                    "player2": {
+                        "ballNo": 152, 
+                        "teamScore": "68"
+                    }, 
+                    "player3": {
+                        "ballNo": 158, 
+                        "teamScore": "69"
+                    }, 
+                    "player4": {
+                        "ballNo": 191, 
+                        "teamScore": "87"
+                    }, 
+                    "player5": {
+                        "ballNo": 208, 
+                        "teamScore": "92"
+                    }, 
+                    "player6": {
+                        "ballNo": 223, 
+                        "teamScore": "94"
+                    }, 
+                    "player7": {
+                        "ballNo": 293, 
+                        "teamScore": "116"
+                    }, 
+                    "player8": {
+                        "ballNo": 309, 
+                        "teamScore": "122"
+                    }, 
+                    "player9": {
+                        "ballNo": 317, 
+                        "teamScore": "127"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        " c R Paliwal b Diwesh Pathania ", 
+                        "1", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player10": [
+                        "  Rahul Chahar  ", 
+                        " c R Paliwal b S Pandey ", 
+                        "5", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "83.33"
+                    ], 
+                    "player11": [
+                        "  Nathu Singh  ", 
+                        " not out ", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "11.11"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " c Nakul Verma b S Pandey ", 
+                        "46", 
+                        "87", 
+                        "7", 
+                        "0", 
+                        "52.87"
+                    ], 
+                    "player3": [
+                        "  Lomror (c)  ", 
+                        " lbw b S Pandey ", 
+                        "28", 
+                        "61", 
+                        "5", 
+                        "0", 
+                        "45.90"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        " lbw b Diwesh Pathania ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player5": [
+                        "  Menaria  ", 
+                        " c R Paliwal b Diwesh Pathania ", 
+                        "5", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "17.86"
+                    ], 
+                    "player6": [
+                        "  Rajesh Bishnoi Jr  ", 
+                        " lbw b Akash Sharma ", 
+                        "5", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player7": [
+                        "  Tajinder Singh  ", 
+                        " c A Gupta b S Pandey ", 
+                        "18", 
+                        "38", 
+                        "3", 
+                        "0", 
+                        "47.37"
+                    ], 
+                    "player8": [
+                        "  TM Ul-Haq  ", 
+                        " c A Gupta b Vikas Yadav ", 
+                        "6", 
+                        "50", 
+                        "1", 
+                        "0", 
+                        "12.00"
+                    ], 
+                    "player9": [
+                        "  Aniket Choudhary  ", 
+                        " c R Paliwal b S Pandey ", 
+                        "12", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "66.67"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Diwesh Pathania  ", 
+                        "18", 
+                        "6", 
+                        "47", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player2": [
+                        "  Akash Sharma  ", 
+                        "11", 
+                        "4", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player3": [
+                        "  S Pandey  ", 
+                        "20.1", 
+                        "3", 
+                        "58", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Vikas Yadav  ", 
+                        "7", 
+                        "3", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.60"
+                    ]
+                }, 
+                "bowlTeam": "Services", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "3", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "56.1", 
+                    "runs": "136", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "8"
+                    }, 
+                    "player10": {
+                        "ballNo": 490, 
+                        "teamScore": "264"
+                    }, 
+                    "player2": {
+                        "ballNo": 29, 
+                        "teamScore": "14"
+                    }, 
+                    "player3": {
+                        "ballNo": 148, 
+                        "teamScore": "65"
+                    }, 
+                    "player4": {
+                        "ballNo": 192, 
+                        "teamScore": "87"
+                    }, 
+                    "player5": {
+                        "ballNo": 294, 
+                        "teamScore": "146"
+                    }, 
+                    "player6": {
+                        "ballNo": 435, 
+                        "teamScore": "245"
+                    }, 
+                    "player7": {
+                        "ballNo": 462, 
+                        "teamScore": "257"
+                    }, 
+                    "player8": {
+                        "ballNo": 474, 
+                        "teamScore": "259"
+                    }, 
+                    "player9": {
+                        "ballNo": 487, 
+                        "teamScore": "263"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Gupta  ", 
+                        " c Rahul Chahar b Aniket Choudhary ", 
+                        "7", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "41.18"
+                    ], 
+                    "player10": [
+                        "  S Pandey  ", 
+                        "  b Nathu Singh ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Akash Sharma  ", 
+                        " not out ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Nakul Verma (wk)  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "4", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player3": [
+                        "  Ravi Chauhan  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "30", 
+                        "70", 
+                        "4", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player4": [
+                        "  R Paliwal (c)  ", 
+                        " c Rajesh Bishnoi Jr b TM Ul-Haq ", 
+                        "32", 
+                        "80", 
+                        "4", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player5": [
+                        "  G Rahul Singh  ", 
+                        " lbw b Rahul Chahar ", 
+                        "107", 
+                        "152", 
+                        "17", 
+                        "1", 
+                        "70.39"
+                    ], 
+                    "player6": [
+                        "  Vikas Hathwala  ", 
+                        " c Chetan Bist b Nathu Singh ", 
+                        "22", 
+                        "37", 
+                        "4", 
+                        "0", 
+                        "59.46"
+                    ], 
+                    "player7": [
+                        "  Vikas Yadav  ", 
+                        " c (sub)Manender Singh b Nathu Singh ", 
+                        "51", 
+                        "98", 
+                        "7", 
+                        "0", 
+                        "52.04"
+                    ], 
+                    "player8": [
+                        "  Nitin Tanwar  ", 
+                        " c Amitkumar Gautam b Rahul Chahar ", 
+                        "5", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "29.41"
+                    ], 
+                    "player9": [
+                        "  Diwesh Pathania  ", 
+                        " c (sub)Manender Singh b Rahul Chahar ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Services", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aniket Choudhary  ", 
+                        "17", 
+                        "5", 
+                        "48", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "24", 
+                        "7", 
+                        "81", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player3": [
+                        "  Nathu Singh  ", 
+                        "23.4", 
+                        "5", 
+                        "76", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "15", 
+                        "2", 
+                        "45", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Tajinder Singh  ", 
+                        "2", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "81.4", 
+                    "runs": "264", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 462, 
+                        "teamScore": "170"
+                    }, 
+                    "player2": {
+                        "ballNo": 473, 
+                        "teamScore": "178"
+                    }, 
+                    "player3": {
+                        "ballNo": 581, 
+                        "teamScore": "230"
+                    }, 
+                    "player4": {
+                        "ballNo": 652, 
+                        "teamScore": "289"
+                    }, 
+                    "player5": {
+                        "ballNo": 704, 
+                        "teamScore": "332"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        " c Nakul Verma b Akash Sharma ", 
+                        "159", 
+                        "344", 
+                        "13", 
+                        "6", 
+                        "46.22"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " c Nakul Verma b Nitin Tanwar ", 
+                        "78", 
+                        "229", 
+                        "8", 
+                        "0", 
+                        "34.06"
+                    ], 
+                    "player3": [
+                        "  Mahipal Lomror (c)  ", 
+                        " c Nakul Verma b Nitin Tanwar ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player4": [
+                        "  Robin Bist  ", 
+                        "  b S Pandey ", 
+                        "30", 
+                        "59", 
+                        "3", 
+                        "1", 
+                        "50.85"
+                    ], 
+                    "player5": [
+                        "  Ashok Menaria  ", 
+                        " lbw b Nitin Tanwar ", 
+                        "36", 
+                        "38", 
+                        "4", 
+                        "1", 
+                        "94.74"
+                    ], 
+                    "player6": [
+                        "  Rajesh Bishnoi Jr  ", 
+                        " not out ", 
+                        "26", 
+                        "54", 
+                        "3", 
+                        "0", 
+                        "48.15"
+                    ], 
+                    "player7": [
+                        "  Tajinder Singh  ", 
+                        " not out ", 
+                        "10", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "43.48"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Diwesh Pathania  ", 
+                        "27", 
+                        "8", 
+                        "74", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Akash Sharma  ", 
+                        "23.3", 
+                        "5", 
+                        "65", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  Sachidanand Pandey  ", 
+                        "27", 
+                        "6", 
+                        "59", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player4": [
+                        "  Vikas Yadav  ", 
+                        "19", 
+                        "4", 
+                        "69", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player5": [
+                        "  Nitin Tanwar  ", 
+                        "29", 
+                        "3", 
+                        "82", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ]
+                }, 
+                "bowlTeam": "Services", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "6"
+                }, 
+                "total": {
+                    "overs": "125.3", 
+                    "runs": "357", 
+                    "wickets": "5"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T16:30:00", 
+                    "startDate": "2018-11-12T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Manender Narender Singh", 
+                            " Salman Khan", 
+                            " Arjit Gupta", 
+                            " Deepak Chahar  "
+                        ], 
+                        "playing11": [
+                            " Amitkumar Gautam", 
+                            " Chetan Bist (wk)", 
+                            " Mahipal Lomror (c)", 
+                            " Robin Bist", 
+                            " Ashok Menaria", 
+                            " Rajesh Bishnoi Jr", 
+                            " Tajinder Singh", 
+                            " Rahul Chahar", 
+                            " Tanveer Ul-Haq", 
+                            " Aniket Choudhary", 
+                            " Nathu Singh  "
+                        ], 
+                        "teamName": "Rajasthan\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Navneet Singh", 
+                            " Raushan Raj", 
+                            " Arun Bamal", 
+                            " Devender Lohchab", 
+                            " Mohit Ahlawat  "
+                        ], 
+                        "playing11": [
+                            " Nakul Harpal Verma (wk)", 
+                            " Anshul Gupta", 
+                            " Ravi Chauhan", 
+                            " Rajat Paliwal (c)", 
+                            " Gahlaut Rahul Singh", 
+                            " Vikas Hathwala", 
+                            " Vikas Yadav", 
+                            " Diwesh Pathania", 
+                            " Sachidanand Pandey", 
+                            " Nitin Tanwar", 
+                            " Akash Sharma  "
+                        ], 
+                        "teamName": "Services\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Rajasthan", 
+                    "team2": "Services"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Services"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sridharan Sharath"
+                }, 
+                "venue": "Sawai Mansingh Stadium, Jaipur"
+            }
+        }
+    ]
+}

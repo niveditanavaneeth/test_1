@@ -1,0 +1,847 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 7, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 508, 
+                        "teamScore": "293"
+                    }, 
+                    "player2": {
+                        "ballNo": 47, 
+                        "teamScore": "20"
+                    }, 
+                    "player3": {
+                        "ballNo": 256, 
+                        "teamScore": "103"
+                    }, 
+                    "player4": {
+                        "ballNo": 411, 
+                        "teamScore": "234"
+                    }, 
+                    "player5": {
+                        "ballNo": 451, 
+                        "teamScore": "255"
+                    }, 
+                    "player6": {
+                        "ballNo": 464, 
+                        "teamScore": "259"
+                    }, 
+                    "player7": {
+                        "ballNo": 483, 
+                        "teamScore": "267"
+                    }, 
+                    "player8": {
+                        "ballNo": 485, 
+                        "teamScore": "267"
+                    }, 
+                    "player9": {
+                        "ballNo": 503, 
+                        "teamScore": "283"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  J Singh  ", 
+                        " c Rajat Patidar b Avesh Khan ", 
+                        "124", 
+                        "216", 
+                        "15", 
+                        "0", 
+                        "57.41"
+                    ], 
+                    "player10": [
+                        "  S Kaul  ", 
+                        "  b Avesh Khan ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player11": [
+                        "  Barinder  ", 
+                        " not out ", 
+                        "4", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "400.00"
+                    ], 
+                    "player2": [
+                        "  Sanvir Singh  ", 
+                        " c Naman Ojha b Kuldeep Sen ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player3": [
+                        "  Anmolpreet Singh  ", 
+                        " c Naman Ojha b Avesh Khan ", 
+                        "2", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "9.52"
+                    ], 
+                    "player4": [
+                        "  Mandeep (c)  ", 
+                        " c Naman Ojha b I Pandey ", 
+                        "30", 
+                        "105", 
+                        "3", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player5": [
+                        "  Gurkeerat Singh  ", 
+                        " c Rajat Patidar b Kuldeep Sen ", 
+                        "66", 
+                        "80", 
+                        "6", 
+                        "3", 
+                        "82.50"
+                    ], 
+                    "player6": [
+                        "  Abhishek Sharma  ", 
+                        " c Mihir Hirwani b Kuldeep Sen ", 
+                        "41", 
+                        "64", 
+                        "4", 
+                        "2", 
+                        "64.06"
+                    ], 
+                    "player7": [
+                        "  Abhishek Gupta (wk)  ", 
+                        " c Naman Ojha b Avesh Khan ", 
+                        "4", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player8": [
+                        "  Markande  ", 
+                        " c Aryaman Birla b Kuldeep Sen ", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player9": [
+                        "  Vinay Choudhary  ", 
+                        " lbw b Kuldeep Sen ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Punjab", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  I Pandey  ", 
+                        "23", 
+                        "4", 
+                        "74", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player2": [
+                        "  Kuldeep Sen  ", 
+                        "19.4", 
+                        "4", 
+                        "62", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  Avesh Khan  ", 
+                        "21", 
+                        "3", 
+                        "77", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player4": [
+                        "  Mihir Hirwani  ", 
+                        "10", 
+                        "3", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  Saransh Jain  ", 
+                        "11", 
+                        "1", 
+                        "40", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "1", 
+                    "nb": "6", 
+                    "p": "0", 
+                    "wide": "4"
+                }, 
+                "total": {
+                    "overs": "84.4", 
+                    "runs": "293", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 191, 
+                        "teamScore": "67"
+                    }, 
+                    "player10": {
+                        "ballNo": 746, 
+                        "teamScore": "315"
+                    }, 
+                    "player2": {
+                        "ballNo": 229, 
+                        "teamScore": "79"
+                    }, 
+                    "player3": {
+                        "ballNo": 507, 
+                        "teamScore": "199"
+                    }, 
+                    "player4": {
+                        "ballNo": 530, 
+                        "teamScore": "212"
+                    }, 
+                    "player5": {
+                        "ballNo": 565, 
+                        "teamScore": "231"
+                    }, 
+                    "player6": {
+                        "ballNo": 651, 
+                        "teamScore": "277"
+                    }, 
+                    "player7": {
+                        "ballNo": 677, 
+                        "teamScore": "291"
+                    }, 
+                    "player8": {
+                        "ballNo": 714, 
+                        "teamScore": "305"
+                    }, 
+                    "player9": {
+                        "ballNo": 742, 
+                        "teamScore": "315"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Aryaman Birla  ", 
+                        " c Abhishek Gupta b Barinder ", 
+                        "31", 
+                        "92", 
+                        "4", 
+                        "0", 
+                        "33.70"
+                    ], 
+                    "player10": [
+                        "  Avesh Khan  ", 
+                        " run out (S Kaul)  ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  I Pandey  ", 
+                        " lbw b Markande ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  M Mishra  ", 
+                        "  b Markande ", 
+                        "34", 
+                        "118", 
+                        "2", 
+                        "0", 
+                        "28.81"
+                    ], 
+                    "player3": [
+                        "  Rajat Patidar  ", 
+                        " run out (Abhishek Gupta)  ", 
+                        "73", 
+                        "153", 
+                        "10", 
+                        "0", 
+                        "47.71"
+                    ], 
+                    "player4": [
+                        "  Naman Ojha (c) (wk)  ", 
+                        " c Anmolpreet Singh b Sanvir Singh ", 
+                        "51", 
+                        "155", 
+                        "2", 
+                        "1", 
+                        "32.90"
+                    ], 
+                    "player5": [
+                        "  Shubham Sharma  ", 
+                        " c Abhishek Gupta b Sanvir Singh ", 
+                        "22", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player6": [
+                        "  Yash Dubey  ", 
+                        " not out ", 
+                        "65", 
+                        "133", 
+                        "6", 
+                        "0", 
+                        "48.87"
+                    ], 
+                    "player7": [
+                        "  Saransh Jain  ", 
+                        " c Mandeep b Vinay Choudhary ", 
+                        "17", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "48.57"
+                    ], 
+                    "player8": [
+                        "  Mihir Hirwani  ", 
+                        " c Abhishek Gupta b Markande ", 
+                        "6", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "35.29"
+                    ], 
+                    "player9": [
+                        "  Kuldeep Sen  ", 
+                        " lbw b Markande ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  S Kaul  ", 
+                        "31", 
+                        "8", 
+                        "63", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  Barinder  ", 
+                        "24", 
+                        "2", 
+                        "69", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Sanvir Singh  ", 
+                        "27", 
+                        "7", 
+                        "56", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player4": [
+                        "  Mandeep (c)  ", 
+                        "4", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player5": [
+                        "  Markande  ", 
+                        "22.2", 
+                        "1", 
+                        "70", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player6": [
+                        "  Vinay Choudhary  ", 
+                        "10", 
+                        "1", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player7": [
+                        "  Gurkeerat Singh  ", 
+                        "3", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player8": [
+                        "  Abhishek Sharma  ", 
+                        "3", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "3", 
+                    "nb": "6", 
+                    "p": "0", 
+                    "wide": "6"
+                }, 
+                "total": {
+                    "overs": "124.2", 
+                    "runs": "315", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 148, 
+                        "teamScore": "104"
+                    }, 
+                    "player2": {
+                        "ballNo": 185, 
+                        "teamScore": "131"
+                    }, 
+                    "player3": {
+                        "ballNo": 228, 
+                        "teamScore": "153"
+                    }, 
+                    "player4": {
+                        "ballNo": 261, 
+                        "teamScore": "177"
+                    }, 
+                    "player5": {
+                        "ballNo": 281, 
+                        "teamScore": "188"
+                    }, 
+                    "player6": {
+                        "ballNo": 352, 
+                        "teamScore": "217"
+                    }, 
+                    "player7": {
+                        "ballNo": 354, 
+                        "teamScore": "223"
+                    }, 
+                    "player8": {
+                        "ballNo": 393, 
+                        "teamScore": "245"
+                    }, 
+                    "player9": {
+                        "ballNo": 408, 
+                        "teamScore": "265"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  J Singh  ", 
+                        " lbw b I Pandey ", 
+                        "39", 
+                        "109", 
+                        "5", 
+                        "0", 
+                        "35.78"
+                    ], 
+                    "player10": [
+                        "  Vinay Choudhary  ", 
+                        " c Naman Ojha b I Pandey ", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player2": [
+                        "  Abhishek Sharma  ", 
+                        " lbw b I Pandey ", 
+                        "78", 
+                        "61", 
+                        "10", 
+                        "2", 
+                        "127.87"
+                    ], 
+                    "player3": [
+                        "  Anmolpreet Singh  ", 
+                        " c Naman Ojha b Kuldeep Sen ", 
+                        "15", 
+                        "40", 
+                        "3", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player4": [
+                        "  Mandeep (c)  ", 
+                        " not out ", 
+                        "65", 
+                        "99", 
+                        "4", 
+                        "3", 
+                        "65.66"
+                    ], 
+                    "player5": [
+                        "  Gurkeerat Singh  ", 
+                        " c Aryaman Birla b Kuldeep Sen ", 
+                        "12", 
+                        "15", 
+                        "1", 
+                        "1", 
+                        "80.00"
+                    ], 
+                    "player6": [
+                        "  Sanvir Singh  ", 
+                        " c Aryaman Birla b Avesh Khan ", 
+                        "7", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "53.85"
+                    ], 
+                    "player7": [
+                        "  Abhishek Gupta (wk)  ", 
+                        " c I Pandey b Avesh Khan ", 
+                        "10", 
+                        "38", 
+                        "2", 
+                        "0", 
+                        "26.32"
+                    ], 
+                    "player8": [
+                        "  Barinder  ", 
+                        " c Mihir Hirwani b Avesh Khan ", 
+                        "6", 
+                        "2", 
+                        "0", 
+                        "1", 
+                        "300.00"
+                    ], 
+                    "player9": [
+                        "  Markande  ", 
+                        "  b I Pandey ", 
+                        "16", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "59.26"
+                    ]
+                }, 
+                "batTeam": "Punjab", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  I Pandey  ", 
+                        "23", 
+                        "5", 
+                        "59", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player2": [
+                        "  Avesh Khan  ", 
+                        "23", 
+                        "6", 
+                        "85", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player3": [
+                        "  Kuldeep Sen  ", 
+                        "17", 
+                        "3", 
+                        "74", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player4": [
+                        "  Saransh Jain  ", 
+                        "2", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.50"
+                    ], 
+                    "player5": [
+                        "  Mihir Hirwani  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "9", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "68", 
+                    "runs": "265", 
+                    "wickets": "9"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 1, 
+                        "teamScore": "0"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Aryaman Birla  ", 
+                        " lbw b S Kaul ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Mohnish Mishra  ", 
+                        " not out ", 
+                        "34", 
+                        "104", 
+                        "1", 
+                        "1", 
+                        "32.69"
+                    ], 
+                    "player3": [
+                        "  Rajat Patidar  ", 
+                        " not out ", 
+                        "25", 
+                        "107", 
+                        "3", 
+                        "0", 
+                        "23.36"
+                    ]
+                }, 
+                "batTeam": "MP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Siddarth Kaul  ", 
+                        "8", 
+                        "4", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player2": [
+                        "  Sanvir Singh  ", 
+                        "6", 
+                        "1", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player3": [
+                        "  Barinder Sran  ", 
+                        "6", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player4": [
+                        "  Vinay Choudhary  ", 
+                        "4", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player5": [
+                        "  Mayank Markande  ", 
+                        "6", 
+                        "4", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.50"
+                    ], 
+                    "player6": [
+                        "  Gurkeerat Singh Mann  ", 
+                        "4", 
+                        "0", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player7": [
+                        "  Jiwanjot Singh  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "5"
+                }, 
+                "total": {
+                    "overs": "35", 
+                    "runs": "67", 
+                    "wickets": "1"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-23T16:30:00", 
+                    "startDate": "2018-11-20T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 3", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Ankit Dane", 
+                            " Ankit Sharma", 
+                            " Anshul Tripathi", 
+                            " Venkatesh Iyer", 
+                            " Gaurav Yadav  "
+                        ], 
+                        "playing11": [
+                            " Aryaman Birla", 
+                            " Rajat Patidar", 
+                            " Naman Ojha (c & wk)", 
+                            " Shubham Sharma", 
+                            " Yash Dubey", 
+                            " Mohnish Mishra", 
+                            " Mihir Hirwani", 
+                            " Ishwar Pandey", 
+                            " Saransh Jain", 
+                            " Avesh Khan", 
+                            " Kuldeep Sen  "
+                        ], 
+                        "teamName": "Madhya Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Arpit Pannu", 
+                            " Shubek Gill", 
+                            " Baltej Singh", 
+                            " Sharad Lumba  "
+                        ], 
+                        "playing11": [
+                            " Abhishek Sharma", 
+                            " Jiwanjot Singh", 
+                            " Anmolpreet Singh", 
+                            " Mandeep Singh (c)", 
+                            " Gurkeerat Singh Mann", 
+                            " Sanvir Singh", 
+                            " Abhishek Gupta (wk)", 
+                            " Mayank Markande", 
+                            " Siddarth Kaul", 
+                            " Barinder Sran", 
+                            " Vinay Choudhary  "
+                        ], 
+                        "teamName": "Punjab\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Madhya Pradesh", 
+                    "team2": "Punjab"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Punjab"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Valmik Nalinkant Buch"
+                }, 
+                "venue": "Holkar Cricket Stadium, Indore"
+            }
+        }
+    ]
+}

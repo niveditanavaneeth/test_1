@@ -1,0 +1,775 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 41, 
+                        "teamScore": "25"
+                    }, 
+                    "player10": {
+                        "ballNo": 557, 
+                        "teamScore": "465"
+                    }, 
+                    "player2": {
+                        "ballNo": 54, 
+                        "teamScore": "28"
+                    }, 
+                    "player3": {
+                        "ballNo": 325, 
+                        "teamScore": "311"
+                    }, 
+                    "player4": {
+                        "ballNo": 407, 
+                        "teamScore": "384"
+                    }, 
+                    "player5": {
+                        "ballNo": 417, 
+                        "teamScore": "385"
+                    }, 
+                    "player6": {
+                        "ballNo": 443, 
+                        "teamScore": "400"
+                    }, 
+                    "player7": {
+                        "ballNo": 508, 
+                        "teamScore": "438"
+                    }, 
+                    "player8": {
+                        "ballNo": 515, 
+                        "teamScore": "439"
+                    }, 
+                    "player9": {
+                        "ballNo": 556, 
+                        "teamScore": "465"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Tare (wk)  ", 
+                        " lbw b Hardik Pandya ", 
+                        "15", 
+                        "30", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player10": [
+                        "  Badre Alam  ", 
+                        " not out ", 
+                        "9", 
+                        "13", 
+                        "2", 
+                        "0", 
+                        "69.23"
+                    ], 
+                    "player11": [
+                        "  Dias  ", 
+                        " c Y Pathan b Hardik Pandya ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Vilas Auti  ", 
+                        " c Mitesh Patel b Hardik Pandya ", 
+                        "12", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "63.16"
+                    ], 
+                    "player3": [
+                        "  S Lad (c)  ", 
+                        " c Shivalik Sharma b B Bhatt ", 
+                        "130", 
+                        "173", 
+                        "12", 
+                        "2", 
+                        "75.14"
+                    ], 
+                    "player4": [
+                        "  Shreyas Iyer  ", 
+                        " c V Solanki b Y Pathan ", 
+                        "178", 
+                        "139", 
+                        "17", 
+                        "11", 
+                        "128.06"
+                    ], 
+                    "player5": [
+                        "  Shubham Ranjane  ", 
+                        " c K Devdhar b B Bhatt ", 
+                        "42", 
+                        "56", 
+                        "5", 
+                        "1", 
+                        "75.00"
+                    ], 
+                    "player6": [
+                        "  Eknath Kerkar  ", 
+                        "  b B Bhatt ", 
+                        "6", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player7": [
+                        "  Shivam Dube  ", 
+                        "  b Hardik Pandya ", 
+                        "37", 
+                        "45", 
+                        "5", 
+                        "1", 
+                        "82.22"
+                    ], 
+                    "player8": [
+                        "  Akash Parkar  ", 
+                        " c Mitesh Patel b Hardik Pandya ", 
+                        "22", 
+                        "63", 
+                        "3", 
+                        "0", 
+                        "34.92"
+                    ], 
+                    "player9": [
+                        "  Karsh Kothari  ", 
+                        " c A Waghmode b B Bhatt ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Hardik Pandya  ", 
+                        "18.5", 
+                        "1", 
+                        "81", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player2": [
+                        "  R Arothe  ", 
+                        "14", 
+                        "0", 
+                        "77", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player3": [
+                        "  L Meriwala  ", 
+                        "17", 
+                        "0", 
+                        "75", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player4": [
+                        "  V Solanki  ", 
+                        "2", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ], 
+                    "player5": [
+                        "  B Bhatt  ", 
+                        "17", 
+                        "3", 
+                        "76", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player6": [
+                        "  Swapnil Singh  ", 
+                        "14", 
+                        "0", 
+                        "82", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.90"
+                    ], 
+                    "player7": [
+                        "  Y Pathan  ", 
+                        "10", 
+                        "0", 
+                        "53", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ]
+                }, 
+                "bowlTeam": "Baroda", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "4", 
+                    "nb": "6", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "92.5", 
+                    "runs": "465", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 7, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 876, 
+                        "teamScore": "436"
+                    }, 
+                    "player2": {
+                        "ballNo": 535, 
+                        "teamScore": "265"
+                    }, 
+                    "player3": {
+                        "ballNo": 612, 
+                        "teamScore": "307"
+                    }, 
+                    "player4": {
+                        "ballNo": 730, 
+                        "teamScore": "351"
+                    }, 
+                    "player5": {
+                        "ballNo": 741, 
+                        "teamScore": "359"
+                    }, 
+                    "player6": {
+                        "ballNo": 753, 
+                        "teamScore": "363"
+                    }, 
+                    "player7": {
+                        "ballNo": 828, 
+                        "teamScore": "379"
+                    }, 
+                    "player8": {
+                        "ballNo": 866, 
+                        "teamScore": "432"
+                    }, 
+                    "player9": {
+                        "ballNo": 867, 
+                        "teamScore": "432"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  K Devdhar (c)  ", 
+                        " lbw b Shivam Dube ", 
+                        "11", 
+                        "8", 
+                        "2", 
+                        "0", 
+                        "137.50"
+                    ], 
+                    "player10": [
+                        "  R Arothe  ", 
+                        "  b Akash Parkar ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  L Meriwala  ", 
+                        " not out ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  A Waghmode  ", 
+                        " c (sub)Dhrumil Matkar b Dias ", 
+                        "114", 
+                        "304", 
+                        "12", 
+                        "2", 
+                        "37.50"
+                    ], 
+                    "player3": [
+                        "  V Solanki  ", 
+                        " lbw b Dias ", 
+                        "133", 
+                        "254", 
+                        "17", 
+                        "0", 
+                        "52.36"
+                    ], 
+                    "player4": [
+                        "  Shivalik Sharma  ", 
+                        " c Tare b Shubham Ranjane ", 
+                        "51", 
+                        "102", 
+                        "7", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Hardik Pandya  ", 
+                        " c Tare b Dias ", 
+                        "73", 
+                        "137", 
+                        "9", 
+                        "1", 
+                        "53.28"
+                    ], 
+                    "player6": [
+                        "  Y Pathan  ", 
+                        " c S Lad b Shubham Ranjane ", 
+                        "8", 
+                        "5", 
+                        "0", 
+                        "1", 
+                        "160.00"
+                    ], 
+                    "player7": [
+                        "  Swapnil Singh  ", 
+                        " c Tare b Shubham Ranjane ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Mitesh Patel (wk)  ", 
+                        " c Shreyas Iyer b Dias ", 
+                        "6", 
+                        "41", 
+                        "1", 
+                        "0", 
+                        "14.63"
+                    ], 
+                    "player9": [
+                        "  B Bhatt  ", 
+                        " c Shubham Ranjane b Akash Parkar ", 
+                        "15", 
+                        "19", 
+                        "3", 
+                        "0", 
+                        "78.95"
+                    ]
+                }, 
+                "batTeam": "Baroda", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Dias  ", 
+                        "31", 
+                        "9", 
+                        "99", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player2": [
+                        "  Shivam Dube  ", 
+                        "30", 
+                        "8", 
+                        "100", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Badre Alam  ", 
+                        "19", 
+                        "2", 
+                        "54", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Akash Parkar  ", 
+                        "25", 
+                        "7", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player5": [
+                        "  Karsh Kothari  ", 
+                        "13", 
+                        "1", 
+                        "49", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player6": [
+                        "  Shubham Ranjane  ", 
+                        "23", 
+                        "8", 
+                        "62", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player7": [
+                        "  Vilas Auti  ", 
+                        "3", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player8": [
+                        "  Shreyas Iyer  ", 
+                        "2", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ]
+                }, 
+                "bowlTeam": "Mumbai", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "4", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "11"
+                }, 
+                "total": {
+                    "overs": "146", 
+                    "runs": "436", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 38, 
+                        "teamScore": "11"
+                    }, 
+                    "player2": {
+                        "ballNo": 49, 
+                        "teamScore": "11"
+                    }, 
+                    "player3": {
+                        "ballNo": 79, 
+                        "teamScore": "28"
+                    }, 
+                    "player4": {
+                        "ballNo": 161, 
+                        "teamScore": "75"
+                    }, 
+                    "player5": {
+                        "ballNo": 289, 
+                        "teamScore": "144"
+                    }, 
+                    "player6": {
+                        "ballNo": 355, 
+                        "teamScore": "180"
+                    }, 
+                    "player7": {
+                        "ballNo": 481, 
+                        "teamScore": "295"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Aditya Tare (wk)  ", 
+                        " c Mitesh Patel b Hardik Pandya ", 
+                        "8", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "34.78"
+                    ], 
+                    "player2": [
+                        "  Vilas Auti  ", 
+                        " c A Waghmode b V Solanki ", 
+                        "42", 
+                        "119", 
+                        "4", 
+                        "0", 
+                        "35.29"
+                    ], 
+                    "player3": [
+                        "  Karsh Kothari  ", 
+                        "  b Hardik Pandya ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Siddhesh Lad (c)  ", 
+                        " c Mitesh Patel b L Meriwala ", 
+                        "9", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "40.91"
+                    ], 
+                    "player5": [
+                        "  Shreyas Iyer  ", 
+                        " c L Meriwala b R Arothe ", 
+                        "30", 
+                        "45", 
+                        "6", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player6": [
+                        "  Shubham Ranjane  ", 
+                        "  b B Bhatt ", 
+                        "64", 
+                        "105", 
+                        "6", 
+                        "2", 
+                        "60.95"
+                    ], 
+                    "player7": [
+                        "  Eknath Kerkar  ", 
+                        " not out ", 
+                        "56", 
+                        "115", 
+                        "6", 
+                        "0", 
+                        "48.70"
+                    ], 
+                    "player8": [
+                        "  Shivam Dube  ", 
+                        " c Mitesh Patel b R Arothe ", 
+                        "76", 
+                        "60", 
+                        "3", 
+                        "7", 
+                        "126.67"
+                    ], 
+                    "player9": [
+                        "  Akash Parkar  ", 
+                        " not out ", 
+                        "8", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "72.73"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Hardik Pandya  ", 
+                        "10", 
+                        "4", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Lukman Meriwala  ", 
+                        "17.5", 
+                        "4", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Bhargav Bhatt  ", 
+                        "19", 
+                        "3", 
+                        "71", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player4": [
+                        "  Rishi Arothe  ", 
+                        "13", 
+                        "1", 
+                        "51", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player5": [
+                        "  Vishnu Solanki  ", 
+                        "9", 
+                        "1", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player6": [
+                        "  Aditya Waghmode  ", 
+                        "0.1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Yusuf Pathan  ", 
+                        "2", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player8": [
+                        "  Swapnil Singh  ", 
+                        "12", 
+                        "1", 
+                        "62", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player9": [
+                        "  Shivalik Sharma  ", 
+                        "1", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Baroda", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "9", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "84", 
+                    "runs": "307", 
+                    "wickets": "7"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-17T16:30:00", 
+                    "startDate": "2018-12-14T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 6", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Dhawal Kulkarni", 
+                            " Jay Gokul Bista", 
+                            " Suryakumar Yadav", 
+                            " Akhil Herwadkar", 
+                            " Tushar Deshpande", 
+                            " Ashay Sardesai", 
+                            " Shivam Malhotra", 
+                            " Armaan Jaffer", 
+                            " Dhrumil Matkar", 
+                            " Minad Manjrekar  "
+                        ], 
+                        "playing11": [
+                            " Shreyas Iyer", 
+                            " Siddhesh Lad (c)", 
+                            " Aditya Tare (wk)", 
+                            " Eknath Kerkar", 
+                            " Shivam Dube", 
+                            " Akash Parkar", 
+                            " Karsh Kothari", 
+                            " Royston Dias", 
+                            " Badrey Alam", 
+                            " Shubham Ranjane", 
+                            " Vikrant Auti  "
+                        ], 
+                        "teamName": "Mumbai\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Deepak Hooda", 
+                            " Sagar Mangalorkar", 
+                            " Babashafi Pathan", 
+                            " Pratyush Kumar", 
+                            " Atit Sheth", 
+                            " Pinal Shah", 
+                            " Soaeb Tai  "
+                        ], 
+                        "playing11": [
+                            " Kedar Devdhar (c)", 
+                            " Lukman Meriwala", 
+                            " Yusuf Pathan", 
+                            " Mitesh Patel (wk)", 
+                            " Vishnu Solanki", 
+                            " Hardik Pandya", 
+                            " Swapnil Singh", 
+                            " Rishi Arothe", 
+                            " Bhargav Bhatt", 
+                            " Aditya Waghmode", 
+                            " Shivalik Sharma  "
+                        ], 
+                        "teamName": "Baroda\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Mumbai", 
+                    "team2": "Baroda"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Baroda"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Shakti Singh"
+                }, 
+                "venue": "Wankhede Stadium, Mumbai"
+            }
+        }
+    ]
+}

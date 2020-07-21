@@ -1,0 +1,201 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 57, 
+                        "teamScore": "9"
+                    }, 
+                    "player2": {
+                        "ballNo": 59, 
+                        "teamScore": "12"
+                    }, 
+                    "player3": {
+                        "ballNo": 76, 
+                        "teamScore": "20"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        " c Kartik b Dhanraj Sharma ", 
+                        "6", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "21.43"
+                    ], 
+                    "player2": [
+                        "  Saiju Titus  ", 
+                        "  b Dhanraj Sharma ", 
+                        "1", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "3.23"
+                    ], 
+                    "player3": [
+                        "  Sai Karthik (wk)  ", 
+                        " not out ", 
+                        "10", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player4": [
+                        "  D Rohit (c)  ", 
+                        " c R Bhatia b Deepak Dhapola ", 
+                        "2", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player5": [
+                        "  Paras Dogra  ", 
+                        " not out ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "PDC", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Deepak Dhapola  ", 
+                        "7", 
+                        "3", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.30"
+                    ], 
+                    "player2": [
+                        "  Sunny Rana  ", 
+                        "3", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player3": [
+                        "  Dhanraj Sharma  ", 
+                        "5", 
+                        "3", 
+                        "7", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "15", 
+                    "runs": "23", 
+                    "wickets": "3"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-25T16:30:00", 
+                    "startDate": "2018-12-22T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 7", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Sashi Kumar", 
+                            " Abdul Safar", 
+                            " B Ranjit", 
+                            " Govindaraajan", 
+                            " Ashith Rajiv", 
+                            " Shashank Singh", 
+                            " Sarag Udheshi", 
+                            " Parikshit Valsangkar", 
+                            " Prabhakaran Gopalakrishnan", 
+                            " Narayanan", 
+                            " Magendiran Chinnadurai", 
+                            " Nikhilesh Surendran", 
+                            " Abhishek Nayar", 
+                            " Sagar Trivedi", 
+                            " Iqlas Naha", 
+                            " Akshay Jain", 
+                            " Pawan Kumar", 
+                            " Vengadeshwaran", 
+                            " Saju Chothan", 
+                            " Abhijeet Saranath", 
+                            " Santhosh Kumaran  "
+                        ], 
+                        "playing11": [
+                            " Vikneshwaran Marimuthu", 
+                            " Saiju Titus", 
+                            " Sai Karthik (wk)", 
+                            " D Rohit (c)", 
+                            " Paras Dogra", 
+                            " Madhavan Manohar", 
+                            " Pankaj Singh", 
+                            " Thalaivan Sargunam", 
+                            " Fabid Ahmed", 
+                            " Prashanth Varma", 
+                            " Raiphi Gomez  "
+                        ], 
+                        "teamName": "Puducherry\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Mayank Mishra", 
+                            " Shivam Khurana", 
+                            " Kartik Joshi", 
+                            " Sunny Kashyap", 
+                            " Piyush Joshi", 
+                            " Girish Rauturi  "
+                        ], 
+                        "playing11": [
+                            " Deepak Dhapola", 
+                            " Dhanraj Sharma", 
+                            " Kartik", 
+                            " Sunny Rana", 
+                            " Rajat Bhatia (c)", 
+                            " Vaibhav Bhatt (wk)", 
+                            " Karn Veer Kaushal", 
+                            " Vaibhav Singh", 
+                            " Malolan Rangarajan", 
+                            " Saurabh Rawat", 
+                            " Vineet Saxena  "
+                        ], 
+                        "teamName": "Uttarakhand\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Puducherry", 
+                    "team2": "Uttarakhand"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Puducherry"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Ajay Verma"
+                }, 
+                "venue": "Cricket Association Puducherry Siechem Ground, Puducherry"
+            }
+        }
+    ]
+}

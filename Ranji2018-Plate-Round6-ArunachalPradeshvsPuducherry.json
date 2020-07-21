@@ -1,0 +1,942 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 24, 
+                        "teamScore": "7"
+                    }, 
+                    "player10": {
+                        "ballNo": 215, 
+                        "teamScore": "136"
+                    }, 
+                    "player2": {
+                        "ballNo": 35, 
+                        "teamScore": "13"
+                    }, 
+                    "player3": {
+                        "ballNo": 62, 
+                        "teamScore": "35"
+                    }, 
+                    "player4": {
+                        "ballNo": 70, 
+                        "teamScore": "40"
+                    }, 
+                    "player5": {
+                        "ballNo": 105, 
+                        "teamScore": "55"
+                    }, 
+                    "player6": {
+                        "ballNo": 158, 
+                        "teamScore": "93"
+                    }, 
+                    "player7": {
+                        "ballNo": 171, 
+                        "teamScore": "97"
+                    }, 
+                    "player8": {
+                        "ballNo": 172, 
+                        "teamScore": "97"
+                    }, 
+                    "player9": {
+                        "ballNo": 205, 
+                        "teamScore": "127"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sashi Kumar  ", 
+                        " c Kshitiz Sharma b Deendyal ", 
+                        "1", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player10": [
+                        "  Pankaj Singh  ", 
+                        " lbw b Techi Doria ", 
+                        "23", 
+                        "20", 
+                        "3", 
+                        "1", 
+                        "115.00"
+                    ], 
+                    "player11": [
+                        "  Prashanth Varma  ", 
+                        " lbw b Deendyal ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player2": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        " c Tana David b Deendyal ", 
+                        "4", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player3": [
+                        "  P Dogra  ", 
+                        "  b Licha Tehi ", 
+                        "10", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "71.43"
+                    ], 
+                    "player4": [
+                        "  D Rohit (c)  ", 
+                        " c Tana David b Techi Doria ", 
+                        "18", 
+                        "39", 
+                        "4", 
+                        "0", 
+                        "46.15"
+                    ], 
+                    "player5": [
+                        "  Sargunam  ", 
+                        " lbw b Deendyal ", 
+                        "5", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "71.43"
+                    ], 
+                    "player6": [
+                        "  Fabid Ahmed  ", 
+                        " not out ", 
+                        "41", 
+                        "59", 
+                        "7", 
+                        "0", 
+                        "69.49"
+                    ], 
+                    "player7": [
+                        "  Saju Chothan  ", 
+                        " c Kshitiz Sharma b Techi Neri ", 
+                        "21", 
+                        "34", 
+                        "3", 
+                        "0", 
+                        "61.76"
+                    ], 
+                    "player8": [
+                        "  Santhosh Kumaran  ", 
+                        " lbw b Techi Neri ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  B Ranjit (wk)  ", 
+                        "  b Techi Neri ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "PDC", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "8", 
+                        "2", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player2": [
+                        "  Deendyal  ", 
+                        "10.5", 
+                        "3", 
+                        "36", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Techi Neri  ", 
+                        "9", 
+                        "6", 
+                        "28", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Techi Doria  ", 
+                        "6", 
+                        "0", 
+                        "32", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ], 
+                    "player5": [
+                        "  Kshitiz Sharma  ", 
+                        "2", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "0", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "35.5", 
+                    "runs": "136", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 34, 
+                        "teamScore": "17"
+                    }, 
+                    "player10": {
+                        "ballNo": 215, 
+                        "teamScore": "82"
+                    }, 
+                    "player2": {
+                        "ballNo": 60, 
+                        "teamScore": "19"
+                    }, 
+                    "player3": {
+                        "ballNo": 67, 
+                        "teamScore": "19"
+                    }, 
+                    "player4": {
+                        "ballNo": 117, 
+                        "teamScore": "45"
+                    }, 
+                    "player5": {
+                        "ballNo": 123, 
+                        "teamScore": "48"
+                    }, 
+                    "player6": {
+                        "ballNo": 185, 
+                        "teamScore": "71"
+                    }, 
+                    "player7": {
+                        "ballNo": 189, 
+                        "teamScore": "71"
+                    }, 
+                    "player8": {
+                        "ballNo": 194, 
+                        "teamScore": "71"
+                    }, 
+                    "player9": {
+                        "ballNo": 209, 
+                        "teamScore": "81"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samarth Seth  ", 
+                        "  b Fabid Ahmed ", 
+                        "11", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "55.00"
+                    ], 
+                    "player10": [
+                        "  Deendyal  ", 
+                        "  b Pankaj Singh ", 
+                        "6", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player11": [
+                        "  Licha Tehi  ", 
+                        "  b Fabid Ahmed ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Techi Doria  ", 
+                        "  b Pankaj Singh ", 
+                        "18", 
+                        "82", 
+                        "2", 
+                        "0", 
+                        "21.95"
+                    ], 
+                    "player3": [
+                        "  Techi Neri  ", 
+                        " lbw b Fabid Ahmed ", 
+                        "2", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        " c B Ranjit b Fabid Ahmed ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Nipun Malhotra  ", 
+                        " lbw b Fabid Ahmed ", 
+                        "19", 
+                        "30", 
+                        "2", 
+                        "1", 
+                        "63.33"
+                    ], 
+                    "player6": [
+                        "  Song Tacho  ", 
+                        " lbw b Prashanth Varma ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Kamsha Yangfo (c)  ", 
+                        " lbw b Fabid Ahmed ", 
+                        "15", 
+                        "34", 
+                        "3", 
+                        "0", 
+                        "44.12"
+                    ], 
+                    "player8": [
+                        "  Techi Tahin  ", 
+                        " lbw b Pankaj Singh ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Tana David (wk)  ", 
+                        " not out ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Singh  ", 
+                        "12", 
+                        "6", 
+                        "20", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player2": [
+                        "  Santhosh Kumaran  ", 
+                        "1", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "9.00"
+                    ], 
+                    "player3": [
+                        "  Fabid Ahmed  ", 
+                        "16.5", 
+                        "7", 
+                        "29", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player4": [
+                        "  Prashanth Varma  ", 
+                        "6", 
+                        "3", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "35.5", 
+                    "runs": "82", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 12, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 458, 
+                        "teamScore": "351"
+                    }, 
+                    "player2": {
+                        "ballNo": 47, 
+                        "teamScore": "17"
+                    }, 
+                    "player3": {
+                        "ballNo": 73, 
+                        "teamScore": "28"
+                    }, 
+                    "player4": {
+                        "ballNo": 92, 
+                        "teamScore": "40"
+                    }, 
+                    "player5": {
+                        "ballNo": 148, 
+                        "teamScore": "83"
+                    }, 
+                    "player6": {
+                        "ballNo": 379, 
+                        "teamScore": "296"
+                    }, 
+                    "player7": {
+                        "ballNo": 398, 
+                        "teamScore": "310"
+                    }, 
+                    "player8": {
+                        "ballNo": 418, 
+                        "teamScore": "316"
+                    }, 
+                    "player9": {
+                        "ballNo": 430, 
+                        "teamScore": "331"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        "  b Deendyal ", 
+                        "10", 
+                        "24", 
+                        "2", 
+                        "0", 
+                        "41.67"
+                    ], 
+                    "player10": [
+                        "  Pankaj Singh  ", 
+                        "  b Deendyal ", 
+                        "27", 
+                        "24", 
+                        "4", 
+                        "0", 
+                        "112.50"
+                    ], 
+                    "player11": [
+                        "  Prashanth Varma  ", 
+                        " not out ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Sargunam  ", 
+                        " c Tana David b Deendyal ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Saju Chothan  ", 
+                        " c Tana David b Deendyal ", 
+                        "7", 
+                        "38", 
+                        "0", 
+                        "0", 
+                        "18.42"
+                    ], 
+                    "player4": [
+                        "  Santhosh Kumaran  ", 
+                        "  b Licha Tehi ", 
+                        "2", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "13.33"
+                    ], 
+                    "player5": [
+                        "  P Dogra  ", 
+                        " c (sub)Shoyeb b Licha Tehi ", 
+                        "139", 
+                        "143", 
+                        "19", 
+                        "1", 
+                        "97.20"
+                    ], 
+                    "player6": [
+                        "  D Rohit (c)  ", 
+                        " lbw b Techi Neri ", 
+                        "29", 
+                        "38", 
+                        "4", 
+                        "1", 
+                        "76.32"
+                    ], 
+                    "player7": [
+                        "  Fabid Ahmed  ", 
+                        " c Tana David b Techi Doria ", 
+                        "88", 
+                        "132", 
+                        "9", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player8": [
+                        "  Sashi Kumar  ", 
+                        "  b Techi Neri ", 
+                        "14", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "41.18"
+                    ], 
+                    "player9": [
+                        "  B Ranjit (wk)  ", 
+                        " c Kshitiz Sharma b Techi Neri ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ]
+                }, 
+                "batTeam": "PDC", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "12", 
+                        "2", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Deendyal  ", 
+                        "15.2", 
+                        "4", 
+                        "63", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player3": [
+                        "  Techi Doria  ", 
+                        "14", 
+                        "1", 
+                        "81", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.80"
+                    ], 
+                    "player4": [
+                        "  Techi Neri  ", 
+                        "19", 
+                        "0", 
+                        "76", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  Kshitiz Sharma  ", 
+                        "11", 
+                        "0", 
+                        "60", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player6": [
+                        "  Samarth Seth  ", 
+                        "5", 
+                        "0", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "11", 
+                    "lb": "6", 
+                    "nb": "15", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "76.2", 
+                    "runs": "351", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 3, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 134, 
+                        "teamScore": "71"
+                    }, 
+                    "player2": {
+                        "ballNo": 25, 
+                        "teamScore": "21"
+                    }, 
+                    "player3": {
+                        "ballNo": 26, 
+                        "teamScore": "21"
+                    }, 
+                    "player4": {
+                        "ballNo": 42, 
+                        "teamScore": "31"
+                    }, 
+                    "player5": {
+                        "ballNo": 46, 
+                        "teamScore": "33"
+                    }, 
+                    "player6": {
+                        "ballNo": 84, 
+                        "teamScore": "42"
+                    }, 
+                    "player7": {
+                        "ballNo": 91, 
+                        "teamScore": "42"
+                    }, 
+                    "player8": {
+                        "ballNo": 106, 
+                        "teamScore": "46"
+                    }, 
+                    "player9": {
+                        "ballNo": 131, 
+                        "teamScore": "71"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samarth Seth  ", 
+                        "  b Pankaj Singh ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player10": [
+                        "  Deendyal  ", 
+                        "  b Pankaj Singh ", 
+                        "6", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player11": [
+                        "  Licha Tehi  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Techi Doria  ", 
+                        " c B Ranjit b Pankaj Singh ", 
+                        "12", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "109.09"
+                    ], 
+                    "player3": [
+                        "  Nipun Malhotra  ", 
+                        " c Sargunam b Fabid Ahmed ", 
+                        "12", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        " lbw b Pankaj Singh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Song Tacho  ", 
+                        " lbw b Pankaj Singh ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player6": [
+                        "  Kamsha Yangfo (c)  ", 
+                        " lbw b D Rohit ", 
+                        "2", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player7": [
+                        "  Techi Tahin  ", 
+                        " c Saju Chothan b D Rohit ", 
+                        "4", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "16.00"
+                    ], 
+                    "player8": [
+                        "  Tana David (wk)  ", 
+                        " c Sashi Kumar b D Rohit ", 
+                        "14", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "56.00"
+                    ], 
+                    "player9": [
+                        "  Techi Neri  ", 
+                        " lbw b D Rohit ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Singh  ", 
+                        "9.2", 
+                        "1", 
+                        "25", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Santhosh Kumaran  ", 
+                        "3", 
+                        "0", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.70"
+                    ], 
+                    "player3": [
+                        "  Fabid Ahmed  ", 
+                        "3", 
+                        "1", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player4": [
+                        "  Prashanth Varma  ", 
+                        "2", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  D Rohit (c)  ", 
+                        "5", 
+                        "4", 
+                        "7", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "3", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "22.2", 
+                    "runs": "71", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-17T16:00:00", 
+                    "startDate": "2018-12-14T09:00:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 6", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Akhilesh Sahani", 
+                            " Sandeep Thakur", 
+                            " Momar Ori", 
+                            " Takar Paja", 
+                            " Utsav Pankaj", 
+                            " Sams Alam", 
+                            " Myendung Singpho", 
+                            " Shoyeb", 
+                            " Subhash Sharma", 
+                            " Aakash Singh", 
+                            " Neelam Obi", 
+                            " Hayat Ansari", 
+                            " Indiya Toku", 
+                            " Prateek Singh  "
+                        ], 
+                        "playing11": [
+                            " Samarth Seth", 
+                            " Techi Doria", 
+                            " Kshitiz Sharma", 
+                            " Kamsha Yangfo (c)", 
+                            " Techi Tahin", 
+                            " Techi Neri", 
+                            " Tana Davit (wk)", 
+                            " Licha Tehi", 
+                            " Deendyal", 
+                            " Song Tacho", 
+                            " Nipun Malhotra  "
+                        ], 
+                        "teamName": "Arunachal Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Abdul Safar", 
+                            " Govindaraajan", 
+                            " Madhavan Manohar", 
+                            " Ashith Rajiv", 
+                            " Shashank Singh", 
+                            " Sarag Udheshi", 
+                            " Parikshit Valsangkar", 
+                            " Saiju Titus", 
+                            " Prabhakaran Gopalakrishnan", 
+                            " Narayanan", 
+                            " Magendiran Chinnadurai", 
+                            " Nikhilesh Surendran", 
+                            " Abhishek Nayar", 
+                            " Sagar Trivedi", 
+                            " Iqlas Naha", 
+                            " Akshay Jain", 
+                            " Pawan Kumar", 
+                            " Vengadeshwaran", 
+                            " Abhijeet Saranath  "
+                        ], 
+                        "playing11": [
+                            " Sashi Kumar", 
+                            " Vikneshwaran Marimuthu", 
+                            " Paras Dogra", 
+                            " D Rohit (c)", 
+                            " Thalaivan Sargunam", 
+                            " Fabid Ahmed", 
+                            " Saju Chothan", 
+                            " B Ranjit (wk)", 
+                            " Prashanth Varma", 
+                            " Pankaj Singh", 
+                            " Santhosh Kumaran  "
+                        ], 
+                        "teamName": "Puducherry\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Arunachal Pradesh", 
+                    "team2": "Puducherry"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Arunachal"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Vengalil Narayan Kutty"
+                }, 
+                "venue": "DN Singha Stadium, Goalpara"
+            }
+        }
+    ]
+}

@@ -1,0 +1,872 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 72, 
+                        "teamScore": "24"
+                    }, 
+                    "player10": {
+                        "ballNo": 448, 
+                        "teamScore": "290"
+                    }, 
+                    "player2": {
+                        "ballNo": 83, 
+                        "teamScore": "29"
+                    }, 
+                    "player3": {
+                        "ballNo": 123, 
+                        "teamScore": "52"
+                    }, 
+                    "player4": {
+                        "ballNo": 276, 
+                        "teamScore": "154"
+                    }, 
+                    "player5": {
+                        "ballNo": 311, 
+                        "teamScore": "187"
+                    }, 
+                    "player6": {
+                        "ballNo": 315, 
+                        "teamScore": "188"
+                    }, 
+                    "player7": {
+                        "ballNo": 319, 
+                        "teamScore": "189"
+                    }, 
+                    "player8": {
+                        "ballNo": 367, 
+                        "teamScore": "219"
+                    }, 
+                    "player9": {
+                        "ballNo": 372, 
+                        "teamScore": "219"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Bandy  ", 
+                        " lbw b Yash Dayal ", 
+                        "10", 
+                        "34", 
+                        "1", 
+                        "0", 
+                        "29.41"
+                    ], 
+                    "player10": [
+                        "  M Mudhasir  ", 
+                        " st Upendra Yadav b Saurabh Kumar ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Aakash Choudhary  ", 
+                        " not out ", 
+                        "14", 
+                        "24", 
+                        "3", 
+                        "0", 
+                        "58.33"
+                    ], 
+                    "player2": [
+                        "  Shubham Khajuria  ", 
+                        "  b Yash Dayal ", 
+                        "19", 
+                        "46", 
+                        "4", 
+                        "0", 
+                        "41.30"
+                    ], 
+                    "player3": [
+                        "  Ian Dev Singh  ", 
+                        " c I Ahmed b Saurabh Kumar ", 
+                        "49", 
+                        "114", 
+                        "8", 
+                        "0", 
+                        "42.98"
+                    ], 
+                    "player4": [
+                        "  Paras Sharma  ", 
+                        " c Upendra Yadav b I Ahmed ", 
+                        "6", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player5": [
+                        "  Rasool (c)  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "87", 
+                        "92", 
+                        "13", 
+                        "1", 
+                        "94.57"
+                    ], 
+                    "player6": [
+                        "  Irfan Pathan  ", 
+                        "  b Saurabh Kumar ", 
+                        "91", 
+                        "76", 
+                        "10", 
+                        "5", 
+                        "119.74"
+                    ], 
+                    "player7": [
+                        "  Fazil Rashid (wk)  ", 
+                        " c Upendra Yadav b I Ahmed ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Waseem Raza  ", 
+                        " c Raina b Saurabh Kumar ", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "11.11"
+                    ], 
+                    "player9": [
+                        "  Umar Nazir  ", 
+                        " c I Ahmed b Saurabh Kumar ", 
+                        "8", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "42.11"
+                    ]
+                }, 
+                "batTeam": "JK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Dhruv Pratap Singh  ", 
+                        "16.2", 
+                        "3", 
+                        "61", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player2": [
+                        "  I Ahmed  ", 
+                        "15.4", 
+                        "2", 
+                        "65", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player3": [
+                        "  Yash Dayal  ", 
+                        "17", 
+                        "3", 
+                        "47", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Saurabh Kumar  ", 
+                        "18.4", 
+                        "5", 
+                        "90", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player5": [
+                        "  Akshdeep Nath (c)  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ], 
+                    "player6": [
+                        "  Raina  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "3", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "71.4", 
+                    "runs": "290", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 42, 
+                        "teamScore": "17"
+                    }, 
+                    "player10": {
+                        "ballNo": 344, 
+                        "teamScore": "188"
+                    }, 
+                    "player2": {
+                        "ballNo": 65, 
+                        "teamScore": "17"
+                    }, 
+                    "player3": {
+                        "ballNo": 74, 
+                        "teamScore": "21"
+                    }, 
+                    "player4": {
+                        "ballNo": 131, 
+                        "teamScore": "53"
+                    }, 
+                    "player5": {
+                        "ballNo": 180, 
+                        "teamScore": "79"
+                    }, 
+                    "player6": {
+                        "ballNo": 233, 
+                        "teamScore": "121"
+                    }, 
+                    "player7": {
+                        "ballNo": 299, 
+                        "teamScore": "156"
+                    }, 
+                    "player8": {
+                        "ballNo": 322, 
+                        "teamScore": "176"
+                    }, 
+                    "player9": {
+                        "ballNo": 343, 
+                        "teamScore": "188"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Madhav Kaushik  ", 
+                        " c Fazil Rashid b Aakash Choudhary ", 
+                        "15", 
+                        "68", 
+                        "1", 
+                        "0", 
+                        "22.06"
+                    ], 
+                    "player10": [
+                        "  I Ahmed  ", 
+                        " c Umar Nazir b Rasool ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Yash Dayal  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  M Saif  ", 
+                        " c Ian Dev Singh b M Mudhasir ", 
+                        "6", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player3": [
+                        "  Dhruv Pratap Singh  ", 
+                        "  b M Mudhasir ", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Priyam Garg  ", 
+                        " c Rasool b M Mudhasir ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player5": [
+                        "  Akshdeep Nath (c)  ", 
+                        " lbw b Waseem Raza ", 
+                        "43", 
+                        "75", 
+                        "7", 
+                        "0", 
+                        "57.33"
+                    ], 
+                    "player6": [
+                        "  Raina  ", 
+                        "  c and b Aakash Choudhary ", 
+                        "18", 
+                        "26", 
+                        "3", 
+                        "0", 
+                        "69.23"
+                    ], 
+                    "player7": [
+                        "  Rinku Singh  ", 
+                        " c Umar Nazir b Rasool ", 
+                        "66", 
+                        "88", 
+                        "8", 
+                        "1", 
+                        "75.00"
+                    ], 
+                    "player8": [
+                        "  Upendra Yadav (wk)  ", 
+                        " c Ian Dev Singh b Rasool ", 
+                        "13", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "39.39"
+                    ], 
+                    "player9": [
+                        "  Saurabh Kumar  ", 
+                        " lbw b Rasool ", 
+                        "13", 
+                        "12", 
+                        "3", 
+                        "0", 
+                        "108.33"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  M Mudhasir  ", 
+                        "17", 
+                        "2", 
+                        "57", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  Umar Nazir  ", 
+                        "13", 
+                        "7", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player3": [
+                        "  Rasool (c)  ", 
+                        "13.2", 
+                        "1", 
+                        "47", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Aakash Choudhary  ", 
+                        "8", 
+                        "2", 
+                        "29", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player5": [
+                        "  Waseem Raza  ", 
+                        "6", 
+                        "0", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "6", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "57.2", 
+                    "runs": "188", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 49, 
+                        "teamScore": "24"
+                    }, 
+                    "player10": {
+                        "ballNo": 288, 
+                        "teamScore": "111"
+                    }, 
+                    "player2": {
+                        "ballNo": 68, 
+                        "teamScore": "33"
+                    }, 
+                    "player3": {
+                        "ballNo": 86, 
+                        "teamScore": "40"
+                    }, 
+                    "player4": {
+                        "ballNo": 87, 
+                        "teamScore": "40"
+                    }, 
+                    "player5": {
+                        "ballNo": 121, 
+                        "teamScore": "52"
+                    }, 
+                    "player6": {
+                        "ballNo": 135, 
+                        "teamScore": "55"
+                    }, 
+                    "player7": {
+                        "ballNo": 181, 
+                        "teamScore": "76"
+                    }, 
+                    "player8": {
+                        "ballNo": 276, 
+                        "teamScore": "107"
+                    }, 
+                    "player9": {
+                        "ballNo": 286, 
+                        "teamScore": "111"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Bandy  ", 
+                        " c M Saif b I Ahmed ", 
+                        "19", 
+                        "28", 
+                        "4", 
+                        "0", 
+                        "67.86"
+                    ], 
+                    "player10": [
+                        "  M Mudhasir  ", 
+                        " c M Saif b Yash Dayal ", 
+                        "3", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player11": [
+                        "  Umar Nazir  ", 
+                        " c Priyam Garg b Yash Dayal ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Shubham Khajuria  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "14", 
+                        "64", 
+                        "0", 
+                        "0", 
+                        "21.88"
+                    ], 
+                    "player3": [
+                        "  Ian Dev Singh  ", 
+                        "  b Yash Dayal ", 
+                        "8", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player4": [
+                        "  Fazil Rashid (wk)  ", 
+                        " c Rinku Singh b Saurabh Kumar ", 
+                        "5", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player5": [
+                        "  Rasool (c)  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Irfan Pathan  ", 
+                        " c Upendra Yadav b Saurabh Kumar ", 
+                        "8", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player7": [
+                        "  Paras Sharma  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "14", 
+                        "37", 
+                        "2", 
+                        "0", 
+                        "37.84"
+                    ], 
+                    "player8": [
+                        "  Waseem Raza  ", 
+                        " not out ", 
+                        "18", 
+                        "68", 
+                        "0", 
+                        "0", 
+                        "26.47"
+                    ], 
+                    "player9": [
+                        "  Aakash Choudhary  ", 
+                        " c M Saif b Yash Dayal ", 
+                        "16", 
+                        "48", 
+                        "1", 
+                        "1", 
+                        "33.33"
+                    ]
+                }, 
+                "batTeam": "JK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  I Ahmed  ", 
+                        "9", 
+                        "2", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player2": [
+                        "  Yash Dayal  ", 
+                        "12", 
+                        "3", 
+                        "26", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  Saurabh Kumar  ", 
+                        "18", 
+                        "7", 
+                        "28", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player4": [
+                        "  Raina  ", 
+                        "7", 
+                        "2", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player5": [
+                        "  M Saif  ", 
+                        "2", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "48", 
+                    "runs": "111", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 110, 
+                        "teamScore": "38"
+                    }, 
+                    "player2": {
+                        "ballNo": 156, 
+                        "teamScore": "79"
+                    }, 
+                    "player3": {
+                        "ballNo": 167, 
+                        "teamScore": "82"
+                    }, 
+                    "player4": {
+                        "ballNo": 272, 
+                        "teamScore": "136"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Madhav Kaushik  ", 
+                        " c Fazil Rashid b Waseem Raza ", 
+                        "19", 
+                        "57", 
+                        "2", 
+                        "1", 
+                        "33.33"
+                    ], 
+                    "player2": [
+                        "  Mohammad Saif  ", 
+                        " c Ian Dev Singh b Rasool ", 
+                        "36", 
+                        "78", 
+                        "6", 
+                        "1", 
+                        "46.15"
+                    ], 
+                    "player3": [
+                        "  Priyam Garg  ", 
+                        " lbw b Rasool ", 
+                        "17", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "60.71"
+                    ], 
+                    "player4": [
+                        "  Akshdeep Nath (c)  ", 
+                        " lbw b Umar Nazir ", 
+                        "22", 
+                        "47", 
+                        "2", 
+                        "0", 
+                        "46.81"
+                    ], 
+                    "player5": [
+                        "  Suresh Raina  ", 
+                        " not out ", 
+                        "66", 
+                        "100", 
+                        "6", 
+                        "3", 
+                        "66.00"
+                    ], 
+                    "player6": [
+                        "  Rinku Singh  ", 
+                        " not out ", 
+                        "42", 
+                        "47", 
+                        "4", 
+                        "2", 
+                        "89.36"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Mohammed Mudhasir  ", 
+                        "9", 
+                        "4", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player2": [
+                        "  Aakash Choudhary  ", 
+                        "9", 
+                        "3", 
+                        "36", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player3": [
+                        "  Waseem Raza  ", 
+                        "15", 
+                        "1", 
+                        "53", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Umar Nazir Mir  ", 
+                        "7", 
+                        "0", 
+                        "29", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player5": [
+                        "  Parvez Rasool (c)  ", 
+                        "18", 
+                        "3", 
+                        "63", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player6": [
+                        "  Shubham Khajuria  ", 
+                        "1.2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "9", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "59.2", 
+                    "runs": "218", 
+                    "wickets": "4"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-09T16:30:00", 
+                    "startDate": "2018-12-06T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 5", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Obaid Haroon", 
+                            " Shubham Pundir", 
+                            " Owais Amin Shah", 
+                            " Aamir Aziz Sofi", 
+                            " Rohit Sharma  "
+                        ], 
+                        "playing11": [
+                            " Ahmed Banday", 
+                            " Shubham Khajuria", 
+                            " Ian Dev Singh", 
+                            " Irfan Pathan", 
+                            " Parvez Rasool (c)", 
+                            " Paras Sharma", 
+                            " Fazil Rashid (wk)", 
+                            " Waseem Raza", 
+                            " Aakash Choudhary", 
+                            " Mohammed Mudhasir", 
+                            " Umar Nazir Mir  "
+                        ], 
+                        "teamName": "Jammu and Kashmir\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Samarth Singh", 
+                            " Umang Sharma", 
+                            " Zeeshan Ansari", 
+                            " Almas Shaukat", 
+                            " Ankit Rajpoot", 
+                            " Shivam Mavi", 
+                            " Shivam Chaudhary  "
+                        ], 
+                        "playing11": [
+                            " Mohammad Saif", 
+                            " Priyam Garg", 
+                            " Akshdeep Nath (c)", 
+                            " Suresh Raina", 
+                            " Rinku Singh", 
+                            " Upendra Yadav (wk)", 
+                            " Saurabh Kumar", 
+                            " Madhav Kaushik", 
+                            " Dhruv Pratap Singh", 
+                            " Imtiaz Ahmed", 
+                            " Yash Dayal  "
+                        ], 
+                        "teamName": "Uttar Pradesh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Jammu and Kashmir", 
+                    "team2": "Uttar Pradesh"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Uttar"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Verma"
+                }, 
+                "venue": "Gandhi Memorial Science College Ground, Jammu"
+            }
+        }
+    ]
+}

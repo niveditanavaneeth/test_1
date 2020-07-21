@@ -1,0 +1,428 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 121, 
+                        "teamScore": "59"
+                    }, 
+                    "player2": {
+                        "ballNo": 236, 
+                        "teamScore": "110"
+                    }, 
+                    "player3": {
+                        "ballNo": 285, 
+                        "teamScore": "123"
+                    }, 
+                    "player4": {
+                        "ballNo": 473, 
+                        "teamScore": "212"
+                    }, 
+                    "player5": {
+                        "ballNo": 817, 
+                        "teamScore": "393"
+                    }, 
+                    "player6": {
+                        "ballNo": 832, 
+                        "teamScore": "404"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Arun Karthik  ", 
+                        " c (sub)PS Chaitanya Reddy b T Ravi Teja ", 
+                        "25", 
+                        "74", 
+                        "4", 
+                        "0", 
+                        "33.78"
+                    ], 
+                    "player2": [
+                        "  Jalaj Saxena  ", 
+                        " c Saaketh Sairam b M Hasan ", 
+                        "57", 
+                        "122", 
+                        "5", 
+                        "1", 
+                        "46.72"
+                    ], 
+                    "player3": [
+                        "  R Prem  ", 
+                        "  c and b M Hasan ", 
+                        "29", 
+                        "62", 
+                        "6", 
+                        "0", 
+                        "46.77"
+                    ], 
+                    "player4": [
+                        "  Samson (wk)  ", 
+                        " c Sandeep b Saaketh Sairam ", 
+                        "53", 
+                        "111", 
+                        "2", 
+                        "3", 
+                        "47.75"
+                    ], 
+                    "player5": [
+                        "  Sachin Baby (c)  ", 
+                        " lbw b Saaketh Sairam ", 
+                        "147", 
+                        "296", 
+                        "10", 
+                        "3", 
+                        "49.66"
+                    ], 
+                    "player6": [
+                        "  VA Jagadeesh  ", 
+                        " not out ", 
+                        "113", 
+                        "227", 
+                        "6", 
+                        "1", 
+                        "49.78"
+                    ], 
+                    "player7": [
+                        "  Nizar  ", 
+                        " c (sub)PS Chaitanya Reddy b Saaketh Sairam ", 
+                        "8", 
+                        "9", 
+                        "0", 
+                        "1", 
+                        "88.89"
+                    ], 
+                    "player8": [
+                        "  Akshay Chandran  ", 
+                        " not out ", 
+                        "48", 
+                        "87", 
+                        "5", 
+                        "0", 
+                        "55.17"
+                    ]
+                }, 
+                "batTeam": "Kerala", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ravi Kiran  ", 
+                        "24", 
+                        "7", 
+                        "53", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Milind  ", 
+                        "24", 
+                        "5", 
+                        "78", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  T Ravi Teja  ", 
+                        "25", 
+                        "3", 
+                        "87", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  M Hasan  ", 
+                        "52", 
+                        "12", 
+                        "135", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player5": [
+                        "  Saaketh Sairam  ", 
+                        "32", 
+                        "4", 
+                        "110", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Sandeep  ", 
+                        "7", 
+                        "0", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ]
+                }, 
+                "bowlTeam": "Hyderabad", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "6", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "164", 
+                    "runs": "495", 
+                    "wickets": "6"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 42, 
+                        "teamScore": "9"
+                    }, 
+                    "player2": {
+                        "ballNo": 173, 
+                        "teamScore": "36"
+                    }, 
+                    "player3": {
+                        "ballNo": 333, 
+                        "teamScore": "108"
+                    }, 
+                    "player4": {
+                        "ballNo": 408, 
+                        "teamScore": "129"
+                    }, 
+                    "player5": {
+                        "ballNo": 423, 
+                        "teamScore": "134"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Tanmay Agarwal  ", 
+                        " c Nizar b Akshay Chandran ", 
+                        "27", 
+                        "89", 
+                        "4", 
+                        "0", 
+                        "30.34"
+                    ], 
+                    "player2": [
+                        "  Akshath Reddy (c)  ", 
+                        " c Samson b Warrier ", 
+                        "3", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player3": [
+                        "  Rohit Rayudu  ", 
+                        " run out (Warrier)  ", 
+                        "35", 
+                        "131", 
+                        "1", 
+                        "1", 
+                        "26.72"
+                    ], 
+                    "player4": [
+                        "  Himalay Agarwal  ", 
+                        " c Arun Karthik b Jalaj Saxena ", 
+                        "48", 
+                        "132", 
+                        "7", 
+                        "0", 
+                        "36.36"
+                    ], 
+                    "player5": [
+                        "  Bavanaka Sandeep  ", 
+                        " not out ", 
+                        "56", 
+                        "155", 
+                        "5", 
+                        "1", 
+                        "36.13"
+                    ], 
+                    "player6": [
+                        "  Telukupalli Ravi Teja  ", 
+                        "  b Akshay Chandran ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player7": [
+                        "  Kolla Sumanth (wk)  ", 
+                        " not out ", 
+                        "42", 
+                        "136", 
+                        "5", 
+                        "0", 
+                        "30.88"
+                    ]
+                }, 
+                "batTeam": "Hyderabad", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Sandeep Warrier  ", 
+                        "21", 
+                        "11", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player2": [
+                        "  Basil Thampi  ", 
+                        "19", 
+                        "6", 
+                        "33", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player3": [
+                        "  Jalaj Saxena  ", 
+                        "36", 
+                        "14", 
+                        "53", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player4": [
+                        "  KC Akshay  ", 
+                        "13", 
+                        "3", 
+                        "44", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player5": [
+                        "  Akshay Chandran  ", 
+                        "20", 
+                        "6", 
+                        "44", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player6": [
+                        "  Sachin Baby (c)  ", 
+                        "2", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player7": [
+                        "  Rohan Prem  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Kerala", 
+                "extras": {
+                    "b": "16", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "112", 
+                    "runs": "228", 
+                    "wickets": "5"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Vishnu Vinod", 
+                            " MD Nidheesh", 
+                            " Vinoop Manoharan", 
+                            " Ponnam Rahul  "
+                        ], 
+                        "playing11": [
+                            " Jalaj Saxena", 
+                            " Rohan Prem", 
+                            " Sanju Samson (wk)", 
+                            " Sachin Baby (c)", 
+                            " Arun Karthik", 
+                            " Salman Nizar", 
+                            " Vasudevan Arundhadi Jagadeesh", 
+                            " KC Akshay", 
+                            " Basil Thampi", 
+                            " Sandeep Warrier", 
+                            " Akshay Chandran  "
+                        ], 
+                        "teamName": "Kerala\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Palakodeti Sairam", 
+                            " Mohammed Siraj", 
+                            " Ajay Dev Goud", 
+                            " Tanay Thyagarajan", 
+                            " Akash Bhandari", 
+                            " PS Chaitanya Reddy  "
+                        ], 
+                        "playing11": [
+                            " Tanmay Agarwal", 
+                            " Akshath Reddy (c)", 
+                            " Kolla Sumanth (wk)", 
+                            " Bavanaka Sandeep", 
+                            " Telukupalli Ravi Teja", 
+                            " Himalay Agarwal", 
+                            " Rohit Rayudu", 
+                            " Chama V Milind", 
+                            " Mehdi Hassan", 
+                            " Saaketh Sairam", 
+                            " Ravi Kiran  "
+                        ], 
+                        "teamName": "Hyderabad\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Kerala", 
+                    "team2": "Hyderabad"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Hyderabad"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Pankaj Dharmani"
+                }, 
+                "venue": "St Xavier's College Ground, Thiruvananthapuram"
+            }
+        }
+    ]
+}

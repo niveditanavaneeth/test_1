@@ -1,0 +1,954 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 13, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 539, 
+                        "teamScore": "332"
+                    }, 
+                    "player2": {
+                        "ballNo": 48, 
+                        "teamScore": "14"
+                    }, 
+                    "player3": {
+                        "ballNo": 195, 
+                        "teamScore": "89"
+                    }, 
+                    "player4": {
+                        "ballNo": 198, 
+                        "teamScore": "92"
+                    }, 
+                    "player5": {
+                        "ballNo": 312, 
+                        "teamScore": "186"
+                    }, 
+                    "player6": {
+                        "ballNo": 456, 
+                        "teamScore": "292"
+                    }, 
+                    "player7": {
+                        "ballNo": 483, 
+                        "teamScore": "308"
+                    }, 
+                    "player8": {
+                        "ballNo": 485, 
+                        "teamScore": "308"
+                    }, 
+                    "player9": {
+                        "ballNo": 526, 
+                        "teamScore": "321"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Karma Bhutia  ", 
+                        "  b HM Ralte ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Mandup Bhutia  ", 
+                        " c Lalhruaizela b Sinan Khadir ", 
+                        "3", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player11": [
+                        "  Ishwar Chaudhary  ", 
+                        " not out ", 
+                        "7", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "116.67"
+                    ], 
+                    "player2": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " c Saidingliana Sailo b Hmar Zothanchhunga ", 
+                        "8", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "30.77"
+                    ], 
+                    "player3": [
+                        "  Jahan Uddin  ", 
+                        "  b G Lalbiakvela ", 
+                        "35", 
+                        "103", 
+                        "6", 
+                        "0", 
+                        "33.98"
+                    ], 
+                    "player4": [
+                        "  Asish Thapa  ", 
+                        " lbw b G Lalbiakvela ", 
+                        "42", 
+                        "64", 
+                        "8", 
+                        "0", 
+                        "65.62"
+                    ], 
+                    "player5": [
+                        "  Milind Kumar  ", 
+                        "  b Akhil Rajput ", 
+                        "139", 
+                        "136", 
+                        "18", 
+                        "0", 
+                        "102.21"
+                    ], 
+                    "player6": [
+                        "  Lee Yong Lepcha  ", 
+                        "  c and b Sinan Khadir ", 
+                        "23", 
+                        "58", 
+                        "3", 
+                        "0", 
+                        "39.66"
+                    ], 
+                    "player7": [
+                        "  Bipul Sharma  ", 
+                        " c Lalhmangaiha b Sinan Khadir ", 
+                        "50", 
+                        "86", 
+                        "4", 
+                        "0", 
+                        "58.14"
+                    ], 
+                    "player8": [
+                        "  Bibek Dayali (wk)  ", 
+                        " c T Kohli b Bobby Zothansanga ", 
+                        "14", 
+                        "36", 
+                        "3", 
+                        "0", 
+                        "38.89"
+                    ], 
+                    "player9": [
+                        "  Dinesh Rai  ", 
+                        "  b Akhil Rajput ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  HM Ralte  ", 
+                        "11", 
+                        "3", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Hmar Zothanchhunga  ", 
+                        "11", 
+                        "3", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        "12", 
+                        "2", 
+                        "34", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  G Lalbiakvela  ", 
+                        "15", 
+                        "3", 
+                        "74", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.90"
+                    ], 
+                    "player5": [
+                        "  Sinan Khadir  ", 
+                        "21", 
+                        "5", 
+                        "74", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player6": [
+                        "  Bobby Zothansanga  ", 
+                        "8.5", 
+                        "0", 
+                        "43", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.90"
+                    ], 
+                    "player7": [
+                        "  Akhil Rajput  ", 
+                        "11", 
+                        "1", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "7", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "89.5", 
+                    "runs": "332", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 26, 
+                        "teamScore": "21"
+                    }, 
+                    "player10": {
+                        "ballNo": 342, 
+                        "teamScore": "161"
+                    }, 
+                    "player2": {
+                        "ballNo": 74, 
+                        "teamScore": "42"
+                    }, 
+                    "player3": {
+                        "ballNo": 223, 
+                        "teamScore": "101"
+                    }, 
+                    "player4": {
+                        "ballNo": 241, 
+                        "teamScore": "104"
+                    }, 
+                    "player5": {
+                        "ballNo": 256, 
+                        "teamScore": "114"
+                    }, 
+                    "player6": {
+                        "ballNo": 277, 
+                        "teamScore": "128"
+                    }, 
+                    "player7": {
+                        "ballNo": 283, 
+                        "teamScore": "137"
+                    }, 
+                    "player8": {
+                        "ballNo": 307, 
+                        "teamScore": "148"
+                    }, 
+                    "player9": {
+                        "ballNo": 315, 
+                        "teamScore": "150"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "35", 
+                        "44", 
+                        "5", 
+                        "1", 
+                        "79.55"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        " lbw b Milind Kumar ", 
+                        "8", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player11": [
+                        "  Hmar Zothanchhunga  ", 
+                        " not out ", 
+                        "1", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "8.33"
+                    ], 
+                    "player2": [
+                        "  Lalhmangaiha  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        " c Asish Thapa b Bipul Sharma ", 
+                        "74", 
+                        "150", 
+                        "10", 
+                        "0", 
+                        "49.33"
+                    ], 
+                    "player4": [
+                        "  Lalhruaizela  ", 
+                        "  b Dinesh Rai ", 
+                        "19", 
+                        "64", 
+                        "1", 
+                        "0", 
+                        "29.69"
+                    ], 
+                    "player5": [
+                        "  Michael Lalremkima (c)  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "2", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player6": [
+                        "  Sinan Khadir  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "5", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player7": [
+                        "  Saidingliana Sailo (wk)  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "2", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player8": [
+                        "  HM Ralte  ", 
+                        " lbw b Bipul Sharma ", 
+                        "4", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player9": [
+                        "  Bobby Zothansanga  ", 
+                        " lbw b Milind Kumar ", 
+                        "2", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "13.33"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "18", 
+                        "5", 
+                        "57", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player2": [
+                        "  Mandup Bhutia  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player3": [
+                        "  Milind Kumar  ", 
+                        "11", 
+                        "2", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Bipul Sharma  ", 
+                        "19", 
+                        "9", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player5": [
+                        "  Dinesh Rai  ", 
+                        "8", 
+                        "2", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "57", 
+                    "runs": "161", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 61, 
+                        "teamScore": "28"
+                    }, 
+                    "player10": {
+                        "ballNo": 295, 
+                        "teamScore": "169"
+                    }, 
+                    "player2": {
+                        "ballNo": 99, 
+                        "teamScore": "49"
+                    }, 
+                    "player3": {
+                        "ballNo": 116, 
+                        "teamScore": "66"
+                    }, 
+                    "player4": {
+                        "ballNo": 170, 
+                        "teamScore": "88"
+                    }, 
+                    "player5": {
+                        "ballNo": 173, 
+                        "teamScore": "88"
+                    }, 
+                    "player6": {
+                        "ballNo": 179, 
+                        "teamScore": "89"
+                    }, 
+                    "player7": {
+                        "ballNo": 215, 
+                        "teamScore": "118"
+                    }, 
+                    "player8": {
+                        "ballNo": 221, 
+                        "teamScore": "119"
+                    }, 
+                    "player9": {
+                        "ballNo": 237, 
+                        "teamScore": "136"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bibek Dayali (wk)  ", 
+                        " lbw b T Kohli ", 
+                        "9", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player10": [
+                        "  Mandup Bhutia  ", 
+                        " lbw b Sinan Khadir ", 
+                        "5", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player11": [
+                        "  Dinesh Rai  ", 
+                        " not out ", 
+                        "0", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " c Saidingliana Sailo b T Kohli ", 
+                        "28", 
+                        "57", 
+                        "5", 
+                        "0", 
+                        "49.12"
+                    ], 
+                    "player3": [
+                        "  Asish Thapa  ", 
+                        "  b Sinan Khadir ", 
+                        "44", 
+                        "69", 
+                        "4", 
+                        "0", 
+                        "63.77"
+                    ], 
+                    "player4": [
+                        "  Jahan Uddin  ", 
+                        " lbw b Sinan Khadir ", 
+                        "10", 
+                        "10", 
+                        "2", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player5": [
+                        "  Karma Bhutia  ", 
+                        " lbw b T Kohli ", 
+                        "5", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player6": [
+                        "  Milind Kumar  ", 
+                        "  b T Kohli ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Lee Yong Lepcha  ", 
+                        " c Hmar Zothanchhunga b G Lalbiakvela ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Bipul Sharma  ", 
+                        " c G Lalbiakvela b Bobby Zothansanga ", 
+                        "65", 
+                        "72", 
+                        "6", 
+                        "4", 
+                        "90.28"
+                    ], 
+                    "player9": [
+                        "  Ishwar Chaudhary  ", 
+                        "  b T Kohli ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  HM Ralte  ", 
+                        "5", 
+                        "2", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Hmar Zothanchhunga  ", 
+                        "7", 
+                        "1", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        "15", 
+                        "3", 
+                        "39", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player4": [
+                        "  Sinan Khadir  ", 
+                        "12", 
+                        "1", 
+                        "50", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player5": [
+                        "  G Lalbiakvela  ", 
+                        "7", 
+                        "0", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player6": [
+                        "  Bobby Zothansanga  ", 
+                        "1.1", 
+                        "0", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "11.10"
+                    ], 
+                    "player7": [
+                        "  Akhil Rajput  ", 
+                        "2", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "49.1", 
+                    "runs": "170", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 20, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 449, 
+                        "teamScore": "236"
+                    }, 
+                    "player2": {
+                        "ballNo": 28, 
+                        "teamScore": "9"
+                    }, 
+                    "player3": {
+                        "ballNo": 49, 
+                        "teamScore": "15"
+                    }, 
+                    "player4": {
+                        "ballNo": 62, 
+                        "teamScore": "23"
+                    }, 
+                    "player5": {
+                        "ballNo": 138, 
+                        "teamScore": "49"
+                    }, 
+                    "player6": {
+                        "ballNo": 145, 
+                        "teamScore": "53"
+                    }, 
+                    "player7": {
+                        "ballNo": 174, 
+                        "teamScore": "67"
+                    }, 
+                    "player8": {
+                        "ballNo": 259, 
+                        "teamScore": "126"
+                    }, 
+                    "player9": {
+                        "ballNo": 448, 
+                        "teamScore": "236"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        "  b Milind Kumar ", 
+                        "6", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player10": [
+                        "  HM Ralte  ", 
+                        " not out ", 
+                        "32", 
+                        "74", 
+                        "7", 
+                        "0", 
+                        "43.24"
+                    ], 
+                    "player11": [
+                        "  Bobby Zothansanga  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Lalhruaizela  ", 
+                        " c Nilesh Lamichaney b Ishwar Chaudhary ", 
+                        "1", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "6.67"
+                    ], 
+                    "player3": [
+                        "  Taruwar Kohli  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "156", 
+                        "249", 
+                        "22", 
+                        "0", 
+                        "62.65"
+                    ], 
+                    "player4": [
+                        "  Michael Lalremkima (c)  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player5": [
+                        "  Lalhmangaiha  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "7", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "116.67"
+                    ], 
+                    "player6": [
+                        "  Sinan Abdul Khadir  ", 
+                        " run out (Bipul Sharma)  ", 
+                        "9", 
+                        "45", 
+                        "1", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player7": [
+                        "  Saidingliana Sailo (wk)  ", 
+                        " lbw b Milind Kumar ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player8": [
+                        "  Hmar Zothanchhunga  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  G Lalbiakvela  ", 
+                        " lbw b Bipul Sharma ", 
+                        "13", 
+                        "27", 
+                        "1", 
+                        "1", 
+                        "48.15"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "23", 
+                        "4", 
+                        "111", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player2": [
+                        "  Bipul Sharma  ", 
+                        "17.5", 
+                        "6", 
+                        "32", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player3": [
+                        "  Milind Kumar  ", 
+                        "28", 
+                        "6", 
+                        "63", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player4": [
+                        "  Dinesh Rai  ", 
+                        "3", 
+                        "0", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.70"
+                    ], 
+                    "player5": [
+                        "  Lee Yong Lepcha  ", 
+                        "3", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "1", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "74.5", 
+                    "runs": "236", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-17T15:45:00", 
+                    "startDate": "2018-12-14T08:45:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 6", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Gaurav Singh", 
+                            " Moia", 
+                            " C Lalrinsanga  "
+                        ], 
+                        "playing11": [
+                            " Akhil Rajput", 
+                            " Lalhmangaiha", 
+                            " Taruwar Kohli", 
+                            " Lalhruaizela", 
+                            " Michael Lalremkima (c)", 
+                            " Sinan Abdul Khadir", 
+                            " Saidingliana Sailo (wk)", 
+                            " Lalhruai Ralte", 
+                            " G Lalbiakvela", 
+                            " Bobby Zothansanga", 
+                            " Hmar Zothanchhunga  "
+                        ], 
+                        "teamName": "Mizoram\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Faizan Khan", 
+                            " Bijay Subba  "
+                        ], 
+                        "playing11": [
+                            " Karma Bhutia", 
+                            " Nilesh Lamichaney (c)", 
+                            " Jahan Uddin", 
+                            " Ashish Thapa", 
+                            " Milind Kumar", 
+                            " Lee Yong Lepcha", 
+                            " Bipul Sharma", 
+                            " Bibek Diyali (wk)", 
+                            " Dinesh Rai", 
+                            " Mandup Bhutia", 
+                            " Ishwar Chaudhary  "
+                        ], 
+                        "teamName": "Sikkim\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Mizoram", 
+                    "team2": "Sikkim"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Mizoram"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Youraj Singh"
+                }, 
+                "venue": "Jorhat Stadium, Jorhat"
+            }
+        }
+    ]
+}

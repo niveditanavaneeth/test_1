@@ -1,0 +1,844 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 14, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 252, 
+                        "teamScore": "137"
+                    }, 
+                    "player2": {
+                        "ballNo": 29, 
+                        "teamScore": "15"
+                    }, 
+                    "player3": {
+                        "ballNo": 110, 
+                        "teamScore": "55"
+                    }, 
+                    "player4": {
+                        "ballNo": 161, 
+                        "teamScore": "85"
+                    }, 
+                    "player5": {
+                        "ballNo": 182, 
+                        "teamScore": "97"
+                    }, 
+                    "player6": {
+                        "ballNo": 196, 
+                        "teamScore": "101"
+                    }, 
+                    "player7": {
+                        "ballNo": 207, 
+                        "teamScore": "102"
+                    }, 
+                    "player8": {
+                        "ballNo": 212, 
+                        "teamScore": "106"
+                    }, 
+                    "player9": {
+                        "ballNo": 222, 
+                        "teamScore": "111"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prafullomani Singh (wk)  ", 
+                        "  b Sunny Kashyap ", 
+                        "32", 
+                        "54", 
+                        "5", 
+                        "0", 
+                        "59.26"
+                    ], 
+                    "player10": [
+                        "  Thokchom Kishan  ", 
+                        " c V Saxena b Deepak Dhapola ", 
+                        "4", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player11": [
+                        "  Bishworjit Konthoujam  ", 
+                        " run out (V Saxena)  ", 
+                        "11", 
+                        "10", 
+                        "2", 
+                        "0", 
+                        "110.00"
+                    ], 
+                    "player2": [
+                        "  Lakhan Rawat  ", 
+                        "  b Deepak Dhapola ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Priyojit K Singh  ", 
+                        "  b Deepak Dhapola ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        " c Vaibhav Bhatt b Deepak Dhapola ", 
+                        "38", 
+                        "84", 
+                        "2", 
+                        "0", 
+                        "45.24"
+                    ], 
+                    "player5": [
+                        "  Sagatpam Jayanta  ", 
+                        "  b Deepak Dhapola ", 
+                        "15", 
+                        "30", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player6": [
+                        "  Kshetrimayum Narisingh  ", 
+                        " lbw b Deepak Dhapola ", 
+                        "5", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "41.67"
+                    ], 
+                    "player7": [
+                        "  Shashikant Singh  ", 
+                        " c Vaibhav Singh b Deepak Dhapola ", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player8": [
+                        "  R Rex Singh  ", 
+                        " c Dhanraj Sharma b M Rangarajan ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Sultan Karim  ", 
+                        " not out ", 
+                        "20", 
+                        "26", 
+                        "3", 
+                        "1", 
+                        "76.92"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Deepak Dhapola  ", 
+                        "16", 
+                        "3", 
+                        "50", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  Sunny Kashyap  ", 
+                        "7", 
+                        "0", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Dhanraj Sharma  ", 
+                        "5", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player4": [
+                        "  Mayank Mishra  ", 
+                        "7", 
+                        "1", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player5": [
+                        "  M Rangarajan  ", 
+                        "7", 
+                        "0", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "5", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "42", 
+                    "runs": "137", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 90, 
+                        "teamScore": "59"
+                    }, 
+                    "player10": {
+                        "ballNo": 439, 
+                        "teamScore": "228"
+                    }, 
+                    "player2": {
+                        "ballNo": 122, 
+                        "teamScore": "78"
+                    }, 
+                    "player3": {
+                        "ballNo": 242, 
+                        "teamScore": "113"
+                    }, 
+                    "player4": {
+                        "ballNo": 257, 
+                        "teamScore": "117"
+                    }, 
+                    "player5": {
+                        "ballNo": 263, 
+                        "teamScore": "118"
+                    }, 
+                    "player6": {
+                        "ballNo": 390, 
+                        "teamScore": "214"
+                    }, 
+                    "player7": {
+                        "ballNo": 395, 
+                        "teamScore": "215"
+                    }, 
+                    "player8": {
+                        "ballNo": 416, 
+                        "teamScore": "217"
+                    }, 
+                    "player9": {
+                        "ballNo": 418, 
+                        "teamScore": "217"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Karn Veer Kaushal  ", 
+                        " c Sultan Karim b Thokchom Kishan ", 
+                        "45", 
+                        "55", 
+                        "6", 
+                        "2", 
+                        "81.82"
+                    ], 
+                    "player10": [
+                        "  Deepak Dhapola  ", 
+                        " c Yashpal Singh b Thokchom Kishan ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Dhanraj Sharma  ", 
+                        " not out ", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  V Saxena  ", 
+                        " lbw b Bishworjit Konthoujam ", 
+                        "27", 
+                        "46", 
+                        "4", 
+                        "0", 
+                        "58.70"
+                    ], 
+                    "player3": [
+                        "  Vaibhav Bhatt (wk)  ", 
+                        "  b Bishworjit Konthoujam ", 
+                        "18", 
+                        "78", 
+                        "3", 
+                        "0", 
+                        "23.08"
+                    ], 
+                    "player4": [
+                        "  Vaibhav Singh  ", 
+                        " c Lakhan Rawat b Sultan Karim ", 
+                        "54", 
+                        "169", 
+                        "7", 
+                        "0", 
+                        "31.95"
+                    ], 
+                    "player5": [
+                        "  Saurabh Rawat  ", 
+                        "  b Bishworjit Konthoujam ", 
+                        "2", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player6": [
+                        "  Sunny Kashyap  ", 
+                        " run out (R Rex Singh)  ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  R Bhatia (c)  ", 
+                        "  b Bishworjit Konthoujam ", 
+                        "61", 
+                        "63", 
+                        "11", 
+                        "0", 
+                        "96.83"
+                    ], 
+                    "player8": [
+                        "  M Rangarajan  ", 
+                        "  b Thokchom Kishan ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Mayank Mishra  ", 
+                        "  b Thokchom Kishan ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "UTK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  R Rex Singh  ", 
+                        "13", 
+                        "2", 
+                        "39", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Thokchom Kishan  ", 
+                        "17", 
+                        "3", 
+                        "50", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Bishworjit Konthoujam  ", 
+                        "24", 
+                        "8", 
+                        "68", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Priyojit K Singh  ", 
+                        "6", 
+                        "1", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Sultan Karim  ", 
+                        "8.1", 
+                        "3", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Yashpal Singh (c)  ", 
+                        "5", 
+                        "2", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "12", 
+                    "lb": "7", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "73.1", 
+                    "runs": "228", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 203, 
+                        "teamScore": "92"
+                    }, 
+                    "player10": {
+                        "ballNo": 448, 
+                        "teamScore": "185"
+                    }, 
+                    "player2": {
+                        "ballNo": 370, 
+                        "teamScore": "144"
+                    }, 
+                    "player3": {
+                        "ballNo": 378, 
+                        "teamScore": "144"
+                    }, 
+                    "player4": {
+                        "ballNo": 396, 
+                        "teamScore": "151"
+                    }, 
+                    "player5": {
+                        "ballNo": 409, 
+                        "teamScore": "158"
+                    }, 
+                    "player6": {
+                        "ballNo": 419, 
+                        "teamScore": "159"
+                    }, 
+                    "player7": {
+                        "ballNo": 420, 
+                        "teamScore": "159"
+                    }, 
+                    "player8": {
+                        "ballNo": 429, 
+                        "teamScore": "164"
+                    }, 
+                    "player9": {
+                        "ballNo": 436, 
+                        "teamScore": "172"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Lakhan Rawat  ", 
+                        "  b Deepak Dhapola ", 
+                        "82", 
+                        "202", 
+                        "10", 
+                        "0", 
+                        "40.59"
+                    ], 
+                    "player10": [
+                        "  Thokchom Kishan  ", 
+                        "  b Deepak Dhapola ", 
+                        "14", 
+                        "10", 
+                        "3", 
+                        "0", 
+                        "140.00"
+                    ], 
+                    "player11": [
+                        "  Bishworjit Konthoujam  ", 
+                        " not out ", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player2": [
+                        "  Prafullomani Singh (wk)  ", 
+                        " lbw b Deepak Dhapola ", 
+                        "30", 
+                        "93", 
+                        "4", 
+                        "0", 
+                        "32.26"
+                    ], 
+                    "player3": [
+                        "  Priyojit K Singh  ", 
+                        " lbw b Sunny Kashyap ", 
+                        "23", 
+                        "82", 
+                        "4", 
+                        "0", 
+                        "28.05"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        " lbw b Sunny Kashyap ", 
+                        "15", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "53.57"
+                    ], 
+                    "player5": [
+                        "  Sagatpam Jayanta  ", 
+                        " lbw b Sunny Kashyap ", 
+                        "4", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player6": [
+                        "  Kshetrimayum Narisingh  ", 
+                        "  b Deepak Dhapola ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Shashikant Singh  ", 
+                        " lbw b Sunny Kashyap ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Sultan Karim  ", 
+                        " lbw b Sunny Kashyap ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  R Rex Singh  ", 
+                        "  b Deepak Dhapola ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Deepak Dhapola  ", 
+                        "21.4", 
+                        "5", 
+                        "46", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Dhanraj Sharma  ", 
+                        "9", 
+                        "0", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Sunny Kashyap  ", 
+                        "17", 
+                        "2", 
+                        "46", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player4": [
+                        "  Mayank Mishra  ", 
+                        "14", 
+                        "5", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player5": [
+                        "  R Bhatia (c)  ", 
+                        "6", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player6": [
+                        "  M Rangarajan  ", 
+                        "7", 
+                        "2", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "4", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "74.4", 
+                    "runs": "185", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 45, 
+                        "teamScore": "37"
+                    }, 
+                    "player2": {
+                        "ballNo": 98, 
+                        "teamScore": "85"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Karn Veer Kaushal  ", 
+                        " lbw b Thokchom Kishan ", 
+                        "18", 
+                        "24", 
+                        "4", 
+                        "0", 
+                        "75.00"
+                    ], 
+                    "player2": [
+                        "  Vineet Saxena  ", 
+                        " not out ", 
+                        "32", 
+                        "50", 
+                        "6", 
+                        "0", 
+                        "64.00"
+                    ], 
+                    "player3": [
+                        "  Vaibhav Bhatt (wk)  ", 
+                        " run out (R Rex Singh)  ", 
+                        "27", 
+                        "28", 
+                        "5", 
+                        "0", 
+                        "96.43"
+                    ], 
+                    "player4": [
+                        "  Vaibhav Singh  ", 
+                        " not out ", 
+                        "10", 
+                        "5", 
+                        "1", 
+                        "1", 
+                        "200.00"
+                    ]
+                }, 
+                "batTeam": "UTK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Bishworjit Konthoujam  ", 
+                        "3", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player2": [
+                        "  Thokchom Kishan  ", 
+                        "6", 
+                        "1", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player3": [
+                        "  R Rex Singh  ", 
+                        "5", 
+                        "2", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player4": [
+                        "  Sultan Karim  ", 
+                        "2.5", 
+                        "0", 
+                        "34", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "12.00"
+                    ], 
+                    "player5": [
+                        "  Lakhan Rawat  ", 
+                        "1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "17.5", 
+                    "runs": "99", 
+                    "wickets": "2"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T16:30:00", 
+                    "startDate": "2018-11-12T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Kartik Joshi", 
+                            " Shivam Khurana", 
+                            " Kartik", 
+                            " Sunny Rana  "
+                        ], 
+                        "playing11": [
+                            " Karn Veer Kaushal", 
+                            " Vineet Saxena", 
+                            " Vaibhav Bhatt (wk)", 
+                            " Vaibhav Singh", 
+                            " Saurabh Rawat", 
+                            " Rajat Bhatia (c)", 
+                            " Dhanraj Sharma", 
+                            " Mayank Mishra", 
+                            " Sunny Kashyap", 
+                            " Malolan Rangarajan", 
+                            " Deepak Dhapola  "
+                        ], 
+                        "teamName": "Uttarakhand\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Chingangbam Singh", 
+                            " Shelley Shaurya", 
+                            " Homendro Meitei", 
+                            " Jitender", 
+                            " Somorjit Salam", 
+                            " Hrithik Kanojia  "
+                        ], 
+                        "playing11": [
+                            " Prafullomani Singh (wk)", 
+                            " Lakhan Rawat", 
+                            " Yashpal Singh (c)", 
+                            " Kangabam Singh", 
+                            " Sagatpam Jayanta", 
+                            " Sultan Karim", 
+                            " Bishworjit Konthoujam", 
+                            " Rex Singh", 
+                            " Kshetrimayum Narisingh", 
+                            " Thokchom Kishan", 
+                            " Shashikant Singh  "
+                        ], 
+                        "teamName": "Manipur\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Uttarakhand", 
+                    "team2": "Manipur"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Uttarakhand"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Nitin Goel"
+                }, 
+                "venue": "Abhimanyu Cricket Academy, Dehradun"
+            }
+        }
+    ]
+}

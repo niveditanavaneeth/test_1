@@ -1,0 +1,888 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 15, 
+                        "teamScore": "5"
+                    }, 
+                    "player10": {
+                        "ballNo": 621, 
+                        "teamScore": "385"
+                    }, 
+                    "player2": {
+                        "ballNo": 25, 
+                        "teamScore": "7"
+                    }, 
+                    "player3": {
+                        "ballNo": 110, 
+                        "teamScore": "54"
+                    }, 
+                    "player4": {
+                        "ballNo": 113, 
+                        "teamScore": "54"
+                    }, 
+                    "player5": {
+                        "ballNo": 332, 
+                        "teamScore": "199"
+                    }, 
+                    "player6": {
+                        "ballNo": 441, 
+                        "teamScore": "282"
+                    }, 
+                    "player7": {
+                        "ballNo": 473, 
+                        "teamScore": "296"
+                    }, 
+                    "player8": {
+                        "ballNo": 608, 
+                        "teamScore": "372"
+                    }, 
+                    "player9": {
+                        "ballNo": 611, 
+                        "teamScore": "372"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Madhav Kaushik  ", 
+                        " c Vasavada b DA Jadeja ", 
+                        "37", 
+                        "53", 
+                        "5", 
+                        "1", 
+                        "69.81"
+                    ], 
+                    "player10": [
+                        "  Rajpoot  ", 
+                        " c Snell Patel b Unadkat ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Yash Dayal  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rahul Rawat  ", 
+                        " lbw b Unadkat ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  M Saif  ", 
+                        " c Harvik Desai b Unadkat ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Akshdeep Nath (c)  ", 
+                        "  b DA Jadeja ", 
+                        "17", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "32.69"
+                    ], 
+                    "player5": [
+                        "  Priyam Garg  ", 
+                        " c Snell Patel b Chetan Sakariya ", 
+                        "49", 
+                        "93", 
+                        "7", 
+                        "0", 
+                        "52.69"
+                    ], 
+                    "player6": [
+                        "  Rinku Singh  ", 
+                        " c (sub)Kishan Parmar b K Makvana ", 
+                        "150", 
+                        "181", 
+                        "19", 
+                        "0", 
+                        "82.87"
+                    ], 
+                    "player7": [
+                        "  Upendra Yadav (wk)  ", 
+                        " lbw b DA Jadeja ", 
+                        "26", 
+                        "68", 
+                        "2", 
+                        "0", 
+                        "38.24"
+                    ], 
+                    "player8": [
+                        "  Saurabh Kumar  ", 
+                        " c K Makvana b Unadkat ", 
+                        "55", 
+                        "83", 
+                        "7", 
+                        "0", 
+                        "66.27"
+                    ], 
+                    "player9": [
+                        "  Shivam Mavi  ", 
+                        " c Vasavada b Unadkat ", 
+                        "42", 
+                        "80", 
+                        "6", 
+                        "0", 
+                        "52.50"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Unadkat (c)  ", 
+                        "22.3", 
+                        "4", 
+                        "86", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player2": [
+                        "  Chetan Sakariya  ", 
+                        "19", 
+                        "1", 
+                        "69", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player3": [
+                        "  Prerak Mankad  ", 
+                        "11", 
+                        "2", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  DA Jadeja  ", 
+                        "28", 
+                        "5", 
+                        "111", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  K Makvana  ", 
+                        "22", 
+                        "2", 
+                        "75", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Vasavada  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Saurashtra", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "5", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "103.3", 
+                    "runs": "385", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 62, 
+                        "teamScore": "35"
+                    }, 
+                    "player10": {
+                        "ballNo": 400, 
+                        "teamScore": "208"
+                    }, 
+                    "player2": {
+                        "ballNo": 63, 
+                        "teamScore": "35"
+                    }, 
+                    "player3": {
+                        "ballNo": 118, 
+                        "teamScore": "63"
+                    }, 
+                    "player4": {
+                        "ballNo": 162, 
+                        "teamScore": "80"
+                    }, 
+                    "player5": {
+                        "ballNo": 169, 
+                        "teamScore": "86"
+                    }, 
+                    "player6": {
+                        "ballNo": 298, 
+                        "teamScore": "151"
+                    }, 
+                    "player7": {
+                        "ballNo": 299, 
+                        "teamScore": "151"
+                    }, 
+                    "player8": {
+                        "ballNo": 361, 
+                        "teamScore": "186"
+                    }, 
+                    "player9": {
+                        "ballNo": 372, 
+                        "teamScore": "191"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Harvik Desai  ", 
+                        " c Upendra Yadav b Shivam Mavi ", 
+                        "84", 
+                        "143", 
+                        "13", 
+                        "0", 
+                        "58.74"
+                    ], 
+                    "player10": [
+                        "  Unadkat (c)  ", 
+                        " c Rahul Rawat b Rajpoot ", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player11": [
+                        "  Chetan Sakariya  ", 
+                        " not out ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Snell Patel (wk)  ", 
+                        " c M Saif b Rajpoot ", 
+                        "16", 
+                        "31", 
+                        "2", 
+                        "0", 
+                        "51.61"
+                    ], 
+                    "player3": [
+                        "  Vishvaraj Jadeja  ", 
+                        " c Upendra Yadav b Rajpoot ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Pujara  ", 
+                        " c Rahul Rawat b Shivam Mavi ", 
+                        "11", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "39.29"
+                    ], 
+                    "player5": [
+                        "  Jackson  ", 
+                        " c Upendra Yadav b Yash Dayal ", 
+                        "6", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player6": [
+                        "  Vasavada  ", 
+                        " c M Saif b Yash Dayal ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Prerak Mankad  ", 
+                        " c Priyam Garg b Yash Dayal ", 
+                        "67", 
+                        "132", 
+                        "10", 
+                        "0", 
+                        "50.76"
+                    ], 
+                    "player8": [
+                        "  K Makvana  ", 
+                        "  b Shivam Mavi ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  DA Jadeja  ", 
+                        " c Upendra Yadav b Yash Dayal ", 
+                        "14", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ]
+                }, 
+                "batTeam": "Saurashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajpoot  ", 
+                        "24", 
+                        "5", 
+                        "71", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Yash Dayal  ", 
+                        "17.4", 
+                        "3", 
+                        "55", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Shivam Mavi  ", 
+                        "13", 
+                        "3", 
+                        "40", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Saurabh Kumar  ", 
+                        "10", 
+                        "2", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player5": [
+                        "  Akshdeep Nath (c)  ", 
+                        "1", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player6": [
+                        "  M Saif  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "66.4", 
+                    "runs": "208", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 98, 
+                        "teamScore": "34"
+                    }, 
+                    "player10": {
+                        "ballNo": 433, 
+                        "teamScore": "194"
+                    }, 
+                    "player2": {
+                        "ballNo": 230, 
+                        "teamScore": "107"
+                    }, 
+                    "player3": {
+                        "ballNo": 256, 
+                        "teamScore": "116"
+                    }, 
+                    "player4": {
+                        "ballNo": 257, 
+                        "teamScore": "116"
+                    }, 
+                    "player5": {
+                        "ballNo": 345, 
+                        "teamScore": "162"
+                    }, 
+                    "player6": {
+                        "ballNo": 355, 
+                        "teamScore": "166"
+                    }, 
+                    "player7": {
+                        "ballNo": 358, 
+                        "teamScore": "166"
+                    }, 
+                    "player8": {
+                        "ballNo": 391, 
+                        "teamScore": "170"
+                    }, 
+                    "player9": {
+                        "ballNo": 414, 
+                        "teamScore": "184"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Madhav Kaushik  ", 
+                        " lbw b DA Jadeja ", 
+                        "19", 
+                        "57", 
+                        "3", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player10": [
+                        "  Rajpoot  ", 
+                        " not out ", 
+                        "9", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "34.62"
+                    ], 
+                    "player11": [
+                        "  Yash Dayal  ", 
+                        "  b Unadkat ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player2": [
+                        "  Rahul Rawat  ", 
+                        "  b DA Jadeja ", 
+                        "37", 
+                        "103", 
+                        "3", 
+                        "0", 
+                        "35.92"
+                    ], 
+                    "player3": [
+                        "  M Saif  ", 
+                        " c Vishvaraj Jadeja b DA Jadeja ", 
+                        "48", 
+                        "80", 
+                        "6", 
+                        "1", 
+                        "60.00"
+                    ], 
+                    "player4": [
+                        "  Priyam Garg  ", 
+                        " c Harvik Desai b Chetan Sakariya ", 
+                        "25", 
+                        "61", 
+                        "3", 
+                        "0", 
+                        "40.98"
+                    ], 
+                    "player5": [
+                        "  Rinku Singh  ", 
+                        " c Harvik Desai b DA Jadeja ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Upendra Yadav (wk)  ", 
+                        " c Snell Patel b Unadkat ", 
+                        "35", 
+                        "76", 
+                        "5", 
+                        "0", 
+                        "46.05"
+                    ], 
+                    "player7": [
+                        "  Akshdeep Nath (c)  ", 
+                        " lbw b Chetan Sakariya ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player8": [
+                        "  Saurabh Kumar  ", 
+                        " lbw b Chetan Sakariya ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Shivam Mavi  ", 
+                        " c Snell Patel b K Makvana ", 
+                        "1", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "5.88"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Unadkat (c)  ", 
+                        "17.1", 
+                        "3", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  Chetan Sakariya  ", 
+                        "18", 
+                        "3", 
+                        "38", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Prerak Mankad  ", 
+                        "6", 
+                        "2", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player4": [
+                        "  DA Jadeja  ", 
+                        "19", 
+                        "2", 
+                        "53", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  K Makvana  ", 
+                        "12", 
+                        "4", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ]
+                }, 
+                "bowlTeam": "Saurashtra", 
+                "extras": {
+                    "b": "10", 
+                    "lb": "8", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "72.1", 
+                    "runs": "194", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 264, 
+                        "teamScore": "132"
+                    }, 
+                    "player2": {
+                        "ballNo": 375, 
+                        "teamScore": "187"
+                    }, 
+                    "player3": {
+                        "ballNo": 444, 
+                        "teamScore": "220"
+                    }, 
+                    "player4": {
+                        "ballNo": 485, 
+                        "teamScore": "236"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Harvik Desai  ", 
+                        " c Upendra Yadav b Saurabh Kumar ", 
+                        "116", 
+                        "259", 
+                        "16", 
+                        "0", 
+                        "44.79"
+                    ], 
+                    "player2": [
+                        "  Snell Patel (wk)  ", 
+                        " c Upendra Yadav b Shivam Mavi ", 
+                        "72", 
+                        "114", 
+                        "9", 
+                        "0", 
+                        "63.16"
+                    ], 
+                    "player3": [
+                        "  Vishvaraj Jadeja  ", 
+                        " st Upendra Yadav b Akshdeep Nath ", 
+                        "35", 
+                        "63", 
+                        "3", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player4": [
+                        "  Kamlesh Makvana  ", 
+                        " c M Saif b Yash Dayal ", 
+                        "7", 
+                        "36", 
+                        "0", 
+                        "0", 
+                        "19.44"
+                    ], 
+                    "player5": [
+                        "  Cheteshwar Pujara  ", 
+                        " not out ", 
+                        "67", 
+                        "110", 
+                        "9", 
+                        "0", 
+                        "60.91"
+                    ], 
+                    "player6": [
+                        "  Sheldon Jackson  ", 
+                        " not out ", 
+                        "73", 
+                        "109", 
+                        "11", 
+                        "1", 
+                        "66.97"
+                    ]
+                }, 
+                "batTeam": "Saurashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ankit Rajpoot  ", 
+                        "26", 
+                        "6", 
+                        "70", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Yash Dayal  ", 
+                        "22", 
+                        "3", 
+                        "73", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Shivam Mavi  ", 
+                        "18", 
+                        "0", 
+                        "90", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player4": [
+                        "  Saurabh Kumar  ", 
+                        "40", 
+                        "11", 
+                        "102", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player5": [
+                        "  Akshdeep Nath (c)  ", 
+                        "5", 
+                        "1", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Mohammad Saif  ", 
+                        "3.1", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player7": [
+                        "  Rinku Singh  ", 
+                        "1", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "115.1", 
+                    "runs": "372", 
+                    "wickets": "4"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-19T16:30:00", 
+                    "startDate": "2019-01-15T09:30:00"
+                }, 
+                "groupName": "Commentary", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "2nd Quarter-Final - Live Cricket Score", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Kishan Parmar", 
+                            " Chirag Jani", 
+                            " Jay Chauhan", 
+                            " Samarth Vyas  "
+                        ], 
+                        "playing11": [
+                            " Harvik Desai", 
+                            " Snell Patel (wk)", 
+                            " Cheteshwar Pujara", 
+                            " Vishvaraj Jadeja", 
+                            " Sheldon Jackson", 
+                            " Arpit Vasavada", 
+                            " Prerak Mankad", 
+                            " Kamlesh Makvana", 
+                            " Jaydev Unadkat (c)", 
+                            " Dharmendrasinh Jadeja", 
+                            " Chetan Sakariya  "
+                        ], 
+                        "teamName": "Saurashtra\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Samarth Singh", 
+                            " Umang Sharma", 
+                            " Zeeshan Ansari", 
+                            " Imtiaz Ahmed  "
+                        ], 
+                        "playing11": [
+                            " Madhav Kaushik", 
+                            " Rahul Rawat", 
+                            " Mohammad Saif", 
+                            " Akshdeep Nath (c)", 
+                            " Priyam Garg", 
+                            " Rinku Singh", 
+                            " Upendra Yadav (wk)", 
+                            " Saurabh Kumar", 
+                            " Shivam Mavi", 
+                            " Yash Dayal", 
+                            " Ankit Rajpoot  "
+                        ], 
+                        "teamName": "Uttar Pradesh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Saurashtra", 
+                    "team2": "Uttar Pradesh"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Uttar"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Verma"
+                }, 
+                "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+            }
+        }
+    ]
+}

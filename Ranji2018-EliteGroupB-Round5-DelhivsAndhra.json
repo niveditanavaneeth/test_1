@@ -1,0 +1,819 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 726, 
+                        "teamScore": "390"
+                    }, 
+                    "player2": {
+                        "ballNo": 14, 
+                        "teamScore": "6"
+                    }, 
+                    "player3": {
+                        "ballNo": 65, 
+                        "teamScore": "35"
+                    }, 
+                    "player4": {
+                        "ballNo": 94, 
+                        "teamScore": "48"
+                    }, 
+                    "player5": {
+                        "ballNo": 222, 
+                        "teamScore": "122"
+                    }, 
+                    "player6": {
+                        "ballNo": 375, 
+                        "teamScore": "188"
+                    }, 
+                    "player7": {
+                        "ballNo": 510, 
+                        "teamScore": "265"
+                    }, 
+                    "player8": {
+                        "ballNo": 602, 
+                        "teamScore": "330"
+                    }, 
+                    "player9": {
+                        "ballNo": 619, 
+                        "teamScore": "338"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prasanth Kumar  ", 
+                        " c Lalit Yadav b Suboth Bhati ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Manish Golamaru  ", 
+                        " lbw b Shivank Vashisht ", 
+                        "36", 
+                        "72", 
+                        "4", 
+                        "1", 
+                        "50.00"
+                    ], 
+                    "player11": [
+                        "  B Ayyappa  ", 
+                        " not out ", 
+                        "21", 
+                        "47", 
+                        "4", 
+                        "0", 
+                        "44.68"
+                    ], 
+                    "player2": [
+                        "  Srikar Bharat (wk)  ", 
+                        " lbw b Suboth Bhati ", 
+                        "17", 
+                        "32", 
+                        "4", 
+                        "0", 
+                        "53.12"
+                    ], 
+                    "player3": [
+                        "  J Krishna  ", 
+                        " lbw b Suboth Bhati ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Bhui  ", 
+                        " c Lalit Yadav b Simarjeet Singh ", 
+                        "187", 
+                        "270", 
+                        "26", 
+                        "1", 
+                        "69.26"
+                    ], 
+                    "player5": [
+                        "  B Sumanth (c)  ", 
+                        "  b V Mishra ", 
+                        "2", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "18.18"
+                    ], 
+                    "player6": [
+                        "  Girinath Reddy  ", 
+                        " c Anuj Rawat b Suboth Bhati ", 
+                        "29", 
+                        "62", 
+                        "7", 
+                        "0", 
+                        "46.77"
+                    ], 
+                    "player7": [
+                        "  Siva charan singh  ", 
+                        " lbw b Lalit Yadav ", 
+                        "27", 
+                        "88", 
+                        "4", 
+                        "0", 
+                        "30.68"
+                    ], 
+                    "player8": [
+                        "  Karn Sharma  ", 
+                        " c Anuj Rawat b Suboth Bhati ", 
+                        "31", 
+                        "86", 
+                        "5", 
+                        "0", 
+                        "36.05"
+                    ], 
+                    "player9": [
+                        "  Shoaib Md Khan  ", 
+                        "  b V Mishra ", 
+                        "28", 
+                        "50", 
+                        "4", 
+                        "0", 
+                        "56.00"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Suboth Bhati  ", 
+                        "27", 
+                        "8", 
+                        "48", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player2": [
+                        "  Simarjeet Singh  ", 
+                        "26", 
+                        "2", 
+                        "123", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player3": [
+                        "  V Mishra  ", 
+                        "33", 
+                        "10", 
+                        "79", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player4": [
+                        "  Shivank Vashisht  ", 
+                        "20", 
+                        "3", 
+                        "67", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player5": [
+                        "  Lalit Yadav  ", 
+                        "15", 
+                        "1", 
+                        "63", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ]
+                }, 
+                "bowlTeam": "Delhi", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "9", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "121", 
+                    "runs": "390", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 156, 
+                        "teamScore": "108"
+                    }, 
+                    "player10": {
+                        "ballNo": 946, 
+                        "teamScore": "433"
+                    }, 
+                    "player2": {
+                        "ballNo": 398, 
+                        "teamScore": "221"
+                    }, 
+                    "player3": {
+                        "ballNo": 619, 
+                        "teamScore": "307"
+                    }, 
+                    "player4": {
+                        "ballNo": 635, 
+                        "teamScore": "310"
+                    }, 
+                    "player5": {
+                        "ballNo": 755, 
+                        "teamScore": "368"
+                    }, 
+                    "player6": {
+                        "ballNo": 784, 
+                        "teamScore": "370"
+                    }, 
+                    "player7": {
+                        "ballNo": 861, 
+                        "teamScore": "408"
+                    }, 
+                    "player8": {
+                        "ballNo": 880, 
+                        "teamScore": "416"
+                    }, 
+                    "player9": {
+                        "ballNo": 941, 
+                        "teamScore": "432"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Gambhir  ", 
+                        " c Srikar Bharat b Shoaib Md Khan ", 
+                        "112", 
+                        "185", 
+                        "10", 
+                        "0", 
+                        "60.54"
+                    ], 
+                    "player10": [
+                        "  V Mishra  ", 
+                        " c Prasanth Kumar b Girinath Reddy ", 
+                        "5", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "13.51"
+                    ], 
+                    "player11": [
+                        "  Simarjeet Singh  ", 
+                        " not out ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Hiten Dalal  ", 
+                        " c Prasanth Kumar b Manish Golamaru ", 
+                        "58", 
+                        "77", 
+                        "9", 
+                        "0", 
+                        "75.32"
+                    ], 
+                    "player3": [
+                        "  D Shorey (c)  ", 
+                        " c J Krishna b Manish Golamaru ", 
+                        "98", 
+                        "259", 
+                        "6", 
+                        "0", 
+                        "37.84"
+                    ], 
+                    "player4": [
+                        "  V Rawal  ", 
+                        " c Bhui b Shoaib Md Khan ", 
+                        "33", 
+                        "107", 
+                        "2", 
+                        "0", 
+                        "30.84"
+                    ], 
+                    "player5": [
+                        "  Jonty Sidhu  ", 
+                        "  b Shoaib Md Khan ", 
+                        "30", 
+                        "79", 
+                        "3", 
+                        "0", 
+                        "37.97"
+                    ], 
+                    "player6": [
+                        "  Lalit Yadav  ", 
+                        " lbw b Manish Golamaru ", 
+                        "29", 
+                        "63", 
+                        "4", 
+                        "0", 
+                        "46.03"
+                    ], 
+                    "player7": [
+                        "  Anuj Rawat (wk)  ", 
+                        " c Srikar Bharat b J Krishna ", 
+                        "28", 
+                        "54", 
+                        "5", 
+                        "0", 
+                        "51.85"
+                    ], 
+                    "player8": [
+                        "  Shivank Vashisht  ", 
+                        " lbw b B Ayyappa ", 
+                        "15", 
+                        "46", 
+                        "1", 
+                        "0", 
+                        "32.61"
+                    ], 
+                    "player9": [
+                        "  Suboth Bhati  ", 
+                        "  c and b B Ayyappa ", 
+                        "9", 
+                        "39", 
+                        "1", 
+                        "0", 
+                        "23.08"
+                    ]
+                }, 
+                "batTeam": "Delhi", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  B Ayyappa  ", 
+                        "20", 
+                        "6", 
+                        "59", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  Girinath Reddy  ", 
+                        "9.4", 
+                        "2", 
+                        "32", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Manish Golamaru  ", 
+                        "57", 
+                        "9", 
+                        "129", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player4": [
+                        "  Shoaib Md Khan  ", 
+                        "54", 
+                        "6", 
+                        "138", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player5": [
+                        "  Karn Sharma  ", 
+                        "11", 
+                        "0", 
+                        "44", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player6": [
+                        "  Prasanth Kumar  ", 
+                        "4", 
+                        "1", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player7": [
+                        "  Bhui  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player8": [
+                        "  J Krishna  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Andhra", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "4", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "157.4", 
+                    "runs": "433", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 27, 
+                        "teamScore": "10"
+                    }, 
+                    "player10": {
+                        "ballNo": 354, 
+                        "teamScore": "130"
+                    }, 
+                    "player2": {
+                        "ballNo": 102, 
+                        "teamScore": "34"
+                    }, 
+                    "player3": {
+                        "ballNo": 178, 
+                        "teamScore": "79"
+                    }, 
+                    "player4": {
+                        "ballNo": 191, 
+                        "teamScore": "80"
+                    }, 
+                    "player5": {
+                        "ballNo": 195, 
+                        "teamScore": "84"
+                    }, 
+                    "player6": {
+                        "ballNo": 222, 
+                        "teamScore": "85"
+                    }, 
+                    "player7": {
+                        "ballNo": 275, 
+                        "teamScore": "105"
+                    }, 
+                    "player8": {
+                        "ballNo": 295, 
+                        "teamScore": "109"
+                    }, 
+                    "player9": {
+                        "ballNo": 297, 
+                        "teamScore": "113"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prasanth Kumar  ", 
+                        " c Anuj Rawat b Suboth Bhati ", 
+                        "5", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player10": [
+                        "  Karn Sharma  ", 
+                        " c Anuj Rawat b Shivank Vashisht ", 
+                        "4", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "200.00"
+                    ], 
+                    "player11": [
+                        "  B Ayyappa  ", 
+                        " c Anuj Rawat b V Mishra ", 
+                        "9", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "32.14"
+                    ], 
+                    "player2": [
+                        "  Shoaib Md Khan  ", 
+                        " lbw b Shivank Vashisht ", 
+                        "44", 
+                        "99", 
+                        "4", 
+                        "1", 
+                        "44.44"
+                    ], 
+                    "player3": [
+                        "  J Krishna  ", 
+                        " c Anuj Rawat b Lalit Yadav ", 
+                        "3", 
+                        "34", 
+                        "0", 
+                        "0", 
+                        "8.82"
+                    ], 
+                    "player4": [
+                        "  Bhui  ", 
+                        " lbw b Shivank Vashisht ", 
+                        "27", 
+                        "41", 
+                        "3", 
+                        "1", 
+                        "65.85"
+                    ], 
+                    "player5": [
+                        "  Srikar Bharat (wk)  ", 
+                        " c D Shorey b V Mishra ", 
+                        "5", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "83.33"
+                    ], 
+                    "player6": [
+                        "  B Sumanth (c)  ", 
+                        "  b V Mishra ", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Girinath Reddy  ", 
+                        " c V Rawal b Shivank Vashisht ", 
+                        "15", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player8": [
+                        "  Manish Golamaru  ", 
+                        " not out ", 
+                        "14", 
+                        "65", 
+                        "2", 
+                        "0", 
+                        "21.54"
+                    ], 
+                    "player9": [
+                        "  Siva charan singh  ", 
+                        " st Anuj Rawat b Shivank Vashisht ", 
+                        "4", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Suboth Bhati  ", 
+                        "7", 
+                        "4", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player2": [
+                        "  V Mishra  ", 
+                        "11", 
+                        "6", 
+                        "15", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player3": [
+                        "  Simarjeet Singh  ", 
+                        "2", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Lalit Yadav  ", 
+                        "19", 
+                        "8", 
+                        "52", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player5": [
+                        "  Shivank Vashisht  ", 
+                        "20", 
+                        "5", 
+                        "49", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ]
+                }, 
+                "bowlTeam": "Delhi", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "59", 
+                    "runs": "130", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "3"
+                    }, 
+                    "player2": {
+                        "ballNo": 30, 
+                        "teamScore": "41"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anuj Rawat (wk)  ", 
+                        " c Bhui b B Ayyappa ", 
+                        "23", 
+                        "17", 
+                        "0", 
+                        "1", 
+                        "135.29"
+                    ], 
+                    "player2": [
+                        "  Hiten Dalal  ", 
+                        " c Bhui b B Ayyappa ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player3": [
+                        "  Lalit Yadav  ", 
+                        " not out ", 
+                        "13", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "108.33"
+                    ]
+                }, 
+                "batTeam": "Delhi", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Bandaru Ayyappa  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ], 
+                    "player2": [
+                        "  Girinath Reddy  ", 
+                        "2", 
+                        "0", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "11.00"
+                    ]
+                }, 
+                "bowlTeam": "Andhra", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "5", 
+                    "runs": "41", 
+                    "wickets": "2"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-09T16:30:00", 
+                    "startDate": "2018-12-06T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 5", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Nitish Rana", 
+                            " Himmat Singh", 
+                            " Kulwant Khejroliya", 
+                            " Sarthak Ranjan", 
+                            " Varun Sood", 
+                            " Gaurav Kumar", 
+                            " Pulkit Narang", 
+                            " Kunwar Bidhuri  "
+                        ], 
+                        "playing11": [
+                            " Gautam Gambhir", 
+                            " Hiten Dalal", 
+                            " Dhruv Shorey (c)", 
+                            " Vaibhav Rawal", 
+                            " Anuj Rawat (wk)", 
+                            " Shivank Vashisht", 
+                            " Lalit Yadav", 
+                            " Jonty Sidhu", 
+                            " Suboth Bhati", 
+                            " Simarjeet Singh", 
+                            " Vikas Mishra  "
+                        ], 
+                        "teamName": "Delhi\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Ashwin Hebbar", 
+                            " Karthik Raman", 
+                            " Yarra Prithviraj", 
+                            " Dwaraka Ravi Teja", 
+                            " KV Sasikanth", 
+                            " Paidikalva Vijaykumar  "
+                        ], 
+                        "playing11": [
+                            " Prasanth Kumar", 
+                            " Jyothi Sai Krishna", 
+                            " Ricky Bhui", 
+                            " Bodapati Sumanth (c)", 
+                            " Siva charan singh", 
+                            " Girinath Reddy", 
+                            " Srikar Bharat (wk)", 
+                            " Shoaib Md Khan", 
+                            " Manish Golamaru", 
+                            " Karn Sharma", 
+                            " Bandaru Ayyappa  "
+                        ], 
+                        "teamName": "Andhra\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Delhi", 
+                    "team2": "Andhra"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Delhi"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Shakti Singh"
+                }, 
+                "venue": "Arun Jaitley Stadium, Delhi"
+            }
+        }
+    ]
+}

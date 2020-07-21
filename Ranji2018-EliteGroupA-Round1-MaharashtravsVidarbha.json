@@ -1,0 +1,719 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 216, 
+                        "teamScore": "120"
+                    }, 
+                    "player10": {
+                        "ballNo": 635, 
+                        "teamScore": "343"
+                    }, 
+                    "player2": {
+                        "ballNo": 328, 
+                        "teamScore": "164"
+                    }, 
+                    "player3": {
+                        "ballNo": 426, 
+                        "teamScore": "226"
+                    }, 
+                    "player4": {
+                        "ballNo": 456, 
+                        "teamScore": "237"
+                    }, 
+                    "player5": {
+                        "ballNo": 462, 
+                        "teamScore": "237"
+                    }, 
+                    "player6": {
+                        "ballNo": 529, 
+                        "teamScore": "283"
+                    }, 
+                    "player7": {
+                        "ballNo": 561, 
+                        "teamScore": "299"
+                    }, 
+                    "player8": {
+                        "ballNo": 595, 
+                        "teamScore": "332"
+                    }, 
+                    "player9": {
+                        "ballNo": 628, 
+                        "teamScore": "343"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Swapnil Gugale  ", 
+                        " c Akshay Wadkar b Wakhare ", 
+                        "47", 
+                        "119", 
+                        "8", 
+                        "0", 
+                        "39.50"
+                    ], 
+                    "player10": [
+                        "  SS Bachhav  ", 
+                        " c Akshay Wadkar b Sarwate ", 
+                        "3", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "15.00"
+                    ], 
+                    "player11": [
+                        "  S Fallah  ", 
+                        " run out (W Jaffer/Akshay Wadkar)  ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  C Khurana  ", 
+                        " c Darshan Nalkande b Lalit M Yadav ", 
+                        "89", 
+                        "157", 
+                        "13", 
+                        "0", 
+                        "56.69"
+                    ], 
+                    "player3": [
+                        "  Ruturaj Gaikwad  ", 
+                        " c Sanjay Ramaswamy b Aditya Thakare ", 
+                        "47", 
+                        "117", 
+                        "7", 
+                        "0", 
+                        "40.17"
+                    ], 
+                    "player4": [
+                        "  Naushad Shaikh (wk)  ", 
+                        " c G Satish b Sarwate ", 
+                        "40", 
+                        "57", 
+                        "8", 
+                        "0", 
+                        "70.18"
+                    ], 
+                    "player5": [
+                        "  Bawne (c)  ", 
+                        " c G Satish b Sarwate ", 
+                        "4", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player6": [
+                        "  R Tripathi  ", 
+                        " lbw b Lalit M Yadav ", 
+                        "73", 
+                        "71", 
+                        "13", 
+                        "1", 
+                        "102.82"
+                    ], 
+                    "player7": [
+                        "  R Motwani  ", 
+                        " lbw b Wakhare ", 
+                        "9", 
+                        "30", 
+                        "2", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player8": [
+                        "  N Dhumal  ", 
+                        " c Akshay Wadkar b Lalit M Yadav ", 
+                        "2", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "9.09"
+                    ], 
+                    "player9": [
+                        "  A Sanklecha  ", 
+                        " not out ", 
+                        "15", 
+                        "31", 
+                        "3", 
+                        "0", 
+                        "48.39"
+                    ]
+                }, 
+                "batTeam": "Maharashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aditya Thakare  ", 
+                        "16", 
+                        "6", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player2": [
+                        "  Lalit M Yadav  ", 
+                        "26", 
+                        "7", 
+                        "84", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  Darshan Nalkande  ", 
+                        "18", 
+                        "2", 
+                        "84", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player4": [
+                        "  Sarwate  ", 
+                        "15", 
+                        "4", 
+                        "51", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player5": [
+                        "  F Fazal (c)  ", 
+                        "7", 
+                        "1", 
+                        "42", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player6": [
+                        "  Wakhare  ", 
+                        "23.5", 
+                        "5", 
+                        "48", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Vidarbha", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "3", 
+                    "nb": "11", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "105.5", 
+                    "runs": "343", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 30, 
+                        "teamScore": "11"
+                    }, 
+                    "player10": {
+                        "ballNo": 269, 
+                        "teamScore": "120"
+                    }, 
+                    "player2": {
+                        "ballNo": 73, 
+                        "teamScore": "34"
+                    }, 
+                    "player3": {
+                        "ballNo": 123, 
+                        "teamScore": "55"
+                    }, 
+                    "player4": {
+                        "ballNo": 131, 
+                        "teamScore": "55"
+                    }, 
+                    "player5": {
+                        "ballNo": 132, 
+                        "teamScore": "55"
+                    }, 
+                    "player6": {
+                        "ballNo": 182, 
+                        "teamScore": "88"
+                    }, 
+                    "player7": {
+                        "ballNo": 214, 
+                        "teamScore": "102"
+                    }, 
+                    "player8": {
+                        "ballNo": 228, 
+                        "teamScore": "107"
+                    }, 
+                    "player9": {
+                        "ballNo": 237, 
+                        "teamScore": "108"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  F Fazal (c)  ", 
+                        " lbw b N Dhumal ", 
+                        "8", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "21.05"
+                    ], 
+                    "player10": [
+                        "  Lalit M Yadav  ", 
+                        " lbw b C Khurana ", 
+                        "12", 
+                        "21", 
+                        "1", 
+                        "1", 
+                        "57.14"
+                    ], 
+                    "player11": [
+                        "  Aditya Thakare  ", 
+                        " not out ", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Sanjay Ramaswamy  ", 
+                        " c R Motwani b A Sanklecha ", 
+                        "9", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "56.25"
+                    ], 
+                    "player3": [
+                        "  W Jaffer  ", 
+                        "  b S Fallah ", 
+                        "27", 
+                        "51", 
+                        "4", 
+                        "0", 
+                        "52.94"
+                    ], 
+                    "player4": [
+                        "  G Satish  ", 
+                        " c SS Bachhav b N Dhumal ", 
+                        "9", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player5": [
+                        "  Wankhade  ", 
+                        " c R Motwani b A Sanklecha ", 
+                        "13", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "46.43"
+                    ], 
+                    "player6": [
+                        "  Akshay Wadkar (wk)  ", 
+                        " c R Motwani b S Fallah ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Sarwate  ", 
+                        " c R Motwani b SS Bachhav ", 
+                        "25", 
+                        "47", 
+                        "3", 
+                        "0", 
+                        "53.19"
+                    ], 
+                    "player8": [
+                        "  Darshan Nalkande  ", 
+                        " c Swapnil Gugale b SS Bachhav ", 
+                        "8", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player9": [
+                        "  Wakhare  ", 
+                        "  b SS Bachhav ", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ]
+                }, 
+                "batTeam": "Vidarbha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  A Sanklecha  ", 
+                        "13", 
+                        "1", 
+                        "38", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  S Fallah  ", 
+                        "12", 
+                        "6", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player3": [
+                        "  N Dhumal  ", 
+                        "13", 
+                        "2", 
+                        "48", 
+                        "2", 
+                        "3", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player4": [
+                        "  SS Bachhav  ", 
+                        "5", 
+                        "3", 
+                        "3", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.60"
+                    ], 
+                    "player5": [
+                        "  C Khurana  ", 
+                        "1.5", 
+                        "1", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ]
+                }, 
+                "bowlTeam": "Maharashtra", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "2", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "44.5", 
+                    "runs": "120", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 113, 
+                        "teamScore": "54"
+                    }, 
+                    "player2": {
+                        "ballNo": 290, 
+                        "teamScore": "149"
+                    }, 
+                    "player3": {
+                        "ballNo": 524, 
+                        "teamScore": "240"
+                    }, 
+                    "player4": {
+                        "ballNo": 635, 
+                        "teamScore": "308"
+                    }, 
+                    "player5": {
+                        "ballNo": 715, 
+                        "teamScore": "354"
+                    }, 
+                    "player6": {
+                        "ballNo": 944, 
+                        "teamScore": "467"
+                    }, 
+                    "player7": {
+                        "ballNo": 947, 
+                        "teamScore": "467"
+                    }, 
+                    "player8": {
+                        "ballNo": 948, 
+                        "teamScore": "467"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Faiz Fazal (c)  ", 
+                        " c R Motwani b S Fallah ", 
+                        "131", 
+                        "324", 
+                        "16", 
+                        "2", 
+                        "40.43"
+                    ], 
+                    "player10": [
+                        "  Lalit M Yadav  ", 
+                        " not out ", 
+                        "10", 
+                        "39", 
+                        "1", 
+                        "1", 
+                        "25.64"
+                    ], 
+                    "player2": [
+                        "  Sanjay Ramaswamy  ", 
+                        "  b A Sanklecha ", 
+                        "29", 
+                        "59", 
+                        "5", 
+                        "0", 
+                        "49.15"
+                    ], 
+                    "player3": [
+                        "  Wasim Jaffer  ", 
+                        " c Bawne b S Fallah ", 
+                        "63", 
+                        "92", 
+                        "12", 
+                        "0", 
+                        "68.48"
+                    ], 
+                    "player4": [
+                        "  Ganesh Satish  ", 
+                        " c R Motwani b N Dhumal ", 
+                        "37", 
+                        "117", 
+                        "6", 
+                        "0", 
+                        "31.62"
+                    ], 
+                    "player5": [
+                        "  Akshay Wadkar (wk)  ", 
+                        " not out ", 
+                        "122", 
+                        "272", 
+                        "17", 
+                        "0", 
+                        "44.85"
+                    ], 
+                    "player6": [
+                        "  Apoorv Wankhade  ", 
+                        " c Ruturaj Gaikwad b A Sanklecha ", 
+                        "28", 
+                        "32", 
+                        "5", 
+                        "1", 
+                        "87.50"
+                    ], 
+                    "player7": [
+                        "  Aditya Sarwate  ", 
+                        " c (sub)Jay Pande b SS Bachhav ", 
+                        "60", 
+                        "118", 
+                        "8", 
+                        "0", 
+                        "50.85"
+                    ], 
+                    "player8": [
+                        "  Darshan Nalkande  ", 
+                        " c Ruturaj Gaikwad b SS Bachhav ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Akshay Wakhare  ", 
+                        " lbw b SS Bachhav ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Vidarbha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Anupam Sanklecha  ", 
+                        "29", 
+                        "3", 
+                        "93", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player2": [
+                        "  Samad Fallah  ", 
+                        "38", 
+                        "14", 
+                        "84", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  Nikit Dhumal  ", 
+                        "26", 
+                        "4", 
+                        "85", 
+                        "1", 
+                        "4", 
+                        "1", 
+                        "3.30"
+                    ], 
+                    "player4": [
+                        "  Rahul Tripathi  ", 
+                        "10", 
+                        "4", 
+                        "32", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player5": [
+                        "  Satyajeet Bachhav  ", 
+                        "48", 
+                        "16", 
+                        "109", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player6": [
+                        "  Chirag Khurana  ", 
+                        "18", 
+                        "3", 
+                        "71", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player7": [
+                        "  Swapnil Gugale  ", 
+                        "6", 
+                        "1", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Maharashtra", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "4", 
+                    "nb": "7", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "175", 
+                    "runs": "501", 
+                    "wickets": "8"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Jay Pande", 
+                            " Harshad Khadiwale", 
+                            " Mukesh Choudhary  "
+                        ], 
+                        "playing11": [
+                            " Ruturaj Gaikwad", 
+                            " Ankit Bawne (c)", 
+                            " Rahul Tripathi", 
+                            " Rohit Motwani", 
+                            " Naushad Shaikh (wk)", 
+                            " Chirag Khurana", 
+                            " Nikit Dhumal", 
+                            " Samad Fallah", 
+                            " Anupam Sanklecha", 
+                            " Swapnil Gugale", 
+                            " Satyajeet Bachhav  "
+                        ], 
+                        "teamName": "Maharashtra\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Akshay Karnewar", 
+                            " Atharwa Taide", 
+                            " Rajneesh Gurbani", 
+                            " Shrikant Wagh", 
+                            " Siddhesh Wath  "
+                        ], 
+                        "playing11": [
+                            " Faiz Fazal (c)", 
+                            " Wasim Jaffer", 
+                            " Sanjay Raghunath", 
+                            " Apoorv Wankhade", 
+                            " Ganesh Satish", 
+                            " Akshay Wakhare", 
+                            " Aditya Sarwate", 
+                            " Akshay Wadkar (wk)", 
+                            " Lalit M Yadav", 
+                            " Aditya Thakare", 
+                            " Darshan Nalkande  "
+                        ], 
+                        "teamName": "Vidarbha\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Maharashtra", 
+                    "team2": "Vidarbha"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Vidarbha"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sridharan Sharath"
+                }, 
+                "venue": "Maharashtra Cricket Association Stadium, Pune"
+            }
+        }
+    ]
+}

@@ -1,0 +1,718 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 21, 
+                        "teamScore": "11"
+                    }, 
+                    "player10": {
+                        "ballNo": 276, 
+                        "teamScore": "105"
+                    }, 
+                    "player2": {
+                        "ballNo": 33, 
+                        "teamScore": "17"
+                    }, 
+                    "player3": {
+                        "ballNo": 105, 
+                        "teamScore": "46"
+                    }, 
+                    "player4": {
+                        "ballNo": 127, 
+                        "teamScore": "48"
+                    }, 
+                    "player5": {
+                        "ballNo": 132, 
+                        "teamScore": "48"
+                    }, 
+                    "player6": {
+                        "ballNo": 162, 
+                        "teamScore": "57"
+                    }, 
+                    "player7": {
+                        "ballNo": 226, 
+                        "teamScore": "92"
+                    }, 
+                    "player8": {
+                        "ballNo": 227, 
+                        "teamScore": "92"
+                    }, 
+                    "player9": {
+                        "ballNo": 269, 
+                        "teamScore": "103"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samarth Seth  ", 
+                        " c Saurabh Rawat b Girish Rauturi ", 
+                        "6", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player10": [
+                        "  Licha Tehi  ", 
+                        " c Saurabh Rawat b Sunny Kashyap ", 
+                        "4", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player11": [
+                        "  Sandeep Thakur  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Techi Doria  ", 
+                        "  c and b Mayank Mishra ", 
+                        "13", 
+                        "46", 
+                        "2", 
+                        "0", 
+                        "28.26"
+                    ], 
+                    "player3": [
+                        "  Myendung Singpho  ", 
+                        " lbw b Girish Rauturi ", 
+                        "6", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        "  b Mayank Mishra ", 
+                        "57", 
+                        "122", 
+                        "4", 
+                        "1", 
+                        "46.72"
+                    ], 
+                    "player5": [
+                        "  Akhilesh Sahani  ", 
+                        " c Kartik b Mayank Mishra ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Kamsha Yangfo (c) (wk)  ", 
+                        " c Piyush Joshi b Mayank Mishra ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Neelam Obi  ", 
+                        "  b M Rangarajan ", 
+                        "7", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "43.75"
+                    ], 
+                    "player8": [
+                        "  Techi Neri  ", 
+                        " lbw b Sunny Kashyap ", 
+                        "7", 
+                        "40", 
+                        "0", 
+                        "0", 
+                        "17.50"
+                    ], 
+                    "player9": [
+                        "  Subhash Sharma  ", 
+                        " lbw b Sunny Kashyap ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Sunny Kashyap  ", 
+                        "10", 
+                        "1", 
+                        "30", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Girish Rauturi  ", 
+                        "8", 
+                        "3", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  R Bhatia (c)  ", 
+                        "5", 
+                        "3", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.40"
+                    ], 
+                    "player4": [
+                        "  Mayank Mishra  ", 
+                        "14", 
+                        "4", 
+                        "23", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player5": [
+                        "  M Rangarajan  ", 
+                        "8", 
+                        "1", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player6": [
+                        "  Vaibhav Singh  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "46", 
+                    "runs": "105", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 20, 
+                        "teamScore": "13"
+                    }, 
+                    "player2": {
+                        "ballNo": 25, 
+                        "teamScore": "13"
+                    }, 
+                    "player3": {
+                        "ballNo": 234, 
+                        "teamScore": "161"
+                    }, 
+                    "player4": {
+                        "ballNo": 371, 
+                        "teamScore": "226"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  V Saxena  ", 
+                        " c Kshitiz Sharma b Subhash Sharma ", 
+                        "6", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Piyush Joshi  ", 
+                        "  b Licha Tehi ", 
+                        "7", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "77.78"
+                    ], 
+                    "player3": [
+                        "  Kartik  ", 
+                        " not out ", 
+                        "208", 
+                        "308", 
+                        "19", 
+                        "0", 
+                        "67.53"
+                    ], 
+                    "player4": [
+                        "  Vaibhav Singh  ", 
+                        "  b Techi Neri ", 
+                        "59", 
+                        "115", 
+                        "5", 
+                        "1", 
+                        "51.30"
+                    ], 
+                    "player5": [
+                        "  Saurabh Rawat (wk)  ", 
+                        "  b Myendung Singpho ", 
+                        "31", 
+                        "71", 
+                        "3", 
+                        "0", 
+                        "43.66"
+                    ], 
+                    "player6": [
+                        "  R Bhatia (c)  ", 
+                        " not out ", 
+                        "152", 
+                        "142", 
+                        "17", 
+                        "3", 
+                        "107.04"
+                    ]
+                }, 
+                "batTeam": "UTK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "17", 
+                        "0", 
+                        "70", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player2": [
+                        "  Subhash Sharma  ", 
+                        "15", 
+                        "3", 
+                        "48", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  Myendung Singpho  ", 
+                        "19", 
+                        "0", 
+                        "67", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Akhilesh Sahani  ", 
+                        "7", 
+                        "0", 
+                        "45", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.40"
+                    ], 
+                    "player5": [
+                        "  Kshitiz Sharma  ", 
+                        "9", 
+                        "0", 
+                        "44", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.90"
+                    ], 
+                    "player6": [
+                        "  Sandeep Thakur  ", 
+                        "13", 
+                        "0", 
+                        "68", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player7": [
+                        "  Techi Neri  ", 
+                        "17", 
+                        "1", 
+                        "58", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player8": [
+                        "  Techi Doria  ", 
+                        "10", 
+                        "0", 
+                        "50", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player9": [
+                        "  Samarth Seth  ", 
+                        "1.4", 
+                        "0", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "10.80"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "1", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "108.4", 
+                    "runs": "470", 
+                    "wickets": "4"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 145, 
+                        "teamScore": "83"
+                    }, 
+                    "player10": {
+                        "ballNo": 675, 
+                        "teamScore": "292"
+                    }, 
+                    "player2": {
+                        "ballNo": 180, 
+                        "teamScore": "98"
+                    }, 
+                    "player3": {
+                        "ballNo": 506, 
+                        "teamScore": "201"
+                    }, 
+                    "player4": {
+                        "ballNo": 514, 
+                        "teamScore": "206"
+                    }, 
+                    "player5": {
+                        "ballNo": 526, 
+                        "teamScore": "212"
+                    }, 
+                    "player6": {
+                        "ballNo": 557, 
+                        "teamScore": "215"
+                    }, 
+                    "player7": {
+                        "ballNo": 562, 
+                        "teamScore": "216"
+                    }, 
+                    "player8": {
+                        "ballNo": 637, 
+                        "teamScore": "261"
+                    }, 
+                    "player9": {
+                        "ballNo": 666, 
+                        "teamScore": "281"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samarth Seth  ", 
+                        " c Kartik b M Rangarajan ", 
+                        "60", 
+                        "77", 
+                        "11", 
+                        "0", 
+                        "77.92"
+                    ], 
+                    "player10": [
+                        "  Sandeep Thakur  ", 
+                        "  b Mayank Mishra ", 
+                        "16", 
+                        "14", 
+                        "0", 
+                        "2", 
+                        "114.29"
+                    ], 
+                    "player11": [
+                        "  Subhash Sharma  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Techi Doria  ", 
+                        " run out (R Bhatia)  ", 
+                        "60", 
+                        "246", 
+                        "10", 
+                        "0", 
+                        "24.39"
+                    ], 
+                    "player3": [
+                        "  Neelam Obi  ", 
+                        " c Vaibhav Singh b Sunny Kashyap ", 
+                        "6", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "23.08"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        " c Saurabh Rawat b Mayank Mishra ", 
+                        "118", 
+                        "256", 
+                        "12", 
+                        "2", 
+                        "46.09"
+                    ], 
+                    "player5": [
+                        "  Akhilesh Sahani  ", 
+                        " lbw b M Rangarajan ", 
+                        "4", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player6": [
+                        "  Kamsha Yangfo (c) (wk)  ", 
+                        " lbw b M Rangarajan ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Myendung Singpho  ", 
+                        " c Piyush Joshi b Mayank Mishra ", 
+                        "1", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "5.56"
+                    ], 
+                    "player8": [
+                        "  Techi Neri  ", 
+                        " c Piyush Joshi b M Rangarajan ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Licha Tehi  ", 
+                        " c Vaibhav Singh b Mayank Mishra ", 
+                        "8", 
+                        "23", 
+                        "0", 
+                        "1", 
+                        "34.78"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Sunny Kashyap  ", 
+                        "18", 
+                        "6", 
+                        "40", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Girish Rauturi  ", 
+                        "20", 
+                        "5", 
+                        "47", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player3": [
+                        "  Malolan Rangarajan  ", 
+                        "33", 
+                        "10", 
+                        "78", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player4": [
+                        "  Mayank Mishra  ", 
+                        "28.3", 
+                        "9", 
+                        "57", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player5": [
+                        "  Vaibhav Singh  ", 
+                        "4", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player6": [
+                        "  Kartik  ", 
+                        "2", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player7": [
+                        "  Rajat Bhatia (c)  ", 
+                        "4", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player8": [
+                        "  Vineet Saxena  ", 
+                        "3", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "16", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "112.3", 
+                    "runs": "292", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:00:00", 
+                    "startDate": "2018-11-28T09:00:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Hayat Ansari", 
+                            " Tana Davit", 
+                            " Momar Ori  "
+                        ], 
+                        "playing11": [
+                            " Samarth Seth", 
+                            " Techi Doria", 
+                            " Kshitiz Sharma", 
+                            " Akhilesh Sahani", 
+                            " Kamsha Yangfo (c & wk)", 
+                            " Neelam Obi", 
+                            " Techi Neri", 
+                            " Myendung Singpho", 
+                            " Licha Tehi", 
+                            " Sandeep Thakur", 
+                            " Subhash Sharma  "
+                        ], 
+                        "teamName": "Arunachal Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Karn Veer Kaushal", 
+                            " Kartik Joshi", 
+                            " Deepak Dhapola", 
+                            " Dhanraj Sharma", 
+                            " Sunny Rana", 
+                            " Shivam Khurana  "
+                        ], 
+                        "playing11": [
+                            " Kartik", 
+                            " Mayank Mishra", 
+                            " Sunny Kashyap", 
+                            " Vaibhav Bhatt", 
+                            " Vaibhav Singh", 
+                            " Vineet Saxena", 
+                            " Malolan Rangarajan", 
+                            " Rajat Bhatia (c)", 
+                            " Saurabh Rawat (wk)", 
+                            " Piyush Joshi", 
+                            " Girish Rauturi  "
+                        ], 
+                        "teamName": "Uttarakhand\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Arunachal Pradesh", 
+                    "team2": "Uttarakhand"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Uttarakhand"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Manu Nayyar"
+                }, 
+                "venue": "DN Singha Stadium, Goalpara"
+            }
+        }
+    ]
+}

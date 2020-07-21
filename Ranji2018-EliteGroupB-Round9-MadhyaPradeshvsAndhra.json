@@ -1,0 +1,897 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 59, 
+                        "teamScore": "24"
+                    }, 
+                    "player10": {
+                        "ballNo": 327, 
+                        "teamScore": "132"
+                    }, 
+                    "player2": {
+                        "ballNo": 165, 
+                        "teamScore": "60"
+                    }, 
+                    "player3": {
+                        "ballNo": 174, 
+                        "teamScore": "61"
+                    }, 
+                    "player4": {
+                        "ballNo": 181, 
+                        "teamScore": "62"
+                    }, 
+                    "player5": {
+                        "ballNo": 267, 
+                        "teamScore": "98"
+                    }, 
+                    "player6": {
+                        "ballNo": 270, 
+                        "teamScore": "102"
+                    }, 
+                    "player7": {
+                        "ballNo": 273, 
+                        "teamScore": "102"
+                    }, 
+                    "player8": {
+                        "ballNo": 301, 
+                        "teamScore": "113"
+                    }, 
+                    "player9": {
+                        "ballNo": 320, 
+                        "teamScore": "124"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  CR Gnaneshwar  ", 
+                        " c Naman Ojha b I Pandey ", 
+                        "13", 
+                        "32", 
+                        "2", 
+                        "0", 
+                        "40.62"
+                    ], 
+                    "player10": [
+                        "  Manish Golamaru  ", 
+                        "  b Kumar Kartikeya ", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player11": [
+                        "  P Vijaykumar  ", 
+                        " not out ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Prasanth Kumar  ", 
+                        "  b G Yadav ", 
+                        "29", 
+                        "76", 
+                        "3", 
+                        "0", 
+                        "38.16"
+                    ], 
+                    "player3": [
+                        "  J Krishna  ", 
+                        " lbw b Kumar Kartikeya ", 
+                        "13", 
+                        "60", 
+                        "2", 
+                        "0", 
+                        "21.67"
+                    ], 
+                    "player4": [
+                        "  Bhui (c)  ", 
+                        " c Naman Ojha b G Yadav ", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "11.11"
+                    ], 
+                    "player5": [
+                        "  Srikar Bharat (wk)  ", 
+                        " c Aryaman Birla b I Pandey ", 
+                        "10", 
+                        "41", 
+                        "0", 
+                        "0", 
+                        "24.39"
+                    ], 
+                    "player6": [
+                        "  Karan Shinde  ", 
+                        " lbw b Kumar Kartikeya ", 
+                        "16", 
+                        "57", 
+                        "2", 
+                        "0", 
+                        "28.07"
+                    ], 
+                    "player7": [
+                        "  Girinath Reddy  ", 
+                        " c Rajat Patidar b I Pandey ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player8": [
+                        "  Karn Sharma  ", 
+                        " c Naman Ojha b G Yadav ", 
+                        "23", 
+                        "31", 
+                        "3", 
+                        "1", 
+                        "74.19"
+                    ], 
+                    "player9": [
+                        "  KV Sasikanth  ", 
+                        " c Shubham Sharma b I Pandey ", 
+                        "3", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "23.08"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  I Pandey  ", 
+                        "15", 
+                        "3", 
+                        "43", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  Kuldeep Sen  ", 
+                        "10", 
+                        "3", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  G Yadav  ", 
+                        "12.3", 
+                        "5", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player4": [
+                        "  Kumar Kartikeya  ", 
+                        "14", 
+                        "4", 
+                        "23", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player5": [
+                        "  Venkatesh Iyer  ", 
+                        "2", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player6": [
+                        "  Shubham Sharma  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "2", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "54.3", 
+                    "runs": "132", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 13, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 215, 
+                        "teamScore": "91"
+                    }, 
+                    "player2": {
+                        "ballNo": 68, 
+                        "teamScore": "23"
+                    }, 
+                    "player3": {
+                        "ballNo": 78, 
+                        "teamScore": "24"
+                    }, 
+                    "player4": {
+                        "ballNo": 81, 
+                        "teamScore": "24"
+                    }, 
+                    "player5": {
+                        "ballNo": 92, 
+                        "teamScore": "24"
+                    }, 
+                    "player6": {
+                        "ballNo": 135, 
+                        "teamScore": "49"
+                    }, 
+                    "player7": {
+                        "ballNo": 175, 
+                        "teamScore": "58"
+                    }, 
+                    "player8": {
+                        "ballNo": 201, 
+                        "teamScore": "78"
+                    }, 
+                    "player9": {
+                        "ballNo": 202, 
+                        "teamScore": "78"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Aryaman Birla  ", 
+                        "  b Girinath Reddy ", 
+                        "3", 
+                        "39", 
+                        "0", 
+                        "0", 
+                        "7.69"
+                    ], 
+                    "player10": [
+                        "  I Pandey  ", 
+                        " c P Vijaykumar b Girinath Reddy ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  G Yadav  ", 
+                        " not out ", 
+                        "5", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "250.00"
+                    ], 
+                    "player2": [
+                        "  Ajay Rohera  ", 
+                        "  b P Vijaykumar ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player3": [
+                        "  Rajat Patidar  ", 
+                        " lbw b Girinath Reddy ", 
+                        "19", 
+                        "28", 
+                        "3", 
+                        "0", 
+                        "67.86"
+                    ], 
+                    "player4": [
+                        "  Kumar Kartikeya  ", 
+                        "  b Manish Golamaru ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Naman Ojha (c) (wk)  ", 
+                        " c CR Gnaneshwar b Girinath Reddy ", 
+                        "30", 
+                        "59", 
+                        "3", 
+                        "2", 
+                        "50.85"
+                    ], 
+                    "player6": [
+                        "  Yash Dubey  ", 
+                        " lbw b Girinath Reddy ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Shubham Sharma  ", 
+                        " lbw b KV Sasikanth ", 
+                        "16", 
+                        "31", 
+                        "2", 
+                        "0", 
+                        "51.61"
+                    ], 
+                    "player8": [
+                        "  Venkatesh Iyer  ", 
+                        " c Srikar Bharat b P Vijaykumar ", 
+                        "8", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "36.36"
+                    ], 
+                    "player9": [
+                        "  Kuldeep Sen  ", 
+                        "  b Girinath Reddy ", 
+                        "6", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "42.86"
+                    ]
+                }, 
+                "batTeam": "MP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  P Vijaykumar  ", 
+                        "12", 
+                        "6", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ], 
+                    "player2": [
+                        "  KV Sasikanth  ", 
+                        "12", 
+                        "2", 
+                        "45", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player3": [
+                        "  Girinath Reddy  ", 
+                        "10.5", 
+                        "4", 
+                        "29", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player4": [
+                        "  Manish Golamaru  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "35.5", 
+                    "runs": "91", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 133, 
+                        "teamScore": "73"
+                    }, 
+                    "player10": {
+                        "ballNo": 607, 
+                        "teamScore": "301"
+                    }, 
+                    "player2": {
+                        "ballNo": 158, 
+                        "teamScore": "83"
+                    }, 
+                    "player3": {
+                        "ballNo": 174, 
+                        "teamScore": "91"
+                    }, 
+                    "player4": {
+                        "ballNo": 196, 
+                        "teamScore": "109"
+                    }, 
+                    "player5": {
+                        "ballNo": 236, 
+                        "teamScore": "117"
+                    }, 
+                    "player6": {
+                        "ballNo": 308, 
+                        "teamScore": "164"
+                    }, 
+                    "player7": {
+                        "ballNo": 323, 
+                        "teamScore": "170"
+                    }, 
+                    "player8": {
+                        "ballNo": 389, 
+                        "teamScore": "198"
+                    }, 
+                    "player9": {
+                        "ballNo": 521, 
+                        "teamScore": "251"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  CR Gnaneshwar  ", 
+                        " c Rajat Patidar b Kumar Kartikeya ", 
+                        "43", 
+                        "111", 
+                        "5", 
+                        "0", 
+                        "38.74"
+                    ], 
+                    "player10": [
+                        "  Manish Golamaru  ", 
+                        " c Aryaman Birla b I Pandey ", 
+                        "21", 
+                        "67", 
+                        "2", 
+                        "0", 
+                        "31.34"
+                    ], 
+                    "player11": [
+                        "  P Vijaykumar  ", 
+                        " c Naman Ojha b I Pandey ", 
+                        "10", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "37.04"
+                    ], 
+                    "player2": [
+                        "  Prasanth Kumar  ", 
+                        " lbw b Kuldeep Sen ", 
+                        "44", 
+                        "72", 
+                        "5", 
+                        "0", 
+                        "61.11"
+                    ], 
+                    "player3": [
+                        "  J Krishna  ", 
+                        "  b G Yadav ", 
+                        "6", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player4": [
+                        "  Bhui (c)  ", 
+                        " c Rajat Patidar b G Yadav ", 
+                        "8", 
+                        "10", 
+                        "2", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player5": [
+                        "  Srikar Bharat (wk)  ", 
+                        "  b Kuldeep Sen ", 
+                        "13", 
+                        "8", 
+                        "1", 
+                        "1", 
+                        "162.50"
+                    ], 
+                    "player6": [
+                        "  Karan Shinde  ", 
+                        " not out ", 
+                        "103", 
+                        "215", 
+                        "16", 
+                        "0", 
+                        "47.91"
+                    ], 
+                    "player7": [
+                        "  Girinath Reddy  ", 
+                        " c Kumar Kartikeya b Shubham Sharma ", 
+                        "15", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "44.12"
+                    ], 
+                    "player8": [
+                        "  Karn Sharma  ", 
+                        " lbw b Shubham Sharma ", 
+                        "4", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "36.36"
+                    ], 
+                    "player9": [
+                        "  KV Sasikanth  ", 
+                        " c Naman Ojha b I Pandey ", 
+                        "8", 
+                        "40", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  G Yadav  ", 
+                        "8.1", 
+                        "0", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player2": [
+                        "  Kuldeep Sen  ", 
+                        "22.5", 
+                        "5", 
+                        "81", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  I Pandey  ", 
+                        "17.1", 
+                        "3", 
+                        "55", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Kumar Kartikeya  ", 
+                        "18", 
+                        "4", 
+                        "52", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player5": [
+                        "  Venkatesh Iyer  ", 
+                        "18", 
+                        "4", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player6": [
+                        "  Shubham Sharma  ", 
+                        "16", 
+                        "2", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player7": [
+                        "  Aryaman Birla  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "9", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "5"
+                }, 
+                "total": {
+                    "overs": "101.1", 
+                    "runs": "301", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 21, 
+                        "teamScore": "6"
+                    }, 
+                    "player2": {
+                        "ballNo": 39, 
+                        "teamScore": "15"
+                    }, 
+                    "player3": {
+                        "ballNo": 51, 
+                        "teamScore": "19"
+                    }, 
+                    "player4": {
+                        "ballNo": 79, 
+                        "teamScore": "35"
+                    }, 
+                    "player5": {
+                        "ballNo": 83, 
+                        "teamScore": "35"
+                    }, 
+                    "player6": {
+                        "ballNo": 92, 
+                        "teamScore": "35"
+                    }, 
+                    "player7": {
+                        "ballNo": 93, 
+                        "teamScore": "35"
+                    }, 
+                    "player8": {
+                        "ballNo": 95, 
+                        "teamScore": "35"
+                    }, 
+                    "player9": {
+                        "ballNo": 101, 
+                        "teamScore": "35"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Aryaman Birla  ", 
+                        " c Srikar Bharat b KV Sasikanth ", 
+                        "12", 
+                        "29", 
+                        "2", 
+                        "0", 
+                        "41.38"
+                    ], 
+                    "player10": [
+                        "  Kuldeep Sen  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Gaurav Yadav  ", 
+                        " abs hurt ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Ajay Rohera  ", 
+                        " c Prasanth Kumar b KV Sasikanth ", 
+                        "6", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player3": [
+                        "  Rajat Patidar  ", 
+                        " c J Krishna b P Vijaykumar ", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Naman Ojha (c) (wk)  ", 
+                        " lbw b P Vijaykumar ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player5": [
+                        "  Yash Dubey  ", 
+                        " c Srikar Bharat b P Vijaykumar ", 
+                        "16", 
+                        "32", 
+                        "3", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player6": [
+                        "  Shubham Sharma  ", 
+                        " c Srikar Bharat b KV Sasikanth ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Venkatesh Iyer  ", 
+                        " lbw b KV Sasikanth ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Kumar Kartikeya  ", 
+                        "  b KV Sasikanth ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Ishwar Pandey  ", 
+                        "  b KV Sasikanth ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Paidikalva Vijaykumar  ", 
+                        "8.5", 
+                        "3", 
+                        "17", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player2": [
+                        "  KV Sasikanth  ", 
+                        "8", 
+                        "4", 
+                        "18", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "16.5", 
+                    "runs": "35", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-10T16:30:00", 
+                    "startDate": "2019-01-07T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 9", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Anand Bais  "
+                        ], 
+                        "playing11": [
+                            " Aryaman Birla", 
+                            " Rajat Patidar", 
+                            " Naman Ojha (c & wk)", 
+                            " Yash Dubey", 
+                            " Shubham Sharma", 
+                            " Ishwar Pandey", 
+                            " Venkatesh Iyer", 
+                            " Ajay Rohera", 
+                            " Kumar Kartikeya", 
+                            " Kuldeep Sen", 
+                            " Gaurav Yadav  "
+                        ], 
+                        "teamName": "Madhya Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Bodapati Sumanth  "
+                        ], 
+                        "playing11": [
+                            " CR Gnaneshwar", 
+                            " Prasanth Kumar", 
+                            " Jyothi Sai Krishna", 
+                            " Ricky Bhui (c)", 
+                            " Srikar Bharat (wk)", 
+                            " Karan Shinde", 
+                            " Girinath Reddy", 
+                            " Manish Golamaru", 
+                            " Karn Sharma", 
+                            " Paidikalva Vijaykumar", 
+                            " KV Sasikanth  "
+                        ], 
+                        "teamName": "Andhra\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Madhya Pradesh", 
+                    "team2": "Andhra"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Madhya"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Raul"
+                }, 
+                "venue": "Holkar Cricket Stadium, Indore"
+            }
+        }
+    ]
+}

@@ -32,6 +32,7 @@ for div in url_division:
             url_all.append(url.replace('/cricket-scores','https://www.cricbuzz.com/live-cricket-scorecard'))
 
 # print url_all 
+all_matches = []
 
 for i,url_i in enumerate(url_all):
 # for url_i in range(1):
@@ -49,11 +50,11 @@ for i,url_i in enumerate(url_all):
     detailsObject = {}
 
 
-    matchHeader = soup.find(class_='cb-nav-hdr cb-font-18 line-ht24').text.split(',') 
-    teamList = matchHeader[0].split('vs')
+    match_header = soup.find(class_='cb-nav-hdr cb-font-18 line-ht24').text.split(',') 
+    team_list = match_header[0].split('vs')
     teams = {
-            'team1' : teamList[0].strip(),
-            'team2' : teamList[1].strip()
+            'team1' : team_list[0].strip(),
+            'team2' : team_list[1].strip()
     }
 
 
@@ -61,13 +62,13 @@ for i,url_i in enumerate(url_all):
     # innings_data = []
     Ranji2018 = {}
 
-    for inningsid in range(5):
+    for innings_id in range(5):
         # inningsPlayers = inningsid.find_all(class_="cb-col cb-col-100 cb-scrd-itms")    
         # print inningsPlayers
         # index_innings += 1
-        inningsid = soup.find(id = "innings_"+str(index_innings))
-        if inningsid != None:
-            inningsPlayers = inningsid.find_all(class_="cb-col cb-col-100 cb-scrd-itms")
+        innings_id = soup.find(id = "innings_"+str(index_innings))
+        if innings_id != None:
+            innings_players = innings_id.find_all(class_="cb-col cb-col-100 cb-scrd-itms")
             # print (inningsPlayers)
             batScoreCard = {}
             bowlScoreCard = {}
@@ -76,10 +77,10 @@ for i,url_i in enumerate(url_all):
             index_bat = 1
             index_bowl = 1
 
-            inningsBattingTeam = inningsid.find(class_='cb-col cb-col-100 cb-scrd-hdr-rw').text.strip(' ').split(' ') 
-            inningsBowlingTeam = (teams['team1'] if teams['team1'] != inningsBattingTeam[0] else teams['team2'])
+            innings_batting_team = innings_id.find(class_='cb-col cb-col-100 cb-scrd-hdr-rw').text.strip(' ').split(' ') 
+            innings_bowling_team = (teams['team1'] if teams['team1'] != innings_batting_team[0] else teams['team2'])
 
-            for div in inningsPlayers:
+            for div in innings_players:
                 tempvar = []
                 for div1 in div.find_all('div'):
                     tempvar.append(div1.text)
@@ -94,9 +95,7 @@ for i,url_i in enumerate(url_all):
                     if tempvar[0] == "Extras":
                         tempvar[2] = tempvar[2].replace('(',' ')
                         tempvar[2] = tempvar[2].replace(')',' ')
-                        # print tempvar[2]
                         x = tempvar[2].split(',')
-                        # print x
                         extras = {
                             'wide' : x[2].strip().split(' ')[1] ,
                             'nb' : x[3].strip().split(' ')[1],
@@ -115,24 +114,23 @@ for i,url_i in enumerate(url_all):
                             'wickets' : x[0].strip().split(' ')[0]
                         }
         
-            fallOfWicket = inningsid.find(class_='cb-col cb-col-100 cb-col-rt cb-font-13')
-            fallOfWicketList = []
-            if fallOfWicket != None:
-                fallOfWicketList = (x.text for x in fallOfWicket.find_all('span'))
+            fall_of_wicket = innings_id.find(class_='cb-col cb-col-100 cb-col-rt cb-font-13')
+            fall_of_wicketlist = []
+            if fall_of_wicket != None:
+                fall_of_wicketlist = (x.text for x in fall_of_wicket.find_all('span'))
             # fallOfWicket = fallOfWicket.replace('(','') 
             # fallOfWicket = fallOfWicket.replace(')','')
 
-            FallOfWickets = {}
+            fall_of_wickets = {}
             index_wicket = 1
-            for x in fallOfWicketList:
+            for x in fall_of_wicketlist:
                 x = x.split('-', 1)
                 # over = x[1].replace(')','').split(',')
-                # print x
                 overNo = x[1].replace(')','').split(',')[1].strip()
                 calcBall = list(int(x) for x in overNo.split('.'))
                 ball = ((calcBall[0] * 6 + calcBall[1]) if len(calcBall) > 1 else calcBall[0]*6 )
                 # ball = 'yes' if len(calcBall) > 1 else 'no'
-                FallOfWickets['player' + str(index_wicket)] = {
+                fall_of_wickets['player' + str(index_wicket)] = {
                     'teamScore' : x[0],
                     'ballNo' : ball
                 }
@@ -140,10 +138,10 @@ for i,url_i in enumerate(url_all):
 
 
             inning = {
-                    "batTeam": inningsBattingTeam[0],
+                    "batTeam": innings_batting_team[0],
                     "batScoreCard": batScoreCard,
-                    "FallOfWickets": FallOfWickets,
-                    "bowlTeam": inningsBowlingTeam,
+                    "FallOfWickets": fall_of_wickets,
+                    "bowlTeam": innings_bowling_team,
                     "bowlScoreCard": bowlScoreCard,
                     "extras": extras,
                     "total": total
@@ -152,7 +150,7 @@ for i,url_i in enumerate(url_all):
             Ranji2018["innings" + str(index_innings)] = inning
             index_innings += 1
         else:
-            matchStatus = soup.find(class_="cb-scrcrd-status").text
+            match_status = soup.find(class_="cb-scrcrd-status").text
             # print (matchStatus)
             # print "ok"
             break
@@ -163,34 +161,19 @@ for i,url_i in enumerate(url_all):
 
     #  MATCH DETAILS
 
-    matchDetails = soup.find(class_="cb-col cb-col-100 cb-font-13") 
+    match_details = soup.find(class_="cb-col cb-col-100 cb-font-13") 
 
     details = {}
-    # for div in matchDetails.find_all(class_="cb-col cb-col-27"):
-    #     # print ('\n')
-    #     # print div.text
-    #     details_key.append(div.text)
-    # for div in matchDetails.find_all(class_="cb-col cb-col-73"):
-    #     # print ('\n')
-    #     # print div.text    
-    #     details_value.append(div.text)
-    # # print details
-    # for i in range(len(details_key)):
-    #     details[details_key[i]] = details_value[i]
-    # teamdetails = details[0].split(',')
-    # teams = teamdetails[0].strip().split('vs')
-    # matchinfo = {}
-    # matchinfo['teams'] = {'team1' : teams[0].strip(), 'team2' : teams[1].strip() }
-    # print matchinfo
+
     main_detail = {}
     squad_detail = []
-    for div in matchDetails.find_all(class_="cb-mtch-info-itm"):
+    for div in match_details.find_all(class_="cb-mtch-info-itm"):
         details_key = div.find(class_= "cb-col cb-col-27").text
         details_value = div.find(class_= "cb-col cb-col-73").text
         main_detail[details_key.strip().lower()] = details_value.strip()
 
 
-    for div in matchDetails.find_all(class_="cb-minfo-tm-nm"): 
+    for div in match_details.find_all(class_="cb-minfo-tm-nm"): 
         squad_detail.append(div.text.replace('Playing  ','').replace('Bench  ',''))
     # print json.dumps(main_detail , indent=2, sort_keys= True)
     
@@ -202,7 +185,7 @@ for i,url_i in enumerate(url_all):
 
     date = {}
     date1 = []
-    for i,div in enumerate(matchDetails.find_all(class_="schedule-date")): 
+    for i,div in enumerate(match_details.find_all(class_="schedule-date")): 
         # date1 = datetime.utcfromtimestamp(int(div.attrs['timestamp']))
         # date1 = datetime.strptime(div.attrs['timestamp'], ' %d %b %Y')
         date_1 = datetime.fromtimestamp(float(div.attrs['timestamp'])/1000.0).isoformat()
@@ -211,7 +194,7 @@ for i,url_i in enumerate(url_all):
     date = {'startDate' : date1[0],
             'endDate': date1[1]}
     # print date
-    umpirelist = []
+    umpire_list = []
     # if "umpires" in main_detail:
     #     print main_detail["umpires"]
     #     umpirelist = main_detail["umpires"].split(',')
@@ -220,9 +203,9 @@ for i,url_i in enumerate(url_all):
             "thirdUmpire": ""
         }
     if dict_null_check(main_detail, "umpire"):
-        umpirelist = main_detail["umpires"].split(',')
-        umpire = {'umpire1': umpirelist[0].strip() if umpirelist[0] else '',
-            'umpire2': umpirelist[1].strip() if umpirelist[1] else '',}
+        umpire_list = main_detail["umpires"].split(',')
+        umpire = {'umpire1': umpire_list[0].strip() if umpire_list[0] else '',
+            'umpire2': umpire_list[1].strip() if umpire_list[1] else '',}
     # umpirelist.append(main_detail["match referee"])
     
     if dict_null_check(main_detail, "match referee"):
@@ -252,21 +235,55 @@ for i,url_i in enumerate(url_all):
             "venue": main_detail["venue"],
             "date": date,
             "umpire": umpire,
-            "roundNo": matchHeader[1].strip(),
-            "groupName": matchHeader[2].split('-')[0].strip(),
+            "roundNo": match_header[1].strip(),
+            "groupName": match_header[2].split('-')[0].strip(),
             "squad": squad
         }
 
     # print json.dumps(matchInfo, indent=2, sort_keys= True)
     Ranji2018["matchInfo" ] = matchInfo
+    all_matches.append(Ranji2018)
+    finalObject = { "Ranji2018" : [Ranji2018]}
+    file_name = "Ranji2018" + '-' + matchInfo["groupName"].replace(' ', '') + '-' +  matchInfo["roundNo"].replace(' ', '') + '-' + teams["team1"].replace(' ', '') + "vs" + teams["team2"].replace(' ', '') + ".json"
+    print file_name
+    with open(file_name, 'w') as json_file:
+        json.dump(finalObject, json_file, indent=4, sort_keys= True)
 
-    finalObject = { "Ranji2018" : [Ranji2018]} 
-    print json.dumps(finalObject,indent = 2,sort_keys=True)
+finalObject = { "Ranji2018" : [Ranji2018]} 
+
+print json.dumps(finalObject,indent = 2,sort_keys=True)
+    
+# with open('RanjiStructure.json', 'w') as json_file:
+#     json.dump(finalObject, json_file, indent=4, sort_keys= True)
 
 
 
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    # for div in matchDetails.find_all(class_="cb-col cb-col-27"):
+    #     # print ('\n')
+    #     # print div.text
+    #     details_key.append(div.text)
+    # for div in matchDetails.find_all(class_="cb-col cb-col-73"):
+    #     # print ('\n')
+    #     # print div.text    
+    #     details_value.append(div.text)
+    # # print details
+    # for i in range(len(details_key)):
+    #     details[details_key[i]] = details_value[i]
+    # teamdetails = details[0].split(',')
+    # teams = teamdetails[0].strip().split('vs')
+    # matchinfo = {}
+    # matchinfo['teams'] = {'team1' : teams[0].strip(), 'team2' : teams[1].strip() }
+    # print matchinfo
+
+
+
+
+
+
+
 
  # findaa = list(i for i in soup.findAll(class_ = "ng-scope"))
     # find_a = soup.find_all(class_ = "ng-scope")

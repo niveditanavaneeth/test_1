@@ -1,0 +1,913 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 15, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 545, 
+                        "teamScore": "288"
+                    }, 
+                    "player2": {
+                        "ballNo": 50, 
+                        "teamScore": "25"
+                    }, 
+                    "player3": {
+                        "ballNo": 62, 
+                        "teamScore": "31"
+                    }, 
+                    "player4": {
+                        "ballNo": 108, 
+                        "teamScore": "42"
+                    }, 
+                    "player5": {
+                        "ballNo": 119, 
+                        "teamScore": "47"
+                    }, 
+                    "player6": {
+                        "ballNo": 172, 
+                        "teamScore": "72"
+                    }, 
+                    "player7": {
+                        "ballNo": 260, 
+                        "teamScore": "115"
+                    }, 
+                    "player8": {
+                        "ballNo": 497, 
+                        "teamScore": "256"
+                    }, 
+                    "player9": {
+                        "ballNo": 508, 
+                        "teamScore": "267"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Indrajit Kumar  ", 
+                        " c Bibek Dayali b Ishwar Chaudhary ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  S Quadri  ", 
+                        " not out ", 
+                        "16", 
+                        "19", 
+                        "1", 
+                        "1", 
+                        "84.21"
+                    ], 
+                    "player11": [
+                        "  Vishal Das  ", 
+                        " c Asish Thapa b Ishwar Chaudhary ", 
+                        "4", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "17.39"
+                    ], 
+                    "player2": [
+                        "  Kumar Rajnish  ", 
+                        " c Jahan Uddin b Bipul Sharma ", 
+                        "18", 
+                        "65", 
+                        "3", 
+                        "0", 
+                        "27.69"
+                    ], 
+                    "player3": [
+                        "  Babul Kumar (c)  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "16", 
+                        "14", 
+                        "3", 
+                        "0", 
+                        "114.29"
+                    ], 
+                    "player4": [
+                        "  MD Rahmatullah  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "6", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player5": [
+                        "  K Kumar  ", 
+                        " lbw b Bipul Sharma ", 
+                        "4", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "21.05"
+                    ], 
+                    "player6": [
+                        "  Utkarsh Singh  ", 
+                        " run out (Milind Kumar)  ", 
+                        "11", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "42.31"
+                    ], 
+                    "player7": [
+                        "  Vikash Ranjan (wk)  ", 
+                        " c Milind Kumar b Bipul Sharma ", 
+                        "28", 
+                        "71", 
+                        "4", 
+                        "0", 
+                        "39.44"
+                    ], 
+                    "player8": [
+                        "  Ashutosh Aman  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "89", 
+                        "155", 
+                        "8", 
+                        "1", 
+                        "57.42"
+                    ], 
+                    "player9": [
+                        "  Vivek Mohan  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "72", 
+                        "141", 
+                        "9", 
+                        "1", 
+                        "51.06"
+                    ]
+                }, 
+                "batTeam": "BIH", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "20.5", 
+                        "5", 
+                        "78", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player2": [
+                        "  Pritam Nirala  ", 
+                        "7", 
+                        "2", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Bipul Sharma  ", 
+                        "35", 
+                        "8", 
+                        "83", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player4": [
+                        "  Milind Kumar  ", 
+                        "20", 
+                        "2", 
+                        "51", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player5": [
+                        "  Amosi Rai  ", 
+                        "3", 
+                        "0", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.70"
+                    ], 
+                    "player6": [
+                        "  Lee Yong Lepcha  ", 
+                        "4", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player7": [
+                        "  Asish Thapa  ", 
+                        "1", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Bihar", 
+                "extras": {
+                    "b": "10", 
+                    "lb": "3", 
+                    "nb": "8", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "90.5", 
+                    "runs": "288", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 238, 
+                        "teamScore": "81"
+                    }, 
+                    "player2": {
+                        "ballNo": 21, 
+                        "teamScore": "0"
+                    }, 
+                    "player3": {
+                        "ballNo": 64, 
+                        "teamScore": "15"
+                    }, 
+                    "player4": {
+                        "ballNo": 82, 
+                        "teamScore": "27"
+                    }, 
+                    "player5": {
+                        "ballNo": 97, 
+                        "teamScore": "28"
+                    }, 
+                    "player6": {
+                        "ballNo": 115, 
+                        "teamScore": "32"
+                    }, 
+                    "player7": {
+                        "ballNo": 130, 
+                        "teamScore": "36"
+                    }, 
+                    "player8": {
+                        "ballNo": 213, 
+                        "teamScore": "67"
+                    }, 
+                    "player9": {
+                        "ballNo": 216, 
+                        "teamScore": "67"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " c Vikash Ranjan b Vivek Mohan ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Pritam Nirala  ", 
+                        "  b Ashutosh Aman ", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Ishwar Chaudhary  ", 
+                        " not out ", 
+                        "13", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "108.33"
+                    ], 
+                    "player2": [
+                        "  Bibek Dayali (wk)  ", 
+                        " lbw b Vishal Das ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Bijay Subba  ", 
+                        "  b Ashutosh Aman ", 
+                        "0", 
+                        "42", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Asish Thapa  ", 
+                        "  b Vivek Mohan ", 
+                        "15", 
+                        "30", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Milind Kumar  ", 
+                        " c S Quadri b Ashutosh Aman ", 
+                        "13", 
+                        "12", 
+                        "1", 
+                        "1", 
+                        "108.33"
+                    ], 
+                    "player6": [
+                        "  Bipul Sharma  ", 
+                        " c Kumar Rajnish b Vishal Das ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player7": [
+                        "  Jahan Uddin  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "16", 
+                        "54", 
+                        "4", 
+                        "0", 
+                        "29.63"
+                    ], 
+                    "player8": [
+                        "  Lee Yong Lepcha  ", 
+                        "  b Ashutosh Aman ", 
+                        "2", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player9": [
+                        "  Amosi Rai  ", 
+                        " run out (MD Rahmatullah)  ", 
+                        "19", 
+                        "46", 
+                        "0", 
+                        "2", 
+                        "41.30"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vivek Mohan  ", 
+                        "12", 
+                        "5", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Vishal Das  ", 
+                        "8", 
+                        "4", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player3": [
+                        "  Ashutosh Aman  ", 
+                        "12.4", 
+                        "5", 
+                        "19", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player4": [
+                        "  S Quadri  ", 
+                        "7", 
+                        "2", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ]
+                }, 
+                "bowlTeam": "Bihar", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "39.4", 
+                    "runs": "81", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 65, 
+                        "teamScore": "37"
+                    }, 
+                    "player2": {
+                        "ballNo": 66, 
+                        "teamScore": "37"
+                    }, 
+                    "player3": {
+                        "ballNo": 159, 
+                        "teamScore": "82"
+                    }, 
+                    "player4": {
+                        "ballNo": 268, 
+                        "teamScore": "149"
+                    }, 
+                    "player5": {
+                        "ballNo": 312, 
+                        "teamScore": "159"
+                    }, 
+                    "player6": {
+                        "ballNo": 456, 
+                        "teamScore": "249"
+                    }, 
+                    "player7": {
+                        "ballNo": 480, 
+                        "teamScore": "288"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Indrajit Kumar  ", 
+                        " c (sub)Plazor Tamang b Milind Kumar ", 
+                        "30", 
+                        "64", 
+                        "4", 
+                        "0", 
+                        "46.88"
+                    ], 
+                    "player2": [
+                        "  Kumar Rajnish  ", 
+                        " c Asish Thapa b Milind Kumar ", 
+                        "25", 
+                        "37", 
+                        "5", 
+                        "0", 
+                        "67.57"
+                    ], 
+                    "player3": [
+                        "  Babul Kumar (c)  ", 
+                        " lbw b Milind Kumar ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  MD Rahmatullah  ", 
+                        " c Bibek Dayali b Ishwar Chaudhary ", 
+                        "66", 
+                        "116", 
+                        "9", 
+                        "0", 
+                        "56.90"
+                    ], 
+                    "player5": [
+                        "  K Kumar  ", 
+                        " lbw b Milind Kumar ", 
+                        "36", 
+                        "71", 
+                        "5", 
+                        "0", 
+                        "50.70"
+                    ], 
+                    "player6": [
+                        "  Utkarsh Singh  ", 
+                        " c Asish Thapa b Lee Yong Lepcha ", 
+                        "59", 
+                        "105", 
+                        "2", 
+                        "3", 
+                        "56.19"
+                    ], 
+                    "player7": [
+                        "  Vikash Ranjan (wk)  ", 
+                        " lbw b Lee Yong Lepcha ", 
+                        "55", 
+                        "75", 
+                        "7", 
+                        "0", 
+                        "73.33"
+                    ], 
+                    "player8": [
+                        "  Ashutosh Aman  ", 
+                        " not out ", 
+                        "17", 
+                        "14", 
+                        "3", 
+                        "0", 
+                        "121.43"
+                    ], 
+                    "player9": [
+                        "  Vivek Mohan  ", 
+                        " not out ", 
+                        "5", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "166.67"
+                    ]
+                }, 
+                "batTeam": "BIH", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "13", 
+                        "2", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player2": [
+                        "  Pritam Nirala  ", 
+                        "1", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "9.00"
+                    ], 
+                    "player3": [
+                        "  Milind Kumar  ", 
+                        "25", 
+                        "9", 
+                        "63", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Bipul Sharma  ", 
+                        "28", 
+                        "6", 
+                        "82", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player5": [
+                        "  Lee Yong Lepcha  ", 
+                        "7", 
+                        "0", 
+                        "48", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "6.90"
+                    ], 
+                    "player6": [
+                        "  Amosi Rai  ", 
+                        "7", 
+                        "0", 
+                        "42", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Bihar", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "81", 
+                    "runs": "296", 
+                    "wickets": "7"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 13, 
+                        "teamScore": "5"
+                    }, 
+                    "player10": {
+                        "ballNo": 259, 
+                        "teamScore": "108"
+                    }, 
+                    "player2": {
+                        "ballNo": 93, 
+                        "teamScore": "36"
+                    }, 
+                    "player3": {
+                        "ballNo": 99, 
+                        "teamScore": "39"
+                    }, 
+                    "player4": {
+                        "ballNo": 119, 
+                        "teamScore": "47"
+                    }, 
+                    "player5": {
+                        "ballNo": 137, 
+                        "teamScore": "55"
+                    }, 
+                    "player6": {
+                        "ballNo": 138, 
+                        "teamScore": "55"
+                    }, 
+                    "player7": {
+                        "ballNo": 248, 
+                        "teamScore": "104"
+                    }, 
+                    "player8": {
+                        "ballNo": 257, 
+                        "teamScore": "108"
+                    }, 
+                    "player9": {
+                        "ballNo": 258, 
+                        "teamScore": "108"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "14", 
+                        "57", 
+                        "2", 
+                        "0", 
+                        "24.56"
+                    ], 
+                    "player10": [
+                        "  Pritam Nirala  ", 
+                        " c Utkarsh Singh b S Quadri ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Ishwar Chaudhary  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Bibek Dayali (wk)  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player3": [
+                        "  Asish Thapa  ", 
+                        " c Kumar Rajnish b Ashutosh Aman ", 
+                        "17", 
+                        "45", 
+                        "2", 
+                        "0", 
+                        "37.78"
+                    ], 
+                    "player4": [
+                        "  Jahan Uddin  ", 
+                        " c Vikash Ranjan b S Quadri ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Milind Kumar  ", 
+                        " c Vivek Mohan b S Quadri ", 
+                        "13", 
+                        "17", 
+                        "2", 
+                        "0", 
+                        "76.47"
+                    ], 
+                    "player6": [
+                        "  Bipul Sharma  ", 
+                        "  b Ashutosh Aman ", 
+                        "32", 
+                        "76", 
+                        "4", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player7": [
+                        "  Bijay Subba  ", 
+                        " lbw b S Quadri ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Lee Yong Lepcha  ", 
+                        "  b S Quadri ", 
+                        "23", 
+                        "50", 
+                        "5", 
+                        "0", 
+                        "46.00"
+                    ], 
+                    "player9": [
+                        "  Amosi Rai  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vivek Mohan  ", 
+                        "6", 
+                        "1", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player2": [
+                        "  Vishal Das  ", 
+                        "7", 
+                        "3", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player3": [
+                        "  Ashutosh Aman  ", 
+                        "13.1", 
+                        "7", 
+                        "22", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player4": [
+                        "  Samar Quadri  ", 
+                        "11", 
+                        "3", 
+                        "32", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player5": [
+                        "  Keshav Kumar  ", 
+                        "6", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Bihar", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "43.1", 
+                    "runs": "108", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Pragyan Ojha", 
+                            " Anunay Singh", 
+                            " Himanshu Hari", 
+                            " Babur Kumar", 
+                            " Sabir Khan", 
+                            " Abhijeet Saket", 
+                            " Harsh Singh  "
+                        ], 
+                        "playing11": [
+                            " Vikash Ranjan (wk)", 
+                            " Kumar Rajnish", 
+                            " Babul Kumar (c)", 
+                            " Vivek Mohan", 
+                            " Keshav Kumar", 
+                            " MD Rahmatullah", 
+                            " Ashutosh Aman", 
+                            " Indrajit Kumar", 
+                            " Vishal Das", 
+                            " Samar Quadri", 
+                            " Utkarsh Singh  "
+                        ], 
+                        "teamName": "Bihar\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Faizan Khan", 
+                            " Plazor Tamang", 
+                            " Chitiz Tamang", 
+                            " Padam limboo", 
+                            " Bhusan Subba", 
+                            " Binod Gupta", 
+                            " Ajay Shrestha  "
+                        ], 
+                        "playing11": [
+                            " Nilesh Lamichaney (c)", 
+                            " Ashish Thapa", 
+                            " Milind Kumar", 
+                            " Lee Yong Lepcha", 
+                            " Bipul Sharma", 
+                            " Bibek Diyali (wk)", 
+                            " Bijay Subba", 
+                            " Jahan Uddin", 
+                            " Pritam Nirala", 
+                            " Amos Rai", 
+                            " Ishwar Chaudhary  "
+                        ], 
+                        "teamName": "Sikkim\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Bihar", 
+                    "team2": "Sikkim"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Bihar"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sunil Chaturvedi"
+                }, 
+                "venue": "Moin-ul-Haq Stadium, Patna"
+            }
+        }
+    ]
+}

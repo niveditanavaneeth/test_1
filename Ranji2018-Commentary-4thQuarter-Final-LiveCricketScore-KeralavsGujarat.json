@@ -1,0 +1,874 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 40, 
+                        "teamScore": "29"
+                    }, 
+                    "player2": {
+                        "ballNo": 78, 
+                        "teamScore": "52"
+                    }, 
+                    "player3": {
+                        "ballNo": 79, 
+                        "teamScore": "52"
+                    }, 
+                    "player4": {
+                        "ballNo": 81, 
+                        "teamScore": "52"
+                    }, 
+                    "player5": {
+                        "ballNo": 123, 
+                        "teamScore": "98"
+                    }, 
+                    "player6": {
+                        "ballNo": 176, 
+                        "teamScore": "118"
+                    }, 
+                    "player7": {
+                        "ballNo": 205, 
+                        "teamScore": "146"
+                    }, 
+                    "player8": {
+                        "ballNo": 228, 
+                        "teamScore": "179"
+                    }, 
+                    "player9": {
+                        "ballNo": 237, 
+                        "teamScore": "185"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Ponnam Rahul  ", 
+                        "  b Chintan Gaja ", 
+                        "26", 
+                        "42", 
+                        "5", 
+                        "0", 
+                        "61.90"
+                    ], 
+                    "player10": [
+                        "  Nidheesh  ", 
+                        " c Chawla b Chintan Gaja ", 
+                        "8", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player11": [
+                        "  Warrier  ", 
+                        " not out ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player2": [
+                        "  Mohammed Azharuddeen (wk)  ", 
+                        "  b Roosh Kalaria ", 
+                        "17", 
+                        "18", 
+                        "4", 
+                        "0", 
+                        "94.44"
+                    ], 
+                    "player3": [
+                        "  Sijomon  ", 
+                        " c Parthiv Patel b Arzan Nagwaswalla ", 
+                        "8", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player4": [
+                        "  V Manoharan  ", 
+                        " c Parthiv Patel b Chintan Gaja ", 
+                        "25", 
+                        "24", 
+                        "5", 
+                        "0", 
+                        "104.17"
+                    ], 
+                    "player5": [
+                        "  Sachin Baby (c)  ", 
+                        " c Dhruv Raval b Arzan Nagwaswalla ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Samson  ", 
+                        " retd hurt ", 
+                        "17", 
+                        "34", 
+                        "4", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player7": [
+                        "  Vishnu Vinod  ", 
+                        " lbw b Roosh Kalaria ", 
+                        "19", 
+                        "41", 
+                        "3", 
+                        "0", 
+                        "46.34"
+                    ], 
+                    "player8": [
+                        "  Jalaj Saxena  ", 
+                        "  b Arzan Nagwaswalla ", 
+                        "14", 
+                        "10", 
+                        "2", 
+                        "1", 
+                        "140.00"
+                    ], 
+                    "player9": [
+                        "  Basil Thampi  ", 
+                        " c Panchal b Chintan Gaja ", 
+                        "37", 
+                        "33", 
+                        "5", 
+                        "1", 
+                        "112.12"
+                    ]
+                }, 
+                "batTeam": "Kerala", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Roosh Kalaria  ", 
+                        "13", 
+                        "3", 
+                        "62", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player2": [
+                        "  Chintan Gaja  ", 
+                        "14.3", 
+                        "2", 
+                        "57", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player3": [
+                        "  Arzan Nagwaswalla  ", 
+                        "11", 
+                        "2", 
+                        "50", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player4": [
+                        "  Panchal  ", 
+                        "1", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Gujarat", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "9", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "39.3", 
+                    "runs": "185", 
+                    "wickets": "9"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 28, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 310, 
+                        "teamScore": "162"
+                    }, 
+                    "player2": {
+                        "ballNo": 41, 
+                        "teamScore": "14"
+                    }, 
+                    "player3": {
+                        "ballNo": 113, 
+                        "teamScore": "66"
+                    }, 
+                    "player4": {
+                        "ballNo": 135, 
+                        "teamScore": "75"
+                    }, 
+                    "player5": {
+                        "ballNo": 218, 
+                        "teamScore": "101"
+                    }, 
+                    "player6": {
+                        "ballNo": 226, 
+                        "teamScore": "107"
+                    }, 
+                    "player7": {
+                        "ballNo": 229, 
+                        "teamScore": "107"
+                    }, 
+                    "player8": {
+                        "ballNo": 272, 
+                        "teamScore": "137"
+                    }, 
+                    "player9": {
+                        "ballNo": 283, 
+                        "teamScore": "143"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kathan D Patel  ", 
+                        " c Mohammed Azharuddeen b Warrier ", 
+                        "1", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "4.76"
+                    ], 
+                    "player10": [
+                        "  Chintan Gaja  ", 
+                        " c (sub)Arun Karthik b Nidheesh ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player11": [
+                        "  Arzan Nagwaswalla  ", 
+                        " not out ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Panchal  ", 
+                        "  b Warrier ", 
+                        "8", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player3": [
+                        "  Rahul V Shah  ", 
+                        " lbw b Basil Thampi ", 
+                        "15", 
+                        "56", 
+                        "1", 
+                        "0", 
+                        "26.79"
+                    ], 
+                    "player4": [
+                        "  Parthiv Patel (c) (wk)  ", 
+                        "  b Basil Thampi ", 
+                        "43", 
+                        "36", 
+                        "5", 
+                        "2", 
+                        "119.44"
+                    ], 
+                    "player5": [
+                        "  Rujul Bhatt  ", 
+                        " lbw b Warrier ", 
+                        "14", 
+                        "48", 
+                        "1", 
+                        "0", 
+                        "29.17"
+                    ], 
+                    "player6": [
+                        "  Dhruv Raval  ", 
+                        "  b Basil Thampi ", 
+                        "17", 
+                        "52", 
+                        "3", 
+                        "0", 
+                        "32.69"
+                    ], 
+                    "player7": [
+                        "  Axar  ", 
+                        "  b Warrier ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player8": [
+                        "  Chawla  ", 
+                        "  b Nidheesh ", 
+                        "10", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player9": [
+                        "  Roosh Kalaria  ", 
+                        "  b Nidheesh ", 
+                        "36", 
+                        "54", 
+                        "5", 
+                        "1", 
+                        "66.67"
+                    ]
+                }, 
+                "batTeam": "Gujarat", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Warrier  ", 
+                        "23", 
+                        "8", 
+                        "42", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player2": [
+                        "  Basil Thampi  ", 
+                        "15", 
+                        "3", 
+                        "61", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player3": [
+                        "  Nidheesh  ", 
+                        "11.4", 
+                        "1", 
+                        "38", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player4": [
+                        "  Jalaj Saxena  ", 
+                        "2", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Kerala", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "8", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "51.4", 
+                    "runs": "162", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 354, 
+                        "teamScore": "171"
+                    }, 
+                    "player2": {
+                        "ballNo": 51, 
+                        "teamScore": "12"
+                    }, 
+                    "player3": {
+                        "ballNo": 110, 
+                        "teamScore": "44"
+                    }, 
+                    "player4": {
+                        "ballNo": 206, 
+                        "teamScore": "83"
+                    }, 
+                    "player5": {
+                        "ballNo": 236, 
+                        "teamScore": "96"
+                    }, 
+                    "player6": {
+                        "ballNo": 311, 
+                        "teamScore": "149"
+                    }, 
+                    "player7": {
+                        "ballNo": 312, 
+                        "teamScore": "149"
+                    }, 
+                    "player8": {
+                        "ballNo": 319, 
+                        "teamScore": "155"
+                    }, 
+                    "player9": {
+                        "ballNo": 329, 
+                        "teamScore": "163"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Ponnam Rahul  ", 
+                        " c Kathan D Patel b Arzan Nagwaswalla ", 
+                        "10", 
+                        "32", 
+                        "2", 
+                        "0", 
+                        "31.25"
+                    ], 
+                    "player10": [
+                        "  Warrier  ", 
+                        " lbw b Chawla ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Samson  ", 
+                        " lbw b Axar ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Mohammed Azharuddeen (wk)  ", 
+                        " lbw b Chintan Gaja ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Sijomon  ", 
+                        "  b Roosh Kalaria ", 
+                        "56", 
+                        "148", 
+                        "8", 
+                        "0", 
+                        "37.84"
+                    ], 
+                    "player4": [
+                        "  V Manoharan  ", 
+                        " lbw b Axar ", 
+                        "16", 
+                        "27", 
+                        "3", 
+                        "0", 
+                        "59.26"
+                    ], 
+                    "player5": [
+                        "  Sachin Baby (c)  ", 
+                        " c Rujul Bhatt b Axar ", 
+                        "24", 
+                        "43", 
+                        "3", 
+                        "1", 
+                        "55.81"
+                    ], 
+                    "player6": [
+                        "  Vishnu Vinod  ", 
+                        " c Kathan D Patel b Arzan Nagwaswalla ", 
+                        "9", 
+                        "17", 
+                        "2", 
+                        "0", 
+                        "52.94"
+                    ], 
+                    "player7": [
+                        "  Jalaj Saxena  ", 
+                        " not out ", 
+                        "44", 
+                        "67", 
+                        "7", 
+                        "0", 
+                        "65.67"
+                    ], 
+                    "player8": [
+                        "  Basil Thampi  ", 
+                        " c Arzan Nagwaswalla b Roosh Kalaria ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Nidheesh  ", 
+                        "  b Roosh Kalaria ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Kerala", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Roosh Kalaria  ", 
+                        "17", 
+                        "5", 
+                        "36", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Chintan Gaja  ", 
+                        "11", 
+                        "5", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Arzan Nagwaswalla  ", 
+                        "13", 
+                        "4", 
+                        "40", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Axar  ", 
+                        "12", 
+                        "1", 
+                        "40", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player5": [
+                        "  Chawla  ", 
+                        "6", 
+                        "0", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ]
+                }, 
+                "bowlTeam": "Gujarat", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "7", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "59", 
+                    "runs": "171", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 31, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 189, 
+                        "teamScore": "81"
+                    }, 
+                    "player2": {
+                        "ballNo": 36, 
+                        "teamScore": "10"
+                    }, 
+                    "player3": {
+                        "ballNo": 39, 
+                        "teamScore": "11"
+                    }, 
+                    "player4": {
+                        "ballNo": 54, 
+                        "teamScore": "18"
+                    }, 
+                    "player5": {
+                        "ballNo": 122, 
+                        "teamScore": "57"
+                    }, 
+                    "player6": {
+                        "ballNo": 135, 
+                        "teamScore": "59"
+                    }, 
+                    "player7": {
+                        "ballNo": 144, 
+                        "teamScore": "62"
+                    }, 
+                    "player8": {
+                        "ballNo": 155, 
+                        "teamScore": "68"
+                    }, 
+                    "player9": {
+                        "ballNo": 159, 
+                        "teamScore": "69"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kathan D Patel  ", 
+                        "  b Basil Thampi ", 
+                        "5", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "23.81"
+                    ], 
+                    "player10": [
+                        "  Chintan Gaja  ", 
+                        " c V Manoharan b Basil Thampi ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player11": [
+                        "  Arzan Nagwaswalla  ", 
+                        " c Ponnam Rahul b Warrier ", 
+                        "4", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player2": [
+                        "  Priyank Panchal  ", 
+                        " lbw b Basil Thampi ", 
+                        "3", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "21.43"
+                    ], 
+                    "player3": [
+                        "  Rahul V Shah  ", 
+                        " not out ", 
+                        "33", 
+                        "70", 
+                        "4", 
+                        "0", 
+                        "47.14"
+                    ], 
+                    "player4": [
+                        "  Parthiv Patel (c) (wk)  ", 
+                        " run out (Sachin Baby)  ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Rujul Bhatt  ", 
+                        " c V Manoharan b Warrier ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Dhruv Raval  ", 
+                        " c Mohammed Azharuddeen b Basil Thampi ", 
+                        "17", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "51.52"
+                    ], 
+                    "player7": [
+                        "  Roosh Kalaria  ", 
+                        " lbw b Basil Thampi ", 
+                        "2", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player8": [
+                        "  Axar Patel  ", 
+                        " c Mohammed Azharuddeen b Warrier ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player9": [
+                        "  Piyush Chawla  ", 
+                        "  b Warrier ", 
+                        "4", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "57.14"
+                    ]
+                }, 
+                "batTeam": "Gujarat", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Sandeep Warrier  ", 
+                        "13.3", 
+                        "3", 
+                        "30", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Basil Thampi  ", 
+                        "12", 
+                        "3", 
+                        "27", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  MD Nidheesh  ", 
+                        "6", 
+                        "1", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ]
+                }, 
+                "bowlTeam": "Kerala", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "6", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "31.3", 
+                    "runs": "81", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-19T16:30:00", 
+                    "startDate": "2019-01-15T09:30:00"
+                }, 
+                "groupName": "Commentary", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "4th Quarter-Final - Live Cricket Score", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " KC Akshay", 
+                            " Vasudevan Arundhadi Jagadeesh", 
+                            " Arun Karthik", 
+                            " Rohan Prem  "
+                        ], 
+                        "playing11": [
+                            " Ponnam Rahul", 
+                            " Sijomon Joseph", 
+                            " Mohammed Azharuddeen (wk)", 
+                            " Sanju Samson", 
+                            " Sachin Baby (c)", 
+                            " Vishnu Vinod", 
+                            " Jalaj Saxena", 
+                            " MD Nidheesh", 
+                            " Vinoop Manoharan", 
+                            " Basil Thampi", 
+                            " Sandeep Warrier  "
+                        ], 
+                        "teamName": "Kerala\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Manprit Juneja", 
+                            " Siddharth Desai", 
+                            " Samit Gohel", 
+                            " Bhargav Merai", 
+                            " Kshitij Patel  "
+                        ], 
+                        "playing11": [
+                            " Parthiv Patel (c & wk)", 
+                            " Kathan Patel", 
+                            " Chintan Gaja", 
+                            " Priyank Panchal", 
+                            " Rujul Bhatt", 
+                            " Dhruv Raval", 
+                            " Axar Patel", 
+                            " Rahul V Shah", 
+                            " Piyush Chawla", 
+                            " Roosh Kalaria", 
+                            " Arzan Nagwaswalla  "
+                        ], 
+                        "teamName": "Gujarat\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Kerala", 
+                    "team2": "Gujarat"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Gujarat"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sunil Chaturvedi"
+                }, 
+                "venue": "Krishnagiri Stadium, Wayanad, Kerala"
+            }
+        }
+    ]
+}

@@ -1,0 +1,891 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 58, 
+                        "teamScore": "39"
+                    }, 
+                    "player10": {
+                        "ballNo": 398, 
+                        "teamScore": "220"
+                    }, 
+                    "player2": {
+                        "ballNo": 59, 
+                        "teamScore": "39"
+                    }, 
+                    "player3": {
+                        "ballNo": 78, 
+                        "teamScore": "53"
+                    }, 
+                    "player4": {
+                        "ballNo": 240, 
+                        "teamScore": "149"
+                    }, 
+                    "player5": {
+                        "ballNo": 280, 
+                        "teamScore": "173"
+                    }, 
+                    "player6": {
+                        "ballNo": 293, 
+                        "teamScore": "176"
+                    }, 
+                    "player7": {
+                        "ballNo": 313, 
+                        "teamScore": "182"
+                    }, 
+                    "player8": {
+                        "ballNo": 382, 
+                        "teamScore": "217"
+                    }, 
+                    "player9": {
+                        "ballNo": 393, 
+                        "teamScore": "220"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samarth Seth  ", 
+                        "  b T Kohli ", 
+                        "12", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player10": [
+                        "  Sandeep Thakur  ", 
+                        "  b Moia ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player11": [
+                        "  Subhash Sharma  ", 
+                        " not out ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Techi Doria  ", 
+                        "  b C Lalrinsanga ", 
+                        "34", 
+                        "41", 
+                        "5", 
+                        "0", 
+                        "82.93"
+                    ], 
+                    "player3": [
+                        "  Techi Tahin  ", 
+                        " lbw b T Kohli ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        " lbw b T Kohli ", 
+                        "49", 
+                        "76", 
+                        "4", 
+                        "0", 
+                        "64.47"
+                    ], 
+                    "player5": [
+                        "  Akhilesh Sahani  ", 
+                        " c K Vanlalruata b Sinan Khadir ", 
+                        "65", 
+                        "118", 
+                        "9", 
+                        "0", 
+                        "55.08"
+                    ], 
+                    "player6": [
+                        "  Kamsha Yangfo (c) (wk)  ", 
+                        "  b Akhil Rajput ", 
+                        "48", 
+                        "72", 
+                        "6", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player7": [
+                        "  Neelam Obi  ", 
+                        "  b Sinan Khadir ", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Hayat Ansari  ", 
+                        " c Lalhruaizela b Sinan Khadir ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Licha Tehi  ", 
+                        " c Michael Lalremkima b Akhil Rajput ", 
+                        "4", 
+                        "36", 
+                        "1", 
+                        "0", 
+                        "11.11"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  HM Ralte  ", 
+                        "6", 
+                        "0", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player2": [
+                        "  T Kohli  ", 
+                        "19", 
+                        "3", 
+                        "62", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  G Lalbiakvela  ", 
+                        "13", 
+                        "3", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Sinan Khadir  ", 
+                        "20", 
+                        "3", 
+                        "66", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player5": [
+                        "  Moia  ", 
+                        "5.2", 
+                        "0", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player6": [
+                        "  Akhil Rajput  ", 
+                        "3", 
+                        "2", 
+                        "6", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "3", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "66.2", 
+                    "runs": "220", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 8, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 260, 
+                        "teamScore": "142"
+                    }, 
+                    "player2": {
+                        "ballNo": 94, 
+                        "teamScore": "54"
+                    }, 
+                    "player3": {
+                        "ballNo": 136, 
+                        "teamScore": "92"
+                    }, 
+                    "player4": {
+                        "ballNo": 137, 
+                        "teamScore": "92"
+                    }, 
+                    "player5": {
+                        "ballNo": 165, 
+                        "teamScore": "116"
+                    }, 
+                    "player6": {
+                        "ballNo": 182, 
+                        "teamScore": "118"
+                    }, 
+                    "player7": {
+                        "ballNo": 220, 
+                        "teamScore": "130"
+                    }, 
+                    "player8": {
+                        "ballNo": 246, 
+                        "teamScore": "136"
+                    }, 
+                    "player9": {
+                        "ballNo": 250, 
+                        "teamScore": "136"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        " c Kshitiz Sharma b Techi Doria ", 
+                        "57", 
+                        "73", 
+                        "10", 
+                        "0", 
+                        "78.08"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        " not out ", 
+                        "6", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player11": [
+                        "  Moia  ", 
+                        " c Samarth Seth b Kshitiz Sharma ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Michael Lalremkima (c)  ", 
+                        " lbw b Subhash Sharma ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Lalhruaizela  ", 
+                        " c Samarth Seth b Kshitiz Sharma ", 
+                        "22", 
+                        "40", 
+                        "3", 
+                        "0", 
+                        "55.00"
+                    ], 
+                    "player4": [
+                        "  T Kohli  ", 
+                        " lbw b Subhash Sharma ", 
+                        "28", 
+                        "50", 
+                        "3", 
+                        "0", 
+                        "56.00"
+                    ], 
+                    "player5": [
+                        "  K Vanlalruata  ", 
+                        " lbw b Techi Doria ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  C Lalrinsanga  ", 
+                        " lbw b Kshitiz Sharma ", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player7": [
+                        "  Sinan Khadir  ", 
+                        "  b Kshitiz Sharma ", 
+                        "10", 
+                        "41", 
+                        "1", 
+                        "0", 
+                        "24.39"
+                    ], 
+                    "player8": [
+                        "  Saidingliana Sailo (wk)  ", 
+                        "  b Techi Doria ", 
+                        "2", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player9": [
+                        "  HM Ralte  ", 
+                        " c Kshitiz Sharma b Techi Doria ", 
+                        "5", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "35.71"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "5", 
+                        "1", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player2": [
+                        "  Subhash Sharma  ", 
+                        "10", 
+                        "3", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Sandeep Thakur  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        "16.2", 
+                        "5", 
+                        "31", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player5": [
+                        "  Akhilesh Sahani  ", 
+                        "3", 
+                        "1", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.70"
+                    ], 
+                    "player6": [
+                        "  Techi Doria  ", 
+                        "6", 
+                        "1", 
+                        "26", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "3", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "43.2", 
+                    "runs": "142", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 48, 
+                        "teamScore": "45"
+                    }, 
+                    "player10": {
+                        "ballNo": 576, 
+                        "teamScore": "331"
+                    }, 
+                    "player2": {
+                        "ballNo": 66, 
+                        "teamScore": "58"
+                    }, 
+                    "player3": {
+                        "ballNo": 132, 
+                        "teamScore": "109"
+                    }, 
+                    "player4": {
+                        "ballNo": 160, 
+                        "teamScore": "116"
+                    }, 
+                    "player5": {
+                        "ballNo": 217, 
+                        "teamScore": "151"
+                    }, 
+                    "player6": {
+                        "ballNo": 448, 
+                        "teamScore": "261"
+                    }, 
+                    "player7": {
+                        "ballNo": 515, 
+                        "teamScore": "291"
+                    }, 
+                    "player8": {
+                        "ballNo": 531, 
+                        "teamScore": "294"
+                    }, 
+                    "player9": {
+                        "ballNo": 535, 
+                        "teamScore": "294"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samarth Seth  ", 
+                        " c Lalhruaizela b Sinan Khadir ", 
+                        "38", 
+                        "58", 
+                        "6", 
+                        "0", 
+                        "65.52"
+                    ], 
+                    "player10": [
+                        "  Sandeep Thakur  ", 
+                        " st Saidingliana Sailo b Sinan Khadir ", 
+                        "11", 
+                        "20", 
+                        "0", 
+                        "1", 
+                        "55.00"
+                    ], 
+                    "player11": [
+                        "  Subhash Sharma  ", 
+                        " not out ", 
+                        "24", 
+                        "24", 
+                        "2", 
+                        "1", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Techi Doria  ", 
+                        " c Saidingliana Sailo b Sinan Khadir ", 
+                        "31", 
+                        "29", 
+                        "6", 
+                        "0", 
+                        "106.90"
+                    ], 
+                    "player3": [
+                        "  Techi Tahin  ", 
+                        " c Saidingliana Sailo b T Kohli ", 
+                        "3", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        "  c and b Akhil Rajput ", 
+                        "57", 
+                        "79", 
+                        "6", 
+                        "0", 
+                        "72.15"
+                    ], 
+                    "player5": [
+                        "  Akhilesh Sahani  ", 
+                        "  b G Lalbiakvela ", 
+                        "1", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "5.88"
+                    ], 
+                    "player6": [
+                        "  Kamsha Yangfo (c) (wk)  ", 
+                        " c Lalhruaizela b G Lalbiakvela ", 
+                        "58", 
+                        "130", 
+                        "6", 
+                        "0", 
+                        "44.62"
+                    ], 
+                    "player7": [
+                        "  Neelam Obi  ", 
+                        "  b HM Ralte ", 
+                        "80", 
+                        "172", 
+                        "12", 
+                        "0", 
+                        "46.51"
+                    ], 
+                    "player8": [
+                        "  Hayat Ansari  ", 
+                        " c Lalhruaizela b HM Ralte ", 
+                        "10", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player9": [
+                        "  Licha Tehi  ", 
+                        " lbw b T Kohli ", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  T Kohli  ", 
+                        "17", 
+                        "0", 
+                        "74", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player2": [
+                        "  HM Ralte  ", 
+                        "15", 
+                        "1", 
+                        "59", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player3": [
+                        "  Sinan Khadir  ", 
+                        "21", 
+                        "0", 
+                        "81", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player4": [
+                        "  G Lalbiakvela  ", 
+                        "19", 
+                        "5", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player5": [
+                        "  Moia  ", 
+                        "16", 
+                        "4", 
+                        "44", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player6": [
+                        "  Akhil Rajput  ", 
+                        "7", 
+                        "2", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player7": [
+                        "  K Vanlalruata  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "12", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "96", 
+                    "runs": "331", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 69, 
+                        "teamScore": "52"
+                    }, 
+                    "player2": {
+                        "ballNo": 258, 
+                        "teamScore": "209"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        " c Subhash Sharma b Kshitiz Sharma ", 
+                        "124", 
+                        "134", 
+                        "19", 
+                        "1", 
+                        "92.54"
+                    ], 
+                    "player2": [
+                        "  Lalhruaizela  ", 
+                        " c Samarth Seth b Techi Doria ", 
+                        "8", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "29.63"
+                    ], 
+                    "player3": [
+                        "  Taruwar Kohli  ", 
+                        " not out ", 
+                        "85", 
+                        "152", 
+                        "8", 
+                        "0", 
+                        "55.92"
+                    ], 
+                    "player4": [
+                        "  Michael Lalremkima (c)  ", 
+                        " not out ", 
+                        "11", 
+                        "43", 
+                        "1", 
+                        "0", 
+                        "25.58"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "5", 
+                        "2", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player2": [
+                        "  Subhash Sharma  ", 
+                        "11", 
+                        "1", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player3": [
+                        "  Kshitiz Sharma  ", 
+                        "22", 
+                        "2", 
+                        "77", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Techi Doria  ", 
+                        "10", 
+                        "0", 
+                        "48", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player5": [
+                        "  Sandeep Thakur  ", 
+                        "5", 
+                        "1", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.20"
+                    ], 
+                    "player6": [
+                        "  Samarth Seth  ", 
+                        "5", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player7": [
+                        "  Akhilesh Sahani  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "11", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "59", 
+                    "runs": "244", 
+                    "wickets": "2"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T15:45:00", 
+                    "startDate": "2018-11-12T08:45:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Lalhmangaiha", 
+                            " Varte Kima", 
+                            " Lalrempuia", 
+                            " Zorinliana", 
+                            " Lalnunkima Varte", 
+                            " Marema", 
+                            " Lalnun Tluanga", 
+                            " Gaurav Singh  "
+                        ], 
+                        "playing11": [
+                            " Michael Lalremkima (c)", 
+                            " Akhil Rajput", 
+                            " C Lalrinsanga", 
+                            " Taruwar Kohli", 
+                            " Lalhruaizela", 
+                            " K Vanlalruata", 
+                            " Sinan Abdul Khadir", 
+                            " Saidingliana Sailo (wk)", 
+                            " Lalhruai Ralte", 
+                            " G Lalbiakvela", 
+                            " Moia  "
+                        ], 
+                        "teamName": "Mizoram\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Aakash Singh", 
+                            " Shoyeb", 
+                            " Myendung Singpho", 
+                            " Sams Alam", 
+                            " Utsav Pankaj", 
+                            " Takar Paja", 
+                            " Momar Ori", 
+                            " Techi Neri", 
+                            " Tana Davit  "
+                        ], 
+                        "playing11": [
+                            " Samarth Seth", 
+                            " Techi Doria", 
+                            " Neelam Obi", 
+                            " Licha Tehi", 
+                            " Kshitiz Sharma", 
+                            " Akhilesh Sahani", 
+                            " Kamsha Yangfo (c & wk)", 
+                            " Subhash Sharma", 
+                            " Sandeep Thakur", 
+                            " Hayat Ansari", 
+                            " Techi Tahin  "
+                        ], 
+                        "teamName": "Arunachal Pradesh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Mizoram", 
+                    "team2": "Arunachal Pradesh"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Arunachal"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Manu Nayyar"
+                }, 
+                "venue": "Jorhat District Sports Associtation Ground, Jorhat"
+            }
+        }
+    ]
+}

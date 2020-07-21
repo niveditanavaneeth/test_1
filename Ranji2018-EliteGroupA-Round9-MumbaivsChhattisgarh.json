@@ -1,0 +1,825 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 50, 
+                        "teamScore": "13"
+                    }, 
+                    "player10": {
+                        "ballNo": 253, 
+                        "teamScore": "129"
+                    }, 
+                    "player2": {
+                        "ballNo": 81, 
+                        "teamScore": "35"
+                    }, 
+                    "player3": {
+                        "ballNo": 131, 
+                        "teamScore": "51"
+                    }, 
+                    "player4": {
+                        "ballNo": 176, 
+                        "teamScore": "82"
+                    }, 
+                    "player5": {
+                        "ballNo": 197, 
+                        "teamScore": "93"
+                    }, 
+                    "player6": {
+                        "ballNo": 224, 
+                        "teamScore": "117"
+                    }, 
+                    "player7": {
+                        "ballNo": 228, 
+                        "teamScore": "117"
+                    }, 
+                    "player8": {
+                        "ballNo": 239, 
+                        "teamScore": "121"
+                    }, 
+                    "player9": {
+                        "ballNo": 244, 
+                        "teamScore": "121"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anuj Tiwary  ", 
+                        " c Bista b SN Thakur ", 
+                        "18", 
+                        "44", 
+                        "3", 
+                        "0", 
+                        "40.91"
+                    ], 
+                    "player10": [
+                        "  Pankaj Rao  ", 
+                        " not out ", 
+                        "4", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player11": [
+                        "  Omkar Verma  ", 
+                        "  b SN Thakur ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player2": [
+                        "  Abhimanyu Chauhan  ", 
+                        "  b Tushar Deshpande ", 
+                        "4", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "19.05"
+                    ], 
+                    "player3": [
+                        "  Ashutosh  ", 
+                        " c Eknath Kerkar b Tushar Deshpande ", 
+                        "30", 
+                        "62", 
+                        "6", 
+                        "0", 
+                        "48.39"
+                    ], 
+                    "player4": [
+                        "  Harpreet Singh (c)  ", 
+                        " c Bista b Shivam Dube ", 
+                        "5", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "20.83"
+                    ], 
+                    "player5": [
+                        "  Amandeep Khare  ", 
+                        " c Eknath Kerkar b Tushar Deshpande ", 
+                        "48", 
+                        "48", 
+                        "8", 
+                        "1", 
+                        "100.00"
+                    ], 
+                    "player6": [
+                        "  Vishal Singh  ", 
+                        "  b SN Thakur ", 
+                        "8", 
+                        "13", 
+                        "2", 
+                        "0", 
+                        "61.54"
+                    ], 
+                    "player7": [
+                        "  Ajay Mandal  ", 
+                        "  b Tushar Deshpande ", 
+                        "5", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player8": [
+                        "  Lavin Coster (wk)  ", 
+                        " c Yashasvi Jaiswal b Tushar Deshpande ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Shakeeb Ahmed  ", 
+                        " c Yashasvi Jaiswal b SN Thakur ", 
+                        "3", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  SN Thakur  ", 
+                        "13.1", 
+                        "4", 
+                        "32", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player2": [
+                        "  D Kulkarni (c)  ", 
+                        "10", 
+                        "3", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player3": [
+                        "  Tushar Deshpande  ", 
+                        "12", 
+                        "3", 
+                        "46", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player4": [
+                        "  Shivam Dube  ", 
+                        "4", 
+                        "1", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player5": [
+                        "  Dhrumil Matkar  ", 
+                        "3", 
+                        "1", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ]
+                }, 
+                "bowlTeam": "Mumbai", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "42.1", 
+                    "runs": "129", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 35, 
+                        "teamScore": "30"
+                    }, 
+                    "player10": {
+                        "ballNo": 372, 
+                        "teamScore": "188"
+                    }, 
+                    "player2": {
+                        "ballNo": 98, 
+                        "teamScore": "63"
+                    }, 
+                    "player3": {
+                        "ballNo": 210, 
+                        "teamScore": "113"
+                    }, 
+                    "player4": {
+                        "ballNo": 230, 
+                        "teamScore": "134"
+                    }, 
+                    "player5": {
+                        "ballNo": 245, 
+                        "teamScore": "137"
+                    }, 
+                    "player6": {
+                        "ballNo": 258, 
+                        "teamScore": "143"
+                    }, 
+                    "player7": {
+                        "ballNo": 311, 
+                        "teamScore": "177"
+                    }, 
+                    "player8": {
+                        "ballNo": 361, 
+                        "teamScore": "186"
+                    }, 
+                    "player9": {
+                        "ballNo": 368, 
+                        "teamScore": "186"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bista  ", 
+                        " c Harpreet Singh b Omkar Verma ", 
+                        "20", 
+                        "23", 
+                        "3", 
+                        "0", 
+                        "86.96"
+                    ], 
+                    "player10": [
+                        "  SN Thakur  ", 
+                        " c Ashutosh b Abhimanyu Chauhan ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Tushar Deshpande  ", 
+                        " not out ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player2": [
+                        "  Vilas Auti  ", 
+                        " c Lavin Coster b Harpreet Singh ", 
+                        "43", 
+                        "78", 
+                        "4", 
+                        "0", 
+                        "55.13"
+                    ], 
+                    "player3": [
+                        "  Yashasvi Jaiswal  ", 
+                        " c Abhimanyu Chauhan b Shakeeb Ahmed ", 
+                        "20", 
+                        "40", 
+                        "3", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player4": [
+                        "  Suryakumar Yadav  ", 
+                        " c Ashutosh b Pankaj Rao ", 
+                        "43", 
+                        "84", 
+                        "7", 
+                        "0", 
+                        "51.19"
+                    ], 
+                    "player5": [
+                        "  Dhrumil Matkar  ", 
+                        " c Ajay Mandal b Pankaj Rao ", 
+                        "5", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "41.67"
+                    ], 
+                    "player6": [
+                        "  Shubham Ranjane  ", 
+                        " lbw b Shakeeb Ahmed ", 
+                        "20", 
+                        "44", 
+                        "3", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player7": [
+                        "  Eknath Kerkar (wk)  ", 
+                        "  b Pankaj Rao ", 
+                        "2", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player8": [
+                        "  Shivam Dube  ", 
+                        " c Ashutosh b Abhimanyu Chauhan ", 
+                        "28", 
+                        "52", 
+                        "3", 
+                        "1", 
+                        "53.85"
+                    ], 
+                    "player9": [
+                        "  D Kulkarni (c)  ", 
+                        " c Lavin Coster b Harpreet Singh ", 
+                        "1", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "4.17"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Rao  ", 
+                        "19", 
+                        "1", 
+                        "53", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Omkar Verma  ", 
+                        "14", 
+                        "2", 
+                        "59", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player3": [
+                        "  Shakeeb Ahmed  ", 
+                        "14", 
+                        "5", 
+                        "32", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player4": [
+                        "  Harpreet Singh (c)  ", 
+                        "8", 
+                        "3", 
+                        "11", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player5": [
+                        "  Vishal Singh  ", 
+                        "3", 
+                        "0", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.70"
+                    ], 
+                    "player6": [
+                        "  Ajay Mandal  ", 
+                        "2", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player7": [
+                        "  Abhimanyu Chauhan  ", 
+                        "2", 
+                        "1", 
+                        "2", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "62", 
+                    "runs": "188", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 31, 
+                        "teamScore": "10"
+                    }, 
+                    "player10": {
+                        "ballNo": 197, 
+                        "teamScore": "149"
+                    }, 
+                    "player2": {
+                        "ballNo": 41, 
+                        "teamScore": "22"
+                    }, 
+                    "player3": {
+                        "ballNo": 56, 
+                        "teamScore": "26"
+                    }, 
+                    "player4": {
+                        "ballNo": 67, 
+                        "teamScore": "35"
+                    }, 
+                    "player5": {
+                        "ballNo": 110, 
+                        "teamScore": "96"
+                    }, 
+                    "player6": {
+                        "ballNo": 173, 
+                        "teamScore": "134"
+                    }, 
+                    "player7": {
+                        "ballNo": 183, 
+                        "teamScore": "144"
+                    }, 
+                    "player8": {
+                        "ballNo": 188, 
+                        "teamScore": "149"
+                    }, 
+                    "player9": {
+                        "ballNo": 195, 
+                        "teamScore": "149"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anuj Tiwary  ", 
+                        "  b D Kulkarni ", 
+                        "4", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "16.00"
+                    ], 
+                    "player10": [
+                        "  Omkar Verma  ", 
+                        " not out ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Pankaj Rao  ", 
+                        "  b Tushar Deshpande ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Abhimanyu Chauhan  ", 
+                        "  b SN Thakur ", 
+                        "5", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player3": [
+                        "  Ashutosh  ", 
+                        " c Eknath Kerkar b SN Thakur ", 
+                        "14", 
+                        "15", 
+                        "3", 
+                        "0", 
+                        "93.33"
+                    ], 
+                    "player4": [
+                        "  Harpreet Singh (c)  ", 
+                        " c Eknath Kerkar b SN Thakur ", 
+                        "8", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player5": [
+                        "  Amandeep Khare  ", 
+                        " c Eknath Kerkar b Tushar Deshpande ", 
+                        "33", 
+                        "67", 
+                        "2", 
+                        "1", 
+                        "49.25"
+                    ], 
+                    "player6": [
+                        "  Vishal Singh  ", 
+                        " c Eknath Kerkar b Shivam Dube ", 
+                        "47", 
+                        "22", 
+                        "6", 
+                        "3", 
+                        "213.64"
+                    ], 
+                    "player7": [
+                        "  Ajay Mandal  ", 
+                        " c Vilas Auti b Tushar Deshpande ", 
+                        "24", 
+                        "30", 
+                        "5", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player8": [
+                        "  Shakeeb Ahmed  ", 
+                        " c Suryakumar Yadav b Tushar Deshpande ", 
+                        "8", 
+                        "4", 
+                        "2", 
+                        "0", 
+                        "200.00"
+                    ], 
+                    "player9": [
+                        "  Lavin Coster (wk)  ", 
+                        " c Bista b SN Thakur ", 
+                        "5", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  D Kulkarni (c)  ", 
+                        "9", 
+                        "4", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Tushar Deshpande  ", 
+                        "8.5", 
+                        "0", 
+                        "53", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player3": [
+                        "  SN Thakur  ", 
+                        "8", 
+                        "0", 
+                        "47", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "5.90"
+                    ], 
+                    "player4": [
+                        "  Shivam Dube  ", 
+                        "3", 
+                        "0", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player5": [
+                        "  Shubham Ranjane  ", 
+                        "4", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Mumbai", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "32.5", 
+                    "runs": "149", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 137, 
+                        "teamScore": "79"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Jay Gokul Bista  ", 
+                        " not out ", 
+                        "49", 
+                        "69", 
+                        "7", 
+                        "0", 
+                        "71.01"
+                    ], 
+                    "player2": [
+                        "  Vikrant Vilas Auti  ", 
+                        " c Lavin Coster b Pankaj Rao ", 
+                        "34", 
+                        "75", 
+                        "5", 
+                        "0", 
+                        "45.33"
+                    ], 
+                    "player3": [
+                        "  Yashasvi Jaiswal  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Kumar Rao  ", 
+                        "7.2", 
+                        "2", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Omkar Verma  ", 
+                        "4", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Shakeeb Ahmed  ", 
+                        "4", 
+                        "0", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.80"
+                    ], 
+                    "player4": [
+                        "  Harpreet Singh (c)  ", 
+                        "5", 
+                        "1", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player5": [
+                        "  Abhimanyu Chauhan  ", 
+                        "4", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "7", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "24.2", 
+                    "runs": "92", 
+                    "wickets": "1"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-10T16:30:00", 
+                    "startDate": "2019-01-07T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 9", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Karsh Kothari", 
+                            " Armaan Jaffer  "
+                        ], 
+                        "playing11": [
+                            " Dhawal Kulkarni (c)", 
+                            " Shardul Thakur", 
+                            " Suryakumar Yadav", 
+                            " Dhrumil Matkar", 
+                            " Jay Gokul Bista", 
+                            " Eknath Kerkar (wk)", 
+                            " Tushar Deshpande", 
+                            " Yashasvi Jaiswal", 
+                            " Vikrant Auti", 
+                            " Shivam Dube", 
+                            " Shubham Ranjane  "
+                        ], 
+                        "teamName": "Mumbai\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Manoj Singh", 
+                            " Shubham Agarwal  "
+                        ], 
+                        "playing11": [
+                            " Abhimanyu Chauhan", 
+                            " Harpreet Singh (c)", 
+                            " Ashutosh Singh", 
+                            " Lavin Coster (wk)", 
+                            " Omkar Verma", 
+                            " Shakeeb Ahmed", 
+                            " Pankaj Kumar Rao", 
+                            " Vishal Singh", 
+                            " Amandeep Khare", 
+                            " Anuj Tiwary", 
+                            " Ajay Jadav Mandal  "
+                        ], 
+                        "teamName": "Chhattisgarh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Mumbai", 
+                    "team2": "Chhattisgarh"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Mumbai"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Chinmay Sharma"
+                }, 
+                "venue": "Wankhede Stadium, Mumbai"
+            }
+        }
+    ]
+}

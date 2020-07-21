@@ -1,0 +1,907 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 8, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 188, 
+                        "teamScore": "112"
+                    }, 
+                    "player2": {
+                        "ballNo": 29, 
+                        "teamScore": "14"
+                    }, 
+                    "player3": {
+                        "ballNo": 39, 
+                        "teamScore": "19"
+                    }, 
+                    "player4": {
+                        "ballNo": 58, 
+                        "teamScore": "31"
+                    }, 
+                    "player5": {
+                        "ballNo": 59, 
+                        "teamScore": "31"
+                    }, 
+                    "player6": {
+                        "ballNo": 131, 
+                        "teamScore": "85"
+                    }, 
+                    "player7": {
+                        "ballNo": 169, 
+                        "teamScore": "109"
+                    }, 
+                    "player8": {
+                        "ballNo": 178, 
+                        "teamScore": "112"
+                    }, 
+                    "player9": {
+                        "ballNo": 185, 
+                        "teamScore": "112"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samarth R  ", 
+                        " c Mitesh Patel b R Arothe ", 
+                        "8", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "44.44"
+                    ], 
+                    "player10": [
+                        "  R More  ", 
+                        " st Mitesh Patel b B Bhatt ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Prasidh  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Nischal  ", 
+                        "  b L Meriwala ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Siddharth  ", 
+                        " c Mitesh Patel b R Arothe ", 
+                        "4", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player4": [
+                        "  Nair  ", 
+                        " lbw b L Meriwala ", 
+                        "12", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player5": [
+                        "  Manish Pandey (c)  ", 
+                        "  b Soaeb Tai ", 
+                        "43", 
+                        "70", 
+                        "5", 
+                        "1", 
+                        "61.43"
+                    ], 
+                    "player6": [
+                        "  Shreyas Gopal  ", 
+                        " c Deepak Hooda b L Meriwala ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Sharath BR (wk)  ", 
+                        "  b B Bhatt ", 
+                        "30", 
+                        "34", 
+                        "5", 
+                        "0", 
+                        "88.24"
+                    ], 
+                    "player8": [
+                        "  Shubhang Hegde  ", 
+                        "  b Soaeb Tai ", 
+                        "11", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "47.83"
+                    ], 
+                    "player9": [
+                        "  J Suchith  ", 
+                        " lbw b B Bhatt ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Karnataka", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  R Arothe  ", 
+                        "9", 
+                        "2", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player2": [
+                        "  L Meriwala  ", 
+                        "6", 
+                        "2", 
+                        "22", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player3": [
+                        "  B Bhatt  ", 
+                        "9.2", 
+                        "0", 
+                        "27", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Krunal Pandya  ", 
+                        "4", 
+                        "1", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player5": [
+                        "  Soaeb Tai  ", 
+                        "3", 
+                        "2", 
+                        "7", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Baroda", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "31.2", 
+                    "runs": "112", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 306, 
+                        "teamScore": "223"
+                    }, 
+                    "player2": {
+                        "ballNo": 57, 
+                        "teamScore": "20"
+                    }, 
+                    "player3": {
+                        "ballNo": 176, 
+                        "teamScore": "139"
+                    }, 
+                    "player4": {
+                        "ballNo": 181, 
+                        "teamScore": "143"
+                    }, 
+                    "player5": {
+                        "ballNo": 199, 
+                        "teamScore": "151"
+                    }, 
+                    "player6": {
+                        "ballNo": 227, 
+                        "teamScore": "172"
+                    }, 
+                    "player7": {
+                        "ballNo": 272, 
+                        "teamScore": "208"
+                    }, 
+                    "player8": {
+                        "ballNo": 273, 
+                        "teamScore": "208"
+                    }, 
+                    "player9": {
+                        "ballNo": 298, 
+                        "teamScore": "222"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  K Devdhar (c)  ", 
+                        " c Sharath BR b Prasidh ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  R Arothe  ", 
+                        " st Sharath BR b Shreyas Gopal ", 
+                        "5", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player11": [
+                        "  L Meriwala  ", 
+                        " c Siddharth b Shubhang Hegde ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  A Waghmode  ", 
+                        " c Manish Pandey b J Suchith ", 
+                        "10", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player3": [
+                        "  V Solanki  ", 
+                        "  b Shreyas Gopal ", 
+                        "69", 
+                        "85", 
+                        "11", 
+                        "1", 
+                        "81.18"
+                    ], 
+                    "player4": [
+                        "  Deepak Hooda  ", 
+                        " c Nischal b Shubhang Hegde ", 
+                        "51", 
+                        "60", 
+                        "7", 
+                        "1", 
+                        "85.00"
+                    ], 
+                    "player5": [
+                        "  Krunal Pandya  ", 
+                        "  c and b Shreyas Gopal ", 
+                        "7", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "70.00"
+                    ], 
+                    "player6": [
+                        "  Mitesh Patel (wk)  ", 
+                        " c Sharath BR b Shreyas Gopal ", 
+                        "9", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player7": [
+                        "  Y Pathan  ", 
+                        " not out ", 
+                        "36", 
+                        "55", 
+                        "4", 
+                        "0", 
+                        "65.45"
+                    ], 
+                    "player8": [
+                        "  Soaeb Tai  ", 
+                        " c R More b Shubhang Hegde ", 
+                        "23", 
+                        "20", 
+                        "3", 
+                        "1", 
+                        "115.00"
+                    ], 
+                    "player9": [
+                        "  B Bhatt  ", 
+                        "  b Shubhang Hegde ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Baroda", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  R More  ", 
+                        "5", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.80"
+                    ], 
+                    "player2": [
+                        "  Prasidh  ", 
+                        "9", 
+                        "1", 
+                        "36", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player3": [
+                        "  J Suchith  ", 
+                        "9", 
+                        "0", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.40"
+                    ], 
+                    "player4": [
+                        "  Shubhang Hegde  ", 
+                        "17", 
+                        "2", 
+                        "74", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player5": [
+                        "  Shreyas Gopal  ", 
+                        "11", 
+                        "1", 
+                        "47", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ]
+                }, 
+                "bowlTeam": "Karnataka", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "9", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "51", 
+                    "runs": "223", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 1, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 382, 
+                        "teamScore": "220"
+                    }, 
+                    "player2": {
+                        "ballNo": 6, 
+                        "teamScore": "0"
+                    }, 
+                    "player3": {
+                        "ballNo": 106, 
+                        "teamScore": "45"
+                    }, 
+                    "player4": {
+                        "ballNo": 179, 
+                        "teamScore": "112"
+                    }, 
+                    "player5": {
+                        "ballNo": 260, 
+                        "teamScore": "138"
+                    }, 
+                    "player6": {
+                        "ballNo": 267, 
+                        "teamScore": "144"
+                    }, 
+                    "player7": {
+                        "ballNo": 310, 
+                        "teamScore": "177"
+                    }, 
+                    "player8": {
+                        "ballNo": 357, 
+                        "teamScore": "204"
+                    }, 
+                    "player9": {
+                        "ballNo": 380, 
+                        "teamScore": "220"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Samarth R  ", 
+                        "  b B Bhatt ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  R More  ", 
+                        " c A Waghmode b Deepak Hooda ", 
+                        "4", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player11": [
+                        "  Prasidh  ", 
+                        "  b Deepak Hooda ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Siddharth  ", 
+                        "  b B Bhatt ", 
+                        "64", 
+                        "87", 
+                        "8", 
+                        "2", 
+                        "73.56"
+                    ], 
+                    "player3": [
+                        "  Shubhang Hegde  ", 
+                        " lbw b B Bhatt ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Nair  ", 
+                        " st Mitesh Patel b B Bhatt ", 
+                        "12", 
+                        "43", 
+                        "1", 
+                        "0", 
+                        "27.91"
+                    ], 
+                    "player5": [
+                        "  Manish Pandey (c)  ", 
+                        " lbw b B Bhatt ", 
+                        "50", 
+                        "75", 
+                        "6", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player6": [
+                        "  Nischal  ", 
+                        " c Mitesh Patel b Deepak Hooda ", 
+                        "16", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "29.63"
+                    ], 
+                    "player7": [
+                        "  Shreyas Gopal  ", 
+                        " lbw b Deepak Hooda ", 
+                        "29", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "69.05"
+                    ], 
+                    "player8": [
+                        "  Sharath BR (wk)  ", 
+                        " st Mitesh Patel b Deepak Hooda ", 
+                        "22", 
+                        "30", 
+                        "4", 
+                        "0", 
+                        "73.33"
+                    ], 
+                    "player9": [
+                        "  J Suchith  ", 
+                        " not out ", 
+                        "18", 
+                        "31", 
+                        "1", 
+                        "1", 
+                        "58.06"
+                    ]
+                }, 
+                "batTeam": "Karnataka", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  B Bhatt  ", 
+                        "30", 
+                        "4", 
+                        "116", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player2": [
+                        "  Krunal Pandya  ", 
+                        "2", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  L Meriwala  ", 
+                        "7", 
+                        "3", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player4": [
+                        "  R Arothe  ", 
+                        "5", 
+                        "1", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player5": [
+                        "  Y Pathan  ", 
+                        "5", 
+                        "0", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.40"
+                    ], 
+                    "player6": [
+                        "  Deepak Hooda  ", 
+                        "14.4", 
+                        "2", 
+                        "31", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ]
+                }, 
+                "bowlTeam": "Baroda", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "5", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "63.4", 
+                    "runs": "220", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 18, 
+                        "teamScore": "10"
+                    }, 
+                    "player2": {
+                        "ballNo": 58, 
+                        "teamScore": "19"
+                    }, 
+                    "player3": {
+                        "ballNo": 71, 
+                        "teamScore": "32"
+                    }, 
+                    "player4": {
+                        "ballNo": 96, 
+                        "teamScore": "59"
+                    }, 
+                    "player5": {
+                        "ballNo": 101, 
+                        "teamScore": "73"
+                    }, 
+                    "player6": {
+                        "ballNo": 120, 
+                        "teamScore": "86"
+                    }, 
+                    "player7": {
+                        "ballNo": 139, 
+                        "teamScore": "89"
+                    }, 
+                    "player8": {
+                        "ballNo": 142, 
+                        "teamScore": "90"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kedar Devdhar (c)  ", 
+                        " c Prasidh b R More ", 
+                        "10", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "83.33"
+                    ], 
+                    "player10": [
+                        "  Rishi Arothe  ", 
+                        " not out ", 
+                        "12", 
+                        "21", 
+                        "0", 
+                        "1", 
+                        "57.14"
+                    ], 
+                    "player2": [
+                        "  Aditya Waghmode  ", 
+                        " c Nischal b Prasidh ", 
+                        "4", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player3": [
+                        "  Vishnu Solanki  ", 
+                        "  b Prasidh ", 
+                        "20", 
+                        "45", 
+                        "2", 
+                        "0", 
+                        "44.44"
+                    ], 
+                    "player4": [
+                        "  Deepak Hooda  ", 
+                        " run out (J Suchith)  ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Yusuf Pathan  ", 
+                        "  b Shreyas Gopal ", 
+                        "41", 
+                        "30", 
+                        "7", 
+                        "1", 
+                        "136.67"
+                    ], 
+                    "player6": [
+                        "  Mitesh Patel (wk)  ", 
+                        " lbw b R More ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player7": [
+                        "  Krunal Pandya  ", 
+                        " c Manish Pandey b Prasidh ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Soaeb Tai  ", 
+                        " c Nischal b Shreyas Gopal ", 
+                        "2", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "15.38"
+                    ], 
+                    "player9": [
+                        "  Bhargav Bhatt  ", 
+                        " not out ", 
+                        "9", 
+                        "8", 
+                        "0", 
+                        "1", 
+                        "112.50"
+                    ]
+                }, 
+                "batTeam": "Baroda", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ronit More  ", 
+                        "9", 
+                        "1", 
+                        "57", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ], 
+                    "player2": [
+                        "  Prasidh Krishna  ", 
+                        "12", 
+                        "3", 
+                        "14", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ], 
+                    "player3": [
+                        "  Shubhang Hegde  ", 
+                        "4", 
+                        "1", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player4": [
+                        "  Shreyas Gopal  ", 
+                        "3", 
+                        "0", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  Karun Nair  ", 
+                        "0.1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Karnataka", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "8", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "28.1", 
+                    "runs": "110", 
+                    "wickets": "8"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-10T16:30:00", 
+                    "startDate": "2019-01-07T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 9", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Sagar Mangalorkar", 
+                            " Babashafi Pathan  "
+                        ], 
+                        "playing11": [
+                            " Kedar Devdhar (c)", 
+                            " Aditya Waghmode", 
+                            " Vishnu Solanki", 
+                            " Deepak Hooda", 
+                            " Krunal Pandya", 
+                            " Yusuf Pathan", 
+                            " Mitesh Patel (wk)", 
+                            " Rishi Arothe", 
+                            " Soaeb Tai", 
+                            " Bhargav Bhatt", 
+                            " Lukman Meriwala  "
+                        ], 
+                        "teamName": "Baroda\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Krishnappa Gowtham", 
+                            " Devdutt Padikkal", 
+                            " Vinay Kumar  "
+                        ], 
+                        "playing11": [
+                            " Dega Nischal", 
+                            " Prasidh Krishna", 
+                            " Krishnamurthy Siddharth", 
+                            " Karun Nair", 
+                            " Manish Pandey (c)", 
+                            " Sharath BR (wk)", 
+                            " Shreyas Gopal", 
+                            " Shubhang Hegde", 
+                            " Jagadeesha Suchith", 
+                            " Ravikumar Samarth", 
+                            " Ronit More  "
+                        ], 
+                        "teamName": "Karnataka\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Baroda", 
+                    "team2": "Karnataka"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Karnataka"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Vengalil Narayan Kutty"
+                }, 
+                "venue": "Moti Bagh Stadium, Vadodara"
+            }
+        }
+    ]
+}

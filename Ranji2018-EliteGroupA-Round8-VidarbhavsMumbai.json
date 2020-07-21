@@ -1,0 +1,719 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 30, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 778, 
+                        "teamScore": "511"
+                    }, 
+                    "player2": {
+                        "ballNo": 259, 
+                        "teamScore": "211"
+                    }, 
+                    "player3": {
+                        "ballNo": 417, 
+                        "teamScore": "323"
+                    }, 
+                    "player4": {
+                        "ballNo": 428, 
+                        "teamScore": "327"
+                    }, 
+                    "player5": {
+                        "ballNo": 613, 
+                        "teamScore": "422"
+                    }, 
+                    "player6": {
+                        "ballNo": 658, 
+                        "teamScore": "452"
+                    }, 
+                    "player7": {
+                        "ballNo": 703, 
+                        "teamScore": "473"
+                    }, 
+                    "player8": {
+                        "ballNo": 713, 
+                        "teamScore": "478"
+                    }, 
+                    "player9": {
+                        "ballNo": 734, 
+                        "teamScore": "483"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  F Fazal (c)  ", 
+                        " c Vilas Auti b SN Thakur ", 
+                        "1", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player10": [
+                        "  Wakhare  ", 
+                        " not out ", 
+                        "20", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "60.61"
+                    ], 
+                    "player11": [
+                        "  Rajneesh Gurbani  ", 
+                        " lbw b Dhrumil Matkar ", 
+                        "6", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "26.09"
+                    ], 
+                    "player2": [
+                        "  Atharwa Taide  ", 
+                        " lbw b Dhrumil Matkar ", 
+                        "95", 
+                        "128", 
+                        "15", 
+                        "0", 
+                        "74.22"
+                    ], 
+                    "player3": [
+                        "  W Jaffer  ", 
+                        " c Tare b Dhrumil Matkar ", 
+                        "178", 
+                        "196", 
+                        "22", 
+                        "2", 
+                        "90.82"
+                    ], 
+                    "player4": [
+                        "  G Satish  ", 
+                        " lbw b SN Thakur ", 
+                        "90", 
+                        "160", 
+                        "5", 
+                        "1", 
+                        "56.25"
+                    ], 
+                    "player5": [
+                        "  Akshay Wadkar (wk)  ", 
+                        "  b Dhrumil Matkar ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player6": [
+                        "  Mohit Kale  ", 
+                        " c Tare b Dhrumil Matkar ", 
+                        "68", 
+                        "126", 
+                        "9", 
+                        "0", 
+                        "53.97"
+                    ], 
+                    "player7": [
+                        "  Wankhade  ", 
+                        " lbw b Tanush Kotian ", 
+                        "25", 
+                        "52", 
+                        "4", 
+                        "0", 
+                        "48.08"
+                    ], 
+                    "player8": [
+                        "  Sarwate  ", 
+                        " c Tare b Tushar Deshpande ", 
+                        "16", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player9": [
+                        "  Akshay Karnewar  ", 
+                        " c Tare b Tushar Deshpande ", 
+                        "4", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "44.44"
+                    ]
+                }, 
+                "batTeam": "Vidarbha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  SN Thakur  ", 
+                        "20", 
+                        "1", 
+                        "89", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player2": [
+                        "  Tushar Deshpande  ", 
+                        "31", 
+                        "4", 
+                        "91", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Shivam Dube  ", 
+                        "6", 
+                        "0", 
+                        "34", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.70"
+                    ], 
+                    "player4": [
+                        "  Dhrumil Matkar  ", 
+                        "34.4", 
+                        "2", 
+                        "141", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player5": [
+                        "  Tanush Kotian  ", 
+                        "24", 
+                        "0", 
+                        "93", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player6": [
+                        "  Shubham Ranjane  ", 
+                        "2", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.50"
+                    ], 
+                    "player7": [
+                        "  Bista  ", 
+                        "6", 
+                        "0", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player8": [
+                        "  Shreyas Iyer  ", 
+                        "6", 
+                        "0", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ]
+                }, 
+                "bowlTeam": "Mumbai", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "3", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "129.4", 
+                    "runs": "511", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 51, 
+                        "teamScore": "21"
+                    }, 
+                    "player10": {
+                        "ballNo": 473, 
+                        "teamScore": "252"
+                    }, 
+                    "player2": {
+                        "ballNo": 57, 
+                        "teamScore": "24"
+                    }, 
+                    "player3": {
+                        "ballNo": 65, 
+                        "teamScore": "31"
+                    }, 
+                    "player4": {
+                        "ballNo": 220, 
+                        "teamScore": "130"
+                    }, 
+                    "player5": {
+                        "ballNo": 233, 
+                        "teamScore": "130"
+                    }, 
+                    "player6": {
+                        "ballNo": 275, 
+                        "teamScore": "158"
+                    }, 
+                    "player7": {
+                        "ballNo": 368, 
+                        "teamScore": "211"
+                    }, 
+                    "player8": {
+                        "ballNo": 433, 
+                        "teamScore": "230"
+                    }, 
+                    "player9": {
+                        "ballNo": 453, 
+                        "teamScore": "241"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bista  ", 
+                        " c Wankhade b Wakhare ", 
+                        "64", 
+                        "111", 
+                        "6", 
+                        "2", 
+                        "57.66"
+                    ], 
+                    "player10": [
+                        "  Tushar Deshpande  ", 
+                        " c G Satish b Sarwate ", 
+                        "5", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "41.67"
+                    ], 
+                    "player11": [
+                        "  Tanush Kotian  ", 
+                        "  b Akshay Karnewar ", 
+                        "1", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "7.69"
+                    ], 
+                    "player2": [
+                        "  Vilas Auti  ", 
+                        " lbw b Wakhare ", 
+                        "7", 
+                        "29", 
+                        "1", 
+                        "0", 
+                        "24.14"
+                    ], 
+                    "player3": [
+                        "  S Lad (c)  ", 
+                        " lbw b Sarwate ", 
+                        "3", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player4": [
+                        "  Shreyas Iyer  ", 
+                        "  b Wakhare ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Shubham Ranjane  ", 
+                        " c Akshay Wadkar b Wakhare ", 
+                        "52", 
+                        "76", 
+                        "3", 
+                        "5", 
+                        "68.42"
+                    ], 
+                    "player6": [
+                        "  Tare (wk)  ", 
+                        " c Akshay Wadkar b Akshay Karnewar ", 
+                        "12", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "46.15"
+                    ], 
+                    "player7": [
+                        "  Shivam Dube  ", 
+                        " c Atharwa Taide b Sarwate ", 
+                        "31", 
+                        "60", 
+                        "4", 
+                        "0", 
+                        "51.67"
+                    ], 
+                    "player8": [
+                        "  Dhrumil Matkar  ", 
+                        " not out ", 
+                        "62", 
+                        "100", 
+                        "7", 
+                        "1", 
+                        "62.00"
+                    ], 
+                    "player9": [
+                        "  SN Thakur  ", 
+                        "  b Wakhare ", 
+                        "7", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "20.00"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajneesh Gurbani  ", 
+                        "4", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player2": [
+                        "  Sarwate  ", 
+                        "30", 
+                        "8", 
+                        "86", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Wakhare  ", 
+                        "29", 
+                        "7", 
+                        "85", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Akshay Karnewar  ", 
+                        "15.5", 
+                        "2", 
+                        "59", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ]
+                }, 
+                "bowlTeam": "Vidarbha", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "78.5", 
+                    "runs": "252", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 14, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 208, 
+                        "teamScore": "113"
+                    }, 
+                    "player2": {
+                        "ballNo": 18, 
+                        "teamScore": "1"
+                    }, 
+                    "player3": {
+                        "ballNo": 65, 
+                        "teamScore": "11"
+                    }, 
+                    "player4": {
+                        "ballNo": 110, 
+                        "teamScore": "53"
+                    }, 
+                    "player5": {
+                        "ballNo": 131, 
+                        "teamScore": "65"
+                    }, 
+                    "player6": {
+                        "ballNo": 135, 
+                        "teamScore": "65"
+                    }, 
+                    "player7": {
+                        "ballNo": 152, 
+                        "teamScore": "72"
+                    }, 
+                    "player8": {
+                        "ballNo": 157, 
+                        "teamScore": "73"
+                    }, 
+                    "player9": {
+                        "ballNo": 196, 
+                        "teamScore": "92"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Jay Gokul Bista  ", 
+                        "  b Sarwate ", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Tushar Deshpande  ", 
+                        " c Akshay Wadkar b Sarwate ", 
+                        "12", 
+                        "19", 
+                        "1", 
+                        "1", 
+                        "63.16"
+                    ], 
+                    "player11": [
+                        "  Tanush Kotian  ", 
+                        " not out ", 
+                        "14", 
+                        "8", 
+                        "0", 
+                        "2", 
+                        "175.00"
+                    ], 
+                    "player2": [
+                        "  Vikrant Vilas Auti  ", 
+                        " c Wankhade b Sarwate ", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player3": [
+                        "  Dhrumil Matkar  ", 
+                        " c W Jaffer b Akshay Karnewar ", 
+                        "35", 
+                        "58", 
+                        "3", 
+                        "1", 
+                        "60.34"
+                    ], 
+                    "player4": [
+                        "  Siddhesh Lad (c)  ", 
+                        " lbw b Sarwate ", 
+                        "6", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player5": [
+                        "  Shreyas Iyer  ", 
+                        " c Akshay Karnewar b Sarwate ", 
+                        "22", 
+                        "26", 
+                        "1", 
+                        "2", 
+                        "84.62"
+                    ], 
+                    "player6": [
+                        "  Shubham Ranjane  ", 
+                        " c (sub)Sanjay Ramaswamy b Wakhare ", 
+                        "1", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "9.09"
+                    ], 
+                    "player7": [
+                        "  Aditya Tare (wk)  ", 
+                        " c W Jaffer b Sarwate ", 
+                        "15", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player8": [
+                        "  Shivam Dube  ", 
+                        " st Akshay Wadkar b Wakhare ", 
+                        "6", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player9": [
+                        "  Shardul Thakur  ", 
+                        " lbw b Akshay Karnewar ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aditya Sarwate  ", 
+                        "14.4", 
+                        "2", 
+                        "48", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player2": [
+                        "  Akshay Wakhare  ", 
+                        "14", 
+                        "3", 
+                        "46", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Akshay Karnewar  ", 
+                        "6", 
+                        "0", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ]
+                }, 
+                "bowlTeam": "Vidarbha", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "34.4", 
+                    "runs": "113", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-02T16:30:00", 
+                    "startDate": "2018-12-30T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Lalit M Yadav", 
+                            " Sanjay Raghunath", 
+                            " Aditya Thakare", 
+                            " Shrikant Wagh", 
+                            " Siddhesh Wath", 
+                            " Darshan Nalkande", 
+                            " Ravi Jangid", 
+                            " Yash Thakur  "
+                        ], 
+                        "playing11": [
+                            " Faiz Fazal (c)", 
+                            " Atharwa Taide", 
+                            " Wasim Jaffer", 
+                            " Ganesh Satish", 
+                            " Akshay Wakhare", 
+                            " Akshay Wadkar (wk)", 
+                            " Akshay Karnewar", 
+                            " Mohit Kale", 
+                            " Aditya Sarwate", 
+                            " Apoorv Wankhade", 
+                            " Rajneesh Gurbani  "
+                        ], 
+                        "teamName": "Vidarbha\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Akash Parkar", 
+                            " Royston Dias", 
+                            " Minad Manjrekar", 
+                            " Dhawal Kulkarni", 
+                            " Suryakumar Yadav", 
+                            " Eknath Kerkar", 
+                            " Karsh Kothari", 
+                            " Shams Mulani", 
+                            " Akhil Herwadkar", 
+                            " Ashay Sardesai", 
+                            " Shivam Malhotra", 
+                            " Badrey Alam", 
+                            " Armaan Jaffer  "
+                        ], 
+                        "playing11": [
+                            " Jay Gokul Bista", 
+                            " Vikrant Auti", 
+                            " Siddhesh Lad (c)", 
+                            " Shreyas Iyer", 
+                            " Shubham Ranjane", 
+                            " Aditya Tare (wk)", 
+                            " Shivam Dube", 
+                            " Dhrumil Matkar", 
+                            " Tanush Kotian", 
+                            " Tushar Deshpande", 
+                            " Shardul Thakur  "
+                        ], 
+                        "teamName": "Mumbai\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Vidarbha", 
+                    "team2": "Mumbai"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Vidarbha"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Chinmay Sharma"
+                }, 
+                "venue": "Vidarbha Cricket Association Ground, Nagpur"
+            }
+        }
+    ]
+}

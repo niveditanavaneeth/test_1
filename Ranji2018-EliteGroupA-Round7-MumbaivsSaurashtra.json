@@ -1,0 +1,930 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 284, 
+                        "teamScore": "174"
+                    }, 
+                    "player10": {
+                        "ballNo": 606, 
+                        "teamScore": "394"
+                    }, 
+                    "player2": {
+                        "ballNo": 303, 
+                        "teamScore": "191"
+                    }, 
+                    "player3": {
+                        "ballNo": 312, 
+                        "teamScore": "198"
+                    }, 
+                    "player4": {
+                        "ballNo": 337, 
+                        "teamScore": "211"
+                    }, 
+                    "player5": {
+                        "ballNo": 383, 
+                        "teamScore": "232"
+                    }, 
+                    "player6": {
+                        "ballNo": 566, 
+                        "teamScore": "344"
+                    }, 
+                    "player7": {
+                        "ballNo": 596, 
+                        "teamScore": "361"
+                    }, 
+                    "player8": {
+                        "ballNo": 604, 
+                        "teamScore": "362"
+                    }, 
+                    "player9": {
+                        "ballNo": 611, 
+                        "teamScore": "374"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bista  ", 
+                        " c Vasavada b DA Jadeja ", 
+                        "127", 
+                        "150", 
+                        "21", 
+                        "0", 
+                        "84.67"
+                    ], 
+                    "player10": [
+                        "  Dias  ", 
+                        " not out ", 
+                        "20", 
+                        "19", 
+                        "1", 
+                        "1", 
+                        "105.26"
+                    ], 
+                    "player11": [
+                        "  Minad Manjrekar  ", 
+                        " lbw b Unadkat ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Vilas Auti  ", 
+                        " c Snell Patel b Unadkat ", 
+                        "57", 
+                        "153", 
+                        "6", 
+                        "0", 
+                        "37.25"
+                    ], 
+                    "player3": [
+                        "  S Lad (c)  ", 
+                        " c Jackson b Chetan Sakariya ", 
+                        "108", 
+                        "146", 
+                        "16", 
+                        "1", 
+                        "73.97"
+                    ], 
+                    "player4": [
+                        "  Shreyas Iyer  ", 
+                        " c Jackson b DA Jadeja ", 
+                        "6", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "75.00"
+                    ], 
+                    "player5": [
+                        "  Shubham Ranjane  ", 
+                        "  b Chetan Sakariya ", 
+                        "9", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player6": [
+                        "  Tare (wk)  ", 
+                        " c Harvik Desai b DA Jadeja ", 
+                        "7", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player7": [
+                        "  Shivam Dube  ", 
+                        " c Snell Patel b Unadkat ", 
+                        "39", 
+                        "81", 
+                        "4", 
+                        "0", 
+                        "48.15"
+                    ], 
+                    "player8": [
+                        "  Akash Parkar  ", 
+                        " lbw b Chetan Sakariya ", 
+                        "6", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "26.09"
+                    ], 
+                    "player9": [
+                        "  Tanush Kotian  ", 
+                        "  b Unadkat ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Unadkat (c)  ", 
+                        "24", 
+                        "7", 
+                        "71", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Chetan Sakariya  ", 
+                        "20", 
+                        "1", 
+                        "86", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player3": [
+                        "  H Rathod  ", 
+                        "12", 
+                        "0", 
+                        "61", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.10"
+                    ], 
+                    "player4": [
+                        "  Prerak Mankad  ", 
+                        "12", 
+                        "3", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player5": [
+                        "  Chirag Jani  ", 
+                        "15", 
+                        "1", 
+                        "44", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player6": [
+                        "  DA Jadeja  ", 
+                        "24", 
+                        "2", 
+                        "95", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Saurashtra", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "1", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "107", 
+                    "runs": "394", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 50, 
+                        "teamScore": "23"
+                    }, 
+                    "player10": {
+                        "ballNo": 717, 
+                        "teamScore": "348"
+                    }, 
+                    "player2": {
+                        "ballNo": 62, 
+                        "teamScore": "27"
+                    }, 
+                    "player3": {
+                        "ballNo": 95, 
+                        "teamScore": "37"
+                    }, 
+                    "player4": {
+                        "ballNo": 209, 
+                        "teamScore": "106"
+                    }, 
+                    "player5": {
+                        "ballNo": 389, 
+                        "teamScore": "213"
+                    }, 
+                    "player6": {
+                        "ballNo": 443, 
+                        "teamScore": "230"
+                    }, 
+                    "player7": {
+                        "ballNo": 476, 
+                        "teamScore": "249"
+                    }, 
+                    "player8": {
+                        "ballNo": 561, 
+                        "teamScore": "301"
+                    }, 
+                    "player9": {
+                        "ballNo": 700, 
+                        "teamScore": "342"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Harvik Desai  ", 
+                        " c Tare b Dias ", 
+                        "17", 
+                        "28", 
+                        "4", 
+                        "0", 
+                        "60.71"
+                    ], 
+                    "player10": [
+                        "  Chetan Sakariya  ", 
+                        " lbw b Shreyas Iyer ", 
+                        "8", 
+                        "67", 
+                        "1", 
+                        "0", 
+                        "11.94"
+                    ], 
+                    "player11": [
+                        "  H Rathod  ", 
+                        " not out ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Snell Patel (wk)  ", 
+                        "  c and b Minad Manjrekar ", 
+                        "12", 
+                        "46", 
+                        "2", 
+                        "0", 
+                        "26.09"
+                    ], 
+                    "player3": [
+                        "  Vishvaraj Jadeja  ", 
+                        " c Vilas Auti b Dias ", 
+                        "3", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player4": [
+                        "  Jackson  ", 
+                        " c Shubham Ranjane b Minad Manjrekar ", 
+                        "95", 
+                        "144", 
+                        "8", 
+                        "3", 
+                        "65.97"
+                    ], 
+                    "player5": [
+                        "  Vasavada  ", 
+                        " c Tare b Shivam Dube ", 
+                        "20", 
+                        "58", 
+                        "4", 
+                        "0", 
+                        "34.48"
+                    ], 
+                    "player6": [
+                        "  Prerak Mankad  ", 
+                        " c Tare b Shivam Dube ", 
+                        "59", 
+                        "140", 
+                        "10", 
+                        "0", 
+                        "42.14"
+                    ], 
+                    "player7": [
+                        "  Chirag Jani  ", 
+                        " st Tare b Tanush Kotian ", 
+                        "85", 
+                        "176", 
+                        "7", 
+                        "1", 
+                        "48.30"
+                    ], 
+                    "player8": [
+                        "  DA Jadeja  ", 
+                        " c Tare b Akash Parkar ", 
+                        "12", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "85.71"
+                    ], 
+                    "player9": [
+                        "  Unadkat (c)  ", 
+                        " c Bista b Tanush Kotian ", 
+                        "16", 
+                        "32", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ]
+                }, 
+                "batTeam": "Saurashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Dias  ", 
+                        "25", 
+                        "2", 
+                        "63", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  Akash Parkar  ", 
+                        "11", 
+                        "1", 
+                        "41", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player3": [
+                        "  Shivam Dube  ", 
+                        "20", 
+                        "6", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player4": [
+                        "  Tanush Kotian  ", 
+                        "28.3", 
+                        "2", 
+                        "81", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Minad Manjrekar  ", 
+                        "20", 
+                        "2", 
+                        "75", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player6": [
+                        "  Shubham Ranjane  ", 
+                        "6", 
+                        "0", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player7": [
+                        "  Bista  ", 
+                        "7", 
+                        "2", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player8": [
+                        "  Shreyas Iyer  ", 
+                        "2", 
+                        "0", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Mumbai", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "8", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "7"
+                }, 
+                "total": {
+                    "overs": "119.3", 
+                    "runs": "348", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 33, 
+                        "teamScore": "20"
+                    }, 
+                    "player2": {
+                        "ballNo": 50, 
+                        "teamScore": "28"
+                    }, 
+                    "player3": {
+                        "ballNo": 64, 
+                        "teamScore": "44"
+                    }, 
+                    "player4": {
+                        "ballNo": 120, 
+                        "teamScore": "118"
+                    }, 
+                    "player5": {
+                        "ballNo": 156, 
+                        "teamScore": "161"
+                    }, 
+                    "player6": {
+                        "ballNo": 201, 
+                        "teamScore": "176"
+                    }, 
+                    "player7": {
+                        "ballNo": 260, 
+                        "teamScore": "216"
+                    }, 
+                    "player8": {
+                        "ballNo": 280, 
+                        "teamScore": "227"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bista  ", 
+                        " c Vasavada b Unadkat ", 
+                        "18", 
+                        "29", 
+                        "1", 
+                        "0", 
+                        "62.07"
+                    ], 
+                    "player10": [
+                        "  Dias  ", 
+                        " not out ", 
+                        "9", 
+                        "5", 
+                        "0", 
+                        "1", 
+                        "180.00"
+                    ], 
+                    "player2": [
+                        "  Vilas Auti  ", 
+                        " c (sub)Kishan Parmar b Chetan Sakariya ", 
+                        "7", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "46.67"
+                    ], 
+                    "player3": [
+                        "  Shreyas Iyer  ", 
+                        " c Chirag Jani b DA Jadeja ", 
+                        "83", 
+                        "61", 
+                        "5", 
+                        "7", 
+                        "136.07"
+                    ], 
+                    "player4": [
+                        "  S Lad (c)  ", 
+                        " c Snell Patel b Chetan Sakariya ", 
+                        "5", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "71.43"
+                    ], 
+                    "player5": [
+                        "  Shivam Dube  ", 
+                        " c Vishvaraj Jadeja b Unadkat ", 
+                        "39", 
+                        "29", 
+                        "3", 
+                        "3", 
+                        "134.48"
+                    ], 
+                    "player6": [
+                        "  Shubham Ranjane  ", 
+                        " c Snell Patel b Chetan Sakariya ", 
+                        "43", 
+                        "73", 
+                        "2", 
+                        "0", 
+                        "58.90"
+                    ], 
+                    "player7": [
+                        "  Tare (wk)  ", 
+                        " c Vishvaraj Jadeja b DA Jadeja ", 
+                        "7", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "31.82"
+                    ], 
+                    "player8": [
+                        "  Akash Parkar  ", 
+                        " c Vasavada b DA Jadeja ", 
+                        "20", 
+                        "35", 
+                        "1", 
+                        "1", 
+                        "57.14"
+                    ], 
+                    "player9": [
+                        "  Tanush Kotian  ", 
+                        " not out ", 
+                        "3", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "23.08"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Unadkat (c)  ", 
+                        "14", 
+                        "1", 
+                        "44", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  Chetan Sakariya  ", 
+                        "12", 
+                        "0", 
+                        "47", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player3": [
+                        "  DA Jadeja  ", 
+                        "17", 
+                        "0", 
+                        "102", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player4": [
+                        "  H Rathod  ", 
+                        "2", 
+                        "0", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "12.00"
+                    ], 
+                    "player5": [
+                        "  Chirag Jani  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ]
+                }, 
+                "bowlTeam": "Saurashtra", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "48", 
+                    "runs": "238", 
+                    "wickets": "8"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 89, 
+                        "teamScore": "64"
+                    }, 
+                    "player2": {
+                        "ballNo": 126, 
+                        "teamScore": "79"
+                    }, 
+                    "player3": {
+                        "ballNo": 332, 
+                        "teamScore": "192"
+                    }, 
+                    "player4": {
+                        "ballNo": 373, 
+                        "teamScore": "230"
+                    }, 
+                    "player5": {
+                        "ballNo": 377, 
+                        "teamScore": "233"
+                    }, 
+                    "player6": {
+                        "ballNo": 402, 
+                        "teamScore": "256"
+                    }, 
+                    "player7": {
+                        "ballNo": 410, 
+                        "teamScore": "258"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Harvik Desai  ", 
+                        " c Bista b Shivam Dube ", 
+                        "27", 
+                        "52", 
+                        "6", 
+                        "0", 
+                        "51.92"
+                    ], 
+                    "player2": [
+                        "  Snell Patel (wk)  ", 
+                        "  b Shivam Dube ", 
+                        "41", 
+                        "57", 
+                        "6", 
+                        "0", 
+                        "71.93"
+                    ], 
+                    "player3": [
+                        "  Vishvaraj Jadeja  ", 
+                        " run out (Bista)  ", 
+                        "71", 
+                        "129", 
+                        "2", 
+                        "2", 
+                        "55.04"
+                    ], 
+                    "player4": [
+                        "  Sheldon Jackson  ", 
+                        " c Shivam Dube b Minad Manjrekar ", 
+                        "57", 
+                        "118", 
+                        "4", 
+                        "0", 
+                        "48.31"
+                    ], 
+                    "player5": [
+                        "  Prerak Mankad  ", 
+                        " c Dias b Minad Manjrekar ", 
+                        "24", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "114.29"
+                    ], 
+                    "player6": [
+                        "  Chirag Jani  ", 
+                        " batting ", 
+                        "9", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "39.13"
+                    ], 
+                    "player7": [
+                        "  Aarpit Vasavada  ", 
+                        " c Tare b Minad Manjrekar ", 
+                        "16", 
+                        "15", 
+                        "2", 
+                        "1", 
+                        "106.67"
+                    ], 
+                    "player8": [
+                        "  Jaydev Unadkat (c)  ", 
+                        " c Shreyas Iyer b Minad Manjrekar ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player9": [
+                        "  Dharmendrasinh Jadeja  ", 
+                        " batting ", 
+                        "8", 
+                        "10", 
+                        "2", 
+                        "0", 
+                        "80.00"
+                    ]
+                }, 
+                "batTeam": "Saurashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Royston Dias  ", 
+                        "11", 
+                        "3", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Tanush Kotian  ", 
+                        "15", 
+                        "2", 
+                        "59", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player3": [
+                        "  Shivam Dube  ", 
+                        "16", 
+                        "3", 
+                        "50", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Jay Gokul Bista  ", 
+                        "11", 
+                        "0", 
+                        "44", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  Minad Manjrekar  ", 
+                        "11", 
+                        "2", 
+                        "39", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player6": [
+                        "  Shreyas Iyer  ", 
+                        "1", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player7": [
+                        "  Shubham Ranjane  ", 
+                        "7", 
+                        "1", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ]
+                }, 
+                "bowlTeam": "Mumbai", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "72", 
+                    "runs": "266", 
+                    "wickets": "7"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-25T16:30:00", 
+                    "startDate": "2018-12-22T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 7", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Eknath Kerkar", 
+                            " Karsh Kothari", 
+                            " Armaan Jaffer", 
+                            " Tushar Deshpande  "
+                        ], 
+                        "playing11": [
+                            " Jay Gokul Bista", 
+                            " Vikrant Auti", 
+                            " Siddhesh Lad (c)", 
+                            " Shreyas Iyer", 
+                            " Shubham Ranjane", 
+                            " Aditya Tare (wk)", 
+                            " Shivam Dube", 
+                            " Akash Parkar", 
+                            " Royston Dias", 
+                            " Minad Manjrekar", 
+                            " Tanush Kotian  "
+                        ], 
+                        "teamName": "Mumbai\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Agnivesh Ayachi", 
+                            " Avi Barot ", 
+                            " Kishan Parmar", 
+                            " Samarth Vyas  "
+                        ], 
+                        "playing11": [
+                            " Harvik Desai", 
+                            " Snell Patel (wk)", 
+                            " Arpit Vasavada", 
+                            " Dharmendrasinh Jadeja", 
+                            " Vishvaraj Jadeja", 
+                            " Hardik Rathod", 
+                            " Sheldon Jackson", 
+                            " Prerak Mankad", 
+                            " Chirag Jani", 
+                            " Jaydev Unadkat (c)", 
+                            " Chetan Sakariya  "
+                        ], 
+                        "teamName": "Saurashtra\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Mumbai", 
+                    "team2": "Saurashtra"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Saurashtra"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sunil Chaturvedi"
+                }, 
+                "venue": "Wankhede Stadium, Mumbai"
+            }
+        }
+    ]
+}

@@ -1,0 +1,709 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 6, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 653, 
+                        "teamScore": "321"
+                    }, 
+                    "player2": {
+                        "ballNo": 33, 
+                        "teamScore": "16"
+                    }, 
+                    "player3": {
+                        "ballNo": 241, 
+                        "teamScore": "113"
+                    }, 
+                    "player4": {
+                        "ballNo": 259, 
+                        "teamScore": "120"
+                    }, 
+                    "player5": {
+                        "ballNo": 391, 
+                        "teamScore": "183"
+                    }, 
+                    "player6": {
+                        "ballNo": 442, 
+                        "teamScore": "203"
+                    }, 
+                    "player7": {
+                        "ballNo": 576, 
+                        "teamScore": "286"
+                    }, 
+                    "player8": {
+                        "ballNo": 619, 
+                        "teamScore": "309"
+                    }, 
+                    "player9": {
+                        "ballNo": 651, 
+                        "teamScore": "321"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kathan D Patel  ", 
+                        " c Atharwa Taide b Akshay Karnewar ", 
+                        "105", 
+                        "205", 
+                        "15", 
+                        "0", 
+                        "51.22"
+                    ], 
+                    "player10": [
+                        "  Siddharth Desai  ", 
+                        " not out ", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Arzan Nagwaswalla  ", 
+                        "  b Sarwate ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Panchal (c)  ", 
+                        " c Akshay Wadkar b Rajneesh Gurbani ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  B Merai  ", 
+                        " c G Satish b Lalit M Yadav ", 
+                        "7", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "63.64"
+                    ], 
+                    "player4": [
+                        "  Rujul Bhatt  ", 
+                        " lbw b Wakhare ", 
+                        "32", 
+                        "106", 
+                        "1", 
+                        "1", 
+                        "30.19"
+                    ], 
+                    "player5": [
+                        "  Juneja  ", 
+                        " lbw b Sarwate ", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player6": [
+                        "  Dhruv Raval (wk)  ", 
+                        " c Akshay Karnewar b Lalit M Yadav ", 
+                        "79", 
+                        "146", 
+                        "10", 
+                        "0", 
+                        "54.11"
+                    ], 
+                    "player7": [
+                        "  Axar  ", 
+                        " c G Satish b Sarwate ", 
+                        "13", 
+                        "32", 
+                        "0", 
+                        "1", 
+                        "40.62"
+                    ], 
+                    "player8": [
+                        "  Karan Patel  ", 
+                        " lbw b Wakhare ", 
+                        "55", 
+                        "89", 
+                        "9", 
+                        "0", 
+                        "61.80"
+                    ], 
+                    "player9": [
+                        "  Chintan Gaja  ", 
+                        " st Akshay Wadkar b Sarwate ", 
+                        "20", 
+                        "42", 
+                        "3", 
+                        "0", 
+                        "47.62"
+                    ]
+                }, 
+                "batTeam": "Gujarat", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajneesh Gurbani  ", 
+                        "18", 
+                        "2", 
+                        "78", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player2": [
+                        "  Lalit M Yadav  ", 
+                        "18", 
+                        "2", 
+                        "56", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Sarwate  ", 
+                        "28.5", 
+                        "4", 
+                        "71", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Wakhare  ", 
+                        "34", 
+                        "10", 
+                        "77", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player5": [
+                        "  Akshay Karnewar  ", 
+                        "9", 
+                        "0", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player6": [
+                        "  Atharwa Taide  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Vidarbha", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "108.5", 
+                    "runs": "321", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 32, 
+                        "teamScore": "17"
+                    }, 
+                    "player10": {
+                        "ballNo": 875, 
+                        "teamScore": "485"
+                    }, 
+                    "player2": {
+                        "ballNo": 159, 
+                        "teamScore": "101"
+                    }, 
+                    "player3": {
+                        "ballNo": 391, 
+                        "teamScore": "235"
+                    }, 
+                    "player4": {
+                        "ballNo": 525, 
+                        "teamScore": "288"
+                    }, 
+                    "player5": {
+                        "ballNo": 694, 
+                        "teamScore": "371"
+                    }, 
+                    "player6": {
+                        "ballNo": 719, 
+                        "teamScore": "396"
+                    }, 
+                    "player7": {
+                        "ballNo": 827, 
+                        "teamScore": "453"
+                    }, 
+                    "player8": {
+                        "ballNo": 836, 
+                        "teamScore": "457"
+                    }, 
+                    "player9": {
+                        "ballNo": 847, 
+                        "teamScore": "461"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  F Fazal (c)  ", 
+                        " c Karan Patel b Siddharth Desai ", 
+                        "46", 
+                        "74", 
+                        "11", 
+                        "0", 
+                        "62.16"
+                    ], 
+                    "player10": [
+                        "  Rajneesh Gurbani  ", 
+                        " c Dhruv Raval b Siddharth Desai ", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player11": [
+                        "  Lalit M Yadav  ", 
+                        " st Dhruv Raval b Siddharth Desai ", 
+                        "11", 
+                        "18", 
+                        "1", 
+                        "1", 
+                        "61.11"
+                    ], 
+                    "player2": [
+                        "  Atharwa Taide  ", 
+                        " c Karan Patel b Arzan Nagwaswalla ", 
+                        "12", 
+                        "15", 
+                        "2", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player3": [
+                        "  W Jaffer  ", 
+                        " lbw b Siddharth Desai ", 
+                        "126", 
+                        "176", 
+                        "13", 
+                        "2", 
+                        "71.59"
+                    ], 
+                    "player4": [
+                        "  G Satish  ", 
+                        " c Kathan D Patel b Chintan Gaja ", 
+                        "75", 
+                        "197", 
+                        "10", 
+                        "1", 
+                        "38.07"
+                    ], 
+                    "player5": [
+                        "  Wakhare  ", 
+                        " lbw b Siddharth Desai ", 
+                        "55", 
+                        "150", 
+                        "9", 
+                        "0", 
+                        "36.67"
+                    ], 
+                    "player6": [
+                        "  Akshay Wadkar (wk)  ", 
+                        "  b Siddharth Desai ", 
+                        "88", 
+                        "150", 
+                        "12", 
+                        "0", 
+                        "58.67"
+                    ], 
+                    "player7": [
+                        "  Akshay Karnewar  ", 
+                        "  b Siddharth Desai ", 
+                        "12", 
+                        "11", 
+                        "0", 
+                        "1", 
+                        "109.09"
+                    ], 
+                    "player8": [
+                        "  Mohit Kale  ", 
+                        " not out ", 
+                        "39", 
+                        "77", 
+                        "6", 
+                        "0", 
+                        "50.65"
+                    ], 
+                    "player9": [
+                        "  Sarwate  ", 
+                        " c Rujul Bhatt b Siddharth Desai ", 
+                        "3", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "42.86"
+                    ]
+                }, 
+                "batTeam": "Vidarbha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Chintan Gaja  ", 
+                        "19", 
+                        "6", 
+                        "40", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Arzan Nagwaswalla  ", 
+                        "16", 
+                        "1", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player3": [
+                        "  Axar  ", 
+                        "36", 
+                        "7", 
+                        "101", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Karan Patel  ", 
+                        "17", 
+                        "1", 
+                        "72", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player5": [
+                        "  Siddharth Desai  ", 
+                        "43.5", 
+                        "7", 
+                        "148", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Rujul Bhatt  ", 
+                        "11", 
+                        "0", 
+                        "53", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player7": [
+                        "  Panchal (c)  ", 
+                        "3", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Gujarat", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "2", 
+                    "nb": "7", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "145.5", 
+                    "runs": "485", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 25, 
+                        "teamScore": "7"
+                    }, 
+                    "player2": {
+                        "ballNo": 122, 
+                        "teamScore": "50"
+                    }, 
+                    "player3": {
+                        "ballNo": 158, 
+                        "teamScore": "64"
+                    }, 
+                    "player4": {
+                        "ballNo": 274, 
+                        "teamScore": "115"
+                    }, 
+                    "player5": {
+                        "ballNo": 296, 
+                        "teamScore": "119"
+                    }, 
+                    "player6": {
+                        "ballNo": 533, 
+                        "teamScore": "205"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kathan D Patel  ", 
+                        " c Atharwa Taide b Akshay Karnewar ", 
+                        "25", 
+                        "70", 
+                        "3", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player2": [
+                        "  Priyank Panchal (c)  ", 
+                        " st Akshay Wadkar b Akshay Karnewar ", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player3": [
+                        "  Bhargav Merai  ", 
+                        " run out (Rajneesh Gurbani)  ", 
+                        "28", 
+                        "67", 
+                        "2", 
+                        "1", 
+                        "41.79"
+                    ], 
+                    "player4": [
+                        "  Rujul Bhatt  ", 
+                        " not out ", 
+                        "64", 
+                        "217", 
+                        "6", 
+                        "0", 
+                        "29.49"
+                    ], 
+                    "player5": [
+                        "  Manprit Juneja  ", 
+                        " lbw b Akshay Karnewar ", 
+                        "42", 
+                        "62", 
+                        "4", 
+                        "1", 
+                        "67.74"
+                    ], 
+                    "player6": [
+                        "  Dhruv Raval (wk)  ", 
+                        " lbw b Akshay Karnewar ", 
+                        "3", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "23.08"
+                    ], 
+                    "player7": [
+                        "  Karan Patel  ", 
+                        " c F Fazal b Akshay Karnewar ", 
+                        "42", 
+                        "119", 
+                        "6", 
+                        "0", 
+                        "35.29"
+                    ], 
+                    "player8": [
+                        "  Chintan Gaja  ", 
+                        " not out ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ]
+                }, 
+                "batTeam": "Gujarat", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aditya Sarwate  ", 
+                        "21", 
+                        "2", 
+                        "65", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  Rajneesh Gurbani  ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Akshay Karnewar  ", 
+                        "43", 
+                        "11", 
+                        "73", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player4": [
+                        "  Akshay Wakhare  ", 
+                        "26", 
+                        "11", 
+                        "56", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player5": [
+                        "  Lalit M Yadav  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player6": [
+                        "  Atharwa Taide  ", 
+                        "1", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "9.00"
+                    ]
+                }, 
+                "bowlTeam": "Vidarbha", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "2", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "93", 
+                    "runs": "214", 
+                    "wickets": "6"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-25T16:30:00", 
+                    "startDate": "2018-12-22T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 7", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Sanjay Raghunath", 
+                            " Aditya Thakare", 
+                            " Shrikant Wagh", 
+                            " Apoorv Wankhade", 
+                            " Siddhesh Wath", 
+                            " Darshan Nalkande", 
+                            " Ravi Jangid", 
+                            " Yash Thakur  "
+                        ], 
+                        "playing11": [
+                            " Faiz Fazal (c)", 
+                            " Wasim Jaffer", 
+                            " Ganesh Satish", 
+                            " Akshay Wadkar (wk)", 
+                            " Mohit Kale", 
+                            " Atharwa Taide", 
+                            " Akshay Karnewar", 
+                            " Aditya Sarwate", 
+                            " Akshay Wakhare", 
+                            " Rajneesh Gurbani", 
+                            " Lalit M Yadav  "
+                        ], 
+                        "teamName": "Vidarbha\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Piyush Chawla", 
+                            " Mehul Patel", 
+                            " Samit Gohel", 
+                            " Roosh Kalaria", 
+                            " Kshitij Patel", 
+                            " Hardik Patel  "
+                        ], 
+                        "playing11": [
+                            " Kathan Patel", 
+                            " Priyank Panchal (c)", 
+                            " Bhargav Merai", 
+                            " Siddharth Desai", 
+                            " Axar Patel", 
+                            " Manprit Juneja", 
+                            " Dhruv Raval (wk)", 
+                            " Rujul Bhatt", 
+                            " Chintan Gaja", 
+                            " Karan Patel", 
+                            " Arzan Nagwaswalla  "
+                        ], 
+                        "teamName": "Gujarat\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Vidarbha", 
+                    "team2": "Gujarat"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Gujarat"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sridharan Sharath"
+                }, 
+                "venue": "Vidarbha Cricket Association Ground, Nagpur"
+            }
+        }
+    ]
+}

@@ -1,0 +1,790 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 43, 
+                        "teamScore": "21"
+                    }, 
+                    "player10": {
+                        "ballNo": 236, 
+                        "teamScore": "132"
+                    }, 
+                    "player2": {
+                        "ballNo": 61, 
+                        "teamScore": "43"
+                    }, 
+                    "player3": {
+                        "ballNo": 71, 
+                        "teamScore": "45"
+                    }, 
+                    "player4": {
+                        "ballNo": 107, 
+                        "teamScore": "66"
+                    }, 
+                    "player5": {
+                        "ballNo": 155, 
+                        "teamScore": "86"
+                    }, 
+                    "player6": {
+                        "ballNo": 208, 
+                        "teamScore": "117"
+                    }, 
+                    "player7": {
+                        "ballNo": 215, 
+                        "teamScore": "118"
+                    }, 
+                    "player8": {
+                        "ballNo": 216, 
+                        "teamScore": "118"
+                    }, 
+                    "player9": {
+                        "ballNo": 233, 
+                        "teamScore": "128"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prafullomani Singh (wk)  ", 
+                        " lbw b Gomez ", 
+                        "9", 
+                        "24", 
+                        "2", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player10": [
+                        "  Thokchom Kishan  ", 
+                        "  b Pankaj Singh ", 
+                        "8", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "88.89"
+                    ], 
+                    "player11": [
+                        "  Bishworjit Konthoujam  ", 
+                        " not out ", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "200.00"
+                    ], 
+                    "player2": [
+                        "  Hrithik Kanojia  ", 
+                        " c Madhavan Manohar b Pankaj Singh ", 
+                        "16", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "61.54"
+                    ], 
+                    "player3": [
+                        "  Mayank Raghav  ", 
+                        " c (sub)Santhosh Kumaran b Gomez ", 
+                        "18", 
+                        "16", 
+                        "1", 
+                        "2", 
+                        "112.50"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        " c Pankaj Singh b Gomez ", 
+                        "50", 
+                        "85", 
+                        "5", 
+                        "0", 
+                        "58.82"
+                    ], 
+                    "player5": [
+                        "  Priyojit K Singh  ", 
+                        " run out ((sub)Santhosh Kumaran)  ", 
+                        "7", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "41.18"
+                    ], 
+                    "player6": [
+                        "  Akshaykumar Singh  ", 
+                        " lbw b D Rohit ", 
+                        "5", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "19.23"
+                    ], 
+                    "player7": [
+                        "  Ahmed Shah  ", 
+                        " lbw b Gomez ", 
+                        "11", 
+                        "25", 
+                        "0", 
+                        "1", 
+                        "44.00"
+                    ], 
+                    "player8": [
+                        "  Mahesh Kumar  ", 
+                        "  b Pankaj Singh ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Kabrambam Homendro  ", 
+                        "  b Pankaj Singh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Singh  ", 
+                        "13.2", 
+                        "4", 
+                        "32", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player2": [
+                        "  Gomez  ", 
+                        "12", 
+                        "0", 
+                        "58", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player3": [
+                        "  Fabid Ahmed  ", 
+                        "5", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player4": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        "4", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player5": [
+                        "  D Rohit (c)  ", 
+                        "5", 
+                        "1", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "39.2", 
+                    "runs": "132", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 191, 
+                        "teamScore": "100"
+                    }, 
+                    "player2": {
+                        "ballNo": 199, 
+                        "teamScore": "107"
+                    }, 
+                    "player3": {
+                        "ballNo": 312, 
+                        "teamScore": "156"
+                    }, 
+                    "player4": {
+                        "ballNo": 338, 
+                        "teamScore": "170"
+                    }, 
+                    "player5": {
+                        "ballNo": 339, 
+                        "teamScore": "170"
+                    }, 
+                    "player6": {
+                        "ballNo": 364, 
+                        "teamScore": "175"
+                    }, 
+                    "player7": {
+                        "ballNo": 405, 
+                        "teamScore": "188"
+                    }, 
+                    "player8": {
+                        "ballNo": 446, 
+                        "teamScore": "227"
+                    }, 
+                    "player9": {
+                        "ballNo": 470, 
+                        "teamScore": "238"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sai Karthik  ", 
+                        " lbw b Bishworjit Konthoujam ", 
+                        "55", 
+                        "91", 
+                        "5", 
+                        "0", 
+                        "60.44"
+                    ], 
+                    "player10": [
+                        "  Pankaj Singh  ", 
+                        " not out ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player11": [
+                        "  Prashanth Varma  ", 
+                        " abs hurt ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Saiju Titus  ", 
+                        " lbw b Bishworjit Konthoujam ", 
+                        "42", 
+                        "105", 
+                        "6", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player3": [
+                        "  D Rohit (c)  ", 
+                        " c Yashpal Singh b Kabrambam Homendro ", 
+                        "26", 
+                        "61", 
+                        "2", 
+                        "0", 
+                        "42.62"
+                    ], 
+                    "player4": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        " c Priyojit K Singh b Thokchom Kishan ", 
+                        "37", 
+                        "68", 
+                        "4", 
+                        "1", 
+                        "54.41"
+                    ], 
+                    "player5": [
+                        "  P Dogra  ", 
+                        " c Mayank Raghav b Thokchom Kishan ", 
+                        "6", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "21.43"
+                    ], 
+                    "player6": [
+                        "  Gomez  ", 
+                        " c Ahmed Shah b Thokchom Kishan ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Fabid Ahmed  ", 
+                        " c Mayank Raghav b Thokchom Kishan ", 
+                        "41", 
+                        "72", 
+                        "4", 
+                        "0", 
+                        "56.94"
+                    ], 
+                    "player8": [
+                        "  Sargunam  ", 
+                        " c Mahesh Kumar b Bishworjit Konthoujam ", 
+                        "9", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "40.91"
+                    ], 
+                    "player9": [
+                        "  Madhavan Manohar (wk)  ", 
+                        " c Prafullomani Singh b Yashpal Singh ", 
+                        "6", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "35.29"
+                    ]
+                }, 
+                "batTeam": "PDC", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Thokchom Kishan  ", 
+                        "19.2", 
+                        "4", 
+                        "65", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  Kabrambam Homendro  ", 
+                        "13", 
+                        "4", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player3": [
+                        "  Bishworjit Konthoujam  ", 
+                        "19", 
+                        "4", 
+                        "48", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Mayank Raghav  ", 
+                        "7", 
+                        "0", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player5": [
+                        "  Priyojit K Singh  ", 
+                        "16", 
+                        "1", 
+                        "54", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Akshaykumar Singh  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player7": [
+                        "  Yashpal Singh (c)  ", 
+                        "3", 
+                        "0", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "10", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "78.2", 
+                    "runs": "238", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 13, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 191, 
+                        "teamScore": "118"
+                    }, 
+                    "player2": {
+                        "ballNo": 23, 
+                        "teamScore": "18"
+                    }, 
+                    "player3": {
+                        "ballNo": 88, 
+                        "teamScore": "43"
+                    }, 
+                    "player4": {
+                        "ballNo": 96, 
+                        "teamScore": "44"
+                    }, 
+                    "player5": {
+                        "ballNo": 107, 
+                        "teamScore": "50"
+                    }, 
+                    "player6": {
+                        "ballNo": 150, 
+                        "teamScore": "83"
+                    }, 
+                    "player7": {
+                        "ballNo": 157, 
+                        "teamScore": "85"
+                    }, 
+                    "player8": {
+                        "ballNo": 159, 
+                        "teamScore": "85"
+                    }, 
+                    "player9": {
+                        "ballNo": 179, 
+                        "teamScore": "110"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prafullomani Singh (wk)  ", 
+                        " lbw b Gomez ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Thokchom Kishan  ", 
+                        "  b Pankaj Singh ", 
+                        "15", 
+                        "10", 
+                        "2", 
+                        "1", 
+                        "150.00"
+                    ], 
+                    "player11": [
+                        "  Bishworjit Konthoujam  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Hrithik Kanojia  ", 
+                        " c Madhavan Manohar b Pankaj Singh ", 
+                        "11", 
+                        "13", 
+                        "2", 
+                        "0", 
+                        "84.62"
+                    ], 
+                    "player3": [
+                        "  Mayank Raghav  ", 
+                        " c D Rohit b Vikneshwaran Marimuthu ", 
+                        "16", 
+                        "37", 
+                        "2", 
+                        "0", 
+                        "43.24"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        " c Vikneshwaran Marimuthu b Pankaj Singh ", 
+                        "52", 
+                        "83", 
+                        "5", 
+                        "1", 
+                        "62.65"
+                    ], 
+                    "player5": [
+                        "  Priyojit K Singh  ", 
+                        " c Madhavan Manohar b Pankaj Singh ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Akshaykumar Singh  ", 
+                        " c P Dogra b Fabid Ahmed ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Ahmed Shah  ", 
+                        "  b D Rohit ", 
+                        "18", 
+                        "27", 
+                        "2", 
+                        "1", 
+                        "66.67"
+                    ], 
+                    "player8": [
+                        "  Mahesh Kumar  ", 
+                        " c Madhavan Manohar b D Rohit ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Kabrambam Homendro  ", 
+                        " c Madhavan Manohar b D Rohit ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Singh  ", 
+                        "12.5", 
+                        "4", 
+                        "20", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player2": [
+                        "  P Dogra  ", 
+                        "1", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "12.00"
+                    ], 
+                    "player3": [
+                        "  Gomez  ", 
+                        "7", 
+                        "1", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player4": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        "5", 
+                        "0", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player5": [
+                        "  Fabid Ahmed  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ], 
+                    "player6": [
+                        "  D Rohit (c)  ", 
+                        "3", 
+                        "0", 
+                        "22", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "7.30"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "4"
+                }, 
+                "total": {
+                    "overs": "31.5", 
+                    "runs": "118", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {}, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sai Karthik  ", 
+                        " not out ", 
+                        "5", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "125.00"
+                    ], 
+                    "player2": [
+                        "  Paras Dogra  ", 
+                        " not out ", 
+                        "8", 
+                        "3", 
+                        "2", 
+                        "0", 
+                        "266.67"
+                    ]
+                }, 
+                "batTeam": "PDC", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Thokchom Kishan  ", 
+                        "1", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "9.00"
+                    ], 
+                    "player2": [
+                        "  Kabrambam Homendro  ", 
+                        "0.1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "24.00"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "1.1", 
+                    "runs": "13", 
+                    "wickets": "0"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-31T16:30:00", 
+                    "startDate": "2018-12-30T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Abdul Safar", 
+                            " Govindaraajan", 
+                            " Ashith Rajiv", 
+                            " Santhosh Kumaran  "
+                        ], 
+                        "playing11": [
+                            " Vikneshwaran Marimuthu", 
+                            " Saiju Titus", 
+                            " Sai Karthik", 
+                            " D Rohit (c)", 
+                            " Paras Dogra", 
+                            " Madhavan Manohar (wk)", 
+                            " Prashanth Varma", 
+                            " Pankaj Singh", 
+                            " Thalaivan Sargunam", 
+                            " Fabid Ahmed", 
+                            " Raiphi Gomez  "
+                        ], 
+                        "teamName": "Puducherry\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Lakhan Rawat", 
+                            " Chingangbam Singh", 
+                            " Rex Singh  "
+                        ], 
+                        "playing11": [
+                            " Prafullomani Singh (wk)", 
+                            " Yashpal Singh (c)", 
+                            " Bishworjit Konthoujam", 
+                            " Homendro Meitei", 
+                            " Thokchom Kishan", 
+                            " Mayank Raghav", 
+                            " Hrithik Kanojia", 
+                            " Kangabam Singh", 
+                            " Ahmed Shah", 
+                            " Akshaykumar Singh", 
+                            " Mahesh Kumar  "
+                        ], 
+                        "teamName": "Manipur\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Puducherry", 
+                    "team2": "Manipur"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Puducherry"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Arindam Sarkar"
+                }, 
+                "venue": "Rural Development Trust Stadium, Anantapur"
+            }
+        }
+    ]
+}

@@ -1,0 +1,697 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 283, 
+                        "teamScore": "76"
+                    }, 
+                    "player2": {
+                        "ballNo": 459, 
+                        "teamScore": "165"
+                    }, 
+                    "player3": {
+                        "ballNo": 657, 
+                        "teamScore": "254"
+                    }, 
+                    "player4": {
+                        "ballNo": 673, 
+                        "teamScore": "255"
+                    }, 
+                    "player5": {
+                        "ballNo": 828, 
+                        "teamScore": "300"
+                    }, 
+                    "player6": {
+                        "ballNo": 898, 
+                        "teamScore": "318"
+                    }, 
+                    "player7": {
+                        "ballNo": 1054, 
+                        "teamScore": "416"
+                    }, 
+                    "player8": {
+                        "ballNo": 1098, 
+                        "teamScore": "432"
+                    }, 
+                    "player9": {
+                        "ballNo": 1128, 
+                        "teamScore": "459"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sumiran Amonkar  ", 
+                        " run out (A Bandy)  ", 
+                        "73", 
+                        "357", 
+                        "9", 
+                        "1", 
+                        "20.45"
+                    ], 
+                    "player10": [
+                        "  Felix Alemao  ", 
+                        " c Fazil Rashid b Irfan Pathan ", 
+                        "11", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "68.75"
+                    ], 
+                    "player2": [
+                        "  AS Desai  ", 
+                        " c Ian Dev Singh b Irfan Pathan ", 
+                        "43", 
+                        "124", 
+                        "4", 
+                        "0", 
+                        "34.68"
+                    ], 
+                    "player3": [
+                        "  SK Kamat (c)  ", 
+                        " c (sub)O Haroon b Umar Nazir ", 
+                        "57", 
+                        "86", 
+                        "7", 
+                        "1", 
+                        "66.28"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " c Fazil Rashid b Umar Nazir ", 
+                        "71", 
+                        "98", 
+                        "11", 
+                        "0", 
+                        "72.45"
+                    ], 
+                    "player5": [
+                        "  Snehal Kauthankar  ", 
+                        " not out ", 
+                        "130", 
+                        "216", 
+                        "21", 
+                        "0", 
+                        "60.19"
+                    ], 
+                    "player6": [
+                        "  Darshan Misal  ", 
+                        " c M Mudhasir b A Aziz ", 
+                        "18", 
+                        "73", 
+                        "3", 
+                        "0", 
+                        "24.66"
+                    ], 
+                    "player7": [
+                        "  Samar Dubhashi (wk)  ", 
+                        " c (sub)Waseem Raza b A Aziz ", 
+                        "0", 
+                        "35", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Pandrekar  ", 
+                        " c A Bandy b Irfan Pathan ", 
+                        "38", 
+                        "89", 
+                        "6", 
+                        "0", 
+                        "42.70"
+                    ], 
+                    "player9": [
+                        "  Lakshay Garg  ", 
+                        " c A Bandy b Umar Nazir ", 
+                        "14", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "41.18"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Irfan Pathan  ", 
+                        "27.4", 
+                        "6", 
+                        "69", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  M Mudhasir  ", 
+                        "34", 
+                        "14", 
+                        "79", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player3": [
+                        "  Umar Nazir  ", 
+                        "40.1", 
+                        "12", 
+                        "109", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player4": [
+                        "  Rasool (c)  ", 
+                        "40", 
+                        "15", 
+                        "72", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player5": [
+                        "  A Aziz  ", 
+                        "42", 
+                        "16", 
+                        "103", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player6": [
+                        "  Shubham Pundir  ", 
+                        "4", 
+                        "0", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player7": [
+                        "  Ian Dev Singh  ", 
+                        "1", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "6", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "188.5", 
+                    "runs": "468", 
+                    "wickets": "9"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 72, 
+                        "teamScore": "43"
+                    }, 
+                    "player10": {
+                        "ballNo": 521, 
+                        "teamScore": "271"
+                    }, 
+                    "player2": {
+                        "ballNo": 209, 
+                        "teamScore": "117"
+                    }, 
+                    "player3": {
+                        "ballNo": 215, 
+                        "teamScore": "117"
+                    }, 
+                    "player4": {
+                        "ballNo": 256, 
+                        "teamScore": "135"
+                    }, 
+                    "player5": {
+                        "ballNo": 337, 
+                        "teamScore": "169"
+                    }, 
+                    "player6": {
+                        "ballNo": 360, 
+                        "teamScore": "169"
+                    }, 
+                    "player7": {
+                        "ballNo": 417, 
+                        "teamScore": "210"
+                    }, 
+                    "player8": {
+                        "ballNo": 497, 
+                        "teamScore": "254"
+                    }, 
+                    "player9": {
+                        "ballNo": 517, 
+                        "teamScore": "270"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Bandy  ", 
+                        " c AS Desai b Lakshay Garg ", 
+                        "25", 
+                        "39", 
+                        "6", 
+                        "0", 
+                        "64.10"
+                    ], 
+                    "player10": [
+                        "  Umar Nazir  ", 
+                        " run out (Felix Alemao)  ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  M Mudhasir  ", 
+                        " not out ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Shubham Khajuria  ", 
+                        " lbw b Pandrekar ", 
+                        "53", 
+                        "99", 
+                        "9", 
+                        "1", 
+                        "53.54"
+                    ], 
+                    "player3": [
+                        "  Ian Dev Singh  ", 
+                        "  b Krishna Das ", 
+                        "37", 
+                        "77", 
+                        "7", 
+                        "0", 
+                        "48.05"
+                    ], 
+                    "player4": [
+                        "  Paras Sharma  ", 
+                        " c Felix Alemao b Lakshay Garg ", 
+                        "22", 
+                        "68", 
+                        "3", 
+                        "0", 
+                        "32.35"
+                    ], 
+                    "player5": [
+                        "  Rasool (c)  ", 
+                        " c Felix Alemao b Lakshay Garg ", 
+                        "13", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "65.00"
+                    ], 
+                    "player6": [
+                        "  Shubham Pundir  ", 
+                        " lbw b AS Desai ", 
+                        "16", 
+                        "48", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player7": [
+                        "  Irfan Pathan  ", 
+                        " c Samar Dubhashi b Lakshay Garg ", 
+                        "60", 
+                        "90", 
+                        "8", 
+                        "1", 
+                        "66.67"
+                    ], 
+                    "player8": [
+                        "  Fazil Rashid (wk)  ", 
+                        " lbw b AS Desai ", 
+                        "7", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "24.14"
+                    ], 
+                    "player9": [
+                        "  A Aziz  ", 
+                        " lbw b Lakshay Garg ", 
+                        "28", 
+                        "48", 
+                        "4", 
+                        "0", 
+                        "58.33"
+                    ]
+                }, 
+                "batTeam": "JK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Krishna Das  ", 
+                        "15", 
+                        "1", 
+                        "66", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player2": [
+                        "  Lakshay Garg  ", 
+                        "22.5", 
+                        "5", 
+                        "87", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player3": [
+                        "  AS Desai  ", 
+                        "12", 
+                        "4", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player4": [
+                        "  Darshan Misal  ", 
+                        "17", 
+                        "7", 
+                        "36", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player5": [
+                        "  Felix Alemao  ", 
+                        "8", 
+                        "3", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player6": [
+                        "  Pandrekar  ", 
+                        "10", 
+                        "2", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player7": [
+                        "  Amit Verma  ", 
+                        "2", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "1", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "86.5", 
+                    "runs": "271", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "0"
+                    }, 
+                    "player2": {
+                        "ballNo": 163, 
+                        "teamScore": "95"
+                    }, 
+                    "player3": {
+                        "ballNo": 376, 
+                        "teamScore": "208"
+                    }, 
+                    "player4": {
+                        "ballNo": 380, 
+                        "teamScore": "213"
+                    }, 
+                    "player5": {
+                        "ballNo": 416, 
+                        "teamScore": "229"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Ahmed Bandy  ", 
+                        " c AS Desai b Lakshay Garg ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Shubham Khajuria  ", 
+                        " c AS Desai b Lakshay Garg ", 
+                        "54", 
+                        "81", 
+                        "5", 
+                        "3", 
+                        "66.67"
+                    ], 
+                    "player3": [
+                        "  Ian Dev Singh  ", 
+                        " not out ", 
+                        "113", 
+                        "195", 
+                        "15", 
+                        "1", 
+                        "57.95"
+                    ], 
+                    "player4": [
+                        "  Paras Sharma  ", 
+                        " st Samar Dubhashi b Amit Verma ", 
+                        "44", 
+                        "124", 
+                        "7", 
+                        "0", 
+                        "35.48"
+                    ], 
+                    "player5": [
+                        "  Shubham Pundir  ", 
+                        " c Samar Dubhashi b Felix Alemao ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player6": [
+                        "  Parvez Rasool (c)  ", 
+                        "  b Pandrekar ", 
+                        "11", 
+                        "17", 
+                        "2", 
+                        "0", 
+                        "64.71"
+                    ], 
+                    "player7": [
+                        "  Irfan Pathan  ", 
+                        " not out ", 
+                        "10", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "71.43"
+                    ]
+                }, 
+                "batTeam": "JK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Lakshay Garg  ", 
+                        "8", 
+                        "2", 
+                        "31", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player2": [
+                        "  Krishna Das  ", 
+                        "6", 
+                        "2", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  Amulya Pandrekar  ", 
+                        "14", 
+                        "3", 
+                        "40", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Felix Alemao  ", 
+                        "12", 
+                        "0", 
+                        "50", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player5": [
+                        "  Darshan Misal  ", 
+                        "13", 
+                        "3", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player6": [
+                        "  Amogh Sunil Desai  ", 
+                        "7", 
+                        "0", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player7": [
+                        "  Amit Verma  ", 
+                        "13", 
+                        "2", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "73", 
+                    "runs": "242", 
+                    "wickets": "5"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T16:30:00", 
+                    "startDate": "2018-11-12T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Keenan Vaz", 
+                            " Vishamber Kahlon", 
+                            " Suyash Prabhudessai", 
+                            " Vijesh Prabhudessai  "
+                        ], 
+                        "playing11": [
+                            " Sumiran Amonkar", 
+                            " Amogh Sunil Desai", 
+                            " Sagun Kamat (c)", 
+                            " Amit Verma", 
+                            " Snehal Suhas Kauthankar", 
+                            " Samar Shravan Dubhashi (wk)", 
+                            " Darshan Misal", 
+                            " Amulya Pandrekar", 
+                            " Lakshay Garg ", 
+                            " Felix Alemao", 
+                            " Krishna Das  "
+                        ], 
+                        "teamName": "Goa\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Owais Amin Shah", 
+                            " Rohit Sharma", 
+                            " Obaid Haroon", 
+                            " Waseem Raza  "
+                        ], 
+                        "playing11": [
+                            " Ahmed Banday", 
+                            " Shubham Khajuria", 
+                            " Ian Dev Singh", 
+                            " Paras Sharma", 
+                            " Parvez Rasool (c)", 
+                            " Shubham Pundir", 
+                            " Irfan Pathan", 
+                            " Fazil Rashid (wk)", 
+                            " Mohammed Mudhasir", 
+                            " Aamir Aziz Sofi", 
+                            " Umar Nazir Mir  "
+                        ], 
+                        "teamName": "Jammu and Kashmir\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Goa", 
+                    "team2": "Jammu and Kashmir"
+                }, 
+                "toss": {
+                    "decision": "opt", 
+                    "winner": "Jammu"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Gaurav Vashisht"
+                }, 
+                "venue": "Goa Cricket Association Academy Ground, Porvorim"
+            }
+        }
+    ]
+}

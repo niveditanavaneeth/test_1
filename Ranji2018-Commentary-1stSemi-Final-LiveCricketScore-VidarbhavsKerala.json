@@ -1,0 +1,656 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 20, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 172, 
+                        "teamScore": "106"
+                    }, 
+                    "player2": {
+                        "ballNo": 33, 
+                        "teamScore": "17"
+                    }, 
+                    "player3": {
+                        "ballNo": 51, 
+                        "teamScore": "27"
+                    }, 
+                    "player4": {
+                        "ballNo": 59, 
+                        "teamScore": "28"
+                    }, 
+                    "player5": {
+                        "ballNo": 70, 
+                        "teamScore": "40"
+                    }, 
+                    "player6": {
+                        "ballNo": 97, 
+                        "teamScore": "46"
+                    }, 
+                    "player7": {
+                        "ballNo": 116, 
+                        "teamScore": "55"
+                    }, 
+                    "player8": {
+                        "ballNo": 132, 
+                        "teamScore": "71"
+                    }, 
+                    "player9": {
+                        "ballNo": 155, 
+                        "teamScore": "81"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Ponnam Rahul  ", 
+                        " c F Fazal b Rajneesh Gurbani ", 
+                        "9", 
+                        "29", 
+                        "2", 
+                        "0", 
+                        "31.03"
+                    ], 
+                    "player10": [
+                        "  Warrier  ", 
+                        "  b Umesh ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Nidheesh  ", 
+                        "  c and b Rajneesh Gurbani ", 
+                        "6", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "85.71"
+                    ], 
+                    "player2": [
+                        "  Mohammed Azharuddeen (wk)  ", 
+                        " c Yash Thakur b Umesh ", 
+                        "8", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player3": [
+                        "  Sijomon  ", 
+                        " c Sanjay Ramaswamy b Umesh ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Sachin Baby (c)  ", 
+                        "  b Rajneesh Gurbani ", 
+                        "22", 
+                        "33", 
+                        "4", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player5": [
+                        "  V Manoharan  ", 
+                        " c F Fazal b Umesh ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Arun Karthik  ", 
+                        " c Akshay Wadkar b Umesh ", 
+                        "4", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player7": [
+                        "  Vishnu Vinod  ", 
+                        " not out ", 
+                        "37", 
+                        "50", 
+                        "1", 
+                        "2", 
+                        "74.00"
+                    ], 
+                    "player8": [
+                        "  Jalaj Saxena  ", 
+                        " c F Fazal b Umesh ", 
+                        "7", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "53.85"
+                    ], 
+                    "player9": [
+                        "  Basil Thampi  ", 
+                        " c Akshay Wadkar b Umesh ", 
+                        "10", 
+                        "10", 
+                        "2", 
+                        "0", 
+                        "100.00"
+                    ]
+                }, 
+                "batTeam": "Kerala", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajneesh Gurbani  ", 
+                        "11.4", 
+                        "3", 
+                        "38", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player2": [
+                        "  Umesh  ", 
+                        "12", 
+                        "1", 
+                        "48", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player3": [
+                        "  Yash Thakur  ", 
+                        "5", 
+                        "0", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ]
+                }, 
+                "bowlTeam": "Vidarbha", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "28.4", 
+                    "runs": "106", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 48, 
+                        "teamScore": "33"
+                    }, 
+                    "player10": {
+                        "ballNo": 316, 
+                        "teamScore": "208"
+                    }, 
+                    "player2": {
+                        "ballNo": 155, 
+                        "teamScore": "113"
+                    }, 
+                    "player3": {
+                        "ballNo": 256, 
+                        "teamScore": "170"
+                    }, 
+                    "player4": {
+                        "ballNo": 264, 
+                        "teamScore": "171"
+                    }, 
+                    "player5": {
+                        "ballNo": 270, 
+                        "teamScore": "171"
+                    }, 
+                    "player6": {
+                        "ballNo": 273, 
+                        "teamScore": "172"
+                    }, 
+                    "player7": {
+                        "ballNo": 274, 
+                        "teamScore": "172"
+                    }, 
+                    "player8": {
+                        "ballNo": 294, 
+                        "teamScore": "183"
+                    }, 
+                    "player9": {
+                        "ballNo": 306, 
+                        "teamScore": "194"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  F Fazal (c)  ", 
+                        " c Mohammed Azharuddeen b Warrier ", 
+                        "75", 
+                        "142", 
+                        "13", 
+                        "0", 
+                        "52.82"
+                    ], 
+                    "player10": [
+                        "  Umesh  ", 
+                        " not out ", 
+                        "17", 
+                        "8", 
+                        "1", 
+                        "2", 
+                        "212.50"
+                    ], 
+                    "player11": [
+                        "  Yash Thakur  ", 
+                        " c Mohammed Azharuddeen b Warrier ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player2": [
+                        "  Sanjay Ramaswamy  ", 
+                        "  b Nidheesh ", 
+                        "19", 
+                        "28", 
+                        "4", 
+                        "0", 
+                        "67.86"
+                    ], 
+                    "player3": [
+                        "  W Jaffer  ", 
+                        " c Arun Karthik b Nidheesh ", 
+                        "34", 
+                        "52", 
+                        "6", 
+                        "0", 
+                        "65.38"
+                    ], 
+                    "player4": [
+                        "  Atharwa Taide  ", 
+                        " c Nidheesh b Warrier ", 
+                        "23", 
+                        "46", 
+                        "4", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Rajneesh Gurbani  ", 
+                        " c Mohammed Azharuddeen b Basil Thampi ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Sarwate  ", 
+                        " c Mohammed Azharuddeen b Warrier ", 
+                        "6", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player7": [
+                        "  G Satish  ", 
+                        " c Mohammed Azharuddeen b Basil Thampi ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Akshay Wadkar (wk)  ", 
+                        " c (sub)Akshay Chandran b Basil Thampi ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Mohit Kale  ", 
+                        " c Arun Karthik b Warrier ", 
+                        "12", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "66.67"
+                    ]
+                }, 
+                "batTeam": "Vidarbha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Warrier  ", 
+                        "16.4", 
+                        "3", 
+                        "57", 
+                        "5", 
+                        "5", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  Basil Thampi  ", 
+                        "17", 
+                        "3", 
+                        "64", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player3": [
+                        "  Nidheesh  ", 
+                        "13", 
+                        "1", 
+                        "53", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player4": [
+                        "  Jalaj Saxena  ", 
+                        "6", 
+                        "1", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Kerala", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "12", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "52.4", 
+                    "runs": "208", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 35, 
+                        "teamScore": "28"
+                    }, 
+                    "player10": {
+                        "ballNo": 149, 
+                        "teamScore": "91"
+                    }, 
+                    "player2": {
+                        "ballNo": 75, 
+                        "teamScore": "59"
+                    }, 
+                    "player3": {
+                        "ballNo": 79, 
+                        "teamScore": "59"
+                    }, 
+                    "player4": {
+                        "ballNo": 86, 
+                        "teamScore": "60"
+                    }, 
+                    "player5": {
+                        "ballNo": 90, 
+                        "teamScore": "65"
+                    }, 
+                    "player6": {
+                        "ballNo": 91, 
+                        "teamScore": "65"
+                    }, 
+                    "player7": {
+                        "ballNo": 103, 
+                        "teamScore": "66"
+                    }, 
+                    "player8": {
+                        "ballNo": 110, 
+                        "teamScore": "73"
+                    }, 
+                    "player9": {
+                        "ballNo": 127, 
+                        "teamScore": "85"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Arun Karthik  ", 
+                        " lbw b Yash Thakur ", 
+                        "36", 
+                        "33", 
+                        "5", 
+                        "1", 
+                        "109.09"
+                    ], 
+                    "player10": [
+                        "  MD Nidheesh  ", 
+                        " c Sanjay Ramaswamy b Umesh ", 
+                        "3", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "18.75"
+                    ], 
+                    "player11": [
+                        "  Sandeep Warrier  ", 
+                        " not out ", 
+                        "4", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player2": [
+                        "  Jalaj Saxena  ", 
+                        " c Akshay Wadkar b Umesh ", 
+                        "7", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "46.67"
+                    ], 
+                    "player3": [
+                        "  Vishnu Vinod  ", 
+                        " c F Fazal b Umesh ", 
+                        "15", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "53.57"
+                    ], 
+                    "player4": [
+                        "  Sachin Baby (c)  ", 
+                        " run out (Atharwa Taide)  ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Mohammed Azharuddeen (wk)  ", 
+                        " c Atharwa Taide b Umesh ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player6": [
+                        "  Vinoop Manoharan  ", 
+                        " c Sanjay Ramaswamy b Yash Thakur ", 
+                        "5", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "125.00"
+                    ], 
+                    "player7": [
+                        "  Ponnam Rahul  ", 
+                        "  b Yash Thakur ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Sijomon Joseph  ", 
+                        "  b Yash Thakur ", 
+                        "17", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "80.95"
+                    ], 
+                    "player9": [
+                        "  Basil Thampi  ", 
+                        "  b Umesh ", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ]
+                }, 
+                "batTeam": "Kerala", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajneesh Gurbani  ", 
+                        "6", 
+                        "0", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player2": [
+                        "  Umesh Yadav  ", 
+                        "10.5", 
+                        "2", 
+                        "31", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Yash Thakur  ", 
+                        "8", 
+                        "2", 
+                        "28", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ]
+                }, 
+                "bowlTeam": "Vidarbha", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "24.5", 
+                    "runs": "91", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-28T16:30:00", 
+                    "startDate": "2019-01-24T09:30:00"
+                }, 
+                "groupName": "Commentary", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "1st Semi-Final - Live Cricket Score", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Akshay Wakhare", 
+                            " Suniket Bingewar", 
+                            " Apoorv Wankhade", 
+                            " Akshay Karnewar  "
+                        ], 
+                        "playing11": [
+                            " Faiz Fazal (c)", 
+                            " Sanjay Raghunath", 
+                            " Wasim Jaffer", 
+                            " Atharwa Taide", 
+                            " Aditya Sarwate", 
+                            " Ganesh Satish", 
+                            " Akshay Wadkar (wk)", 
+                            " Mohit Kale", 
+                            " Rajneesh Gurbani", 
+                            " Umesh Yadav", 
+                            " Yash Thakur  "
+                        ], 
+                        "teamName": "Vidarbha\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Sanju Samson", 
+                            " KC Akshay", 
+                            " Rohan Prem", 
+                            " Akshay Chandran  "
+                        ], 
+                        "playing11": [
+                            " Ponnam Rahul", 
+                            " Mohammed Azharuddeen (wk)", 
+                            " Sijomon Joseph", 
+                            " Sachin Baby (c)", 
+                            " Vinoop Manoharan", 
+                            " Arun Karthik", 
+                            " Vishnu Vinod", 
+                            " Jalaj Saxena", 
+                            " Basil Thampi", 
+                            " Sandeep Warrier", 
+                            " MD Nidheesh  "
+                        ], 
+                        "teamName": "Kerala\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Vidarbha", 
+                    "team2": "Kerala"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Vidarbha"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Manu Nayyar"
+                }, 
+                "venue": "Krishnagiri Stadium, Wayanad, Kerala"
+            }
+        }
+    ]
+}

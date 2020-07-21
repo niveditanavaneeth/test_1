@@ -1,0 +1,904 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 277, 
+                        "teamScore": "150"
+                    }, 
+                    "player2": {
+                        "ballNo": 23, 
+                        "teamScore": "9"
+                    }, 
+                    "player3": {
+                        "ballNo": 114, 
+                        "teamScore": "45"
+                    }, 
+                    "player4": {
+                        "ballNo": 138, 
+                        "teamScore": "49"
+                    }, 
+                    "player5": {
+                        "ballNo": 163, 
+                        "teamScore": "55"
+                    }, 
+                    "player6": {
+                        "ballNo": 167, 
+                        "teamScore": "58"
+                    }, 
+                    "player7": {
+                        "ballNo": 212, 
+                        "teamScore": "81"
+                    }, 
+                    "player8": {
+                        "ballNo": 215, 
+                        "teamScore": "81"
+                    }, 
+                    "player9": {
+                        "ballNo": 220, 
+                        "teamScore": "85"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Mangal Mehrur  ", 
+                        "  b Rachit Bhatia ", 
+                        "4", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player10": [
+                        "  S Quadri  ", 
+                        " c KB Pawan b Rachit Bhatia ", 
+                        "20", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "105.26"
+                    ], 
+                    "player11": [
+                        "  Harsh Singh  ", 
+                        " not out ", 
+                        "48", 
+                        "40", 
+                        "7", 
+                        "2", 
+                        "120.00"
+                    ], 
+                    "player2": [
+                        "  Indrajit Kumar  ", 
+                        " lbw b A Kazi ", 
+                        "25", 
+                        "55", 
+                        "4", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player3": [
+                        "  Babul Kumar (c)  ", 
+                        " lbw b Arun ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  K Kumar  ", 
+                        " lbw b Rachit Bhatia ", 
+                        "21", 
+                        "64", 
+                        "3", 
+                        "0", 
+                        "32.81"
+                    ], 
+                    "player5": [
+                        "  MD Rahmatullah  ", 
+                        "  c and b A Kazi ", 
+                        "3", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "15.79"
+                    ], 
+                    "player6": [
+                        "  Utkarsh Bhaskar  ", 
+                        " c KB Pawan b Rachit Bhatia ", 
+                        "2", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player7": [
+                        "  Vikash Ranjan (wk)  ", 
+                        " c Paras Sehrawat b Rachit Bhatia ", 
+                        "17", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "68.00"
+                    ], 
+                    "player8": [
+                        "  Ashutosh Aman  ", 
+                        " c Tahmeed Rahman b Arun ", 
+                        "9", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "34.62"
+                    ], 
+                    "player9": [
+                        "  Vivek Kumar  ", 
+                        " lbw b Rachit Bhatia ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "BIH", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rachit Bhatia  ", 
+                        "16.1", 
+                        "3", 
+                        "44", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Arun  ", 
+                        "12", 
+                        "0", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player3": [
+                        "  A Kazi  ", 
+                        "16", 
+                        "6", 
+                        "40", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Tahmeed Rahman  ", 
+                        "2", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.00"
+                    ]
+                }, 
+                "bowlTeam": "Bihar", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "46.1", 
+                    "runs": "150", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 451, 
+                        "teamScore": "209"
+                    }, 
+                    "player2": {
+                        "ballNo": 104, 
+                        "teamScore": "45"
+                    }, 
+                    "player3": {
+                        "ballNo": 135, 
+                        "teamScore": "51"
+                    }, 
+                    "player4": {
+                        "ballNo": 238, 
+                        "teamScore": "96"
+                    }, 
+                    "player5": {
+                        "ballNo": 280, 
+                        "teamScore": "111"
+                    }, 
+                    "player6": {
+                        "ballNo": 381, 
+                        "teamScore": "175"
+                    }, 
+                    "player7": {
+                        "ballNo": 382, 
+                        "teamScore": "175"
+                    }, 
+                    "player8": {
+                        "ballNo": 394, 
+                        "teamScore": "187"
+                    }, 
+                    "player9": {
+                        "ballNo": 416, 
+                        "teamScore": "188"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sedezhalie Rupero  ", 
+                        " c Babul Kumar b Vivek Kumar ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player10": [
+                        "  Rachit Bhatia  ", 
+                        "  b Ashutosh Aman ", 
+                        "14", 
+                        "28", 
+                        "1", 
+                        "1", 
+                        "50.00"
+                    ], 
+                    "player11": [
+                        "  Arun  ", 
+                        " not out ", 
+                        "7", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "35.00"
+                    ], 
+                    "player2": [
+                        "  H Zhimomi  ", 
+                        " lbw b S Quadri ", 
+                        "21", 
+                        "59", 
+                        "4", 
+                        "0", 
+                        "35.59"
+                    ], 
+                    "player3": [
+                        "  Paras Sehrawat  ", 
+                        " c Utkarsh Bhaskar b Ashutosh Aman ", 
+                        "27", 
+                        "52", 
+                        "5", 
+                        "0", 
+                        "51.92"
+                    ], 
+                    "player4": [
+                        "  KB Pawan (wk)  ", 
+                        " c MD Rahmatullah b Ashutosh Aman ", 
+                        "39", 
+                        "88", 
+                        "7", 
+                        "1", 
+                        "44.32"
+                    ], 
+                    "player5": [
+                        "  Jonathan R (c)  ", 
+                        " c Vivek Kumar b Ashutosh Aman ", 
+                        "53", 
+                        "123", 
+                        "4", 
+                        "1", 
+                        "43.09"
+                    ], 
+                    "player6": [
+                        "  A Kazi  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "28", 
+                        "53", 
+                        "3", 
+                        "1", 
+                        "52.83"
+                    ], 
+                    "player7": [
+                        "  Imliwati Lemtur  ", 
+                        " c K Kumar b Vivek Kumar ", 
+                        "12", 
+                        "22", 
+                        "3", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player8": [
+                        "  Inakato Zhimomi  ", 
+                        "  b Ashutosh Aman ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Tahmeed Rahman  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ]
+                }, 
+                "batTeam": "NGL", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vivek Kumar  ", 
+                        "16", 
+                        "2", 
+                        "65", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player2": [
+                        "  Harsh Singh  ", 
+                        "5", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  Ashutosh Aman  ", 
+                        "31.4", 
+                        "12", 
+                        "47", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player4": [
+                        "  S Quadri  ", 
+                        "18", 
+                        "2", 
+                        "66", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player5": [
+                        "  K Kumar  ", 
+                        "5", 
+                        "1", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Bihar", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "75.4", 
+                    "runs": "209", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 13, 
+                        "teamScore": "16"
+                    }, 
+                    "player2": {
+                        "ballNo": 115, 
+                        "teamScore": "92"
+                    }, 
+                    "player3": {
+                        "ballNo": 206, 
+                        "teamScore": "155"
+                    }, 
+                    "player4": {
+                        "ballNo": 463, 
+                        "teamScore": "332"
+                    }, 
+                    "player5": {
+                        "ballNo": 534, 
+                        "teamScore": "372"
+                    }, 
+                    "player6": {
+                        "ballNo": 595, 
+                        "teamScore": "423"
+                    }, 
+                    "player7": {
+                        "ballNo": 623, 
+                        "teamScore": "437"
+                    }, 
+                    "player8": {
+                        "ballNo": 634, 
+                        "teamScore": "439"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Indrajit Kumar  ", 
+                        " c Paras Sehrawat b Rachit Bhatia ", 
+                        "4", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player10": [
+                        "  Vivek Kumar  ", 
+                        " not out ", 
+                        "28", 
+                        "37", 
+                        "0", 
+                        "2", 
+                        "75.68"
+                    ], 
+                    "player2": [
+                        "  Babul Kumar (c)  ", 
+                        " lbw b A Kazi ", 
+                        "39", 
+                        "53", 
+                        "6", 
+                        "0", 
+                        "73.58"
+                    ], 
+                    "player3": [
+                        "  Mangal Mehrur  ", 
+                        "  b A Kazi ", 
+                        "177", 
+                        "244", 
+                        "24", 
+                        "1", 
+                        "72.54"
+                    ], 
+                    "player4": [
+                        "  K Kumar  ", 
+                        " c Paras Sehrawat b Rachit Bhatia ", 
+                        "26", 
+                        "43", 
+                        "1", 
+                        "0", 
+                        "60.47"
+                    ], 
+                    "player5": [
+                        "  MD Rahmatullah  ", 
+                        " c Imliwati Lemtur b Tahmeed Rahman ", 
+                        "107", 
+                        "155", 
+                        "9", 
+                        "3", 
+                        "69.03"
+                    ], 
+                    "player6": [
+                        "  Utkarsh Bhaskar  ", 
+                        "  b A Kazi ", 
+                        "46", 
+                        "62", 
+                        "8", 
+                        "0", 
+                        "74.19"
+                    ], 
+                    "player7": [
+                        "  Vikash Ranjan (wk)  ", 
+                        " not out ", 
+                        "53", 
+                        "74", 
+                        "6", 
+                        "0", 
+                        "71.62"
+                    ], 
+                    "player8": [
+                        "  Ashutosh Aman  ", 
+                        "  b A Kazi ", 
+                        "4", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "23.53"
+                    ], 
+                    "player9": [
+                        "  Harsh Singh  ", 
+                        " c Jonathan R b A Kazi ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ]
+                }, 
+                "batTeam": "BIH", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rachit Bhatia  ", 
+                        "16", 
+                        "0", 
+                        "89", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "5.60"
+                    ], 
+                    "player2": [
+                        "  Arun  ", 
+                        "7", 
+                        "0", 
+                        "51", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.30"
+                    ], 
+                    "player3": [
+                        "  A Kazi  ", 
+                        "46", 
+                        "12", 
+                        "97", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player4": [
+                        "  Inakato Zhimomi  ", 
+                        "5", 
+                        "0", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player5": [
+                        "  Tahmeed Rahman  ", 
+                        "22", 
+                        "0", 
+                        "131", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player6": [
+                        "  Imliwati Lemtur  ", 
+                        "15", 
+                        "0", 
+                        "71", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player7": [
+                        "  H Zhimomi  ", 
+                        "6", 
+                        "0", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ]
+                }, 
+                "bowlTeam": "Bihar", 
+                "extras": {
+                    "b": "10", 
+                    "lb": "9", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "117", 
+                    "runs": "505", 
+                    "wickets": "8"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 275, 
+                        "teamScore": "173"
+                    }, 
+                    "player2": {
+                        "ballNo": 30, 
+                        "teamScore": "17"
+                    }, 
+                    "player3": {
+                        "ballNo": 41, 
+                        "teamScore": "22"
+                    }, 
+                    "player4": {
+                        "ballNo": 43, 
+                        "teamScore": "22"
+                    }, 
+                    "player5": {
+                        "ballNo": 44, 
+                        "teamScore": "22"
+                    }, 
+                    "player6": {
+                        "ballNo": 63, 
+                        "teamScore": "35"
+                    }, 
+                    "player7": {
+                        "ballNo": 83, 
+                        "teamScore": "50"
+                    }, 
+                    "player8": {
+                        "ballNo": 172, 
+                        "teamScore": "113"
+                    }, 
+                    "player9": {
+                        "ballNo": 271, 
+                        "teamScore": "166"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sedezhalie Rupero  ", 
+                        " lbw b Vivek Kumar ", 
+                        "4", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player10": [
+                        "  Rachit Bhatia  ", 
+                        "  b Ashutosh Aman ", 
+                        "17", 
+                        "51", 
+                        "3", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player11": [
+                        "  Arun  ", 
+                        " not out ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Hokaito Zhimomi  ", 
+                        " lbw b Vivek Kumar ", 
+                        "6", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "46.15"
+                    ], 
+                    "player3": [
+                        "  Imliwati Lemtur  ", 
+                        " c Babul Kumar b Vivek Kumar ", 
+                        "12", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "52.17"
+                    ], 
+                    "player4": [
+                        "  Paras Sehrawat  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Rongsen Jonathan (c)  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "100", 
+                        "113", 
+                        "12", 
+                        "3", 
+                        "88.50"
+                    ], 
+                    "player6": [
+                        "  Abrar Kazi  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  KB Pawan (wk)  ", 
+                        " lbw b Vivek Kumar ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player8": [
+                        "  Tahmeed Rahman  ", 
+                        "  b Ashutosh Aman ", 
+                        "14", 
+                        "10", 
+                        "3", 
+                        "0", 
+                        "140.00"
+                    ], 
+                    "player9": [
+                        "  Inakato Zhimomi  ", 
+                        "  b Vivek Kumar ", 
+                        "18", 
+                        "48", 
+                        "4", 
+                        "0", 
+                        "37.50"
+                    ]
+                }, 
+                "batTeam": "NGL", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vivek Kumar  ", 
+                        "12", 
+                        "3", 
+                        "65", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "5.40"
+                    ], 
+                    "player2": [
+                        "  Harsh Singh  ", 
+                        "5", 
+                        "0", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.80"
+                    ], 
+                    "player3": [
+                        "  Ashutosh Aman  ", 
+                        "15.5", 
+                        "4", 
+                        "49", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Samar Quadri  ", 
+                        "11", 
+                        "3", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player5": [
+                        "  Keshav Kumar  ", 
+                        "2", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Bihar", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "45.5", 
+                    "runs": "173", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-25T16:30:00", 
+                    "startDate": "2018-12-22T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 7", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Vishal Das  "
+                        ], 
+                        "playing11": [
+                            " Mangal Mahrour", 
+                            " Indrajit Kumar", 
+                            " Babul Kumar (c)", 
+                            " Keshav Kumar", 
+                            " MD Rahmatullah", 
+                            " Utkarsh Bhaskar", 
+                            " Vikash Ranjan (wk)", 
+                            " Ashutosh Aman", 
+                            " Vivek Kumar", 
+                            " Samar Quadri", 
+                            " Harsh Singh  "
+                        ], 
+                        "teamName": "Bihar\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Nitesh Lohchab  "
+                        ], 
+                        "playing11": [
+                            " Sedezhalie Rupero", 
+                            " Hokaito Zhimomi", 
+                            " Inakato Zhimomi", 
+                            " KB Pawan (wk)", 
+                            " Rongsen Jonathan (c)", 
+                            " Arun ", 
+                            " Abrar Kazi", 
+                            " Paras Sehrawat", 
+                            " Imliwati Lemtur", 
+                            " Tahmeed Rahman", 
+                            " Rachit Bhatia  "
+                        ], 
+                        "teamName": "Nagaland\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Bihar", 
+                    "team2": "Nagaland"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Nagaland"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Nitin Goel"
+                }, 
+                "venue": "Moin-ul-Haq Stadium, Patna"
+            }
+        }
+    ]
+}

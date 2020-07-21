@@ -1,0 +1,680 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 21, 
+                        "teamScore": "14"
+                    }, 
+                    "player10": {
+                        "ballNo": 218, 
+                        "teamScore": "118"
+                    }, 
+                    "player2": {
+                        "ballNo": 37, 
+                        "teamScore": "22"
+                    }, 
+                    "player3": {
+                        "ballNo": 42, 
+                        "teamScore": "22"
+                    }, 
+                    "player4": {
+                        "ballNo": 66, 
+                        "teamScore": "23"
+                    }, 
+                    "player5": {
+                        "ballNo": 95, 
+                        "teamScore": "32"
+                    }, 
+                    "player6": {
+                        "ballNo": 101, 
+                        "teamScore": "32"
+                    }, 
+                    "player7": {
+                        "ballNo": 136, 
+                        "teamScore": "41"
+                    }, 
+                    "player8": {
+                        "ballNo": 189, 
+                        "teamScore": "84"
+                    }, 
+                    "player9": {
+                        "ballNo": 201, 
+                        "teamScore": "92"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  H Rana  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "10", 
+                        "29", 
+                        "1", 
+                        "0", 
+                        "34.48"
+                    ], 
+                    "player10": [
+                        "  Chahal  ", 
+                        "  b Aniket Choudhary ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  A Hooda  ", 
+                        " c Amitkumar Gautam b Khaleel Ahmed ", 
+                        "9", 
+                        "6", 
+                        "2", 
+                        "0", 
+                        "150.00"
+                    ], 
+                    "player2": [
+                        "  Ankit Kumar  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "6", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "120.00"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        "  b Aniket Choudhary ", 
+                        "4", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "23.53"
+                    ], 
+                    "player4": [
+                        "  Rohit Parmod Sharma (wk)  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Pramod Chandila  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "5", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "17.24"
+                    ], 
+                    "player6": [
+                        "  Rahul Dagar  ", 
+                        " c Chetan Bist b Khaleel Ahmed ", 
+                        "4", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player7": [
+                        "  Jayant Yadav  ", 
+                        "  c and b Khaleel Ahmed ", 
+                        "3", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "12.00"
+                    ], 
+                    "player8": [
+                        "  Harshal Patel (c)  ", 
+                        " not out ", 
+                        "53", 
+                        "55", 
+                        "10", 
+                        "1", 
+                        "96.36"
+                    ], 
+                    "player9": [
+                        "  Sanjay Pahal  ", 
+                        " c R Bist b Aniket Choudhary ", 
+                        "15", 
+                        "26", 
+                        "3", 
+                        "0", 
+                        "57.69"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aniket Choudhary  ", 
+                        "15", 
+                        "3", 
+                        "45", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "10", 
+                        "4", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Khaleel Ahmed  ", 
+                        "10.2", 
+                        "5", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "1", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "14.00"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "3", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "36.2", 
+                    "runs": "118", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 107, 
+                        "teamScore": "51"
+                    }, 
+                    "player2": {
+                        "ballNo": 302, 
+                        "teamScore": "171"
+                    }, 
+                    "player3": {
+                        "ballNo": 416, 
+                        "teamScore": "229"
+                    }, 
+                    "player4": {
+                        "ballNo": 638, 
+                        "teamScore": "344"
+                    }, 
+                    "player5": {
+                        "ballNo": 768, 
+                        "teamScore": "415"
+                    }, 
+                    "player6": {
+                        "ballNo": 900, 
+                        "teamScore": "455"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        " lbw b Harshal Patel ", 
+                        "20", 
+                        "60", 
+                        "3", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " lbw b Chaitanya Bishnoi ", 
+                        "61", 
+                        "131", 
+                        "7", 
+                        "0", 
+                        "46.56"
+                    ], 
+                    "player3": [
+                        "  Lomror (c)  ", 
+                        " c Ankit Kumar b Chahal ", 
+                        "106", 
+                        "173", 
+                        "14", 
+                        "1", 
+                        "61.27"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        " not out ", 
+                        "150", 
+                        "323", 
+                        "17", 
+                        "1", 
+                        "46.44"
+                    ], 
+                    "player5": [
+                        "  Menaria  ", 
+                        "  b Chahal ", 
+                        "47", 
+                        "113", 
+                        "5", 
+                        "0", 
+                        "41.59"
+                    ], 
+                    "player6": [
+                        "  Rajesh Bishnoi Jr  ", 
+                        "  b Chahal ", 
+                        "44", 
+                        "66", 
+                        "6", 
+                        "1", 
+                        "66.67"
+                    ], 
+                    "player7": [
+                        "  Salman Khan  ", 
+                        " lbw b A Hooda ", 
+                        "13", 
+                        "72", 
+                        "1", 
+                        "0", 
+                        "18.06"
+                    ], 
+                    "player8": [
+                        "  Rahul Chahar  ", 
+                        " not out ", 
+                        "16", 
+                        "16", 
+                        "1", 
+                        "1", 
+                        "100.00"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Harshal Patel (c)  ", 
+                        "29", 
+                        "3", 
+                        "86", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Sanjay Pahal  ", 
+                        "25", 
+                        "4", 
+                        "72", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  A Hooda  ", 
+                        "29", 
+                        "8", 
+                        "81", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Jayant Yadav  ", 
+                        "32", 
+                        "6", 
+                        "74", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player5": [
+                        "  Chahal  ", 
+                        "33", 
+                        "6", 
+                        "107", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player6": [
+                        "  Chaitanya Bishnoi  ", 
+                        "8", 
+                        "0", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player7": [
+                        "  Rahul Dagar  ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  H Rana  ", 
+                        "1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "17", 
+                    "lb": "7", 
+                    "nb": "6", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "158", 
+                    "runs": "490", 
+                    "wickets": "6"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 42, 
+                        "teamScore": "31"
+                    }, 
+                    "player2": {
+                        "ballNo": 282, 
+                        "teamScore": "152"
+                    }, 
+                    "player3": {
+                        "ballNo": 285, 
+                        "teamScore": "157"
+                    }, 
+                    "player4": {
+                        "ballNo": 459, 
+                        "teamScore": "261"
+                    }, 
+                    "player5": {
+                        "ballNo": 517, 
+                        "teamScore": "296"
+                    }, 
+                    "player6": {
+                        "ballNo": 574, 
+                        "teamScore": "322"
+                    }, 
+                    "player7": {
+                        "ballNo": 692, 
+                        "teamScore": "369"
+                    }, 
+                    "player8": {
+                        "ballNo": 844, 
+                        "teamScore": "452"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Himanshu Rana  ", 
+                        " c Chetan Bist b Salman Khan ", 
+                        "83", 
+                        "147", 
+                        "8", 
+                        "2", 
+                        "56.46"
+                    ], 
+                    "player10": [
+                        "  Yuzvendra Chahal  ", 
+                        " not out ", 
+                        "8", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "44.44"
+                    ], 
+                    "player2": [
+                        "  Ankit Kumar  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "21", 
+                        "15", 
+                        "5", 
+                        "0", 
+                        "140.00"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        " lbw b Rahul Chahar ", 
+                        "94", 
+                        "208", 
+                        "11", 
+                        "0", 
+                        "45.19"
+                    ], 
+                    "player4": [
+                        "  Rohit Parmod Sharma (wk)  ", 
+                        " c Chetan Bist b Rahul Chahar ", 
+                        "4", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "200.00"
+                    ], 
+                    "player5": [
+                        "  Pramod Chandila  ", 
+                        " c Rajesh Bishnoi Jr b TM Ul-Haq ", 
+                        "73", 
+                        "112", 
+                        "12", 
+                        "0", 
+                        "65.18"
+                    ], 
+                    "player6": [
+                        "  Rahul Dagar  ", 
+                        "  b Rahul Chahar ", 
+                        "31", 
+                        "65", 
+                        "5", 
+                        "0", 
+                        "47.69"
+                    ], 
+                    "player7": [
+                        "  Jayant Yadav  ", 
+                        " not out ", 
+                        "66", 
+                        "166", 
+                        "6", 
+                        "0", 
+                        "39.76"
+                    ], 
+                    "player8": [
+                        "  Harshal Patel (c)  ", 
+                        " lbw b Rahul Chahar ", 
+                        "23", 
+                        "57", 
+                        "4", 
+                        "0", 
+                        "40.35"
+                    ], 
+                    "player9": [
+                        "  Sanjay Pahal  ", 
+                        " c TM Ul-Haq b Rahul Chahar ", 
+                        "50", 
+                        "87", 
+                        "8", 
+                        "0", 
+                        "57.47"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aniket Choudhary  ", 
+                        "25", 
+                        "5", 
+                        "67", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "30", 
+                        "5", 
+                        "108", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player3": [
+                        "  Rahul Chahar  ", 
+                        "49", 
+                        "9", 
+                        "151", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  K Khaleel Ahmed  ", 
+                        "14", 
+                        "3", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player5": [
+                        "  Mahipal Lomror (c)  ", 
+                        "22", 
+                        "2", 
+                        "75", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Robin Bist  ", 
+                        "4", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player7": [
+                        "  Salman Khan  ", 
+                        "2", 
+                        "0", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "3", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "146", 
+                    "runs": "462", 
+                    "wickets": "8"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-25T16:30:00", 
+                    "startDate": "2018-12-22T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 7", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Arjit Gupta  "
+                        ], 
+                        "playing11": [
+                            " Amitkumar Gautam", 
+                            " Chetan Bist (wk)", 
+                            " Mahipal Lomror (c)", 
+                            " Robin Bist", 
+                            " Ashok Menaria", 
+                            " Salman Khan", 
+                            " Rahul Chahar", 
+                            " Aniket Choudhary", 
+                            " Rajesh Bishnoi Jr", 
+                            " K Khaleel Ahmed", 
+                            " Tanveer Ul-Haq  "
+                        ], 
+                        "teamName": "Rajasthan\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Ajit Chahal  "
+                        ], 
+                        "playing11": [
+                            " Himanshu Rana", 
+                            " Ankit Kumar", 
+                            " Chaitanya Bishnoi", 
+                            " Rohit Parmod Sharma (wk)", 
+                            " Jayant Yadav", 
+                            " Pramod Chandila", 
+                            " Yuzvendra Chahal", 
+                            " Harshal Patel (c)", 
+                            " Ashish Hooda", 
+                            " Rahul Dagar", 
+                            " Sanjay Pahal  "
+                        ], 
+                        "teamName": "Haryana\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Rajasthan", 
+                    "team2": "Haryana"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Rajasthan"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sankinani Vishnuvardhan"
+                }, 
+                "venue": "Sawai Mansingh Stadium, Jaipur"
+            }
+        }
+    ]
+}

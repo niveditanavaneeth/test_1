@@ -1,0 +1,935 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 17, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 790, 
+                        "teamScore": "418"
+                    }, 
+                    "player2": {
+                        "ballNo": 78, 
+                        "teamScore": "16"
+                    }, 
+                    "player3": {
+                        "ballNo": 413, 
+                        "teamScore": "179"
+                    }, 
+                    "player4": {
+                        "ballNo": 519, 
+                        "teamScore": "253"
+                    }, 
+                    "player5": {
+                        "ballNo": 541, 
+                        "teamScore": "273"
+                    }, 
+                    "player6": {
+                        "ballNo": 547, 
+                        "teamScore": "274"
+                    }, 
+                    "player7": {
+                        "ballNo": 581, 
+                        "teamScore": "294"
+                    }, 
+                    "player8": {
+                        "ballNo": 594, 
+                        "teamScore": "297"
+                    }, 
+                    "player9": {
+                        "ballNo": 670, 
+                        "teamScore": "350"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Devdutt Padikkal  ", 
+                        " c Harpreet Singh b Pankaj Rao ", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Mithun  ", 
+                        " lbw b Harpreet Singh ", 
+                        "17", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "68.00"
+                    ], 
+                    "player11": [
+                        "  R More  ", 
+                        "  b Vishal Kushwah ", 
+                        "10", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "27.03"
+                    ], 
+                    "player2": [
+                        "  Nischal  ", 
+                        "  b Pankaj Rao ", 
+                        "107", 
+                        "242", 
+                        "7", 
+                        "0", 
+                        "44.21"
+                    ], 
+                    "player3": [
+                        "  Liyan Khan  ", 
+                        " lbw b Pankaj Rao ", 
+                        "9", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "32.14"
+                    ], 
+                    "player4": [
+                        "  Siddharth  ", 
+                        " lbw b Pankaj Rao ", 
+                        "105", 
+                        "189", 
+                        "11", 
+                        "2", 
+                        "55.56"
+                    ], 
+                    "player5": [
+                        "  Manish Pandey (c)  ", 
+                        " c Ajay Mandal b Pankaj Rao ", 
+                        "40", 
+                        "61", 
+                        "5", 
+                        "0", 
+                        "65.57"
+                    ], 
+                    "player6": [
+                        "  Shreyas Gopal  ", 
+                        " lbw b Pankaj Rao ", 
+                        "15", 
+                        "29", 
+                        "5", 
+                        "0", 
+                        "51.72"
+                    ], 
+                    "player7": [
+                        "  Srinivas Sharath (wk)  ", 
+                        " c M Singh b Omkar Verma ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player8": [
+                        "  Gowtham  ", 
+                        " c Ashutosh b Pankaj Rao ", 
+                        "15", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player9": [
+                        "  Vinay Kumar  ", 
+                        " not out ", 
+                        "90", 
+                        "142", 
+                        "9", 
+                        "1", 
+                        "63.38"
+                    ]
+                }, 
+                "batTeam": "KARNATAKA", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Rao  ", 
+                        "29", 
+                        "6", 
+                        "82", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Omkar Verma  ", 
+                        "26", 
+                        "3", 
+                        "91", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Vishal Kushwah  ", 
+                        "17.4", 
+                        "4", 
+                        "76", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player4": [
+                        "  Ajay Mandal  ", 
+                        "25", 
+                        "4", 
+                        "70", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Harpreet Singh (c)  ", 
+                        "25", 
+                        "6", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player6": [
+                        "  Shivendra Singh  ", 
+                        "9", 
+                        "0", 
+                        "38", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ]
+                }, 
+                "bowlTeam": "Karnataka", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "2", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "131.4", 
+                    "runs": "418", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 28, 
+                        "teamScore": "18"
+                    }, 
+                    "player10": {
+                        "ballNo": 534, 
+                        "teamScore": "283"
+                    }, 
+                    "player2": {
+                        "ballNo": 39, 
+                        "teamScore": "24"
+                    }, 
+                    "player3": {
+                        "ballNo": 42, 
+                        "teamScore": "25"
+                    }, 
+                    "player4": {
+                        "ballNo": 241, 
+                        "teamScore": "127"
+                    }, 
+                    "player5": {
+                        "ballNo": 292, 
+                        "teamScore": "151"
+                    }, 
+                    "player6": {
+                        "ballNo": 399, 
+                        "teamScore": "205"
+                    }, 
+                    "player7": {
+                        "ballNo": 509, 
+                        "teamScore": "266"
+                    }, 
+                    "player8": {
+                        "ballNo": 530, 
+                        "teamScore": "283"
+                    }, 
+                    "player9": {
+                        "ballNo": 532, 
+                        "teamScore": "283"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Avnish Dhaliwal  ", 
+                        "  b Mithun ", 
+                        "16", 
+                        "20", 
+                        "3", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player10": [
+                        "  Pankaj Rao  ", 
+                        "  b R More ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Omkar Verma  ", 
+                        " c Manish Pandey b R More ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Anuj Tiwary  ", 
+                        " lbw b Mithun ", 
+                        "4", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "26.67"
+                    ], 
+                    "player3": [
+                        "  M Singh (wk)  ", 
+                        " c Srinivas Sharath b Mithun ", 
+                        "4", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player4": [
+                        "  Amandeep Khare  ", 
+                        " c Srinivas Sharath b Mithun ", 
+                        "45", 
+                        "87", 
+                        "5", 
+                        "0", 
+                        "51.72"
+                    ], 
+                    "player5": [
+                        "  Harpreet Singh (c)  ", 
+                        " c Gowtham b R More ", 
+                        "120", 
+                        "239", 
+                        "17", 
+                        "0", 
+                        "50.21"
+                    ], 
+                    "player6": [
+                        "  Ashutosh  ", 
+                        " lbw b R More ", 
+                        "18", 
+                        "35", 
+                        "3", 
+                        "0", 
+                        "51.43"
+                    ], 
+                    "player7": [
+                        "  Vishal Kushwah  ", 
+                        " c Vinay Kumar b Shreyas Gopal ", 
+                        "20", 
+                        "46", 
+                        "0", 
+                        "2", 
+                        "43.48"
+                    ], 
+                    "player8": [
+                        "  Ajay Mandal  ", 
+                        "  b R More ", 
+                        "41", 
+                        "69", 
+                        "6", 
+                        "1", 
+                        "59.42"
+                    ], 
+                    "player9": [
+                        "  Shivendra Singh  ", 
+                        " not out ", 
+                        "8", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "57.14"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Mithun  ", 
+                        "19", 
+                        "2", 
+                        "64", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  Vinay Kumar  ", 
+                        "19", 
+                        "1", 
+                        "54", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  R More  ", 
+                        "18", 
+                        "8", 
+                        "48", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player4": [
+                        "  Gowtham  ", 
+                        "19", 
+                        "2", 
+                        "73", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player5": [
+                        "  Shreyas Gopal  ", 
+                        "14", 
+                        "2", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ]
+                }, 
+                "bowlTeam": "Karnataka", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "6", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "89", 
+                    "runs": "283", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 37, 
+                        "teamScore": "9"
+                    }, 
+                    "player2": {
+                        "ballNo": 62, 
+                        "teamScore": "19"
+                    }, 
+                    "player3": {
+                        "ballNo": 77, 
+                        "teamScore": "21"
+                    }, 
+                    "player4": {
+                        "ballNo": 121, 
+                        "teamScore": "50"
+                    }, 
+                    "player5": {
+                        "ballNo": 212, 
+                        "teamScore": "119"
+                    }, 
+                    "player6": {
+                        "ballNo": 261, 
+                        "teamScore": "162"
+                    }, 
+                    "player7": {
+                        "ballNo": 269, 
+                        "teamScore": "169"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Devdutt Padikkal  ", 
+                        "  b Ajay Mandal ", 
+                        "19", 
+                        "67", 
+                        "0", 
+                        "1", 
+                        "28.36"
+                    ], 
+                    "player2": [
+                        "  Nischal  ", 
+                        "  b Pankaj Rao ", 
+                        "5", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player3": [
+                        "  Liyan Khan  ", 
+                        "  b Pankaj Rao ", 
+                        "5", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player4": [
+                        "  Siddharth  ", 
+                        "  b Pankaj Rao ", 
+                        "1", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "9.09"
+                    ], 
+                    "player5": [
+                        "  Manish Pandey (c)  ", 
+                        " not out ", 
+                        "102", 
+                        "102", 
+                        "14", 
+                        "1", 
+                        "100.00"
+                    ], 
+                    "player6": [
+                        "  Shreyas Gopal  ", 
+                        " run out (Harpreet Singh)  ", 
+                        "22", 
+                        "46", 
+                        "1", 
+                        "0", 
+                        "47.83"
+                    ], 
+                    "player7": [
+                        "  Gowtham  ", 
+                        " c Vishal Kushwah b Omkar Verma ", 
+                        "20", 
+                        "24", 
+                        "1", 
+                        "1", 
+                        "83.33"
+                    ], 
+                    "player8": [
+                        "  Vinay Kumar  ", 
+                        "  b Pankaj Rao ", 
+                        "7", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player9": [
+                        "  Mithun  ", 
+                        " not out ", 
+                        "33", 
+                        "17", 
+                        "3", 
+                        "2", 
+                        "194.12"
+                    ]
+                }, 
+                "batTeam": "KARNATAKA", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Rao  ", 
+                        "16", 
+                        "4", 
+                        "67", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player2": [
+                        "  Shivendra Singh  ", 
+                        "12", 
+                        "3", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Ajay Mandal  ", 
+                        "6.3", 
+                        "0", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player4": [
+                        "  Vishal Kushwah  ", 
+                        "5", 
+                        "0", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  Omkar Verma  ", 
+                        "9", 
+                        "0", 
+                        "65", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "7.20"
+                    ], 
+                    "player6": [
+                        "  Harpreet Singh (c)  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Karnataka", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "49.3", 
+                    "runs": "219", 
+                    "wickets": "7"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 56, 
+                        "teamScore": "32"
+                    }, 
+                    "player10": {
+                        "ballNo": 342, 
+                        "teamScore": "156"
+                    }, 
+                    "player2": {
+                        "ballNo": 71, 
+                        "teamScore": "42"
+                    }, 
+                    "player3": {
+                        "ballNo": 255, 
+                        "teamScore": "117"
+                    }, 
+                    "player4": {
+                        "ballNo": 281, 
+                        "teamScore": "126"
+                    }, 
+                    "player5": {
+                        "ballNo": 286, 
+                        "teamScore": "126"
+                    }, 
+                    "player6": {
+                        "ballNo": 290, 
+                        "teamScore": "127"
+                    }, 
+                    "player7": {
+                        "ballNo": 305, 
+                        "teamScore": "141"
+                    }, 
+                    "player8": {
+                        "ballNo": 311, 
+                        "teamScore": "142"
+                    }, 
+                    "player9": {
+                        "ballNo": 319, 
+                        "teamScore": "146"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Avnish Dhaliwal  ", 
+                        " lbw b Shreyas Gopal ", 
+                        "61", 
+                        "142", 
+                        "8", 
+                        "0", 
+                        "42.96"
+                    ], 
+                    "player10": [
+                        "  Pankaj Kumar Rao  ", 
+                        "  b R More ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Omkar Verma  ", 
+                        " run out (Shreyas Gopal)  ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player2": [
+                        "  Anuj Tiwary  ", 
+                        " c Srinivas Sharath b Mithun ", 
+                        "14", 
+                        "23", 
+                        "3", 
+                        "0", 
+                        "60.87"
+                    ], 
+                    "player3": [
+                        "  Manoj Singh (wk)  ", 
+                        " c (sub)J Suchith b R More ", 
+                        "6", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player4": [
+                        "  Amandeep Khare  ", 
+                        " c Vinay Kumar b Shreyas Gopal ", 
+                        "35", 
+                        "93", 
+                        "3", 
+                        "1", 
+                        "37.63"
+                    ], 
+                    "player5": [
+                        "  Harpreet Singh (c)  ", 
+                        " c Devdutt Padikkal b R More ", 
+                        "9", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player6": [
+                        "  Ashutosh Singh  ", 
+                        " not out ", 
+                        "16", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "47.06"
+                    ], 
+                    "player7": [
+                        "  Vishal Kushwah  ", 
+                        " lbw b Shreyas Gopal ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player8": [
+                        "  Ajay Jadav Mandal  ", 
+                        " c Vinay Kumar b Shreyas Gopal ", 
+                        "8", 
+                        "11", 
+                        "2", 
+                        "0", 
+                        "72.73"
+                    ], 
+                    "player9": [
+                        "  Shivendra Singh  ", 
+                        " lbw b R More ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vinay Kumar  ", 
+                        "6", 
+                        "2", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player2": [
+                        "  Abhimanyu Mithun  ", 
+                        "5", 
+                        "2", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  Krishnappa Gowtham  ", 
+                        "15", 
+                        "5", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player4": [
+                        "  Ronit More  ", 
+                        "13", 
+                        "2", 
+                        "35", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player5": [
+                        "  Shreyas Gopal  ", 
+                        "16", 
+                        "3", 
+                        "44", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player6": [
+                        "  Krishnamurthy Siddharth  ", 
+                        "2", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Karnataka", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "57", 
+                    "runs": "156", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-02T16:30:00", 
+                    "startDate": "2018-12-30T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Ravikumar Samarth", 
+                            " Prasidh Krishna", 
+                            " Pavan Deshpande", 
+                            " Karun Nair", 
+                            " Jagadeesha Suchith", 
+                            " Shishir Bhavane", 
+                            " Stuart Binny", 
+                            " Sharath BR", 
+                            " Mir Kaunain Abbas", 
+                            " Prateek Jain  "
+                        ], 
+                        "playing11": [
+                            " Devdutt Padikkal", 
+                            " Dega Nischal", 
+                            " Liyan Khan", 
+                            " Krishnamurthy Siddharth", 
+                            " Manish Pandey (c)", 
+                            " Shreyas Gopal", 
+                            " Srinivas Sharath (wk)", 
+                            " Krishnappa Gowtham", 
+                            " Vinay Kumar", 
+                            " Abhimanyu Mithun", 
+                            " Ronit More  "
+                        ], 
+                        "teamName": "Karnataka\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Abhimanyu Chauhan", 
+                            " Sanjeet Desai", 
+                            " Shubham Singh", 
+                            " Sumit Ruikar", 
+                            " Jatin Saxena", 
+                            " Rishabh Tiwari", 
+                            " Shubham Agarwal", 
+                            " Shashank Chandraker", 
+                            " Sahban Khan", 
+                            " Abhishek Tamrakar ", 
+                            " Siddharth Chandrakar", 
+                            " Sahil Gupta", 
+                            " Shahnawaz Hussain", 
+                            " Shakeeb Ahmed", 
+                            " Vikrant Rajput", 
+                            " Vishal Singh  "
+                        ], 
+                        "playing11": [
+                            " Avnish Dhaliwal", 
+                            " Anuj Tiwary", 
+                            " Manoj Singh (wk)", 
+                            " Amandeep Khare", 
+                            " Harpreet Singh (c)", 
+                            " Ashutosh Singh", 
+                            " Vishal Kushwah", 
+                            " Ajay Jadav Mandal", 
+                            " Omkar Verma", 
+                            " Pankaj Kumar Rao", 
+                            " Shivendra Singh  "
+                        ], 
+                        "teamName": "Chhattisgarh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Karnataka", 
+                    "team2": "Chhattisgarh"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Chhattisgarh"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Daniel Manohar"
+                }, 
+                "venue": "KSCA Cricket Ground, Alur"
+            }
+        }
+    ]
+}

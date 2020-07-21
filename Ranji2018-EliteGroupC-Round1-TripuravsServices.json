@@ -1,0 +1,798 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 82, 
+                        "teamScore": "28"
+                    }, 
+                    "player10": {
+                        "ballNo": 735, 
+                        "teamScore": "360"
+                    }, 
+                    "player2": {
+                        "ballNo": 215, 
+                        "teamScore": "118"
+                    }, 
+                    "player3": {
+                        "ballNo": 230, 
+                        "teamScore": "121"
+                    }, 
+                    "player4": {
+                        "ballNo": 273, 
+                        "teamScore": "144"
+                    }, 
+                    "player5": {
+                        "ballNo": 347, 
+                        "teamScore": "176"
+                    }, 
+                    "player6": {
+                        "ballNo": 348, 
+                        "teamScore": "176"
+                    }, 
+                    "player7": {
+                        "ballNo": 470, 
+                        "teamScore": "247"
+                    }, 
+                    "player8": {
+                        "ballNo": 681, 
+                        "teamScore": "324"
+                    }, 
+                    "player9": {
+                        "ballNo": 724, 
+                        "teamScore": "346"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh (c)  ", 
+                        " c Nakul Verma b Diwesh Pathania ", 
+                        "201", 
+                        "369", 
+                        "22", 
+                        "2", 
+                        "54.47"
+                    ], 
+                    "player10": [
+                        "  Viki Saha  ", 
+                        " not out ", 
+                        "18", 
+                        "34", 
+                        "3", 
+                        "0", 
+                        "52.94"
+                    ], 
+                    "player11": [
+                        "  Abhijit Sarkar  ", 
+                        "  b Diwesh Pathania ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Udiyan Bose  ", 
+                        "  b Diwesh Pathania ", 
+                        "10", 
+                        "39", 
+                        "1", 
+                        "0", 
+                        "25.64"
+                    ], 
+                    "player3": [
+                        "  Smit Patel (wk)  ", 
+                        " c R Paliwal b Vikas Yadav ", 
+                        "38", 
+                        "59", 
+                        "5", 
+                        "0", 
+                        "64.41"
+                    ], 
+                    "player4": [
+                        "  BR Shetty  ", 
+                        " lbw b Diwesh Pathania ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player5": [
+                        "  Ninad Kadam  ", 
+                        " c R Paliwal b Vikas Yadav ", 
+                        "10", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player6": [
+                        "  Rajesh Banik  ", 
+                        " lbw b S Pandey ", 
+                        "8", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "19.05"
+                    ], 
+                    "player7": [
+                        "  M Murasingh  ", 
+                        " c Nakul Verma b S Pandey ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Harmeet Singh  ", 
+                        " c A Gupta b S Pandey ", 
+                        "37", 
+                        "55", 
+                        "5", 
+                        "0", 
+                        "67.27"
+                    ], 
+                    "player9": [
+                        "  Rana Dutta  ", 
+                        "  b Navneet Singh ", 
+                        "20", 
+                        "106", 
+                        "1", 
+                        "0", 
+                        "18.87"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Diwesh Pathania  ", 
+                        "29.3", 
+                        "4", 
+                        "79", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Raushan Raj  ", 
+                        "23", 
+                        "7", 
+                        "44", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player3": [
+                        "  S Pandey  ", 
+                        "26", 
+                        "4", 
+                        "105", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player4": [
+                        "  Vikas Yadav  ", 
+                        "37", 
+                        "6", 
+                        "99", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player5": [
+                        "  R Paliwal (c)  ", 
+                        "3", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player6": [
+                        "  A Gupta  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player7": [
+                        "  Navneet Singh  ", 
+                        "3", 
+                        "0", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Services", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "6", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "122.3", 
+                    "runs": "360", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 510, 
+                        "teamScore": "238"
+                    }, 
+                    "player2": {
+                        "ballNo": 302, 
+                        "teamScore": "115"
+                    }, 
+                    "player3": {
+                        "ballNo": 317, 
+                        "teamScore": "123"
+                    }, 
+                    "player4": {
+                        "ballNo": 353, 
+                        "teamScore": "138"
+                    }, 
+                    "player5": {
+                        "ballNo": 366, 
+                        "teamScore": "145"
+                    }, 
+                    "player6": {
+                        "ballNo": 411, 
+                        "teamScore": "181"
+                    }, 
+                    "player7": {
+                        "ballNo": 493, 
+                        "teamScore": "226"
+                    }, 
+                    "player8": {
+                        "ballNo": 504, 
+                        "teamScore": "237"
+                    }, 
+                    "player9": {
+                        "ballNo": 506, 
+                        "teamScore": "238"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Navneet Singh  ", 
+                        " c Smit Patel b M Murasingh ", 
+                        "49", 
+                        "171", 
+                        "5", 
+                        "0", 
+                        "28.65"
+                    ], 
+                    "player10": [
+                        "  Raushan Raj  ", 
+                        " c Udiyan Bose b M Murasingh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  S Pandey  ", 
+                        "  b M Murasingh ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Nakul Verma (wk)  ", 
+                        " c Rajesh Banik b Rana Dutta ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  A Gupta  ", 
+                        " c Smit Patel b M Murasingh ", 
+                        "62", 
+                        "140", 
+                        "5", 
+                        "1", 
+                        "44.29"
+                    ], 
+                    "player4": [
+                        "  Ravi Chauhan  ", 
+                        "  b M Murasingh ", 
+                        "13", 
+                        "27", 
+                        "3", 
+                        "0", 
+                        "48.15"
+                    ], 
+                    "player5": [
+                        "  R Paliwal (c)  ", 
+                        " lbw b M Murasingh ", 
+                        "1", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "4.76"
+                    ], 
+                    "player6": [
+                        "  G Rahul Singh  ", 
+                        " c Ninad Kadam b Abhijit Sarkar ", 
+                        "16", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "45.71"
+                    ], 
+                    "player7": [
+                        "  Vikas Hathwala  ", 
+                        "  b M Murasingh ", 
+                        "51", 
+                        "46", 
+                        "6", 
+                        "1", 
+                        "110.87"
+                    ], 
+                    "player8": [
+                        "  Vikas Yadav  ", 
+                        " not out ", 
+                        "20", 
+                        "61", 
+                        "3", 
+                        "0", 
+                        "32.79"
+                    ], 
+                    "player9": [
+                        "  Diwesh Pathania  ", 
+                        "  b Rana Dutta ", 
+                        "9", 
+                        "6", 
+                        "2", 
+                        "0", 
+                        "150.00"
+                    ]
+                }, 
+                "batTeam": "Services", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  M Murasingh  ", 
+                        "26", 
+                        "12", 
+                        "53", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  Rana Dutta  ", 
+                        "10", 
+                        "3", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Abhijit Sarkar  ", 
+                        "17", 
+                        "3", 
+                        "55", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Harmeet Singh  ", 
+                        "18", 
+                        "3", 
+                        "49", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player5": [
+                        "  Viki Saha  ", 
+                        "13", 
+                        "1", 
+                        "39", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player6": [
+                        "  Bishal Ghosh (c)  ", 
+                        "1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Tripura", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "4", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "85", 
+                    "runs": "238", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 254, 
+                        "teamScore": "126"
+                    }, 
+                    "player2": {
+                        "ballNo": 356, 
+                        "teamScore": "217"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh (c)  ", 
+                        " c Navneet Singh b Diwesh Pathania ", 
+                        "50", 
+                        "129", 
+                        "3", 
+                        "0", 
+                        "38.76"
+                    ], 
+                    "player2": [
+                        "  Udiyan Bose  ", 
+                        "  b Vikas Yadav ", 
+                        "109", 
+                        "170", 
+                        "9", 
+                        "3", 
+                        "64.12"
+                    ], 
+                    "player3": [
+                        "  Smit Patel (wk)  ", 
+                        " not out ", 
+                        "56", 
+                        "60", 
+                        "6", 
+                        "0", 
+                        "93.33"
+                    ], 
+                    "player4": [
+                        "  M Murasingh  ", 
+                        " not out ", 
+                        "12", 
+                        "7", 
+                        "0", 
+                        "1", 
+                        "171.43"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Diwesh Pathania  ", 
+                        "17", 
+                        "0", 
+                        "76", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player2": [
+                        "  Raushan Raj  ", 
+                        "13", 
+                        "3", 
+                        "53", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player3": [
+                        "  S Pandey  ", 
+                        "11", 
+                        "1", 
+                        "39", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Vikas Yadav  ", 
+                        "15", 
+                        "2", 
+                        "47", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  Navneet Singh  ", 
+                        "5", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Services", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "61", 
+                    "runs": "232", 
+                    "wickets": "2"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 1, 
+                        "teamScore": "0"
+                    }, 
+                    "player2": {
+                        "ballNo": 13, 
+                        "teamScore": "1"
+                    }, 
+                    "player3": {
+                        "ballNo": 111, 
+                        "teamScore": "57"
+                    }, 
+                    "player4": {
+                        "ballNo": 124, 
+                        "teamScore": "63"
+                    }, 
+                    "player5": {
+                        "ballNo": 144, 
+                        "teamScore": "69"
+                    }, 
+                    "player6": {
+                        "ballNo": 188, 
+                        "teamScore": "113"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nakul Harpal Verma (wk)  ", 
+                        " c Smit Patel b M Murasingh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Navneet Singh  ", 
+                        "  c and b M Murasingh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Anshul Gupta  ", 
+                        " lbw b Rana Dutta ", 
+                        "19", 
+                        "60", 
+                        "3", 
+                        "0", 
+                        "31.67"
+                    ], 
+                    "player4": [
+                        "  Ravi Chauhan  ", 
+                        " c BR Shetty b Harmeet Singh ", 
+                        "47", 
+                        "65", 
+                        "5", 
+                        "3", 
+                        "72.31"
+                    ], 
+                    "player5": [
+                        "  Rajat Paliwal (c)  ", 
+                        " c Smit Patel b Rana Dutta ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Gahlaut Rahul Singh  ", 
+                        " not out ", 
+                        "29", 
+                        "97", 
+                        "2", 
+                        "0", 
+                        "29.90"
+                    ], 
+                    "player7": [
+                        "  Vikas Hathwala  ", 
+                        " c Rana Dutta b Harmeet Singh ", 
+                        "41", 
+                        "26", 
+                        "4", 
+                        "0", 
+                        "157.69"
+                    ], 
+                    "player8": [
+                        "  Vikas Yadav  ", 
+                        " not out ", 
+                        "23", 
+                        "49", 
+                        "3", 
+                        "0", 
+                        "46.94"
+                    ]
+                }, 
+                "batTeam": "Services", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Manisankar Murasingh  ", 
+                        "13", 
+                        "3", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Rana Dutta  ", 
+                        "13", 
+                        "4", 
+                        "37", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  Abhijit Sarkar  ", 
+                        "8", 
+                        "3", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player4": [
+                        "  Harmeet Singh  ", 
+                        "17", 
+                        "2", 
+                        "59", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ]
+                }, 
+                "bowlTeam": "Tripura", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "51", 
+                    "runs": "164", 
+                    "wickets": "6"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Nirupam Sen", 
+                            " Abhijit Chakraborty", 
+                            " Ajoy Sarkar  "
+                        ], 
+                        "playing11": [
+                            " Bishal Ghosh (c)", 
+                            " Rana Dutta", 
+                            " Abhijit Sarkar", 
+                            " Manisankar Murasingh", 
+                            " Rajesh Banik", 
+                            " Smit Patel (wk)", 
+                            " Udiyan Bose", 
+                            " Viki Saha", 
+                            " Bravish Shetty", 
+                            " Harmeet Singh", 
+                            " Ninad Kadam  "
+                        ], 
+                        "teamName": "Tripura\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Devender Lohchab", 
+                            " Nitin Tanwar", 
+                            " Arun Bamal", 
+                            " Mohit Ahlawat  "
+                        ], 
+                        "playing11": [
+                            " Vikas Yadav", 
+                            " Gahlaut Rahul Singh", 
+                            " Diwesh Pathania", 
+                            " Nakul Harpal Verma (wk)", 
+                            " Vikas Hathwala", 
+                            " Anshul Gupta", 
+                            " Raushan Raj", 
+                            " Ravi Chauhan", 
+                            " Sachidanand Pandey", 
+                            " Rajat Paliwal (c)", 
+                            " Navneet Singh  "
+                        ], 
+                        "teamName": "Services\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Tripura", 
+                    "team2": "Services"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Services"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Nitin Goel"
+                }, 
+                "venue": "Maharaja Bir Bikram College Stadium, Agartala"
+            }
+        }
+    ]
+}

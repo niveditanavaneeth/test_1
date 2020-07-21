@@ -1,0 +1,660 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 19, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 543, 
+                        "teamScore": "271"
+                    }, 
+                    "player2": {
+                        "ballNo": 110, 
+                        "teamScore": "73"
+                    }, 
+                    "player3": {
+                        "ballNo": 286, 
+                        "teamScore": "145"
+                    }, 
+                    "player4": {
+                        "ballNo": 290, 
+                        "teamScore": "145"
+                    }, 
+                    "player5": {
+                        "ballNo": 335, 
+                        "teamScore": "146"
+                    }, 
+                    "player6": {
+                        "ballNo": 421, 
+                        "teamScore": "182"
+                    }, 
+                    "player7": {
+                        "ballNo": 490, 
+                        "teamScore": "226"
+                    }, 
+                    "player8": {
+                        "ballNo": 516, 
+                        "teamScore": "240"
+                    }, 
+                    "player9": {
+                        "ballNo": 523, 
+                        "teamScore": "241"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Tanmay Agarwal  ", 
+                        "  b Yarra Prithviraj ", 
+                        "44", 
+                        "53", 
+                        "4", 
+                        "1", 
+                        "83.02"
+                    ], 
+                    "player10": [
+                        "  Ajay Dev Goud  ", 
+                        " not out ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  M Hasan  ", 
+                        " c Girinath Reddy b Yarra Prithviraj ", 
+                        "25", 
+                        "16", 
+                        "2", 
+                        "2", 
+                        "156.25"
+                    ], 
+                    "player2": [
+                        "  Tilak Varma  ", 
+                        "  b KV Sasikanth ", 
+                        "5", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player3": [
+                        "  Akshath Reddy (c)  ", 
+                        " c Srikar Bharat b KV Sasikanth ", 
+                        "57", 
+                        "136", 
+                        "9", 
+                        "0", 
+                        "41.91"
+                    ], 
+                    "player4": [
+                        "  Sandeep  ", 
+                        "  b Girinath Reddy ", 
+                        "33", 
+                        "95", 
+                        "3", 
+                        "0", 
+                        "34.74"
+                    ], 
+                    "player5": [
+                        "  Himalay Agarwal  ", 
+                        " c B Ayyappa b KV Sasikanth ", 
+                        "59", 
+                        "103", 
+                        "7", 
+                        "2", 
+                        "57.28"
+                    ], 
+                    "player6": [
+                        "  T Ravi Teja  ", 
+                        " c Ashwin Hebbar b Yarra Prithviraj ", 
+                        "1", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player7": [
+                        "  KSK Chaitnay (wk)  ", 
+                        "  b Girinath Reddy ", 
+                        "6", 
+                        "43", 
+                        "0", 
+                        "0", 
+                        "13.95"
+                    ], 
+                    "player8": [
+                        "  Saaketh Sairam  ", 
+                        " c J Krishna b KV Sasikanth ", 
+                        "23", 
+                        "48", 
+                        "3", 
+                        "0", 
+                        "47.92"
+                    ], 
+                    "player9": [
+                        "  Milind  ", 
+                        "  b KV Sasikanth ", 
+                        "6", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "42.86"
+                    ]
+                }, 
+                "batTeam": "Hyderabad", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  B Ayyappa (c)  ", 
+                        "19", 
+                        "2", 
+                        "64", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  KV Sasikanth  ", 
+                        "24", 
+                        "6", 
+                        "64", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Yarra Prithviraj  ", 
+                        "24.3", 
+                        "9", 
+                        "72", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Girinath Reddy  ", 
+                        "6", 
+                        "2", 
+                        "7", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ], 
+                    "player5": [
+                        "  Shoaib Md Khan  ", 
+                        "16", 
+                        "1", 
+                        "52", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player6": [
+                        "  J Krishna  ", 
+                        "1", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ]
+                }, 
+                "bowlTeam": "Andhra", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "0", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "90.3", 
+                    "runs": "271", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 125, 
+                        "teamScore": "58"
+                    }, 
+                    "player2": {
+                        "ballNo": 241, 
+                        "teamScore": "120"
+                    }, 
+                    "player3": {
+                        "ballNo": 374, 
+                        "teamScore": "166"
+                    }, 
+                    "player4": {
+                        "ballNo": 771, 
+                        "teamScore": "400"
+                    }, 
+                    "player5": {
+                        "ballNo": 871, 
+                        "teamScore": "459"
+                    }, 
+                    "player6": {
+                        "ballNo": 874, 
+                        "teamScore": "459"
+                    }, 
+                    "player7": {
+                        "ballNo": 910, 
+                        "teamScore": "489"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  CR Gnaneshwar  ", 
+                        " c T Ravi Teja b Ajay Dev Goud ", 
+                        "65", 
+                        "122", 
+                        "12", 
+                        "0", 
+                        "53.28"
+                    ], 
+                    "player2": [
+                        "  Prasanth Kumar  ", 
+                        " c Tanmay Agarwal b T Ravi Teja ", 
+                        "32", 
+                        "63", 
+                        "5", 
+                        "0", 
+                        "50.79"
+                    ], 
+                    "player3": [
+                        "  J Krishna  ", 
+                        " c Sandeep b Milind ", 
+                        "38", 
+                        "139", 
+                        "3", 
+                        "0", 
+                        "27.34"
+                    ], 
+                    "player4": [
+                        "  Bhui  ", 
+                        " c KSK Chaitnay b T Ravi Teja ", 
+                        "129", 
+                        "248", 
+                        "14", 
+                        "2", 
+                        "52.02"
+                    ], 
+                    "player5": [
+                        "  Srikar Bharat (wk)  ", 
+                        " not out ", 
+                        "178", 
+                        "277", 
+                        "22", 
+                        "2", 
+                        "64.26"
+                    ], 
+                    "player6": [
+                        "  Ashwin Hebbar  ", 
+                        "  b M Hasan ", 
+                        "26", 
+                        "51", 
+                        "3", 
+                        "0", 
+                        "50.98"
+                    ], 
+                    "player7": [
+                        "  Girinath Reddy  ", 
+                        " c Ajay Dev Goud b M Hasan ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Shoaib Md Khan  ", 
+                        " c Tanmay Agarwal b M Hasan ", 
+                        "16", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player9": [
+                        "  KV Sasikanth  ", 
+                        " not out ", 
+                        "7", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "116.67"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Milind  ", 
+                        "32", 
+                        "3", 
+                        "95", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Ajay Dev Goud  ", 
+                        "24", 
+                        "3", 
+                        "84", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  T Ravi Teja  ", 
+                        "30", 
+                        "5", 
+                        "101", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player4": [
+                        "  M Hasan  ", 
+                        "49", 
+                        "11", 
+                        "127", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player5": [
+                        "  Saaketh Sairam  ", 
+                        "17", 
+                        "0", 
+                        "79", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player6": [
+                        "  Sandeep  ", 
+                        "2", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ]
+                }, 
+                "bowlTeam": "Hyderabad", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "5", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "154", 
+                    "runs": "502", 
+                    "wickets": "7"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 116, 
+                        "teamScore": "43"
+                    }, 
+                    "player2": {
+                        "ballNo": 190, 
+                        "teamScore": "64"
+                    }, 
+                    "player3": {
+                        "ballNo": 324, 
+                        "teamScore": "148"
+                    }, 
+                    "player4": {
+                        "ballNo": 376, 
+                        "teamScore": "183"
+                    }, 
+                    "player5": {
+                        "ballNo": 419, 
+                        "teamScore": "210"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Tanmay Agarwal  ", 
+                        "  b B Ayyappa ", 
+                        "18", 
+                        "59", 
+                        "2", 
+                        "0", 
+                        "30.51"
+                    ], 
+                    "player2": [
+                        "  Tilak Varma  ", 
+                        "  b Shoaib Md Khan ", 
+                        "34", 
+                        "91", 
+                        "6", 
+                        "0", 
+                        "37.36"
+                    ], 
+                    "player3": [
+                        "  Akshath Reddy (c)  ", 
+                        " c Bhui b Shoaib Md Khan ", 
+                        "65", 
+                        "98", 
+                        "10", 
+                        "1", 
+                        "66.33"
+                    ], 
+                    "player4": [
+                        "  Bavanaka Sandeep  ", 
+                        "  c and b Girinath Reddy ", 
+                        "45", 
+                        "101", 
+                        "5", 
+                        "0", 
+                        "44.55"
+                    ], 
+                    "player5": [
+                        "  Himalay Agarwal  ", 
+                        " not out ", 
+                        "60", 
+                        "93", 
+                        "6", 
+                        "3", 
+                        "64.52"
+                    ], 
+                    "player6": [
+                        "  Telukupalli Ravi Teja  ", 
+                        " c Srikar Bharat b Yarra Prithviraj ", 
+                        "8", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "38.10"
+                    ], 
+                    "player7": [
+                        "  KSK Chaitnay (wk)  ", 
+                        " not out ", 
+                        "13", 
+                        "50", 
+                        "2", 
+                        "0", 
+                        "26.00"
+                    ]
+                }, 
+                "batTeam": "Hyderabad", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Bandaru Ayyappa (c)  ", 
+                        "18", 
+                        "5", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  KV Sasikanth  ", 
+                        "18", 
+                        "4", 
+                        "47", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Yarra Prithviraj  ", 
+                        "15", 
+                        "6", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player4": [
+                        "  Shoaib Md Khan  ", 
+                        "18", 
+                        "1", 
+                        "70", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player5": [
+                        "  Girinath Reddy  ", 
+                        "15", 
+                        "2", 
+                        "56", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player6": [
+                        "  Prasanth Kumar  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Andhra", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "0", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "85", 
+                    "runs": "251", 
+                    "wickets": "5"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-02T16:00:00", 
+                    "startDate": "2018-12-30T09:00:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Bodapati Sumanth", 
+                            " Paidikalva Vijaykumar", 
+                            " Karthik Raman", 
+                            " Dwaraka Ravi Teja", 
+                            " Karn Sharma", 
+                            " Manish Golamaru", 
+                            " Siva charan singh", 
+                            " Cheepurapalli Stephen", 
+                            " Gnaneswara Rao  "
+                        ], 
+                        "playing11": [
+                            " CR Gnaneshwar", 
+                            " Prasanth Kumar", 
+                            " Jyothi Sai Krishna", 
+                            " Ricky Bhui", 
+                            " Srikar Bharat (wk)", 
+                            " Girinath Reddy", 
+                            " Shoaib Md Khan", 
+                            " Ashwin Hebbar", 
+                            " KV Sasikanth", 
+                            " Yarra Prithviraj", 
+                            " Bandaru Ayyappa (c)  "
+                        ], 
+                        "teamName": "Andhra\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Rohit Rayudu", 
+                            " Tanay Thyagarajan", 
+                            " Mohammed Siraj", 
+                            " Ravi Kiran", 
+                            " Akash Bhandari", 
+                            " Palakodeti Sairam", 
+                            " Kolla Sumanth", 
+                            " PS Chaitanya Reddy", 
+                            " Mohammad Muddassir  "
+                        ], 
+                        "playing11": [
+                            " Tanmay Agarwal", 
+                            " Akshath Reddy (c)", 
+                            " Himalay Agarwal", 
+                            " Bavanaka Sandeep", 
+                            " KSK Chaitnay (wk)", 
+                            " Telukupalli Ravi Teja", 
+                            " Tilak Varma", 
+                            " Ajay Dev Goud", 
+                            " Chama V Milind", 
+                            " Mehdi Hassan", 
+                            " Saaketh Sairam  "
+                        ], 
+                        "teamName": "Hyderabad\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Andhra", 
+                    "team2": "Hyderabad"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Andhra"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Vengalil Narayan Kutty"
+                }, 
+                "venue": "Dr PVG Raju ACA Sports Complex, Vizianagaram"
+            }
+        }
+    ]
+}

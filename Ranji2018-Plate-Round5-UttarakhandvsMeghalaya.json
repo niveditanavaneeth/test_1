@@ -1,0 +1,769 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 17, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 575, 
+                        "teamScore": "311"
+                    }, 
+                    "player2": {
+                        "ballNo": 20, 
+                        "teamScore": "2"
+                    }, 
+                    "player3": {
+                        "ballNo": 81, 
+                        "teamScore": "27"
+                    }, 
+                    "player4": {
+                        "ballNo": 374, 
+                        "teamScore": "221"
+                    }, 
+                    "player5": {
+                        "ballNo": 473, 
+                        "teamScore": "279"
+                    }, 
+                    "player6": {
+                        "ballNo": 512, 
+                        "teamScore": "296"
+                    }, 
+                    "player7": {
+                        "ballNo": 540, 
+                        "teamScore": "303"
+                    }, 
+                    "player8": {
+                        "ballNo": 547, 
+                        "teamScore": "305"
+                    }, 
+                    "player9": {
+                        "ballNo": 548, 
+                        "teamScore": "305"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Raj Biswa  ", 
+                        "  b Deepak Dhapola ", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player10": [
+                        "  Dippu Sangma  ", 
+                        " lbw b Deepak Dhapola ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Chengkam Sangma  ", 
+                        "  b Deepak Dhapola ", 
+                        "1", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "5.88"
+                    ], 
+                    "player2": [
+                        "  Swarajeet Das  ", 
+                        "  b Sunny Kashyap ", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "11.11"
+                    ], 
+                    "player3": [
+                        "  Jason Lamare (c)  ", 
+                        " c Saurabh Rawat b Dhanraj Sharma ", 
+                        "10", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player4": [
+                        "  Puneet Bisht (wk)  ", 
+                        " c Saurabh Rawat b Sunny Kashyap ", 
+                        "154", 
+                        "226", 
+                        "19", 
+                        "0", 
+                        "68.14"
+                    ], 
+                    "player5": [
+                        "  Nagar  ", 
+                        " c V Saxena b Dhanraj Sharma ", 
+                        "91", 
+                        "150", 
+                        "14", 
+                        "0", 
+                        "60.67"
+                    ], 
+                    "player6": [
+                        "  Gurinder Singh  ", 
+                        "  b Deepak Dhapola ", 
+                        "23", 
+                        "78", 
+                        "1", 
+                        "0", 
+                        "29.49"
+                    ], 
+                    "player7": [
+                        "  Abhay Negi  ", 
+                        " c Saurabh Rawat b Deepak Dhapola ", 
+                        "11", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "42.31"
+                    ], 
+                    "player8": [
+                        "  Wanlambok Nongkhlaw  ", 
+                        "  b Deepak Dhapola ", 
+                        "3", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "11.11"
+                    ], 
+                    "player9": [
+                        "  Aditya Singhania  ", 
+                        " not out ", 
+                        "5", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ]
+                }, 
+                "batTeam": "MGLY", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Deepak Dhapola  ", 
+                        "28.5", 
+                        "7", 
+                        "52", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player2": [
+                        "  Sunny Kashyap  ", 
+                        "19", 
+                        "4", 
+                        "73", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player3": [
+                        "  Dhanraj Sharma  ", 
+                        "24", 
+                        "4", 
+                        "81", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player4": [
+                        "  R Bhatia (c)  ", 
+                        "12", 
+                        "3", 
+                        "41", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player5": [
+                        "  M Rangarajan  ", 
+                        "7", 
+                        "0", 
+                        "39", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.60"
+                    ], 
+                    "player6": [
+                        "  Vaibhav Singh  ", 
+                        "5", 
+                        "1", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "3", 
+                    "nb": "7", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "95.5", 
+                    "runs": "311", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 73, 
+                        "teamScore": "45"
+                    }, 
+                    "player2": {
+                        "ballNo": 114, 
+                        "teamScore": "57"
+                    }, 
+                    "player3": {
+                        "ballNo": 127, 
+                        "teamScore": "58"
+                    }, 
+                    "player4": {
+                        "ballNo": 240, 
+                        "teamScore": "92"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Karn Veer Kaushal  ", 
+                        "  b Dippu Sangma ", 
+                        "24", 
+                        "43", 
+                        "5", 
+                        "0", 
+                        "55.81"
+                    ], 
+                    "player2": [
+                        "  V Saxena  ", 
+                        " not out ", 
+                        "202", 
+                        "506", 
+                        "16", 
+                        "1", 
+                        "39.92"
+                    ], 
+                    "player3": [
+                        "  Kartik  ", 
+                        " c Gurinder Singh b Dippu Sangma ", 
+                        "6", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player4": [
+                        "  Vaibhav Singh  ", 
+                        " lbw b Swarajeet Das ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player5": [
+                        "  Saurabh Rawat (wk)  ", 
+                        " c Puneet Bisht b Gurinder Singh ", 
+                        "20", 
+                        "67", 
+                        "4", 
+                        "0", 
+                        "29.85"
+                    ], 
+                    "player6": [
+                        "  R Bhatia (c)  ", 
+                        " not out ", 
+                        "212", 
+                        "340", 
+                        "24", 
+                        "2", 
+                        "62.35"
+                    ]
+                }, 
+                "batTeam": "UTK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Abhay Negi  ", 
+                        "22.3", 
+                        "7", 
+                        "67", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Chengkam Sangma  ", 
+                        "14", 
+                        "4", 
+                        "43", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Dippu Sangma  ", 
+                        "19", 
+                        "6", 
+                        "50", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player4": [
+                        "  Gurinder Singh  ", 
+                        "53", 
+                        "8", 
+                        "147", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Swarajeet Das  ", 
+                        "18.3", 
+                        "3", 
+                        "50", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player6": [
+                        "  Aditya Singhania  ", 
+                        "35", 
+                        "3", 
+                        "114", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player7": [
+                        "  Raj Biswa  ", 
+                        "1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "13", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "10"
+                }, 
+                "total": {
+                    "overs": "163", 
+                    "runs": "491", 
+                    "wickets": "4"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 18, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 398, 
+                        "teamScore": "230"
+                    }, 
+                    "player2": {
+                        "ballNo": 20, 
+                        "teamScore": "1"
+                    }, 
+                    "player3": {
+                        "ballNo": 66, 
+                        "teamScore": "22"
+                    }, 
+                    "player4": {
+                        "ballNo": 88, 
+                        "teamScore": "25"
+                    }, 
+                    "player5": {
+                        "ballNo": 276, 
+                        "teamScore": "147"
+                    }, 
+                    "player6": {
+                        "ballNo": 311, 
+                        "teamScore": "170"
+                    }, 
+                    "player7": {
+                        "ballNo": 365, 
+                        "teamScore": "212"
+                    }, 
+                    "player8": {
+                        "ballNo": 383, 
+                        "teamScore": "221"
+                    }, 
+                    "player9": {
+                        "ballNo": 388, 
+                        "teamScore": "222"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Raj Biswa  ", 
+                        "  b Deepak Dhapola ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Dippu Sangma  ", 
+                        " lbw b Deepak Dhapola ", 
+                        "3", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player11": [
+                        "  Chengkam Sangma  ", 
+                        " not out ", 
+                        "4", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Wanlambok Nongkhlaw  ", 
+                        " lbw b Deepak Dhapola ", 
+                        "2", 
+                        "33", 
+                        "0", 
+                        "0", 
+                        "6.06"
+                    ], 
+                    "player3": [
+                        "  Jason Lamare (c)  ", 
+                        "  b Dhanraj Sharma ", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player4": [
+                        "  Puneet Bisht (wk)  ", 
+                        "  b Deepak Dhapola ", 
+                        "16", 
+                        "32", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Nagar  ", 
+                        "  b Dhanraj Sharma ", 
+                        "57", 
+                        "113", 
+                        "9", 
+                        "0", 
+                        "50.44"
+                    ], 
+                    "player6": [
+                        "  Gurinder Singh  ", 
+                        " run out (Vaibhav Singh)  ", 
+                        "104", 
+                        "149", 
+                        "7", 
+                        "1", 
+                        "69.80"
+                    ], 
+                    "player7": [
+                        "  Swarajeet Das  ", 
+                        "  b Deepak Dhapola ", 
+                        "8", 
+                        "15", 
+                        "2", 
+                        "0", 
+                        "53.33"
+                    ], 
+                    "player8": [
+                        "  Abhay Negi  ", 
+                        " c V Saxena b M Rangarajan ", 
+                        "17", 
+                        "30", 
+                        "2", 
+                        "1", 
+                        "56.67"
+                    ], 
+                    "player9": [
+                        "  Aditya Singhania  ", 
+                        " c Vaibhav Bhatt b Dhanraj Sharma ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MGLY", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Deepak Dhapola  ", 
+                        "23.2", 
+                        "7", 
+                        "59", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  Dhanraj Sharma  ", 
+                        "21", 
+                        "3", 
+                        "66", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Sunny Kashyap  ", 
+                        "12", 
+                        "0", 
+                        "53", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player4": [
+                        "  Karn Veer Kaushal  ", 
+                        "3", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  M Rangarajan  ", 
+                        "7", 
+                        "0", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "5", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "66.2", 
+                    "runs": "230", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 12, 
+                        "teamScore": "11"
+                    }, 
+                    "player2": {
+                        "ballNo": 27, 
+                        "teamScore": "33"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Karn Veer Kaushal  ", 
+                        " run out (Abhay Negi)  ", 
+                        "12", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player2": [
+                        "  Saurabh Rawat (wk)  ", 
+                        "  b Chengkam Sangma ", 
+                        "4", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player3": [
+                        "  Vaibhav Singh  ", 
+                        " not out ", 
+                        "32", 
+                        "12", 
+                        "6", 
+                        "1", 
+                        "266.67"
+                    ], 
+                    "player4": [
+                        "  Vaibhav Bhatt  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "UTK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Abhay Negi  ", 
+                        "3", 
+                        "0", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.70"
+                    ], 
+                    "player2": [
+                        "  Chengkam Sangma  ", 
+                        "2", 
+                        "0", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "6.50"
+                    ], 
+                    "player3": [
+                        "  Dippu Sangma  ", 
+                        "1", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "15.00"
+                    ], 
+                    "player4": [
+                        "  Jason Lamare (c)  ", 
+                        "0.1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "24.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "6.1", 
+                    "runs": "53", 
+                    "wickets": "2"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-09T16:30:00", 
+                    "startDate": "2018-12-06T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 5", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Mayank Mishra", 
+                            " Shivam Khurana  "
+                        ], 
+                        "playing11": [
+                            " Vineet Saxena", 
+                            " Kartik", 
+                            " Dhanraj Sharma", 
+                            " Vaibhav Singh", 
+                            " Saurabh Rawat (wk)", 
+                            " Rajat Bhatia (c)", 
+                            " Vaibhav Bhatt", 
+                            " Malolan Rangarajan", 
+                            " Deepak Dhapola", 
+                            " Sunny Kashyap", 
+                            " Karn Veer Kaushal  "
+                        ], 
+                        "teamName": "Uttarakhand\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Mark Ingty", 
+                            " Lakhan Singh  "
+                        ], 
+                        "playing11": [
+                            " Raj Biswa", 
+                            " Jason Lamare (c)", 
+                            " Puneet Bisht (wk)", 
+                            " Gurinder Singh", 
+                            " Abhay Negi", 
+                            " Aditya Singhania", 
+                            " Dippu Sangma", 
+                            " Yogesh Nagar", 
+                            " Chengkam Sangma", 
+                            " Wanlambok Nongkhlaw", 
+                            " Swarajeet Das  "
+                        ], 
+                        "teamName": "Meghalaya\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Uttarakhand", 
+                    "team2": "Meghalaya"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Uttarakhand"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Rohit Prakash Srivastava"
+                }, 
+                "venue": "Rajiv Gandhi International Cricket Stadium, Dehradun"
+            }
+        }
+    ]
+}

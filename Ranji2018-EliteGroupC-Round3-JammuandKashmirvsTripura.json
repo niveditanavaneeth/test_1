@@ -1,0 +1,863 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 252, 
+                        "teamScore": "124"
+                    }, 
+                    "player2": {
+                        "ballNo": 43, 
+                        "teamScore": "20"
+                    }, 
+                    "player3": {
+                        "ballNo": 123, 
+                        "teamScore": "59"
+                    }, 
+                    "player4": {
+                        "ballNo": 156, 
+                        "teamScore": "78"
+                    }, 
+                    "player5": {
+                        "ballNo": 205, 
+                        "teamScore": "101"
+                    }, 
+                    "player6": {
+                        "ballNo": 209, 
+                        "teamScore": "102"
+                    }, 
+                    "player7": {
+                        "ballNo": 237, 
+                        "teamScore": "122"
+                    }, 
+                    "player8": {
+                        "ballNo": 240, 
+                        "teamScore": "122"
+                    }, 
+                    "player9": {
+                        "ballNo": 248, 
+                        "teamScore": "124"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh (c)  ", 
+                        " lbw b Irfan Pathan ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Abhijit Sarkar  ", 
+                        " c Shubham Khajuria b Rasool ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player11": [
+                        "  A Chakraborty  ", 
+                        "  b Rasool ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Udiyan Bose  ", 
+                        " c O Haroon b M Mudhasir ", 
+                        "10", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "47.62"
+                    ], 
+                    "player3": [
+                        "  Ninad Kadam  ", 
+                        " run out (O Haroon)  ", 
+                        "34", 
+                        "92", 
+                        "4", 
+                        "0", 
+                        "36.96"
+                    ], 
+                    "player4": [
+                        "  Smit Patel (wk)  ", 
+                        " lbw b Umar Nazir ", 
+                        "21", 
+                        "41", 
+                        "3", 
+                        "0", 
+                        "51.22"
+                    ], 
+                    "player5": [
+                        "  BR Shetty  ", 
+                        " lbw b Rasool ", 
+                        "11", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        " c A Bandy b Irfan Pathan ", 
+                        "15", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player7": [
+                        "  Subham Ghosh  ", 
+                        " not out ", 
+                        "4", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player8": [
+                        "  M Murasingh  ", 
+                        "  b Rasool ", 
+                        "17", 
+                        "16", 
+                        "2", 
+                        "1", 
+                        "106.25"
+                    ], 
+                    "player9": [
+                        "  Harmeet Singh  ", 
+                        "  b Rasool ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Irfan Pathan  ", 
+                        "10", 
+                        "2", 
+                        "17", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player2": [
+                        "  M Mudhasir  ", 
+                        "9", 
+                        "3", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player3": [
+                        "  Umar Nazir  ", 
+                        "7", 
+                        "1", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player4": [
+                        "  A Aziz  ", 
+                        "5", 
+                        "0", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player5": [
+                        "  Rasool (c)  ", 
+                        "10", 
+                        "2", 
+                        "30", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player6": [
+                        "  Waseem Raza  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "10", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "42", 
+                    "runs": "124", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 95, 
+                        "teamScore": "70"
+                    }, 
+                    "player10": {
+                        "ballNo": 726, 
+                        "teamScore": "442"
+                    }, 
+                    "player2": {
+                        "ballNo": 241, 
+                        "teamScore": "154"
+                    }, 
+                    "player3": {
+                        "ballNo": 374, 
+                        "teamScore": "240"
+                    }, 
+                    "player4": {
+                        "ballNo": 421, 
+                        "teamScore": "282"
+                    }, 
+                    "player5": {
+                        "ballNo": 444, 
+                        "teamScore": "289"
+                    }, 
+                    "player6": {
+                        "ballNo": 510, 
+                        "teamScore": "320"
+                    }, 
+                    "player7": {
+                        "ballNo": 567, 
+                        "teamScore": "351"
+                    }, 
+                    "player8": {
+                        "ballNo": 708, 
+                        "teamScore": "431"
+                    }, 
+                    "player9": {
+                        "ballNo": 720, 
+                        "teamScore": "442"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Bandy  ", 
+                        " st Smit Patel b Harmeet Singh ", 
+                        "136", 
+                        "228", 
+                        "18", 
+                        "1", 
+                        "59.65"
+                    ], 
+                    "player10": [
+                        "  M Mudhasir  ", 
+                        " lbw b Abhijit Sarkar ", 
+                        "8", 
+                        "9", 
+                        "2", 
+                        "0", 
+                        "88.89"
+                    ], 
+                    "player11": [
+                        "  Umar Nazir  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Shubham Khajuria  ", 
+                        " lbw b Harmeet Singh ", 
+                        "52", 
+                        "56", 
+                        "8", 
+                        "1", 
+                        "92.86"
+                    ], 
+                    "player3": [
+                        "  Ian Dev Singh  ", 
+                        "  c and b Abhijit Sarkar ", 
+                        "27", 
+                        "70", 
+                        "3", 
+                        "0", 
+                        "38.57"
+                    ], 
+                    "player4": [
+                        "  Irfan Pathan  ", 
+                        " st Smit Patel b Subham Ghosh ", 
+                        "85", 
+                        "113", 
+                        "10", 
+                        "2", 
+                        "75.22"
+                    ], 
+                    "player5": [
+                        "  Rasool (c)  ", 
+                        "  b Harmeet Singh ", 
+                        "13", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "56.52"
+                    ], 
+                    "player6": [
+                        "  Paras Sharma  ", 
+                        " c Smit Patel b Pratyush Singh ", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  O Haroon (wk)  ", 
+                        " c Udiyan Bose b Harmeet Singh ", 
+                        "14", 
+                        "37", 
+                        "1", 
+                        "1", 
+                        "37.84"
+                    ], 
+                    "player8": [
+                        "  A Aziz  ", 
+                        " c A Chakraborty b Abhijit Sarkar ", 
+                        "48", 
+                        "98", 
+                        "7", 
+                        "0", 
+                        "48.98"
+                    ], 
+                    "player9": [
+                        "  Waseem Raza  ", 
+                        " c Ninad Kadam b Harmeet Singh ", 
+                        "45", 
+                        "79", 
+                        "4", 
+                        "0", 
+                        "56.96"
+                    ]
+                }, 
+                "batTeam": "JK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  M Murasingh  ", 
+                        "22", 
+                        "4", 
+                        "101", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player2": [
+                        "  Abhijit Sarkar  ", 
+                        "17", 
+                        "3", 
+                        "80", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player3": [
+                        "  A Chakraborty  ", 
+                        "15", 
+                        "1", 
+                        "61", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player4": [
+                        "  Harmeet Singh  ", 
+                        "38", 
+                        "11", 
+                        "91", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player5": [
+                        "  Subham Ghosh  ", 
+                        "14", 
+                        "2", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        "14", 
+                        "1", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player7": [
+                        "  Udiyan Bose  ", 
+                        "1", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "10", 
+                    "lb": "2", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "121", 
+                    "runs": "442", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 52, 
+                        "teamScore": "30"
+                    }, 
+                    "player10": {
+                        "ballNo": 739, 
+                        "teamScore": "358"
+                    }, 
+                    "player2": {
+                        "ballNo": 116, 
+                        "teamScore": "61"
+                    }, 
+                    "player3": {
+                        "ballNo": 344, 
+                        "teamScore": "150"
+                    }, 
+                    "player4": {
+                        "ballNo": 369, 
+                        "teamScore": "166"
+                    }, 
+                    "player5": {
+                        "ballNo": 552, 
+                        "teamScore": "272"
+                    }, 
+                    "player6": {
+                        "ballNo": 648, 
+                        "teamScore": "316"
+                    }, 
+                    "player7": {
+                        "ballNo": 651, 
+                        "teamScore": "316"
+                    }, 
+                    "player8": {
+                        "ballNo": 721, 
+                        "teamScore": "338"
+                    }, 
+                    "player9": {
+                        "ballNo": 730, 
+                        "teamScore": "347"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh (c)  ", 
+                        " c Paras Sharma b Umar Nazir ", 
+                        "4", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "13.79"
+                    ], 
+                    "player10": [
+                        "  Abhijit Sarkar  ", 
+                        " lbw b Waseem Raza ", 
+                        "5", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "71.43"
+                    ], 
+                    "player11": [
+                        "  A Chakraborty  ", 
+                        " not out ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Udiyan Bose  ", 
+                        "  b Waseem Raza ", 
+                        "67", 
+                        "161", 
+                        "10", 
+                        "0", 
+                        "41.61"
+                    ], 
+                    "player3": [
+                        "  Ninad Kadam  ", 
+                        " c O Haroon b Waseem Raza ", 
+                        "19", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "57.58"
+                    ], 
+                    "player4": [
+                        "  Smit Patel (wk)  ", 
+                        " c Shubham Khajuria b Rasool ", 
+                        "112", 
+                        "257", 
+                        "14", 
+                        "1", 
+                        "43.58"
+                    ], 
+                    "player5": [
+                        "  BR Shetty  ", 
+                        "  b Waseem Raza ", 
+                        "10", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "71.43"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        " c O Haroon b Umar Nazir ", 
+                        "59", 
+                        "98", 
+                        "9", 
+                        "0", 
+                        "60.20"
+                    ], 
+                    "player7": [
+                        "  Subham Ghosh  ", 
+                        " lbw b Waseem Raza ", 
+                        "19", 
+                        "59", 
+                        "4", 
+                        "0", 
+                        "32.20"
+                    ], 
+                    "player8": [
+                        "  M Murasingh  ", 
+                        "  b Waseem Raza ", 
+                        "19", 
+                        "41", 
+                        "2", 
+                        "1", 
+                        "46.34"
+                    ], 
+                    "player9": [
+                        "  Harmeet Singh  ", 
+                        "  b Rasool ", 
+                        "14", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "37.84"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Irfan Pathan  ", 
+                        "12", 
+                        "2", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  M Mudhasir  ", 
+                        "15", 
+                        "0", 
+                        "52", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Umar Nazir  ", 
+                        "16", 
+                        "4", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Rasool (c)  ", 
+                        "34", 
+                        "14", 
+                        "74", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player5": [
+                        "  Waseem Raza  ", 
+                        "30.1", 
+                        "9", 
+                        "78", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player6": [
+                        "  A Aziz  ", 
+                        "10", 
+                        "3", 
+                        "38", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player7": [
+                        "  Paras Sharma  ", 
+                        "6", 
+                        "3", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "18", 
+                    "lb": "12", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "123.1", 
+                    "runs": "358", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "1"
+                    }, 
+                    "player2": {
+                        "ballNo": 52, 
+                        "teamScore": "35"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Shubham Khajuria  ", 
+                        " not out ", 
+                        "16", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "61.54"
+                    ], 
+                    "player2": [
+                        "  Ian Dev Singh  ", 
+                        "  b M Murasingh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Paras Sharma  ", 
+                        " c (sub)Rajesh Banik b Subham Ghosh ", 
+                        "23", 
+                        "28", 
+                        "3", 
+                        "0", 
+                        "82.14"
+                    ], 
+                    "player4": [
+                        "  Irfan Pathan  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "JK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Manisankar Murasingh  ", 
+                        "3", 
+                        "1", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player2": [
+                        "  Harmeet Singh  ", 
+                        "4", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  Subham Ghosh  ", 
+                        "2", 
+                        "0", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Pratyush Singh  ", 
+                        "0", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "9", 
+                    "runs": "43", 
+                    "wickets": "2"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-23T16:30:00", 
+                    "startDate": "2018-11-20T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 3", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Owais Amin Shah", 
+                            " Fazil Rashid", 
+                            " Rohit Sharma", 
+                            " Shubham Pundir  "
+                        ], 
+                        "playing11": [
+                            " Paras Sharma", 
+                            " Shubham Khajuria", 
+                            " Parvez Rasool (c)", 
+                            " Ahmed Banday", 
+                            " Ian Dev Singh", 
+                            " Obaid Haroon (wk)", 
+                            " Umar Nazir Mir", 
+                            " Waseem Raza", 
+                            " Aamir Aziz Sofi", 
+                            " Mohammed Mudhasir", 
+                            " Irfan Pathan  "
+                        ], 
+                        "teamName": "Jammu and Kashmir\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Rajesh Banik", 
+                            " Rana Dutta", 
+                            " Viki Saha", 
+                            " Nirupam Sen", 
+                            " Ajoy Sarkar  "
+                        ], 
+                        "playing11": [
+                            " Bishal Ghosh (c)", 
+                            " Subham Ghosh", 
+                            " Abhijit Sarkar", 
+                            " Manisankar Murasingh", 
+                            " Smit Patel (wk)", 
+                            " Udiyan Bose", 
+                            " Bravish Shetty", 
+                            " Abhijit Chakraborty", 
+                            " Pratyush Singh", 
+                            " Harmeet Singh", 
+                            " Ninad Kadam  "
+                        ], 
+                        "teamName": "Tripura\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Jammu and Kashmir", 
+                    "team2": "Tripura"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Tripura"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Prasanta Mohapatra"
+                }, 
+                "venue": "Sher-i-Kashmir Stadium, Srinagar"
+            }
+        }
+    ]
+}

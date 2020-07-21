@@ -1,0 +1,864 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 65, 
+                        "teamScore": "14"
+                    }, 
+                    "player10": {
+                        "ballNo": 842, 
+                        "teamScore": "364"
+                    }, 
+                    "player2": {
+                        "ballNo": 142, 
+                        "teamScore": "33"
+                    }, 
+                    "player3": {
+                        "ballNo": 563, 
+                        "teamScore": "260"
+                    }, 
+                    "player4": {
+                        "ballNo": 572, 
+                        "teamScore": "266"
+                    }, 
+                    "player5": {
+                        "ballNo": 587, 
+                        "teamScore": "273"
+                    }, 
+                    "player6": {
+                        "ballNo": 615, 
+                        "teamScore": "291"
+                    }, 
+                    "player7": {
+                        "ballNo": 655, 
+                        "teamScore": "304"
+                    }, 
+                    "player8": {
+                        "ballNo": 813, 
+                        "teamScore": "356"
+                    }, 
+                    "player9": {
+                        "ballNo": 826, 
+                        "teamScore": "358"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sumiran Amonkar  ", 
+                        " lbw b Ashish Kumar ", 
+                        "95", 
+                        "281", 
+                        "15", 
+                        "0", 
+                        "33.81"
+                    ], 
+                    "player10": [
+                        "  Pandrekar  ", 
+                        "  b Utkarsh Singh ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Vijesh Prabhudessai  ", 
+                        " not out ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  AS Desai  ", 
+                        " c Saurabh Tiwary b A Yadav ", 
+                        "5", 
+                        "34", 
+                        "1", 
+                        "0", 
+                        "14.71"
+                    ], 
+                    "player3": [
+                        "  SK Kamat (c)  ", 
+                        " c Nazim Siddiqui b Rahul Shukla ", 
+                        "11", 
+                        "40", 
+                        "0", 
+                        "1", 
+                        "27.50"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " c Sumit Kumar b Ashish Kumar ", 
+                        "154", 
+                        "226", 
+                        "21", 
+                        "3", 
+                        "68.14"
+                    ], 
+                    "player5": [
+                        "  Snehal Kauthankar  ", 
+                        " c Sumit Kumar b Ashish Kumar ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Suyash Prabhudessai  ", 
+                        " st Sumit Kumar b Rahul Shukla ", 
+                        "11", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "55.00"
+                    ], 
+                    "player7": [
+                        "  Keenan Vaz (wk)  ", 
+                        " c Rahul Shukla b Anukul Roy ", 
+                        "41", 
+                        "109", 
+                        "2", 
+                        "1", 
+                        "37.61"
+                    ], 
+                    "player8": [
+                        "  Vishamber Kahlon  ", 
+                        "  b Anukul Roy ", 
+                        "4", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "18.18"
+                    ], 
+                    "player9": [
+                        "  Darshan Misal  ", 
+                        " c Virat Singh b Utkarsh Singh ", 
+                        "28", 
+                        "93", 
+                        "4", 
+                        "0", 
+                        "30.11"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  A Yadav  ", 
+                        "30", 
+                        "8", 
+                        "78", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player2": [
+                        "  Ashish Kumar  ", 
+                        "28", 
+                        "7", 
+                        "71", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Rahul Shukla  ", 
+                        "29", 
+                        "10", 
+                        "71", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player4": [
+                        "  Utkarsh Singh  ", 
+                        "23", 
+                        "2", 
+                        "78", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player5": [
+                        "  Anukul Roy  ", 
+                        "29.2", 
+                        "10", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player6": [
+                        "  Saurabh Tiwary  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Jharkhand", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "9", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "140.2", 
+                    "runs": "364", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 15, 
+                        "teamScore": "13"
+                    }, 
+                    "player10": {
+                        "ballNo": 749, 
+                        "teamScore": "390"
+                    }, 
+                    "player2": {
+                        "ballNo": 136, 
+                        "teamScore": "92"
+                    }, 
+                    "player3": {
+                        "ballNo": 238, 
+                        "teamScore": "159"
+                    }, 
+                    "player4": {
+                        "ballNo": 335, 
+                        "teamScore": "187"
+                    }, 
+                    "player5": {
+                        "ballNo": 390, 
+                        "teamScore": "215"
+                    }, 
+                    "player6": {
+                        "ballNo": 401, 
+                        "teamScore": "217"
+                    }, 
+                    "player7": {
+                        "ballNo": 586, 
+                        "teamScore": "308"
+                    }, 
+                    "player8": {
+                        "ballNo": 628, 
+                        "teamScore": "325"
+                    }, 
+                    "player9": {
+                        "ballNo": 745, 
+                        "teamScore": "390"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nazim Siddiqui (c)  ", 
+                        " c Vijesh Prabhudessai b Darshan Misal ", 
+                        "71", 
+                        "69", 
+                        "11", 
+                        "0", 
+                        "102.90"
+                    ], 
+                    "player10": [
+                        "  Ashish Kumar  ", 
+                        " c Suyash Prabhudessai b Vishamber Kahlon ", 
+                        "9", 
+                        "46", 
+                        "1", 
+                        "0", 
+                        "19.57"
+                    ], 
+                    "player11": [
+                        "  A Yadav  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Sumit Kumar (wk)  ", 
+                        " c AS Desai b Vijesh Prabhudessai ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Utkarsh Singh  ", 
+                        "  c and b Pandrekar ", 
+                        "75", 
+                        "188", 
+                        "9", 
+                        "0", 
+                        "39.89"
+                    ], 
+                    "player4": [
+                        "  Saurabh Tiwary  ", 
+                        " c Keenan Vaz b AS Desai ", 
+                        "45", 
+                        "53", 
+                        "5", 
+                        "2", 
+                        "84.91"
+                    ], 
+                    "player5": [
+                        "  Jaggi  ", 
+                        " c Sumiran Amonkar b Darshan Misal ", 
+                        "12", 
+                        "56", 
+                        "2", 
+                        "0", 
+                        "21.43"
+                    ], 
+                    "player6": [
+                        "  Virat Singh  ", 
+                        "  b AS Desai ", 
+                        "41", 
+                        "107", 
+                        "2", 
+                        "0", 
+                        "38.32"
+                    ], 
+                    "player7": [
+                        "  K Deobrat  ", 
+                        " lbw b Pandrekar ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Anukul Roy  ", 
+                        " c (sub)Samar Dubhashi b Vishamber Kahlon ", 
+                        "127", 
+                        "212", 
+                        "13", 
+                        "2", 
+                        "59.91"
+                    ], 
+                    "player9": [
+                        "  Rahul Shukla  ", 
+                        "  b Pandrekar ", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Jharkhand", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vijesh Prabhudessai  ", 
+                        "22", 
+                        "3", 
+                        "73", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player2": [
+                        "  AS Desai  ", 
+                        "25", 
+                        "7", 
+                        "77", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Pandrekar  ", 
+                        "26", 
+                        "3", 
+                        "78", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player4": [
+                        "  Darshan Misal  ", 
+                        "23", 
+                        "5", 
+                        "82", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player5": [
+                        "  Amit Verma  ", 
+                        "20", 
+                        "2", 
+                        "49", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player6": [
+                        "  Vishamber Kahlon  ", 
+                        "8.5", 
+                        "0", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "0", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "124.5", 
+                    "runs": "390", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 7, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 291, 
+                        "teamScore": "127"
+                    }, 
+                    "player2": {
+                        "ballNo": 78, 
+                        "teamScore": "27"
+                    }, 
+                    "player3": {
+                        "ballNo": 93, 
+                        "teamScore": "29"
+                    }, 
+                    "player4": {
+                        "ballNo": 96, 
+                        "teamScore": "29"
+                    }, 
+                    "player5": {
+                        "ballNo": 124, 
+                        "teamScore": "45"
+                    }, 
+                    "player6": {
+                        "ballNo": 234, 
+                        "teamScore": "103"
+                    }, 
+                    "player7": {
+                        "ballNo": 257, 
+                        "teamScore": "120"
+                    }, 
+                    "player8": {
+                        "ballNo": 258, 
+                        "teamScore": "120"
+                    }, 
+                    "player9": {
+                        "ballNo": 288, 
+                        "teamScore": "131"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sumiran Amonkar  ", 
+                        " lbw b Ashish Kumar ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player10": [
+                        "  Pandrekar  ", 
+                        " lbw b Utkarsh Singh ", 
+                        "6", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "35.29"
+                    ], 
+                    "player11": [
+                        "  Vijesh Prabhudessai  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  AS Desai  ", 
+                        "  b Rahul Shukla ", 
+                        "6", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player3": [
+                        "  Vishamber Kahlon  ", 
+                        " lbw b Ashish Kumar ", 
+                        "16", 
+                        "56", 
+                        "2", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player4": [
+                        "  SK Kamat (c)  ", 
+                        "  b Rahul Shukla ", 
+                        "13", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "61.90"
+                    ], 
+                    "player5": [
+                        "  Amit Verma  ", 
+                        " c Anukul Roy b Ashish Kumar ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Snehal Kauthankar  ", 
+                        "  b Rahul Shukla ", 
+                        "35", 
+                        "76", 
+                        "3", 
+                        "0", 
+                        "46.05"
+                    ], 
+                    "player7": [
+                        "  Suyash Prabhudessai  ", 
+                        " c Nazim Siddiqui b Rahul Shukla ", 
+                        "39", 
+                        "60", 
+                        "6", 
+                        "0", 
+                        "65.00"
+                    ], 
+                    "player8": [
+                        "  Keenan Vaz (wk)  ", 
+                        " c Anukul Roy b Rahul Shukla ", 
+                        "7", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "28.00"
+                    ], 
+                    "player9": [
+                        "  Darshan Misal  ", 
+                        " c Saurabh Tiwary b Rahul Shukla ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rahul Shukla  ", 
+                        "16.3", 
+                        "2", 
+                        "45", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Ashish Kumar  ", 
+                        "10", 
+                        "2", 
+                        "17", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player3": [
+                        "  A Yadav  ", 
+                        "9", 
+                        "2", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Utkarsh Singh  ", 
+                        "5", 
+                        "1", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player5": [
+                        "  Anukul Roy  ", 
+                        "8", 
+                        "3", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ]
+                }, 
+                "bowlTeam": "Jharkhand", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "48.3", 
+                    "runs": "131", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "0"
+                    }, 
+                    "player2": {
+                        "ballNo": 35, 
+                        "teamScore": "10"
+                    }, 
+                    "player3": {
+                        "ballNo": 136, 
+                        "teamScore": "69"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kumar Deobrat  ", 
+                        " not out ", 
+                        "48", 
+                        "90", 
+                        "5", 
+                        "2", 
+                        "53.33"
+                    ], 
+                    "player2": [
+                        "  Nazim Siddiqui (c)  ", 
+                        " c Amit Verma b Vijesh Prabhudessai ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Utkarsh Singh  ", 
+                        " c Snehal Kauthankar b Vijesh Prabhudessai ", 
+                        "3", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "18.75"
+                    ], 
+                    "player4": [
+                        "  Saurabh Tiwary  ", 
+                        " c SK Kamat b AS Desai ", 
+                        "29", 
+                        "53", 
+                        "1", 
+                        "1", 
+                        "54.72"
+                    ], 
+                    "player5": [
+                        "  Ishank Jaggi  ", 
+                        " not out ", 
+                        "20", 
+                        "32", 
+                        "3", 
+                        "0", 
+                        "62.50"
+                    ]
+                }, 
+                "batTeam": "Jharkhand", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Darshan Misal  ", 
+                        "11", 
+                        "3", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Vijesh Prabhudessai  ", 
+                        "9", 
+                        "0", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player3": [
+                        "  Amulya Pandrekar  ", 
+                        "3", 
+                        "1", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ], 
+                    "player4": [
+                        "  Vishamber Kahlon  ", 
+                        "5", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player5": [
+                        "  Amogh Sunil Desai  ", 
+                        "2.2", 
+                        "1", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.60"
+                    ], 
+                    "player6": [
+                        "  Amit Verma  ", 
+                        "2", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "32.2", 
+                    "runs": "108", 
+                    "wickets": "3"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Lakshay Garg ", 
+                            " Felix Alemao", 
+                            " Krishna Das", 
+                            " Samar Shravan Dubhashi  "
+                        ], 
+                        "playing11": [
+                            " Snehal Suhas Kauthankar", 
+                            " Amulya Pandrekar", 
+                            " Suyash Prabhudessai", 
+                            " Vijesh Prabhudessai", 
+                            " Sagun Kamat (c)", 
+                            " Amogh Sunil Desai", 
+                            " Darshan Misal", 
+                            " Keenan Vaz (wk)", 
+                            " Sumiran Amonkar", 
+                            " Amit Verma", 
+                            " Vishamber Kahlon  "
+                        ], 
+                        "teamName": "Goa\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Alok Sharma", 
+                            " Anand Singh", 
+                            " Varun Aaron  "
+                        ], 
+                        "playing11": [
+                            " Virat Singh", 
+                            " Anukul Roy", 
+                            " Utkarsh Singh", 
+                            " Sumit Kumar (wk)", 
+                            " Saurabh Tiwary", 
+                            " Ashish Kumar", 
+                            " Ajay Yadav", 
+                            " Ishank Jaggi", 
+                            " Nazim Siddiqui (c)", 
+                            " Kumar Deobrat", 
+                            " Rahul Shukla  "
+                        ], 
+                        "teamName": "Jharkhand\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Goa", 
+                    "team2": "Jharkhand"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Goa"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Pankaj Dharmani"
+                }, 
+                "venue": "Goa Cricket Association Academy Ground, Porvorim"
+            }
+        }
+    ]
+}

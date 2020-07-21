@@ -1,0 +1,887 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 238, 
+                        "teamScore": "113"
+                    }, 
+                    "player2": {
+                        "ballNo": 10, 
+                        "teamScore": "1"
+                    }, 
+                    "player3": {
+                        "ballNo": 70, 
+                        "teamScore": "40"
+                    }, 
+                    "player4": {
+                        "ballNo": 80, 
+                        "teamScore": "46"
+                    }, 
+                    "player5": {
+                        "ballNo": 87, 
+                        "teamScore": "49"
+                    }, 
+                    "player6": {
+                        "ballNo": 194, 
+                        "teamScore": "85"
+                    }, 
+                    "player7": {
+                        "ballNo": 195, 
+                        "teamScore": "85"
+                    }, 
+                    "player8": {
+                        "ballNo": 210, 
+                        "teamScore": "97"
+                    }, 
+                    "player9": {
+                        "ballNo": 232, 
+                        "teamScore": "111"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Swapnil Gugale  ", 
+                        " c Sharath BR b Mithun ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player10": [
+                        "  SS Bachhav  ", 
+                        " c Siddharth b J Suchith ", 
+                        "3", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player11": [
+                        "  S Fallah  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  C Khurana  ", 
+                        " lbw b Vinay Kumar ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Jay Pande  ", 
+                        "  b R More ", 
+                        "20", 
+                        "29", 
+                        "3", 
+                        "0", 
+                        "68.97"
+                    ], 
+                    "player4": [
+                        "  Ruturaj Gaikwad  ", 
+                        "  b J Suchith ", 
+                        "39", 
+                        "97", 
+                        "4", 
+                        "1", 
+                        "40.21"
+                    ], 
+                    "player5": [
+                        "  R Tripathi (c)  ", 
+                        " c Sharath BR b R More ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Naushad Shaikh  ", 
+                        " c J Suchith b Vinay Kumar ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player7": [
+                        "  R Motwani (wk)  ", 
+                        " c Sharath BR b Mithun ", 
+                        "34", 
+                        "68", 
+                        "4", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player8": [
+                        "  N Dhumal  ", 
+                        " c Sharath BR b J Suchith ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  A Sanklecha  ", 
+                        "  b J Suchith ", 
+                        "10", 
+                        "7", 
+                        "1", 
+                        "1", 
+                        "142.86"
+                    ]
+                }, 
+                "batTeam": "Maharashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vinay Kumar (c)  ", 
+                        "7", 
+                        "2", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Mithun  ", 
+                        "12.4", 
+                        "1", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  R More  ", 
+                        "9", 
+                        "4", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player4": [
+                        "  Siddharth  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player5": [
+                        "  J Suchith  ", 
+                        "8", 
+                        "1", 
+                        "26", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player6": [
+                        "  Shreyas Gopal  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Karnataka", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "39.4", 
+                    "runs": "113", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 37, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 506, 
+                        "teamScore": "186"
+                    }, 
+                    "player2": {
+                        "ballNo": 155, 
+                        "teamScore": "45"
+                    }, 
+                    "player3": {
+                        "ballNo": 220, 
+                        "teamScore": "62"
+                    }, 
+                    "player4": {
+                        "ballNo": 282, 
+                        "teamScore": "78"
+                    }, 
+                    "player5": {
+                        "ballNo": 297, 
+                        "teamScore": "89"
+                    }, 
+                    "player6": {
+                        "ballNo": 323, 
+                        "teamScore": "94"
+                    }, 
+                    "player7": {
+                        "ballNo": 351, 
+                        "teamScore": "109"
+                    }, 
+                    "player8": {
+                        "ballNo": 485, 
+                        "teamScore": "172"
+                    }, 
+                    "player9": {
+                        "ballNo": 502, 
+                        "teamScore": "180"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Devdutt Padikkal  ", 
+                        " lbw b A Sanklecha ", 
+                        "7", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "29.17"
+                    ], 
+                    "player10": [
+                        "  Mithun  ", 
+                        " c Ruturaj Gaikwad b SS Bachhav ", 
+                        "10", 
+                        "14", 
+                        "0", 
+                        "1", 
+                        "71.43"
+                    ], 
+                    "player11": [
+                        "  R More  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Nischal  ", 
+                        " c R Motwani b A Sanklecha ", 
+                        "39", 
+                        "125", 
+                        "4", 
+                        "0", 
+                        "31.20"
+                    ], 
+                    "player3": [
+                        "  Kaunain Abbas  ", 
+                        " c R Motwani b R Tripathi ", 
+                        "15", 
+                        "62", 
+                        "3", 
+                        "0", 
+                        "24.19"
+                    ], 
+                    "player4": [
+                        "  Siddharth  ", 
+                        " c R Motwani b N Dhumal ", 
+                        "11", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "26.19"
+                    ], 
+                    "player5": [
+                        "  J Suchith  ", 
+                        " c C Khurana b S Fallah ", 
+                        "9", 
+                        "44", 
+                        "1", 
+                        "0", 
+                        "20.45"
+                    ], 
+                    "player6": [
+                        "  Pavan Deshpande  ", 
+                        " c C Khurana b S Fallah ", 
+                        "9", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "75.00"
+                    ], 
+                    "player7": [
+                        "  Shreyas Gopal  ", 
+                        " lbw b C Khurana ", 
+                        "40", 
+                        "100", 
+                        "5", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player8": [
+                        "  Sharath BR (wk)  ", 
+                        " lbw b SS Bachhav ", 
+                        "14", 
+                        "13", 
+                        "3", 
+                        "0", 
+                        "107.69"
+                    ], 
+                    "player9": [
+                        "  Vinay Kumar (c)  ", 
+                        " lbw b SS Bachhav ", 
+                        "26", 
+                        "72", 
+                        "4", 
+                        "1", 
+                        "36.11"
+                    ]
+                }, 
+                "batTeam": "Karnataka", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  A Sanklecha  ", 
+                        "19", 
+                        "3", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  S Fallah  ", 
+                        "23", 
+                        "12", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player3": [
+                        "  N Dhumal  ", 
+                        "16", 
+                        "5", 
+                        "40", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  SS Bachhav  ", 
+                        "16.2", 
+                        "4", 
+                        "43", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player5": [
+                        "  R Tripathi (c)  ", 
+                        "7", 
+                        "3", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player6": [
+                        "  C Khurana  ", 
+                        "3", 
+                        "0", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ]
+                }, 
+                "bowlTeam": "Maharashtra", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "84.2", 
+                    "runs": "186", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 19, 
+                        "teamScore": "3"
+                    }, 
+                    "player10": {
+                        "ballNo": 582, 
+                        "teamScore": "256"
+                    }, 
+                    "player2": {
+                        "ballNo": 136, 
+                        "teamScore": "30"
+                    }, 
+                    "player3": {
+                        "ballNo": 146, 
+                        "teamScore": "35"
+                    }, 
+                    "player4": {
+                        "ballNo": 326, 
+                        "teamScore": "95"
+                    }, 
+                    "player5": {
+                        "ballNo": 336, 
+                        "teamScore": "98"
+                    }, 
+                    "player6": {
+                        "ballNo": 350, 
+                        "teamScore": "113"
+                    }, 
+                    "player7": {
+                        "ballNo": 518, 
+                        "teamScore": "219"
+                    }, 
+                    "player8": {
+                        "ballNo": 535, 
+                        "teamScore": "234"
+                    }, 
+                    "player9": {
+                        "ballNo": 566, 
+                        "teamScore": "246"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Swapnil Gugale  ", 
+                        "  b Mithun ", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  N Dhumal  ", 
+                        " not out ", 
+                        "5", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "26.32"
+                    ], 
+                    "player11": [
+                        "  S Fallah  ", 
+                        "  b Vinay Kumar ", 
+                        "6", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player2": [
+                        "  C Khurana  ", 
+                        " lbw b Shreyas Gopal ", 
+                        "18", 
+                        "60", 
+                        "2", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player3": [
+                        "  Jay Pande  ", 
+                        "  b Shreyas Gopal ", 
+                        "15", 
+                        "72", 
+                        "1", 
+                        "0", 
+                        "20.83"
+                    ], 
+                    "player4": [
+                        "  Ruturaj Gaikwad  ", 
+                        "  b Vinay Kumar ", 
+                        "89", 
+                        "161", 
+                        "7", 
+                        "2", 
+                        "55.28"
+                    ], 
+                    "player5": [
+                        "  SS Bachhav  ", 
+                        " lbw b Shreyas Gopal ", 
+                        "28", 
+                        "99", 
+                        "5", 
+                        "0", 
+                        "28.28"
+                    ], 
+                    "player6": [
+                        "  R Motwani (wk)  ", 
+                        " lbw b Pavan Deshpande ", 
+                        "2", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player7": [
+                        "  R Tripathi (c)  ", 
+                        " c Kaunain Abbas b Shreyas Gopal ", 
+                        "8", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "114.29"
+                    ], 
+                    "player8": [
+                        "  Naushad Shaikh  ", 
+                        " c Pavan Deshpande b Vinay Kumar ", 
+                        "73", 
+                        "121", 
+                        "5", 
+                        "1", 
+                        "60.33"
+                    ], 
+                    "player9": [
+                        "  A Sanklecha  ", 
+                        "  b Pavan Deshpande ", 
+                        "8", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ]
+                }, 
+                "batTeam": "Maharashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vinay Kumar (c)  ", 
+                        "22", 
+                        "8", 
+                        "41", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player2": [
+                        "  Mithun  ", 
+                        "8", 
+                        "4", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player3": [
+                        "  J Suchith  ", 
+                        "19", 
+                        "2", 
+                        "59", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  R More  ", 
+                        "17", 
+                        "3", 
+                        "47", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Shreyas Gopal  ", 
+                        "21", 
+                        "3", 
+                        "64", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player6": [
+                        "  Pavan Deshpande  ", 
+                        "9", 
+                        "2", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player7": [
+                        "  Devdutt Padikkal  ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "bowlTeam": "Karnataka", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "97", 
+                    "runs": "256", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 262, 
+                        "teamScore": "121"
+                    }, 
+                    "player2": {
+                        "ballNo": 295, 
+                        "teamScore": "131"
+                    }, 
+                    "player3": {
+                        "ballNo": 398, 
+                        "teamScore": "170"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Devdutt Padikkal  ", 
+                        " c C Khurana b SS Bachhav ", 
+                        "77", 
+                        "128", 
+                        "11", 
+                        "1", 
+                        "60.16"
+                    ], 
+                    "player2": [
+                        "  Dega Nischal  ", 
+                        "  b C Khurana ", 
+                        "61", 
+                        "212", 
+                        "4", 
+                        "0", 
+                        "28.77"
+                    ], 
+                    "player3": [
+                        "  Krishnamurthy Siddharth  ", 
+                        " c Ruturaj Gaikwad b SS Bachhav ", 
+                        "4", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player4": [
+                        "  Mir Kaunain Abbas  ", 
+                        " not out ", 
+                        "34", 
+                        "62", 
+                        "3", 
+                        "2", 
+                        "54.84"
+                    ], 
+                    "player5": [
+                        "  Pavan Deshpande  ", 
+                        " not out ", 
+                        "6", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "54.55"
+                    ]
+                }, 
+                "batTeam": "Karnataka", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Anupam Sanklecha  ", 
+                        "7", 
+                        "0", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player2": [
+                        "  Samad Fallah  ", 
+                        "13", 
+                        "8", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player3": [
+                        "  Nikit Dhumal  ", 
+                        "3", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ], 
+                    "player4": [
+                        "  Chirag Khurana  ", 
+                        "19.2", 
+                        "3", 
+                        "53", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player5": [
+                        "  Satyajeet Bachhav  ", 
+                        "24", 
+                        "8", 
+                        "56", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player6": [
+                        "  Swapnil Gugale  ", 
+                        "4", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ]
+                }, 
+                "bowlTeam": "Maharashtra", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "70.2", 
+                    "runs": "184", 
+                    "wickets": "3"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Shishir Bhavane", 
+                            " Stuart Binny", 
+                            " Prasidh Krishna", 
+                            " Liyan Khan", 
+                            " Srinivas Sharath  "
+                        ], 
+                        "playing11": [
+                            " Dega Nischal", 
+                            " Mir Kaunain Abbas", 
+                            " Krishnamurthy Siddharth", 
+                            " Sharath BR (wk)", 
+                            " Jagadeesha Suchith", 
+                            " Ronit More", 
+                            " Devdutt Padikkal", 
+                            " Shreyas Gopal", 
+                            " Vinay Kumar (c)", 
+                            " Pavan Deshpande", 
+                            " Abhimanyu Mithun  "
+                        ], 
+                        "teamName": "Karnataka\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Kedar Jadhav", 
+                            " Ankit Bawne", 
+                            " Ashay Palkar", 
+                            " Harshad Khadiwale", 
+                            " Mukesh Choudhary  "
+                        ], 
+                        "playing11": [
+                            " Ruturaj Gaikwad", 
+                            " Jay Pande", 
+                            " Chirag Khurana", 
+                            " Naushad Shaikh", 
+                            " Rahul Tripathi (c)", 
+                            " Rohit Motwani (wk)", 
+                            " Nikit Dhumal", 
+                            " Samad Fallah", 
+                            " Swapnil Gugale", 
+                            " Anupam Sanklecha", 
+                            " Satyajeet Bachhav  "
+                        ], 
+                        "teamName": "Maharashtra\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Karnataka", 
+                    "team2": "Maharashtra"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Maharashtra"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Daniel Manohar"
+                }, 
+                "venue": "Srikantadatta Narasimha Raja Wadiyar Ground, Mysore"
+            }
+        }
+    ]
+}

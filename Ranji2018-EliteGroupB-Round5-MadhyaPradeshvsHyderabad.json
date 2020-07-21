@@ -1,0 +1,663 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 213, 
+                        "teamScore": "124"
+                    }, 
+                    "player2": {
+                        "ballNo": 47, 
+                        "teamScore": "14"
+                    }, 
+                    "player3": {
+                        "ballNo": 81, 
+                        "teamScore": "29"
+                    }, 
+                    "player4": {
+                        "ballNo": 84, 
+                        "teamScore": "29"
+                    }, 
+                    "player5": {
+                        "ballNo": 86, 
+                        "teamScore": "29"
+                    }, 
+                    "player6": {
+                        "ballNo": 92, 
+                        "teamScore": "33"
+                    }, 
+                    "player7": {
+                        "ballNo": 108, 
+                        "teamScore": "37"
+                    }, 
+                    "player8": {
+                        "ballNo": 152, 
+                        "teamScore": "70"
+                    }, 
+                    "player9": {
+                        "ballNo": 186, 
+                        "teamScore": "86"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Tanmay Agarwal  ", 
+                        "  b Avesh Khan ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Ravi Kiran  ", 
+                        " c Naman Ojha b Kuldeep Sen ", 
+                        "1", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "6.67"
+                    ], 
+                    "player11": [
+                        "  M Muddassir  ", 
+                        "  b Avesh Khan ", 
+                        "5", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player2": [
+                        "  Akshath Reddy (c)  ", 
+                        "  b G Yadav ", 
+                        "21", 
+                        "42", 
+                        "4", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player3": [
+                        "  Tanay Thyagarajan  ", 
+                        "  b Avesh Khan ", 
+                        "1", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "5.26"
+                    ], 
+                    "player4": [
+                        "  Rohit Rayudu  ", 
+                        " c Naman Ojha b Avesh Khan ", 
+                        "4", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player5": [
+                        "  Sandeep  ", 
+                        " c Naman Ojha b Avesh Khan ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Sumanth (wk)  ", 
+                        " c Shubham Sharma b Avesh Khan ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Himalay Agarwal  ", 
+                        " not out ", 
+                        "69", 
+                        "76", 
+                        "8", 
+                        "2", 
+                        "90.79"
+                    ], 
+                    "player8": [
+                        "  T Ravi Teja  ", 
+                        "  b Avesh Khan ", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  M Hasan  ", 
+                        " c Yash Dubey b Venkatesh Iyer ", 
+                        "15", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "71.43"
+                    ]
+                }, 
+                "batTeam": "Hyderabad", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Kuldeep Sen  ", 
+                        "11", 
+                        "1", 
+                        "32", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  Avesh Khan  ", 
+                        "12.3", 
+                        "6", 
+                        "24", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player3": [
+                        "  G Yadav  ", 
+                        "10", 
+                        "0", 
+                        "51", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.10"
+                    ], 
+                    "player4": [
+                        "  Venkatesh Iyer  ", 
+                        "2", 
+                        "0", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "7", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "35.3", 
+                    "runs": "124", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 99, 
+                        "teamScore": "68"
+                    }, 
+                    "player2": {
+                        "ballNo": 312, 
+                        "teamScore": "181"
+                    }, 
+                    "player3": {
+                        "ballNo": 439, 
+                        "teamScore": "262"
+                    }, 
+                    "player4": {
+                        "ballNo": 466, 
+                        "teamScore": "278"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Aryaman Birla  ", 
+                        "  b Tanay Thyagarajan ", 
+                        "32", 
+                        "64", 
+                        "6", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Ajay Rohera  ", 
+                        " not out ", 
+                        "267", 
+                        "345", 
+                        "21", 
+                        "5", 
+                        "77.39"
+                    ], 
+                    "player3": [
+                        "  Rajat Patidar  ", 
+                        " c Sumanth b M Muddassir ", 
+                        "51", 
+                        "118", 
+                        "7", 
+                        "0", 
+                        "43.22"
+                    ], 
+                    "player4": [
+                        "  Naman Ojha (c) (wk)  ", 
+                        " c Tanay Thyagarajan b Ravi Kiran ", 
+                        "28", 
+                        "72", 
+                        "3", 
+                        "0", 
+                        "38.89"
+                    ], 
+                    "player5": [
+                        "  Shubham Sharma  ", 
+                        " lbw b Ravi Kiran ", 
+                        "13", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "61.90"
+                    ], 
+                    "player6": [
+                        "  Yash Dubey  ", 
+                        " not out ", 
+                        "139", 
+                        "233", 
+                        "18", 
+                        "2", 
+                        "59.66"
+                    ]
+                }, 
+                "batTeam": "MP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ravi Kiran  ", 
+                        "30", 
+                        "3", 
+                        "103", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player2": [
+                        "  M Muddassir  ", 
+                        "22", 
+                        "3", 
+                        "114", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player3": [
+                        "  T Ravi Teja  ", 
+                        "24.4", 
+                        "1", 
+                        "103", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player4": [
+                        "  Tanay Thyagarajan  ", 
+                        "33", 
+                        "4", 
+                        "110", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player5": [
+                        "  M Hasan  ", 
+                        "25", 
+                        "1", 
+                        "75", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player6": [
+                        "  Rohit Rayudu  ", 
+                        "2", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.00"
+                    ], 
+                    "player7": [
+                        "  Sandeep  ", 
+                        "2", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player8": [
+                        "  Tanmay Agarwal  ", 
+                        "2", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "18", 
+                    "lb": "5", 
+                    "nb": "9", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "140.4", 
+                    "runs": "562", 
+                    "wickets": "4"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 25, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 395, 
+                        "teamScore": "185"
+                    }, 
+                    "player2": {
+                        "ballNo": 153, 
+                        "teamScore": "51"
+                    }, 
+                    "player3": {
+                        "ballNo": 169, 
+                        "teamScore": "58"
+                    }, 
+                    "player4": {
+                        "ballNo": 172, 
+                        "teamScore": "58"
+                    }, 
+                    "player5": {
+                        "ballNo": 179, 
+                        "teamScore": "63"
+                    }, 
+                    "player6": {
+                        "ballNo": 264, 
+                        "teamScore": "111"
+                    }, 
+                    "player7": {
+                        "ballNo": 344, 
+                        "teamScore": "145"
+                    }, 
+                    "player8": {
+                        "ballNo": 377, 
+                        "teamScore": "167"
+                    }, 
+                    "player9": {
+                        "ballNo": 393, 
+                        "teamScore": "185"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Tanmay Agarwal  ", 
+                        " lbw b Shubham Sharma ", 
+                        "24", 
+                        "70", 
+                        "3", 
+                        "0", 
+                        "34.29"
+                    ], 
+                    "player10": [
+                        "  Ravi Kiran  ", 
+                        " not out ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Mohammad Muddassir  ", 
+                        "  b Avesh Khan ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Akshath Reddy (c)  ", 
+                        " c Naman Ojha b Avesh Khan ", 
+                        "4", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player3": [
+                        "  Rohit Rayudu  ", 
+                        " c G Yadav b Mihir Hirwani ", 
+                        "72", 
+                        "185", 
+                        "6", 
+                        "0", 
+                        "38.92"
+                    ], 
+                    "player4": [
+                        "  Bavanaka Sandeep  ", 
+                        " c Naman Ojha b Avesh Khan ", 
+                        "4", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "44.44"
+                    ], 
+                    "player5": [
+                        "  Himalay Agarwal  ", 
+                        "  b Avesh Khan ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Telukupalli Ravi Teja  ", 
+                        " c Ajay Rohera b Shubham Sharma ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player7": [
+                        "  Kolla Sumanth (wk)  ", 
+                        "  b Kuldeep Sen ", 
+                        "23", 
+                        "47", 
+                        "4", 
+                        "0", 
+                        "48.94"
+                    ], 
+                    "player8": [
+                        "  Tanay Thyagarajan  ", 
+                        " c Rajat Patidar b G Yadav ", 
+                        "12", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player9": [
+                        "  Mehdi Hasan  ", 
+                        " c Rajat Patidar b Avesh Khan ", 
+                        "25", 
+                        "30", 
+                        "3", 
+                        "1", 
+                        "83.33"
+                    ]
+                }, 
+                "batTeam": "Hyderabad", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Avesh Khan  ", 
+                        "13.5", 
+                        "4", 
+                        "30", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Kuldeep Sen  ", 
+                        "11", 
+                        "4", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.30"
+                    ], 
+                    "player3": [
+                        "  Gaurav Yadav  ", 
+                        "13", 
+                        "3", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Mihir Hirwani  ", 
+                        "15", 
+                        "1", 
+                        "59", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player5": [
+                        "  Shubham Sharma  ", 
+                        "13", 
+                        "2", 
+                        "30", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Madhya Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "6", 
+                    "nb": "7", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "65.5", 
+                    "runs": "185", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-09T16:15:00", 
+                    "startDate": "2018-12-06T09:15:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 5", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Ankit Sharma", 
+                            " Ankit Dane", 
+                            " Saransh Jain", 
+                            " Mohnish Mishra", 
+                            " Ishwar Pandey", 
+                            " Anshul Tripathi", 
+                            " Kumar Kartikeya  "
+                        ], 
+                        "playing11": [
+                            " Aryaman Birla", 
+                            " Ajay Rohera", 
+                            " Rajat Patidar", 
+                            " Naman Ojha (c & wk)", 
+                            " Shubham Sharma", 
+                            " Yash Dubey", 
+                            " Mihir Hirwani", 
+                            " Venkatesh Iyer", 
+                            " Gaurav Yadav", 
+                            " Kuldeep Sen", 
+                            " Avesh Khan  "
+                        ], 
+                        "teamName": "Madhya Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Ajay Dev Goud", 
+                            " Chama V Milind", 
+                            " Akash Bhandari", 
+                            " Mohammed Siraj", 
+                            " Palakodeti Sairam", 
+                            " Saaketh Sairam", 
+                            " PS Chaitanya Reddy  "
+                        ], 
+                        "playing11": [
+                            " Tanmay Agarwal", 
+                            " Akshath Reddy (c)", 
+                            " Rohit Rayudu", 
+                            " Bavanaka Sandeep", 
+                            " Himalay Agarwal", 
+                            " Kolla Sumanth (wk)", 
+                            " Telukupalli Ravi Teja", 
+                            " Tanay Thyagarajan", 
+                            " Mehdi Hassan", 
+                            " Ravi Kiran", 
+                            " Mohammad Muddassir  "
+                        ], 
+                        "teamName": "Hyderabad\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Madhya Pradesh", 
+                    "team2": "Hyderabad"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Madhya"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sridharan Sharath"
+                }, 
+                "venue": "Holkar Cricket Stadium, Indore"
+            }
+        }
+    ]
+}

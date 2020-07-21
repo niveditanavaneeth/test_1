@@ -1,0 +1,716 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 63, 
+                        "teamScore": "17"
+                    }, 
+                    "player10": {
+                        "ballNo": 328, 
+                        "teamScore": "92"
+                    }, 
+                    "player2": {
+                        "ballNo": 103, 
+                        "teamScore": "25"
+                    }, 
+                    "player3": {
+                        "ballNo": 122, 
+                        "teamScore": "25"
+                    }, 
+                    "player4": {
+                        "ballNo": 125, 
+                        "teamScore": "25"
+                    }, 
+                    "player5": {
+                        "ballNo": 215, 
+                        "teamScore": "52"
+                    }, 
+                    "player6": {
+                        "ballNo": 241, 
+                        "teamScore": "59"
+                    }, 
+                    "player7": {
+                        "ballNo": 244, 
+                        "teamScore": "59"
+                    }, 
+                    "player8": {
+                        "ballNo": 294, 
+                        "teamScore": "78"
+                    }, 
+                    "player9": {
+                        "ballNo": 318, 
+                        "teamScore": "87"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        " lbw b Fabid Ahmed ", 
+                        "13", 
+                        "60", 
+                        "0", 
+                        "0", 
+                        "21.67"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        "  b Pankaj Singh ", 
+                        "7", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "41.18"
+                    ], 
+                    "player11": [
+                        "  Varte Kima  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Lalhruaizela  ", 
+                        "  b Fabid Ahmed ", 
+                        "4", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        " c Sargunam b Pankaj Singh ", 
+                        "4", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "14.81"
+                    ], 
+                    "player4": [
+                        "  Michael Lalremkima  ", 
+                        " lbw b Pankaj Singh ", 
+                        "25", 
+                        "106", 
+                        "3", 
+                        "1", 
+                        "23.58"
+                    ], 
+                    "player5": [
+                        "  K Vanlalruata  ", 
+                        "  b Pankaj Singh ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Sinan Khadir  ", 
+                        " c B Ranjit b Nayar ", 
+                        "17", 
+                        "50", 
+                        "2", 
+                        "0", 
+                        "34.00"
+                    ], 
+                    "player7": [
+                        "  Saidingliana Sailo (wk)  ", 
+                        " c D Rohit b Pankaj Singh ", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player8": [
+                        "  Zorinliana (c)  ", 
+                        "  b Pankaj Singh ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  HM Ralte  ", 
+                        "  b Pankaj Singh ", 
+                        "14", 
+                        "29", 
+                        "3", 
+                        "0", 
+                        "48.28"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Singh  ", 
+                        "16.4", 
+                        "10", 
+                        "21", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "1.30"
+                    ], 
+                    "player2": [
+                        "  Vengadeshwaran  ", 
+                        "1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player3": [
+                        "  Nayar  ", 
+                        "16", 
+                        "6", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player4": [
+                        "  Fabid Ahmed  ", 
+                        "14", 
+                        "5", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player5": [
+                        "  Prashanth Varma  ", 
+                        "8", 
+                        "3", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "55.4", 
+                    "runs": "92", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 59, 
+                        "teamScore": "70"
+                    }, 
+                    "player2": {
+                        "ballNo": 73, 
+                        "teamScore": "79"
+                    }, 
+                    "player3": {
+                        "ballNo": 152, 
+                        "teamScore": "124"
+                    }, 
+                    "player4": {
+                        "ballNo": 206, 
+                        "teamScore": "165"
+                    }, 
+                    "player5": {
+                        "ballNo": 256, 
+                        "teamScore": "201"
+                    }, 
+                    "player6": {
+                        "ballNo": 292, 
+                        "teamScore": "219"
+                    }, 
+                    "player7": {
+                        "ballNo": 425, 
+                        "teamScore": "308"
+                    }, 
+                    "player8": {
+                        "ballNo": 447, 
+                        "teamScore": "317"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sargunam  ", 
+                        " c Saidingliana Sailo b G Lalbiakvela ", 
+                        "35", 
+                        "34", 
+                        "7", 
+                        "0", 
+                        "102.94"
+                    ], 
+                    "player10": [
+                        "  Vengadeshwaran  ", 
+                        " not out ", 
+                        "20", 
+                        "50", 
+                        "3", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player2": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        "  b Sinan Khadir ", 
+                        "102", 
+                        "127", 
+                        "11", 
+                        "1", 
+                        "80.31"
+                    ], 
+                    "player3": [
+                        "  P Dogra  ", 
+                        "  b Sinan Khadir ", 
+                        "2", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player4": [
+                        "  D Rohit (c)  ", 
+                        " c Saidingliana Sailo b Zorinliana ", 
+                        "12", 
+                        "44", 
+                        "1", 
+                        "0", 
+                        "27.27"
+                    ], 
+                    "player5": [
+                        "  Nayar  ", 
+                        " c G Lalbiakvela b Varte Kima ", 
+                        "19", 
+                        "24", 
+                        "2", 
+                        "0", 
+                        "79.17"
+                    ], 
+                    "player6": [
+                        "  Fabid Ahmed  ", 
+                        " not out ", 
+                        "103", 
+                        "153", 
+                        "10", 
+                        "1", 
+                        "67.32"
+                    ], 
+                    "player7": [
+                        "  Saju Chothan  ", 
+                        "  b Sinan Khadir ", 
+                        "9", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player8": [
+                        "  B Ranjit (wk)  ", 
+                        " c Saidingliana Sailo b Sinan Khadir ", 
+                        "44", 
+                        "60", 
+                        "6", 
+                        "0", 
+                        "73.33"
+                    ], 
+                    "player9": [
+                        "  Pankaj Singh  ", 
+                        " lbw b Sinan Khadir ", 
+                        "7", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "38.89"
+                    ]
+                }, 
+                "batTeam": "PDC", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  HM Ralte  ", 
+                        "12", 
+                        "1", 
+                        "62", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player2": [
+                        "  Varte Kima  ", 
+                        "7", 
+                        "0", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        "8", 
+                        "1", 
+                        "39", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.90"
+                    ], 
+                    "player4": [
+                        "  Sinan Khadir  ", 
+                        "33", 
+                        "3", 
+                        "97", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player5": [
+                        "  G Lalbiakvela  ", 
+                        "9.1", 
+                        "0", 
+                        "50", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player6": [
+                        "  Zorinliana (c)  ", 
+                        "15", 
+                        "1", 
+                        "61", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player7": [
+                        "  Akhil Rajput  ", 
+                        "5", 
+                        "1", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "11", 
+                    "lb": "6", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "89.1", 
+                    "runs": "375", 
+                    "wickets": "8"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 8, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 152, 
+                        "teamScore": "40"
+                    }, 
+                    "player2": {
+                        "ballNo": 12, 
+                        "teamScore": "0"
+                    }, 
+                    "player3": {
+                        "ballNo": 15, 
+                        "teamScore": "0"
+                    }, 
+                    "player4": {
+                        "ballNo": 49, 
+                        "teamScore": "5"
+                    }, 
+                    "player5": {
+                        "ballNo": 84, 
+                        "teamScore": "22"
+                    }, 
+                    "player6": {
+                        "ballNo": 97, 
+                        "teamScore": "25"
+                    }, 
+                    "player7": {
+                        "ballNo": 124, 
+                        "teamScore": "40"
+                    }, 
+                    "player8": {
+                        "ballNo": 136, 
+                        "teamScore": "40"
+                    }, 
+                    "player9": {
+                        "ballNo": 151, 
+                        "teamScore": "40"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        " c B Ranjit b Pankaj Singh ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        "  b Pankaj Singh ", 
+                        "3", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player11": [
+                        "  Varte Kima  ", 
+                        " not out ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  K Vanlalruata  ", 
+                        " c B Ranjit b Nayar ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Taruwar Kohli  ", 
+                        "  b Nayar ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Lalhruaizela  ", 
+                        " c Sargunam b Fabid Ahmed ", 
+                        "5", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player5": [
+                        "  Michael Lalremkima  ", 
+                        "  b Fabid Ahmed ", 
+                        "20", 
+                        "54", 
+                        "3", 
+                        "0", 
+                        "37.04"
+                    ], 
+                    "player6": [
+                        "  Sinan Abdul Khadir  ", 
+                        " c B Ranjit b Pankaj Singh ", 
+                        "10", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "43.48"
+                    ], 
+                    "player7": [
+                        "  Saidingliana Sailo (wk)  ", 
+                        " c P Dogra b Fabid Ahmed ", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player8": [
+                        "  Zorinliana (c)  ", 
+                        "  b Pankaj Singh ", 
+                        "2", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "6.67"
+                    ], 
+                    "player9": [
+                        "  HM Ralte  ", 
+                        " c P Dogra b Fabid Ahmed ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Singh  ", 
+                        "9.3", 
+                        "4", 
+                        "15", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player2": [
+                        "  Abhishek Nayar  ", 
+                        "7", 
+                        "2", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Fabid Ahmed  ", 
+                        "12", 
+                        "6", 
+                        "8", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.70"
+                    ], 
+                    "player4": [
+                        "  D Rohit (c)  ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "bowlTeam": "Puducherry", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "29.3", 
+                    "runs": "45", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Narayanan", 
+                            " Pawan Kumar", 
+                            " Abdul Safar", 
+                            " Akshay Jain", 
+                            " Govindaraajan", 
+                            " Madhavan Manohar", 
+                            " Ashith Rajiv", 
+                            " Shashank Singh", 
+                            " Sarag Udheshi", 
+                            " Parikshit Valsangkar", 
+                            " Saiju Titus", 
+                            " Prabhakaran Gopalakrishnan", 
+                            " Magendiran Chinnadurai", 
+                            " Nikhilesh Surendran", 
+                            " Sagar Trivedi", 
+                            " Iqlas Naha", 
+                            " Sashi Kumar  "
+                        ], 
+                        "playing11": [
+                            " D Rohit (c)", 
+                            " Vikneshwaran Marimuthu", 
+                            " B Ranjit (wk)", 
+                            " Vengadeshwaran", 
+                            " Prashanth Varma", 
+                            " Pankaj Singh", 
+                            " Thalaivan Sargunam", 
+                            " Saju Chothan", 
+                            " Fabid Ahmed", 
+                            " Paras Dogra", 
+                            " Abhishek Nayar  "
+                        ], 
+                        "teamName": "Puducherry\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Moia", 
+                            " Gaurav Singh", 
+                            " Lalhmangaiha", 
+                            " Lalnun Tluanga", 
+                            " Marema", 
+                            " C Lalrinsanga", 
+                            " Lalrempuia", 
+                            " Lalnunkima Varte  "
+                        ], 
+                        "playing11": [
+                            " Akhil Rajput", 
+                            " Lalhruaizela", 
+                            " Taruwar Kohli", 
+                            " K Vanlalruata", 
+                            " G Lalbiakvela", 
+                            " Lalhruai Ralte", 
+                            " Varte Kima", 
+                            " Saidingliana Sailo (wk)", 
+                            " Zorinliana (c)", 
+                            " Michael Lalremkima", 
+                            " Sinan Abdul Khadir  "
+                        ], 
+                        "teamName": "Mizoram\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Puducherry", 
+                    "team2": "Mizoram"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Mizoram"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Valmik Nalinkant Buch"
+                }, 
+                "venue": "Cricket Association Puducherry Siechem Ground, Puducherry"
+            }
+        }
+    ]
+}

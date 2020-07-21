@@ -1,0 +1,648 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 18, 
+                        "teamScore": "17"
+                    }, 
+                    "player10": {
+                        "ballNo": 214, 
+                        "teamScore": "152"
+                    }, 
+                    "player2": {
+                        "ballNo": 32, 
+                        "teamScore": "29"
+                    }, 
+                    "player3": {
+                        "ballNo": 54, 
+                        "teamScore": "48"
+                    }, 
+                    "player4": {
+                        "ballNo": 82, 
+                        "teamScore": "65"
+                    }, 
+                    "player5": {
+                        "ballNo": 87, 
+                        "teamScore": "66"
+                    }, 
+                    "player6": {
+                        "ballNo": 133, 
+                        "teamScore": "91"
+                    }, 
+                    "player7": {
+                        "ballNo": 135, 
+                        "teamScore": "91"
+                    }, 
+                    "player8": {
+                        "ballNo": 161, 
+                        "teamScore": "115"
+                    }, 
+                    "player9": {
+                        "ballNo": 191, 
+                        "teamScore": "128"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sumiran Amonkar  ", 
+                        " c Akshdeep Nath b Rajpoot ", 
+                        "7", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "77.78"
+                    ], 
+                    "player10": [
+                        "  Felix Alemao  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "1", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "7.14"
+                    ], 
+                    "player11": [
+                        "  Krishna Das  ", 
+                        " not out ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player2": [
+                        "  AS Desai  ", 
+                        " c Upendra Yadav b Yash Dayal ", 
+                        "19", 
+                        "22", 
+                        "4", 
+                        "0", 
+                        "86.36"
+                    ], 
+                    "player3": [
+                        "  SK Kamat (c)  ", 
+                        " c Rajpoot b Shivam Mavi ", 
+                        "41", 
+                        "56", 
+                        "6", 
+                        "0", 
+                        "73.21"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        "  b Rajpoot ", 
+                        "12", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player5": [
+                        "  Snehal Kauthankar  ", 
+                        " lbw b Yash Dayal ", 
+                        "6", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "75.00"
+                    ], 
+                    "player6": [
+                        "  Keenan Vaz (wk)  ", 
+                        " c Upendra Yadav b Shivam Mavi ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player7": [
+                        "  Darshan Misal  ", 
+                        " c M Saif b Saurabh Kumar ", 
+                        "43", 
+                        "66", 
+                        "6", 
+                        "1", 
+                        "65.15"
+                    ], 
+                    "player8": [
+                        "  Pandrekar  ", 
+                        " lbw b Shivam Mavi ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Lakshay Garg  ", 
+                        " c Madhav Kaushik b Shivam Mavi ", 
+                        "13", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "81.25"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajpoot  ", 
+                        "11", 
+                        "1", 
+                        "53", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player2": [
+                        "  Yash Dayal  ", 
+                        "10", 
+                        "0", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player3": [
+                        "  Shivam Mavi  ", 
+                        "10", 
+                        "3", 
+                        "25", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Saurabh Kumar  ", 
+                        "4.4", 
+                        "1", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "3", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "35.4", 
+                    "runs": "152", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 48, 
+                        "teamScore": "26"
+                    }, 
+                    "player2": {
+                        "ballNo": 348, 
+                        "teamScore": "169"
+                    }, 
+                    "player3": {
+                        "ballNo": 587, 
+                        "teamScore": "292"
+                    }, 
+                    "player4": {
+                        "ballNo": 937, 
+                        "teamScore": "542"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Madhav Kaushik  ", 
+                        " c Keenan Vaz b Lakshay Garg ", 
+                        "92", 
+                        "189", 
+                        "10", 
+                        "0", 
+                        "48.68"
+                    ], 
+                    "player2": [
+                        "  Samarth Singh  ", 
+                        " lbw b Lakshay Garg ", 
+                        "16", 
+                        "27", 
+                        "4", 
+                        "0", 
+                        "59.26"
+                    ], 
+                    "player3": [
+                        "  M Saif  ", 
+                        " c Keenan Vaz b Felix Alemao ", 
+                        "126", 
+                        "250", 
+                        "14", 
+                        "0", 
+                        "50.40"
+                    ], 
+                    "player4": [
+                        "  Akshdeep Nath (c)  ", 
+                        "  b Darshan Misal ", 
+                        "194", 
+                        "304", 
+                        "15", 
+                        "2", 
+                        "63.82"
+                    ], 
+                    "player5": [
+                        "  Priyam Garg  ", 
+                        " not out ", 
+                        "117", 
+                        "181", 
+                        "9", 
+                        "0", 
+                        "64.64"
+                    ], 
+                    "player6": [
+                        "  Rinku Singh  ", 
+                        " not out ", 
+                        "15", 
+                        "15", 
+                        "2", 
+                        "0", 
+                        "100.00"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Krishna Das  ", 
+                        "25", 
+                        "7", 
+                        "60", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player2": [
+                        "  Lakshay Garg  ", 
+                        "36", 
+                        "5", 
+                        "109", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Felix Alemao  ", 
+                        "35", 
+                        "2", 
+                        "127", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player4": [
+                        "  Darshan Misal  ", 
+                        "29", 
+                        "2", 
+                        "109", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player5": [
+                        "  Pandrekar  ", 
+                        "18", 
+                        "1", 
+                        "85", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player6": [
+                        "  Amit Verma  ", 
+                        "16", 
+                        "0", 
+                        "62", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player7": [
+                        "  AS Desai  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "161", 
+                    "runs": "564", 
+                    "wickets": "4"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 50, 
+                        "teamScore": "13"
+                    }, 
+                    "player10": {
+                        "ballNo": 463, 
+                        "teamScore": "165"
+                    }, 
+                    "player2": {
+                        "ballNo": 97, 
+                        "teamScore": "29"
+                    }, 
+                    "player3": {
+                        "ballNo": 109, 
+                        "teamScore": "35"
+                    }, 
+                    "player4": {
+                        "ballNo": 249, 
+                        "teamScore": "78"
+                    }, 
+                    "player5": {
+                        "ballNo": 268, 
+                        "teamScore": "83"
+                    }, 
+                    "player6": {
+                        "ballNo": 337, 
+                        "teamScore": "101"
+                    }, 
+                    "player7": {
+                        "ballNo": 362, 
+                        "teamScore": "111"
+                    }, 
+                    "player8": {
+                        "ballNo": 389, 
+                        "teamScore": "119"
+                    }, 
+                    "player9": {
+                        "ballNo": 430, 
+                        "teamScore": "144"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sumiran Amonkar  ", 
+                        " lbw b Rajpoot ", 
+                        "0", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Felix Alemao  ", 
+                        "  b Rajpoot ", 
+                        "1", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "6.67"
+                    ], 
+                    "player11": [
+                        "  Krishna Das  ", 
+                        " c Upendra Yadav b Rajpoot ", 
+                        "1", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "6.67"
+                    ], 
+                    "player2": [
+                        "  Amogh Sunil Desai  ", 
+                        " c M Saif b Rajpoot ", 
+                        "26", 
+                        "49", 
+                        "5", 
+                        "0", 
+                        "53.06"
+                    ], 
+                    "player3": [
+                        "  Sagun Kamat (c)  ", 
+                        " lbw b Shivam Mavi ", 
+                        "27", 
+                        "93", 
+                        "2", 
+                        "0", 
+                        "29.03"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " c Upendra Yadav b Rajpoot ", 
+                        "6", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "75.00"
+                    ], 
+                    "player5": [
+                        "  Snehal Suhas Kauthankar  ", 
+                        " c Priyam Garg b Saurabh Kumar ", 
+                        "28", 
+                        "122", 
+                        "3", 
+                        "0", 
+                        "22.95"
+                    ], 
+                    "player6": [
+                        "  Keenan Vaz (wk)  ", 
+                        "  b Saurabh Kumar ", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player7": [
+                        "  Darshan Misal  ", 
+                        " not out ", 
+                        "51", 
+                        "92", 
+                        "8", 
+                        "0", 
+                        "55.43"
+                    ], 
+                    "player8": [
+                        "  Amulya Pandrekar  ", 
+                        "  b Saurabh Kumar ", 
+                        "5", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "29.41"
+                    ], 
+                    "player9": [
+                        "  Lakshay Garg  ", 
+                        " st Upendra Yadav b Saurabh Kumar ", 
+                        "4", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "23.53"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ankit Rajpoot  ", 
+                        "22.1", 
+                        "9", 
+                        "41", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player2": [
+                        "  Yash Dayal  ", 
+                        "9", 
+                        "2", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player3": [
+                        "  Shivam Mavi  ", 
+                        "15", 
+                        "1", 
+                        "34", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player4": [
+                        "  Saurabh Kumar  ", 
+                        "30", 
+                        "9", 
+                        "55", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player5": [
+                        "  Mohammad Saif  ", 
+                        "1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "5", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "77.1", 
+                    "runs": "165", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Almas Shaukat", 
+                            " Suresh Raina", 
+                            " Umang Sharma", 
+                            " Dhruv Pratap Singh", 
+                            " Zeeshan Ansari  "
+                        ], 
+                        "playing11": [
+                            " Madhav Kaushik", 
+                            " Priyam Garg", 
+                            " Akshdeep Nath (c)", 
+                            " Ankit Rajpoot", 
+                            " Upendra Yadav (wk)", 
+                            " Samarth Singh", 
+                            " Mohammad Saif", 
+                            " Saurabh Kumar", 
+                            " Rinku Singh", 
+                            " Shivam Mavi", 
+                            " Yash Dayal  "
+                        ], 
+                        "teamName": "Uttar Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Samar Shravan Dubhashi", 
+                            " Vishamber Kahlon", 
+                            " Suyash Prabhudessai", 
+                            " Vijesh Prabhudessai  "
+                        ], 
+                        "playing11": [
+                            " Sumiran Amonkar", 
+                            " Amogh Sunil Desai", 
+                            " Sagun Kamat (c)", 
+                            " Amulya Pandrekar", 
+                            " Lakshay Garg ", 
+                            " Snehal Suhas Kauthankar", 
+                            " Darshan Misal", 
+                            " Keenan Vaz (wk)", 
+                            " Amit Verma", 
+                            " Krishna Das", 
+                            " Felix Alemao  "
+                        ], 
+                        "teamName": "Goa\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Uttar Pradesh", 
+                    "team2": "Goa"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Uttar"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Manu Nayyar"
+                }, 
+                "venue": "Green Park, Kanpur"
+            }
+        }
+    ]
+}

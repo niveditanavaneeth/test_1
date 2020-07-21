@@ -1,0 +1,849 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 41, 
+                        "teamScore": "15"
+                    }, 
+                    "player10": {
+                        "ballNo": 258, 
+                        "teamScore": "110"
+                    }, 
+                    "player2": {
+                        "ballNo": 56, 
+                        "teamScore": "22"
+                    }, 
+                    "player3": {
+                        "ballNo": 91, 
+                        "teamScore": "36"
+                    }, 
+                    "player4": {
+                        "ballNo": 98, 
+                        "teamScore": "41"
+                    }, 
+                    "player5": {
+                        "ballNo": 101, 
+                        "teamScore": "41"
+                    }, 
+                    "player6": {
+                        "ballNo": 133, 
+                        "teamScore": "57"
+                    }, 
+                    "player7": {
+                        "ballNo": 209, 
+                        "teamScore": "87"
+                    }, 
+                    "player8": {
+                        "ballNo": 220, 
+                        "teamScore": "90"
+                    }, 
+                    "player9": {
+                        "ballNo": 235, 
+                        "teamScore": "99"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  H Rana  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "50", 
+                        "108", 
+                        "7", 
+                        "0", 
+                        "46.30"
+                    ], 
+                    "player10": [
+                        "  Ajit Chahal  ", 
+                        " run out (Samarth Singh)  ", 
+                        "3", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player11": [
+                        "  A Hooda  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Ankit Kumar  ", 
+                        " c Rinku Singh b Saurabh Kumar ", 
+                        "4", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "19.05"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        "  b Yash Dayal ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player4": [
+                        "  Rohit Parmod Sharma (wk)  ", 
+                        " c Samarth Singh b Rajpoot ", 
+                        "6", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player5": [
+                        "  Pramod Chandila  ", 
+                        " c Rinku Singh b Saurabh Kumar ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player6": [
+                        "  Rahul Dagar  ", 
+                        " c Rinku Singh b Saurabh Kumar ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Jayant Yadav  ", 
+                        " st Upendra Yadav b Saurabh Kumar ", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player8": [
+                        "  Harshal Patel (c)  ", 
+                        " c Priyam Garg b Saurabh Kumar ", 
+                        "15", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "35.71"
+                    ], 
+                    "player9": [
+                        "  Sanjay Pahal  ", 
+                        " not out ", 
+                        "19", 
+                        "22", 
+                        "2", 
+                        "1", 
+                        "86.36"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajpoot  ", 
+                        "14", 
+                        "0", 
+                        "55", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player2": [
+                        "  Yash Dayal  ", 
+                        "10", 
+                        "4", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player3": [
+                        "  Saurabh Kumar  ", 
+                        "19", 
+                        "7", 
+                        "33", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "43", 
+                    "runs": "110", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 15, 
+                        "teamScore": "6"
+                    }, 
+                    "player10": {
+                        "ballNo": 224, 
+                        "teamScore": "133"
+                    }, 
+                    "player2": {
+                        "ballNo": 21, 
+                        "teamScore": "10"
+                    }, 
+                    "player3": {
+                        "ballNo": 60, 
+                        "teamScore": "46"
+                    }, 
+                    "player4": {
+                        "ballNo": 92, 
+                        "teamScore": "53"
+                    }, 
+                    "player5": {
+                        "ballNo": 146, 
+                        "teamScore": "94"
+                    }, 
+                    "player6": {
+                        "ballNo": 198, 
+                        "teamScore": "114"
+                    }, 
+                    "player7": {
+                        "ballNo": 207, 
+                        "teamScore": "126"
+                    }, 
+                    "player8": {
+                        "ballNo": 221, 
+                        "teamScore": "133"
+                    }, 
+                    "player9": {
+                        "ballNo": 222, 
+                        "teamScore": "133"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Shivam Chaudhary  ", 
+                        "  b Ajit Chahal ", 
+                        "5", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player10": [
+                        "  Yash Dayal  ", 
+                        " c Harshal Patel b Ajit Chahal ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Dhruv Pratap Singh  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Samarth Singh  ", 
+                        "  b Harshal Patel ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  UA Sharma  ", 
+                        "  b Jayant Yadav ", 
+                        "17", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "51.52"
+                    ], 
+                    "player4": [
+                        "  Akshdeep Nath (c)  ", 
+                        "  b Jayant Yadav ", 
+                        "15", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "71.43"
+                    ], 
+                    "player5": [
+                        "  Priyam Garg  ", 
+                        " c Rohit Parmod Sharma b Harshal Patel ", 
+                        "17", 
+                        "45", 
+                        "2", 
+                        "0", 
+                        "37.78"
+                    ], 
+                    "player6": [
+                        "  Rinku Singh  ", 
+                        " c Rohit Parmod Sharma b Harshal Patel ", 
+                        "43", 
+                        "64", 
+                        "5", 
+                        "1", 
+                        "67.19"
+                    ], 
+                    "player7": [
+                        "  Upendra Yadav (wk)  ", 
+                        " c Rohit Parmod Sharma b Ajit Chahal ", 
+                        "11", 
+                        "34", 
+                        "1", 
+                        "0", 
+                        "32.35"
+                    ], 
+                    "player8": [
+                        "  Saurabh Kumar  ", 
+                        " c Rohit Parmod Sharma b Ajit Chahal ", 
+                        "5", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "125.00"
+                    ], 
+                    "player9": [
+                        "  Rajpoot  ", 
+                        " lbw b Ajit Chahal ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Harshal Patel (c)  ", 
+                        "8.2", 
+                        "0", 
+                        "32", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player2": [
+                        "  Ajit Chahal  ", 
+                        "7", 
+                        "1", 
+                        "16", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player3": [
+                        "  Sanjay Pahal  ", 
+                        "4", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player4": [
+                        "  Jayant Yadav  ", 
+                        "13", 
+                        "2", 
+                        "40", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  A Hooda  ", 
+                        "4", 
+                        "0", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player6": [
+                        "  Chaitanya Bishnoi  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "16", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "37.2", 
+                    "runs": "133", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 87, 
+                        "teamScore": "37"
+                    }, 
+                    "player10": {
+                        "ballNo": 224, 
+                        "teamScore": "129"
+                    }, 
+                    "player2": {
+                        "ballNo": 127, 
+                        "teamScore": "65"
+                    }, 
+                    "player3": {
+                        "ballNo": 129, 
+                        "teamScore": "65"
+                    }, 
+                    "player4": {
+                        "ballNo": 139, 
+                        "teamScore": "66"
+                    }, 
+                    "player5": {
+                        "ballNo": 148, 
+                        "teamScore": "77"
+                    }, 
+                    "player6": {
+                        "ballNo": 151, 
+                        "teamScore": "81"
+                    }, 
+                    "player7": {
+                        "ballNo": 207, 
+                        "teamScore": "117"
+                    }, 
+                    "player8": {
+                        "ballNo": 209, 
+                        "teamScore": "117"
+                    }, 
+                    "player9": {
+                        "ballNo": 220, 
+                        "teamScore": "129"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  H Rana  ", 
+                        " lbw b Yash Dayal ", 
+                        "3", 
+                        "44", 
+                        "0", 
+                        "0", 
+                        "6.82"
+                    ], 
+                    "player10": [
+                        "  Ajit Chahal  ", 
+                        "  b Saurabh Kumar ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player11": [
+                        "  A Hooda  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Ankit Kumar  ", 
+                        " c Priyam Garg b Saurabh Kumar ", 
+                        "51", 
+                        "65", 
+                        "9", 
+                        "0", 
+                        "78.46"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "7", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "28.00"
+                    ], 
+                    "player4": [
+                        "  Rohit Parmod Sharma (wk)  ", 
+                        " c Upendra Yadav b Saurabh Kumar ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Rahul Dagar  ", 
+                        "  b Saurabh Kumar ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player6": [
+                        "  Pramod Chandila  ", 
+                        " c Rinku Singh b Dhruv Pratap Singh ", 
+                        "10", 
+                        "6", 
+                        "1", 
+                        "1", 
+                        "166.67"
+                    ], 
+                    "player7": [
+                        "  Sanjay Pahal  ", 
+                        " lbw b Saurabh Kumar ", 
+                        "16", 
+                        "30", 
+                        "2", 
+                        "0", 
+                        "53.33"
+                    ], 
+                    "player8": [
+                        "  Jayant Yadav  ", 
+                        " c Priyam Garg b Rajpoot ", 
+                        "26", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "72.22"
+                    ], 
+                    "player9": [
+                        "  Harshal Patel (c)  ", 
+                        " st Upendra Yadav b Rajpoot ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Saurabh Kumar  ", 
+                        "16", 
+                        "8", 
+                        "32", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  Rajpoot  ", 
+                        "9.2", 
+                        "2", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player3": [
+                        "  Yash Dayal  ", 
+                        "4", 
+                        "0", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player4": [
+                        "  Shivam Chaudhary  ", 
+                        "3", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Dhruv Pratap Singh  ", 
+                        "5", 
+                        "0", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ]
+                }, 
+                "bowlTeam": "Uttar Pradesh", 
+                "extras": {
+                    "b": "12", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "37.2", 
+                    "runs": "129", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 1, 
+                        "teamScore": "0"
+                    }, 
+                    "player2": {
+                        "ballNo": 8, 
+                        "teamScore": "5"
+                    }, 
+                    "player3": {
+                        "ballNo": 35, 
+                        "teamScore": "34"
+                    }, 
+                    "player4": {
+                        "ballNo": 61, 
+                        "teamScore": "49"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Shivam Chaudhary  ", 
+                        "  b Harshal Patel ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Samarth Singh  ", 
+                        " not out ", 
+                        "53", 
+                        "64", 
+                        "9", 
+                        "0", 
+                        "82.81"
+                    ], 
+                    "player3": [
+                        "  Umang Sharma  ", 
+                        " lbw b Ajit Chahal ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player4": [
+                        "  Akshdeep Nath (c)  ", 
+                        " run out (Pramod Chandila)  ", 
+                        "19", 
+                        "14", 
+                        "4", 
+                        "0", 
+                        "135.71"
+                    ], 
+                    "player5": [
+                        "  Priyam Garg  ", 
+                        " c H Rana b Sanjay Pahal ", 
+                        "11", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "78.57"
+                    ], 
+                    "player6": [
+                        "  Rinku Singh  ", 
+                        " not out ", 
+                        "20", 
+                        "32", 
+                        "2", 
+                        "0", 
+                        "62.50"
+                    ]
+                }, 
+                "batTeam": "UP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Harshal Patel (c)  ", 
+                        "4.2", 
+                        "0", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player2": [
+                        "  Ajit Chahal  ", 
+                        "6", 
+                        "0", 
+                        "29", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player3": [
+                        "  Ashish Hooda  ", 
+                        "5", 
+                        "0", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player4": [
+                        "  Jayant Yadav  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ], 
+                    "player5": [
+                        "  Sanjay Pahal  ", 
+                        "3", 
+                        "0", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "5", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "21.2", 
+                    "runs": "110", 
+                    "wickets": "4"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-31T16:30:00", 
+                    "startDate": "2018-12-30T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Yuzvendra Chahal", 
+                            " Poonish Mehta", 
+                            " Shubham Rohilla", 
+                            " Nitin Saini", 
+                            " Mohit Sharma", 
+                            " Rahul Tewatia", 
+                            " Tinu Kundu", 
+                            " Prashant Kumar", 
+                            " Prashant Vashist", 
+                            " Rahul Dalal", 
+                            " Amit Rana", 
+                            " Ravi Balhara  "
+                        ], 
+                        "playing11": [
+                            " Harshal Patel (c)", 
+                            " Ashish Hooda", 
+                            " Jayant Yadav", 
+                            " Rahul Dagar", 
+                            " Rohit Parmod Sharma (wk)", 
+                            " Sanjay Pahal", 
+                            " Chaitanya Bishnoi", 
+                            " Pramod Chandila", 
+                            " Ajit Chahal", 
+                            " Himanshu Rana", 
+                            " Ankit Kumar  "
+                        ], 
+                        "teamName": "Haryana\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Zeeshan Ansari", 
+                            " Imtiaz Ahmed", 
+                            " Suresh Raina", 
+                            " Almas Shaukat", 
+                            " Mohammad Saif", 
+                            " Shivam Mavi", 
+                            " Madhav Kaushik  "
+                        ], 
+                        "playing11": [
+                            " Priyam Garg", 
+                            " Akshdeep Nath (c)", 
+                            " Ankit Rajpoot", 
+                            " Umang Sharma", 
+                            " Samarth Singh", 
+                            " Upendra Yadav (wk)", 
+                            " Saurabh Kumar", 
+                            " Rinku Singh", 
+                            " Shivam Chaudhary", 
+                            " Dhruv Pratap Singh", 
+                            " Yash Dayal  "
+                        ], 
+                        "teamName": "Uttar Pradesh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Haryana", 
+                    "team2": "Uttar Pradesh"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Uttar"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sankinani Vishnuvardhan"
+                }, 
+                "venue": "Ch Bansi Lal Cricket Stadium, Rohtak"
+            }
+        }
+    ]
+}

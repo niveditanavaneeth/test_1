@@ -1,0 +1,660 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 61, 
+                        "teamScore": "48"
+                    }, 
+                    "player10": {
+                        "ballNo": 692, 
+                        "teamScore": "411"
+                    }, 
+                    "player2": {
+                        "ballNo": 97, 
+                        "teamScore": "63"
+                    }, 
+                    "player3": {
+                        "ballNo": 159, 
+                        "teamScore": "98"
+                    }, 
+                    "player4": {
+                        "ballNo": 399, 
+                        "teamScore": "227"
+                    }, 
+                    "player5": {
+                        "ballNo": 406, 
+                        "teamScore": "230"
+                    }, 
+                    "player6": {
+                        "ballNo": 523, 
+                        "teamScore": "309"
+                    }, 
+                    "player7": {
+                        "ballNo": 621, 
+                        "teamScore": "365"
+                    }, 
+                    "player8": {
+                        "ballNo": 660, 
+                        "teamScore": "385"
+                    }, 
+                    "player9": {
+                        "ballNo": 684, 
+                        "teamScore": "407"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bista  ", 
+                        " c Avinash Yadav b Anureet Singh ", 
+                        "47", 
+                        "54", 
+                        "9", 
+                        "0", 
+                        "87.04"
+                    ], 
+                    "player10": [
+                        "  Tushar Deshpande  ", 
+                        " not out ", 
+                        "4", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player11": [
+                        "  Karsh Kothari  ", 
+                        " lbw b Harsh Tyagi ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Herwadkar  ", 
+                        " c Mahesh Rawat b Anureet Singh ", 
+                        "9", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player3": [
+                        "  Ashay Sardesai  ", 
+                        "  b Avinash Yadav ", 
+                        "19", 
+                        "44", 
+                        "3", 
+                        "0", 
+                        "43.18"
+                    ], 
+                    "player4": [
+                        "  Suryakumar Yadav  ", 
+                        " c Mahesh Rawat b Anureet Singh ", 
+                        "83", 
+                        "144", 
+                        "5", 
+                        "1", 
+                        "57.64"
+                    ], 
+                    "player5": [
+                        "  S Lad  ", 
+                        "  b Avinash Yadav ", 
+                        "99", 
+                        "189", 
+                        "14", 
+                        "0", 
+                        "52.38"
+                    ], 
+                    "player6": [
+                        "  Tare (wk)  ", 
+                        " lbw b Avinash Yadav ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player7": [
+                        "  Shivam Dubey  ", 
+                        " c Mahesh Rawat b Harsh Tyagi ", 
+                        "114", 
+                        "139", 
+                        "13", 
+                        "4", 
+                        "82.01"
+                    ], 
+                    "player8": [
+                        "  D Kulkarni (c)  ", 
+                        "  b Harsh Tyagi ", 
+                        "22", 
+                        "56", 
+                        "3", 
+                        "1", 
+                        "39.29"
+                    ], 
+                    "player9": [
+                        "  Shams Mulani  ", 
+                        " c Manish Rao b Harsh Tyagi ", 
+                        "8", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "30.77"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Anureet Singh  ", 
+                        "29", 
+                        "5", 
+                        "77", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Manish Rao  ", 
+                        "14", 
+                        "1", 
+                        "74", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ], 
+                    "player3": [
+                        "  Harsh Tyagi  ", 
+                        "24.2", 
+                        "6", 
+                        "83", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player4": [
+                        "  Avinash Yadav  ", 
+                        "31", 
+                        "4", 
+                        "99", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player5": [
+                        "  Madhur Khatri  ", 
+                        "17", 
+                        "0", 
+                        "77", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ]
+                }, 
+                "bowlTeam": "Railways", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "115.2", 
+                    "runs": "411", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 12, 
+                        "teamScore": "3"
+                    }, 
+                    "player10": {
+                        "ballNo": 626, 
+                        "teamScore": "307"
+                    }, 
+                    "player2": {
+                        "ballNo": 50, 
+                        "teamScore": "16"
+                    }, 
+                    "player3": {
+                        "ballNo": 111, 
+                        "teamScore": "46"
+                    }, 
+                    "player4": {
+                        "ballNo": 166, 
+                        "teamScore": "62"
+                    }, 
+                    "player5": {
+                        "ballNo": 243, 
+                        "teamScore": "111"
+                    }, 
+                    "player6": {
+                        "ballNo": 258, 
+                        "teamScore": "115"
+                    }, 
+                    "player7": {
+                        "ballNo": 430, 
+                        "teamScore": "173"
+                    }, 
+                    "player8": {
+                        "ballNo": 529, 
+                        "teamScore": "238"
+                    }, 
+                    "player9": {
+                        "ballNo": 534, 
+                        "teamScore": "241"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  S Wakaskar  ", 
+                        "  c and b Shivam Dubey ", 
+                        "23", 
+                        "58", 
+                        "3", 
+                        "0", 
+                        "39.66"
+                    ], 
+                    "player10": [
+                        "  Madhur Khatri  ", 
+                        " c Shivam Dubey b Tushar Deshpande ", 
+                        "29", 
+                        "50", 
+                        "5", 
+                        "0", 
+                        "58.00"
+                    ], 
+                    "player11": [
+                        "  Anureet Singh  ", 
+                        " not out ", 
+                        "38", 
+                        "45", 
+                        "7", 
+                        "0", 
+                        "84.44"
+                    ], 
+                    "player2": [
+                        "  N Bhille  ", 
+                        "  b Tushar Deshpande ", 
+                        "2", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player3": [
+                        "  Pratham Singh  ", 
+                        "  b D Kulkarni ", 
+                        "4", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "23.53"
+                    ], 
+                    "player4": [
+                        "  A Ghosh  ", 
+                        " lbw b Karsh Kothari ", 
+                        "71", 
+                        "197", 
+                        "8", 
+                        "1", 
+                        "36.04"
+                    ], 
+                    "player5": [
+                        "  Abhinav Dixit  ", 
+                        " run out (Suryakumar Yadav)  ", 
+                        "4", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "17.39"
+                    ], 
+                    "player6": [
+                        "  Mahesh Rawat (c) (wk)  ", 
+                        " c Herwadkar b Tushar Deshpande ", 
+                        "30", 
+                        "35", 
+                        "6", 
+                        "0", 
+                        "85.71"
+                    ], 
+                    "player7": [
+                        "  Manish Rao  ", 
+                        " c Bista b Tushar Deshpande ", 
+                        "3", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "23.08"
+                    ], 
+                    "player8": [
+                        "  Harsh Tyagi  ", 
+                        " c Tare b Tushar Deshpande ", 
+                        "39", 
+                        "142", 
+                        "4", 
+                        "1", 
+                        "27.46"
+                    ], 
+                    "player9": [
+                        "  Avinash Yadav  ", 
+                        " c Herwadkar b Tushar Deshpande ", 
+                        "48", 
+                        "43", 
+                        "5", 
+                        "3", 
+                        "111.63"
+                    ]
+                }, 
+                "batTeam": "Railways", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  D Kulkarni (c)  ", 
+                        "21", 
+                        "8", 
+                        "60", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  Tushar Deshpande  ", 
+                        "24.2", 
+                        "7", 
+                        "70", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Shivam Dubey  ", 
+                        "20", 
+                        "5", 
+                        "36", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player4": [
+                        "  Karsh Kothari  ", 
+                        "15", 
+                        "4", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Shams Mulani  ", 
+                        "17", 
+                        "2", 
+                        "77", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player6": [
+                        "  Bista  ", 
+                        "7", 
+                        "3", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ]
+                }, 
+                "bowlTeam": "Mumbai", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "5", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "104.2", 
+                    "runs": "307", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 8, 
+                        "teamScore": "5"
+                    }, 
+                    "player2": {
+                        "ballNo": 100, 
+                        "teamScore": "34"
+                    }, 
+                    "player3": {
+                        "ballNo": 156, 
+                        "teamScore": "58"
+                    }, 
+                    "player4": {
+                        "ballNo": 230, 
+                        "teamScore": "104"
+                    }, 
+                    "player5": {
+                        "ballNo": 410, 
+                        "teamScore": "158"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Jay Gokul Bista  ", 
+                        " lbw b Manish Rao ", 
+                        "5", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Akhil Herwadkar  ", 
+                        " c Mahesh Rawat b Anureet Singh ", 
+                        "24", 
+                        "73", 
+                        "3", 
+                        "0", 
+                        "32.88"
+                    ], 
+                    "player3": [
+                        "  Ashay Sardesai  ", 
+                        " lbw b Harsh Tyagi ", 
+                        "15", 
+                        "50", 
+                        "2", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player4": [
+                        "  Siddhesh Lad  ", 
+                        "  b Harsh Tyagi ", 
+                        "76", 
+                        "168", 
+                        "9", 
+                        "1", 
+                        "45.24"
+                    ], 
+                    "player5": [
+                        "  Suryakumar Yadav  ", 
+                        " c A Ghosh b Harsh Tyagi ", 
+                        "19", 
+                        "37", 
+                        "3", 
+                        "0", 
+                        "51.35"
+                    ], 
+                    "player6": [
+                        "  Aditya Tare (wk)  ", 
+                        " not out ", 
+                        "100", 
+                        "187", 
+                        "11", 
+                        "2", 
+                        "53.48"
+                    ], 
+                    "player7": [
+                        "  Shivam Dubey  ", 
+                        " not out ", 
+                        "69", 
+                        "99", 
+                        "8", 
+                        "2", 
+                        "69.70"
+                    ]
+                }, 
+                "batTeam": "Mumbai", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Anureet Singh  ", 
+                        "16", 
+                        "1", 
+                        "57", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player2": [
+                        "  Manish Rao  ", 
+                        "11", 
+                        "1", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player3": [
+                        "  Harsh Tyagi  ", 
+                        "36", 
+                        "15", 
+                        "86", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player4": [
+                        "  Madhur Khatri  ", 
+                        "13", 
+                        "1", 
+                        "52", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  Avinash Yadav  ", 
+                        "26.4", 
+                        "3", 
+                        "94", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ]
+                }, 
+                "bowlTeam": "Railways", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "2", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "4"
+                }, 
+                "total": {
+                    "overs": "102.4", 
+                    "runs": "321", 
+                    "wickets": "5"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Faiz Ahmed", 
+                            " Shivakant Shukla", 
+                            " Manjeet Singh", 
+                            " Karan Thakur  "
+                        ], 
+                        "playing11": [
+                            " Saurabh Wakaskar", 
+                            " Mahesh Rawat (c & wk)", 
+                            " Arindam Ghosh", 
+                            " Anureet Singh", 
+                            " Nitin Bhille", 
+                            " Madhur Khatri", 
+                            " Avinash Yadav", 
+                            " Pratham Singh", 
+                            " Abhinav Dixit", 
+                            " Harsh Tyagi", 
+                            " Manish Rao  "
+                        ], 
+                        "teamName": "Railways\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Shreyas Iyer", 
+                            " Royston Dias", 
+                            " Eknath Kerkar", 
+                            " Akash Parkar  "
+                        ], 
+                        "playing11": [
+                            " Ashay Sardesai", 
+                            " Aditya Tare (wk)", 
+                            " Suryakumar Yadav", 
+                            " Jay Gokul Bista", 
+                            " Akhil Herwadkar", 
+                            " Dhawal Kulkarni (c)", 
+                            " Siddhesh Lad", 
+                            " Karsh Kothari", 
+                            " Shams Mulani", 
+                            " Tushar Deshpande", 
+                            " Shivam Dube  "
+                        ], 
+                        "teamName": "Mumbai\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Railways", 
+                    "team2": "Mumbai"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Mumbai"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Chinmay Sharma"
+                }, 
+                "venue": "Karnail Singh Stadium, Delhi"
+            }
+        }
+    ]
+}

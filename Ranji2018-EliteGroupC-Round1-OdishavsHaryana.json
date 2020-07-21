@@ -1,0 +1,705 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 106, 
+                        "teamScore": "63"
+                    }, 
+                    "player10": {
+                        "ballNo": 674, 
+                        "teamScore": "324"
+                    }, 
+                    "player2": {
+                        "ballNo": 181, 
+                        "teamScore": "98"
+                    }, 
+                    "player3": {
+                        "ballNo": 252, 
+                        "teamScore": "123"
+                    }, 
+                    "player4": {
+                        "ballNo": 347, 
+                        "teamScore": "171"
+                    }, 
+                    "player5": {
+                        "ballNo": 361, 
+                        "teamScore": "173"
+                    }, 
+                    "player6": {
+                        "ballNo": 504, 
+                        "teamScore": "218"
+                    }, 
+                    "player7": {
+                        "ballNo": 590, 
+                        "teamScore": "278"
+                    }, 
+                    "player8": {
+                        "ballNo": 596, 
+                        "teamScore": "279"
+                    }, 
+                    "player9": {
+                        "ballNo": 666, 
+                        "teamScore": "321"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anurag Sarangi  ", 
+                        " st N Saini b Tinu Kundu ", 
+                        "114", 
+                        "190", 
+                        "17", 
+                        "2", 
+                        "60.00"
+                    ], 
+                    "player10": [
+                        "  Rajesh Mohanty  ", 
+                        "  b Tinu Kundu ", 
+                        "16", 
+                        "33", 
+                        "0", 
+                        "2", 
+                        "48.48"
+                    ], 
+                    "player11": [
+                        "  Pappu Roy  ", 
+                        " not out ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Sandeep Pattnaik  ", 
+                        "  b Ajit Chahal ", 
+                        "20", 
+                        "41", 
+                        "3", 
+                        "0", 
+                        "48.78"
+                    ], 
+                    "player3": [
+                        "  G Poddar  ", 
+                        " lbw b Mohit Sharma ", 
+                        "14", 
+                        "44", 
+                        "2", 
+                        "0", 
+                        "31.82"
+                    ], 
+                    "player4": [
+                        "  Subhranshu Senapati  ", 
+                        "  b Harshal Patel ", 
+                        "11", 
+                        "34", 
+                        "1", 
+                        "0", 
+                        "32.35"
+                    ], 
+                    "player5": [
+                        "  Samantray (c)  ", 
+                        " c Pramod Chandila b Mohit Sharma ", 
+                        "9", 
+                        "43", 
+                        "1", 
+                        "0", 
+                        "20.93"
+                    ], 
+                    "player6": [
+                        "  Santanu Mishra  ", 
+                        "  c and b Tinu Kundu ", 
+                        "71", 
+                        "174", 
+                        "9", 
+                        "0", 
+                        "40.80"
+                    ], 
+                    "player7": [
+                        "  Sujit Lenka (wk)  ", 
+                        "  c and b Harshal Patel ", 
+                        "15", 
+                        "61", 
+                        "2", 
+                        "0", 
+                        "24.59"
+                    ], 
+                    "player8": [
+                        "  Debabrata Pradhan  ", 
+                        "  b Tinu Kundu ", 
+                        "36", 
+                        "48", 
+                        "5", 
+                        "0", 
+                        "75.00"
+                    ], 
+                    "player9": [
+                        "  Pradhan  ", 
+                        " c Harshal Patel b Jayant Yadav ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Mohit Sharma (c)  ", 
+                        "19", 
+                        "4", 
+                        "63", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player2": [
+                        "  Harshal Patel  ", 
+                        "24", 
+                        "3", 
+                        "72", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Ajit Chahal  ", 
+                        "15", 
+                        "2", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player4": [
+                        "  Jayant Yadav  ", 
+                        "30", 
+                        "7", 
+                        "70", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player5": [
+                        "  Tinu Kundu  ", 
+                        "21.2", 
+                        "9", 
+                        "44", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player6": [
+                        "  Chaitanya Bishnoi  ", 
+                        "3", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "9", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "112.2", 
+                    "runs": "324", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 36, 
+                        "teamScore": "10"
+                    }, 
+                    "player10": {
+                        "ballNo": 771, 
+                        "teamScore": "442"
+                    }, 
+                    "player2": {
+                        "ballNo": 58, 
+                        "teamScore": "18"
+                    }, 
+                    "player3": {
+                        "ballNo": 331, 
+                        "teamScore": "196"
+                    }, 
+                    "player4": {
+                        "ballNo": 523, 
+                        "teamScore": "318"
+                    }, 
+                    "player5": {
+                        "ballNo": 528, 
+                        "teamScore": "319"
+                    }, 
+                    "player6": {
+                        "ballNo": 534, 
+                        "teamScore": "319"
+                    }, 
+                    "player7": {
+                        "ballNo": 601, 
+                        "teamScore": "343"
+                    }, 
+                    "player8": {
+                        "ballNo": 734, 
+                        "teamScore": "422"
+                    }, 
+                    "player9": {
+                        "ballNo": 755, 
+                        "teamScore": "434"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  N Saini (wk)  ", 
+                        "  b Rajesh Mohanty ", 
+                        "5", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "31.25"
+                    ], 
+                    "player10": [
+                        "  Mohit Sharma (c)  ", 
+                        " st Sujit Lenka b G Poddar ", 
+                        "7", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player11": [
+                        "  Tinu Kundu  ", 
+                        " not out ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Rohilla  ", 
+                        "  b Debabrata Pradhan ", 
+                        "9", 
+                        "34", 
+                        "1", 
+                        "0", 
+                        "26.47"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        " lbw b Rajesh Mohanty ", 
+                        "75", 
+                        "143", 
+                        "9", 
+                        "0", 
+                        "52.45"
+                    ], 
+                    "player4": [
+                        "  H Rana  ", 
+                        "  b Debabrata Pradhan ", 
+                        "164", 
+                        "231", 
+                        "25", 
+                        "0", 
+                        "71.00"
+                    ], 
+                    "player5": [
+                        "  Pramod Chandila  ", 
+                        " c Sujit Lenka b Debabrata Pradhan ", 
+                        "53", 
+                        "107", 
+                        "7", 
+                        "0", 
+                        "49.53"
+                    ], 
+                    "player6": [
+                        "  Rohit Parmod Sharma  ", 
+                        " c Sujit Lenka b Pradhan ", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player7": [
+                        "  Jayant Yadav  ", 
+                        " lbw b Pappu Roy ", 
+                        "9", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "25.71"
+                    ], 
+                    "player8": [
+                        "  Harshal Patel  ", 
+                        " c Sujit Lenka b Pradhan ", 
+                        "72", 
+                        "99", 
+                        "10", 
+                        "2", 
+                        "72.73"
+                    ], 
+                    "player9": [
+                        "  Ajit Chahal  ", 
+                        " c Samantray b G Poddar ", 
+                        "27", 
+                        "82", 
+                        "5", 
+                        "0", 
+                        "32.93"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pradhan  ", 
+                        "28", 
+                        "6", 
+                        "100", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player2": [
+                        "  Rajesh Mohanty  ", 
+                        "22", 
+                        "2", 
+                        "77", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Debabrata Pradhan  ", 
+                        "23", 
+                        "1", 
+                        "96", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player4": [
+                        "  Pappu Roy  ", 
+                        "27", 
+                        "5", 
+                        "76", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  G Poddar  ", 
+                        "15.3", 
+                        "3", 
+                        "53", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Samantray (c)  ", 
+                        "13", 
+                        "0", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Odisha", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "1", 
+                    "nb": "9", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "128.3", 
+                    "runs": "442", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 45, 
+                        "teamScore": "12"
+                    }, 
+                    "player2": {
+                        "ballNo": 157, 
+                        "teamScore": "55"
+                    }, 
+                    "player3": {
+                        "ballNo": 192, 
+                        "teamScore": "71"
+                    }, 
+                    "player4": {
+                        "ballNo": 268, 
+                        "teamScore": "99"
+                    }, 
+                    "player5": {
+                        "ballNo": 459, 
+                        "teamScore": "191"
+                    }, 
+                    "player6": {
+                        "ballNo": 491, 
+                        "teamScore": "198"
+                    }, 
+                    "player7": {
+                        "ballNo": 579, 
+                        "teamScore": "239"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anurag Sarangi  ", 
+                        " c N Saini b Mohit Sharma ", 
+                        "29", 
+                        "100", 
+                        "3", 
+                        "0", 
+                        "29.00"
+                    ], 
+                    "player2": [
+                        "  Sandeep Pattnaik  ", 
+                        " c N Saini b Jayant Yadav ", 
+                        "6", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player3": [
+                        "  Govinda Poddar  ", 
+                        "  c and b Tinu Kundu ", 
+                        "22", 
+                        "49", 
+                        "4", 
+                        "0", 
+                        "44.90"
+                    ], 
+                    "player4": [
+                        "  Santanu Mishra  ", 
+                        " lbw b Tinu Kundu ", 
+                        "24", 
+                        "57", 
+                        "4", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player5": [
+                        "  Biplab Samantray (c)  ", 
+                        " not out ", 
+                        "103", 
+                        "210", 
+                        "14", 
+                        "2", 
+                        "49.05"
+                    ], 
+                    "player6": [
+                        "  Subhranshu Senapati  ", 
+                        "  b Harshal Patel ", 
+                        "45", 
+                        "85", 
+                        "8", 
+                        "0", 
+                        "52.94"
+                    ], 
+                    "player7": [
+                        "  Sujit Lenka (wk)  ", 
+                        " c Chaitanya Bishnoi b Jayant Yadav ", 
+                        "2", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "8.70"
+                    ], 
+                    "player8": [
+                        "  Debabrata Pradhan  ", 
+                        "  b Chaitanya Bishnoi ", 
+                        "13", 
+                        "39", 
+                        "3", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player9": [
+                        "  Rajesh Mohanty  ", 
+                        " not out ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Tinu Kundu  ", 
+                        "24.2", 
+                        "11", 
+                        "64", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player2": [
+                        "  Harshal Patel  ", 
+                        "19", 
+                        "3", 
+                        "70", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player3": [
+                        "  Jayant Yadav  ", 
+                        "28", 
+                        "12", 
+                        "45", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player4": [
+                        "  Mohit Sharma (c)  ", 
+                        "12", 
+                        "5", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player5": [
+                        "  Chaitanya Bishnoi  ", 
+                        "8", 
+                        "3", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player6": [
+                        "  Ajit Chahal  ", 
+                        "8", 
+                        "1", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "18", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "99.2", 
+                    "runs": "267", 
+                    "wickets": "7"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Ranjit Singh", 
+                            " Basant Mohanty", 
+                            " Subham Nayak", 
+                            " Abhishek Raut  "
+                        ], 
+                        "playing11": [
+                            " Govinda Poddar", 
+                            " Anurag Sarangi", 
+                            " Biplab Samantray (c)", 
+                            " Suryakant Pradhan", 
+                            " Subhranshu Senapati", 
+                            " Pappu Roy", 
+                            " Santanu Mishra", 
+                            " Rajesh Mohanty", 
+                            " Sujit Lenka (wk)", 
+                            " Debabrata Pradhan", 
+                            " Sandeep Pattnaik  "
+                        ], 
+                        "teamName": "Odisha\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Poonish Mehta", 
+                            " Ashish Hooda", 
+                            " Rahul Tewatia  "
+                        ], 
+                        "playing11": [
+                            " Nitin Saini (wk)", 
+                            " Harshal Patel", 
+                            " Jayant Yadav", 
+                            " Mohit Sharma (c)", 
+                            " Rohit Parmod Sharma", 
+                            " Chaitanya Bishnoi", 
+                            " Pramod Chandila", 
+                            " Ajit Chahal", 
+                            " Himanshu Rana", 
+                            " Shubham Rohilla", 
+                            " Tinu Kundu  "
+                        ], 
+                        "teamName": "Haryana\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Odisha", 
+                    "team2": "Haryana"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Odisha"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Rajib Deb Burman"
+                }, 
+                "venue": "KIIT Stadium, Bhubaneswar"
+            }
+        }
+    ]
+}

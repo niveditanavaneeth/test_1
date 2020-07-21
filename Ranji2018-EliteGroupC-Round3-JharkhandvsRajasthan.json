@@ -1,0 +1,917 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 2, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 254, 
+                        "teamScore": "100"
+                    }, 
+                    "player2": {
+                        "ballNo": 15, 
+                        "teamScore": "1"
+                    }, 
+                    "player3": {
+                        "ballNo": 50, 
+                        "teamScore": "9"
+                    }, 
+                    "player4": {
+                        "ballNo": 111, 
+                        "teamScore": "32"
+                    }, 
+                    "player5": {
+                        "ballNo": 136, 
+                        "teamScore": "49"
+                    }, 
+                    "player6": {
+                        "ballNo": 150, 
+                        "teamScore": "65"
+                    }, 
+                    "player7": {
+                        "ballNo": 208, 
+                        "teamScore": "88"
+                    }, 
+                    "player8": {
+                        "ballNo": 219, 
+                        "teamScore": "90"
+                    }, 
+                    "player9": {
+                        "ballNo": 248, 
+                        "teamScore": "98"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        "  b A Yadav ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Rahul Chahar  ", 
+                        " c Sumit Kumar b Rahul Shukla ", 
+                        "7", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "35.00"
+                    ], 
+                    "player11": [
+                        "  Nathu Singh  ", 
+                        " not out ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " c Sumit Kumar b A Yadav ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Lomror (c)  ", 
+                        " c Nazim Siddiqui b Aaron ", 
+                        "20", 
+                        "55", 
+                        "2", 
+                        "0", 
+                        "36.36"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        " c Sumit Kumar b A Yadav ", 
+                        "3", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player5": [
+                        "  Menaria  ", 
+                        " c Jaggi b Aaron ", 
+                        "16", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "32.65"
+                    ], 
+                    "player6": [
+                        "  Rajesh Bishnoi Jr  ", 
+                        " lbw b Aaron ", 
+                        "33", 
+                        "43", 
+                        "4", 
+                        "2", 
+                        "76.74"
+                    ], 
+                    "player7": [
+                        "  Tajinder Singh  ", 
+                        " c Sumit Kumar b Aaron ", 
+                        "10", 
+                        "8", 
+                        "2", 
+                        "0", 
+                        "125.00"
+                    ], 
+                    "player8": [
+                        "  TM Ul-Haq  ", 
+                        "  b Anukul Roy ", 
+                        "8", 
+                        "47", 
+                        "1", 
+                        "0", 
+                        "17.02"
+                    ], 
+                    "player9": [
+                        "  Aniket Choudhary  ", 
+                        " c Sumit Kumar b Aaron ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  A Yadav  ", 
+                        "15", 
+                        "4", 
+                        "35", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player2": [
+                        "  Rahul Shukla  ", 
+                        "10.2", 
+                        "5", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Aaron  ", 
+                        "12", 
+                        "4", 
+                        "22", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player4": [
+                        "  A Singh  ", 
+                        "2", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player5": [
+                        "  Alok Sharma  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player6": [
+                        "  Anukul Roy  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Jharkhand", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "42.2", 
+                    "runs": "100", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 21, 
+                        "teamScore": "8"
+                    }, 
+                    "player10": {
+                        "ballNo": 349, 
+                        "teamScore": "152"
+                    }, 
+                    "player2": {
+                        "ballNo": 45, 
+                        "teamScore": "18"
+                    }, 
+                    "player3": {
+                        "ballNo": 68, 
+                        "teamScore": "24"
+                    }, 
+                    "player4": {
+                        "ballNo": 89, 
+                        "teamScore": "34"
+                    }, 
+                    "player5": {
+                        "ballNo": 196, 
+                        "teamScore": "92"
+                    }, 
+                    "player6": {
+                        "ballNo": 256, 
+                        "teamScore": "114"
+                    }, 
+                    "player7": {
+                        "ballNo": 291, 
+                        "teamScore": "126"
+                    }, 
+                    "player8": {
+                        "ballNo": 336, 
+                        "teamScore": "151"
+                    }, 
+                    "player9": {
+                        "ballNo": 344, 
+                        "teamScore": "152"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nazim Siddiqui (c)  ", 
+                        " c Chetan Bist b Nathu Singh ", 
+                        "13", 
+                        "51", 
+                        "1", 
+                        "0", 
+                        "25.49"
+                    ], 
+                    "player10": [
+                        "  Rahul Shukla  ", 
+                        " c Rahul Chahar b TM Ul-Haq ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  A Yadav  ", 
+                        " not out ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Sumit Kumar (wk)  ", 
+                        " c Rajesh Bishnoi Jr b TM Ul-Haq ", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player3": [
+                        "  Alok Sharma  ", 
+                        " c Rajesh Bishnoi Jr b TM Ul-Haq ", 
+                        "7", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "43.75"
+                    ], 
+                    "player4": [
+                        "  Saurabh Tiwary  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player5": [
+                        "  Jaggi  ", 
+                        " c Chetan Bist b Rahul Chahar ", 
+                        "79", 
+                        "131", 
+                        "10", 
+                        "0", 
+                        "60.31"
+                    ], 
+                    "player6": [
+                        "  Virat Singh  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "18", 
+                        "47", 
+                        "4", 
+                        "0", 
+                        "38.30"
+                    ], 
+                    "player7": [
+                        "  A Singh  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "4", 
+                        "34", 
+                        "1", 
+                        "0", 
+                        "11.76"
+                    ], 
+                    "player8": [
+                        "  Anukul Roy  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "2", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "8.70"
+                    ], 
+                    "player9": [
+                        "  Aaron  ", 
+                        " c Chetan Bist b Rahul Chahar ", 
+                        "11", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "47.83"
+                    ]
+                }, 
+                "batTeam": "Jharkhand", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Aniket Choudhary  ", 
+                        "21", 
+                        "3", 
+                        "65", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  TM Ul-Haq  ", 
+                        "20.1", 
+                        "4", 
+                        "42", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Nathu Singh  ", 
+                        "12", 
+                        "3", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "5", 
+                        "2", 
+                        "8", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "6", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "58.1", 
+                    "runs": "152", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 42, 
+                        "teamScore": "20"
+                    }, 
+                    "player10": {
+                        "ballNo": 766, 
+                        "teamScore": "379"
+                    }, 
+                    "player2": {
+                        "ballNo": 79, 
+                        "teamScore": "43"
+                    }, 
+                    "player3": {
+                        "ballNo": 82, 
+                        "teamScore": "43"
+                    }, 
+                    "player4": {
+                        "ballNo": 291, 
+                        "teamScore": "109"
+                    }, 
+                    "player5": {
+                        "ballNo": 563, 
+                        "teamScore": "247"
+                    }, 
+                    "player6": {
+                        "ballNo": 689, 
+                        "teamScore": "326"
+                    }, 
+                    "player7": {
+                        "ballNo": 700, 
+                        "teamScore": "332"
+                    }, 
+                    "player8": {
+                        "ballNo": 701, 
+                        "teamScore": "332"
+                    }, 
+                    "player9": {
+                        "ballNo": 728, 
+                        "teamScore": "342"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        " st Sumit Kumar b Anukul Roy ", 
+                        "19", 
+                        "43", 
+                        "3", 
+                        "0", 
+                        "44.19"
+                    ], 
+                    "player10": [
+                        "  Rahul Chahar  ", 
+                        " c A Yadav b Anukul Roy ", 
+                        "36", 
+                        "32", 
+                        "0", 
+                        "5", 
+                        "112.50"
+                    ], 
+                    "player11": [
+                        "  Nathu Singh  ", 
+                        " not out ", 
+                        "1", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "7.14"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " lbw b A Yadav ", 
+                        "12", 
+                        "23", 
+                        "3", 
+                        "0", 
+                        "52.17"
+                    ], 
+                    "player3": [
+                        "  Lomror (c)  ", 
+                        " c Rahul Shukla b Anukul Roy ", 
+                        "11", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "68.75"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        " lbw b A Yadav ", 
+                        "45", 
+                        "107", 
+                        "5", 
+                        "1", 
+                        "42.06"
+                    ], 
+                    "player5": [
+                        "  Menaria  ", 
+                        " c A Singh b Anukul Roy ", 
+                        "125", 
+                        "325", 
+                        "19", 
+                        "0", 
+                        "38.46"
+                    ], 
+                    "player6": [
+                        "  Rajesh Bishnoi Jr  ", 
+                        " c Sumit Kumar b Rahul Shukla ", 
+                        "82", 
+                        "145", 
+                        "13", 
+                        "0", 
+                        "56.55"
+                    ], 
+                    "player7": [
+                        "  Tajinder Singh  ", 
+                        " lbw b A Singh ", 
+                        "36", 
+                        "50", 
+                        "5", 
+                        "0", 
+                        "72.00"
+                    ], 
+                    "player8": [
+                        "  TM Ul-Haq  ", 
+                        " c Sumit Kumar b A Singh ", 
+                        "5", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player9": [
+                        "  Aniket Choudhary  ", 
+                        " lbw b A Singh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  A Yadav  ", 
+                        "29", 
+                        "7", 
+                        "78", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player2": [
+                        "  Rahul Shukla  ", 
+                        "25", 
+                        "2", 
+                        "88", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Anukul Roy  ", 
+                        "30.4", 
+                        "9", 
+                        "97", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Aaron  ", 
+                        "26", 
+                        "7", 
+                        "69", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player5": [
+                        "  Alok Sharma  ", 
+                        "11", 
+                        "2", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player6": [
+                        "  A Singh  ", 
+                        "6", 
+                        "1", 
+                        "17", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ]
+                }, 
+                "bowlTeam": "Jharkhand", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "5", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "127.4", 
+                    "runs": "379", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 126, 
+                        "teamScore": "58"
+                    }, 
+                    "player10": {
+                        "ballNo": 486, 
+                        "teamScore": "235"
+                    }, 
+                    "player2": {
+                        "ballNo": 128, 
+                        "teamScore": "58"
+                    }, 
+                    "player3": {
+                        "ballNo": 252, 
+                        "teamScore": "115"
+                    }, 
+                    "player4": {
+                        "ballNo": 256, 
+                        "teamScore": "119"
+                    }, 
+                    "player5": {
+                        "ballNo": 317, 
+                        "teamScore": "137"
+                    }, 
+                    "player6": {
+                        "ballNo": 342, 
+                        "teamScore": "153"
+                    }, 
+                    "player7": {
+                        "ballNo": 429, 
+                        "teamScore": "215"
+                    }, 
+                    "player8": {
+                        "ballNo": 474, 
+                        "teamScore": "222"
+                    }, 
+                    "player9": {
+                        "ballNo": 475, 
+                        "teamScore": "222"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Alok Sharma  ", 
+                        " lbw b Aniket Choudhary ", 
+                        "21", 
+                        "63", 
+                        "4", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player10": [
+                        "  Rahul Shukla  ", 
+                        " not out ", 
+                        "5", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player11": [
+                        "  Ajay Yadav  ", 
+                        " lbw b Rahul Chahar ", 
+                        "8", 
+                        "6", 
+                        "2", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player2": [
+                        "  Sumit Kumar (wk)  ", 
+                        "  b Nathu Singh ", 
+                        "30", 
+                        "65", 
+                        "6", 
+                        "0", 
+                        "46.15"
+                    ], 
+                    "player3": [
+                        "  Virat Singh  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "27", 
+                        "67", 
+                        "4", 
+                        "0", 
+                        "40.30"
+                    ], 
+                    "player4": [
+                        "  Saurabh Tiwary  ", 
+                        " lbw b Rahul Chahar ", 
+                        "28", 
+                        "61", 
+                        "5", 
+                        "0", 
+                        "45.90"
+                    ], 
+                    "player5": [
+                        "  Ishank Jaggi  ", 
+                        " c Chetan Bist b Nathu Singh ", 
+                        "51", 
+                        "126", 
+                        "5", 
+                        "0", 
+                        "40.48"
+                    ], 
+                    "player6": [
+                        "  Anand Singh  ", 
+                        "  b Rahul Chahar ", 
+                        "1", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "3.57"
+                    ], 
+                    "player7": [
+                        "  Anukul Roy  ", 
+                        "  b Rahul Chahar ", 
+                        "9", 
+                        "7", 
+                        "2", 
+                        "0", 
+                        "128.57"
+                    ], 
+                    "player8": [
+                        "  Nazim Siddiqui (c)  ", 
+                        " c Rahul Chahar b TM Ul-Haq ", 
+                        "32", 
+                        "32", 
+                        "5", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player9": [
+                        "  Varun Aaron  ", 
+                        " lbw b Rahul Chahar ", 
+                        "4", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "15.38"
+                    ]
+                }, 
+                "batTeam": "Jharkhand", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  TM Ul-Haq  ", 
+                        "25", 
+                        "7", 
+                        "63", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  Nathu Singh  ", 
+                        "19", 
+                        "7", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Aniket Choudhary  ", 
+                        "12", 
+                        "1", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "25", 
+                        "7", 
+                        "77", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "13", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "81", 
+                    "runs": "235", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-23T16:00:00", 
+                    "startDate": "2018-11-20T09:00:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 3", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Kumar Deobrat", 
+                            " Utkarsh Singh", 
+                            " Ishan Kishan", 
+                            " Ashish Kumar  "
+                        ], 
+                        "playing11": [
+                            " Nazim Siddiqui (c)", 
+                            " Saurabh Tiwary", 
+                            " Ishank Jaggi", 
+                            " Anand Singh", 
+                            " Anukul Roy", 
+                            " Varun Aaron", 
+                            " Ajay Yadav", 
+                            " Sumit Kumar (wk)", 
+                            " Rahul Shukla", 
+                            " Virat Singh", 
+                            " Alok Sharma  "
+                        ], 
+                        "teamName": "Jharkhand\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Manender Narender Singh", 
+                            " Salman Khan", 
+                            " Arjit Gupta", 
+                            " Deepak Chahar  "
+                        ], 
+                        "playing11": [
+                            " Amitkumar Gautam", 
+                            " Chetan Bist (wk)", 
+                            " Mahipal Lomror (c)", 
+                            " Robin Bist", 
+                            " Ashok Menaria", 
+                            " Rajesh Bishnoi Jr", 
+                            " Tajinder Singh", 
+                            " Tanveer Ul-Haq", 
+                            " Aniket Choudhary", 
+                            " Rahul Chahar", 
+                            " Nathu Singh  "
+                        ], 
+                        "teamName": "Rajasthan\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Jharkhand", 
+                    "team2": "Rajasthan"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Jharkhand"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Rajib Deb Burman"
+                }, 
+                "venue": "JSCA International Stadium Complex, Ranchi"
+            }
+        }
+    ]
+}

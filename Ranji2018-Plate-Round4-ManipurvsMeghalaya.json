@@ -1,0 +1,837 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 12, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 385, 
+                        "teamScore": "211"
+                    }, 
+                    "player2": {
+                        "ballNo": 37, 
+                        "teamScore": "23"
+                    }, 
+                    "player3": {
+                        "ballNo": 172, 
+                        "teamScore": "106"
+                    }, 
+                    "player4": {
+                        "ballNo": 183, 
+                        "teamScore": "110"
+                    }, 
+                    "player5": {
+                        "ballNo": 248, 
+                        "teamScore": "134"
+                    }, 
+                    "player6": {
+                        "ballNo": 299, 
+                        "teamScore": "151"
+                    }, 
+                    "player7": {
+                        "ballNo": 329, 
+                        "teamScore": "161"
+                    }, 
+                    "player8": {
+                        "ballNo": 337, 
+                        "teamScore": "167"
+                    }, 
+                    "player9": {
+                        "ballNo": 384, 
+                        "teamScore": "211"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prafullomani Singh (wk)  ", 
+                        "  b Aditya Singhania ", 
+                        "64", 
+                        "108", 
+                        "11", 
+                        "1", 
+                        "59.26"
+                    ], 
+                    "player10": [
+                        "  Thokchom Kishan  ", 
+                        " c Nagar b Aditya Singhania ", 
+                        "32", 
+                        "30", 
+                        "5", 
+                        "1", 
+                        "106.67"
+                    ], 
+                    "player11": [
+                        "  Bishworjit Konthoujam  ", 
+                        "  c and b Gurinder Singh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Lakhan Rawat  ", 
+                        " c Puneet Bisht b Abhay Negi ", 
+                        "8", 
+                        "6", 
+                        "0", 
+                        "1", 
+                        "133.33"
+                    ], 
+                    "player3": [
+                        "  Priyojit K Singh  ", 
+                        " c Tarique Siddique b Chengkam Sangma ", 
+                        "5", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        " lbw b Chengkam Sangma ", 
+                        "33", 
+                        "75", 
+                        "3", 
+                        "0", 
+                        "44.00"
+                    ], 
+                    "player5": [
+                        "  Bimol Singh  ", 
+                        " lbw b Aditya Singhania ", 
+                        "3", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "30.00"
+                    ], 
+                    "player6": [
+                        "  Syed Mujibur Rahaman  ", 
+                        " c Dippu Sangma b Aditya Singhania ", 
+                        "22", 
+                        "68", 
+                        "4", 
+                        "0", 
+                        "32.35"
+                    ], 
+                    "player7": [
+                        "  Santosh Singh  ", 
+                        "  c and b Gurinder Singh ", 
+                        "9", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "21.43"
+                    ], 
+                    "player8": [
+                        "  Kabrambam Homendro  ", 
+                        " not out ", 
+                        "26", 
+                        "33", 
+                        "4", 
+                        "0", 
+                        "78.79"
+                    ], 
+                    "player9": [
+                        "  William Singh  ", 
+                        " c Raj Biswa b Gurinder Singh ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Lakhan Singh  ", 
+                        "9", 
+                        "1", 
+                        "41", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player2": [
+                        "  Abhay Negi  ", 
+                        "8", 
+                        "3", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player3": [
+                        "  Chengkam Sangma  ", 
+                        "10", 
+                        "2", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Gurinder Singh  ", 
+                        "16.1", 
+                        "3", 
+                        "52", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player5": [
+                        "  Dippu Sangma  ", 
+                        "7", 
+                        "2", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player6": [
+                        "  Aditya Singhania  ", 
+                        "14", 
+                        "4", 
+                        "42", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Manipur", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "0", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "64.1", 
+                    "runs": "211", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 46, 
+                        "teamScore": "23"
+                    }, 
+                    "player10": {
+                        "ballNo": 526, 
+                        "teamScore": "326"
+                    }, 
+                    "player2": {
+                        "ballNo": 172, 
+                        "teamScore": "94"
+                    }, 
+                    "player3": {
+                        "ballNo": 311, 
+                        "teamScore": "196"
+                    }, 
+                    "player4": {
+                        "ballNo": 348, 
+                        "teamScore": "236"
+                    }, 
+                    "player5": {
+                        "ballNo": 372, 
+                        "teamScore": "247"
+                    }, 
+                    "player6": {
+                        "ballNo": 509, 
+                        "teamScore": "230"
+                    }, 
+                    "player7": {
+                        "ballNo": 512, 
+                        "teamScore": "321"
+                    }, 
+                    "player8": {
+                        "ballNo": 516, 
+                        "teamScore": "321"
+                    }, 
+                    "player9": {
+                        "ballNo": 522, 
+                        "teamScore": "326"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Raj Biswa  ", 
+                        " lbw b William Singh ", 
+                        "87", 
+                        "161", 
+                        "12", 
+                        "1", 
+                        "54.04"
+                    ], 
+                    "player10": [
+                        "  Lakhan Singh  ", 
+                        " lbw b Bishworjit Konthoujam ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Chengkam Sangma  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Tarique Siddique  ", 
+                        " lbw b Thokchom Kishan ", 
+                        "4", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "21.05"
+                    ], 
+                    "player3": [
+                        "  Jason Lamare (c)  ", 
+                        " c Yashpal Singh b Thokchom Kishan ", 
+                        "23", 
+                        "66", 
+                        "4", 
+                        "0", 
+                        "34.85"
+                    ], 
+                    "player4": [
+                        "  Puneet Bisht (wk)  ", 
+                        " c Priyojit K Singh b William Singh ", 
+                        "92", 
+                        "88", 
+                        "13", 
+                        "0", 
+                        "104.55"
+                    ], 
+                    "player5": [
+                        "  Nagar  ", 
+                        "  b William Singh ", 
+                        "22", 
+                        "25", 
+                        "4", 
+                        "0", 
+                        "88.00"
+                    ], 
+                    "player6": [
+                        "  Gurinder Singh  ", 
+                        "  b Kabrambam Homendro ", 
+                        "55", 
+                        "86", 
+                        "6", 
+                        "0", 
+                        "63.95"
+                    ], 
+                    "player7": [
+                        "  Abhay Negi  ", 
+                        " c Thokchom Kishan b Bishworjit Konthoujam ", 
+                        "29", 
+                        "76", 
+                        "5", 
+                        "0", 
+                        "38.16"
+                    ], 
+                    "player8": [
+                        "  Aditya Singhania  ", 
+                        "  b Kabrambam Homendro ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Dippu Sangma  ", 
+                        "  b Kabrambam Homendro ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MGLY", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Kabrambam Homendro  ", 
+                        "12.4", 
+                        "1", 
+                        "27", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Thokchom Kishan  ", 
+                        "17", 
+                        "3", 
+                        "71", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player3": [
+                        "  Bishworjit Konthoujam  ", 
+                        "22", 
+                        "3", 
+                        "75", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player4": [
+                        "  Priyojit K Singh  ", 
+                        "14", 
+                        "2", 
+                        "51", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player5": [
+                        "  Yashpal Singh (c)  ", 
+                        "8", 
+                        "3", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player6": [
+                        "  William Singh  ", 
+                        "12", 
+                        "0", 
+                        "66", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player7": [
+                        "  Lakhan Rawat  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Manipur", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "7", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "87.4", 
+                    "runs": "326", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 11, 
+                        "teamScore": "5"
+                    }, 
+                    "player10": {
+                        "ballNo": 258, 
+                        "teamScore": "172"
+                    }, 
+                    "player2": {
+                        "ballNo": 24, 
+                        "teamScore": "22"
+                    }, 
+                    "player3": {
+                        "ballNo": 70, 
+                        "teamScore": "43"
+                    }, 
+                    "player4": {
+                        "ballNo": 72, 
+                        "teamScore": "43"
+                    }, 
+                    "player5": {
+                        "ballNo": 91, 
+                        "teamScore": "67"
+                    }, 
+                    "player6": {
+                        "ballNo": 114, 
+                        "teamScore": "78"
+                    }, 
+                    "player7": {
+                        "ballNo": 129, 
+                        "teamScore": "89"
+                    }, 
+                    "player8": {
+                        "ballNo": 130, 
+                        "teamScore": "89"
+                    }, 
+                    "player9": {
+                        "ballNo": 222, 
+                        "teamScore": "132"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prafullomani Singh (wk)  ", 
+                        "  b Abhay Negi ", 
+                        "4", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player10": [
+                        "  Thokchom Kishan  ", 
+                        " lbw b Abhay Negi ", 
+                        "9", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player11": [
+                        "  Bishworjit Konthoujam  ", 
+                        " run out (Puneet Bisht)  ", 
+                        "6", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "85.71"
+                    ], 
+                    "player2": [
+                        "  Lakhan Rawat  ", 
+                        " lbw b Abhay Negi ", 
+                        "10", 
+                        "11", 
+                        "2", 
+                        "0", 
+                        "90.91"
+                    ], 
+                    "player3": [
+                        "  Priyojit K Singh  ", 
+                        " lbw b Gurinder Singh ", 
+                        "10", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "37.04"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        " not out ", 
+                        "103", 
+                        "133", 
+                        "16", 
+                        "3", 
+                        "77.44"
+                    ], 
+                    "player5": [
+                        "  Santosh Singh  ", 
+                        " c Nagar b Gurinder Singh ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Syed Mujibur Rahaman  ", 
+                        " lbw b Gurinder Singh ", 
+                        "5", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player7": [
+                        "  Bimol Singh  ", 
+                        " lbw b Aditya Singhania ", 
+                        "4", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player8": [
+                        "  Kabrambam Homendro  ", 
+                        " c Puneet Bisht b Gurinder Singh ", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player9": [
+                        "  William Singh  ", 
+                        " lbw b Gurinder Singh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Lakhan Singh  ", 
+                        "4", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player2": [
+                        "  Abhay Negi  ", 
+                        "11", 
+                        "2", 
+                        "34", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Chengkam Sangma  ", 
+                        "3", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ], 
+                    "player4": [
+                        "  Gurinder Singh  ", 
+                        "16", 
+                        "4", 
+                        "46", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player5": [
+                        "  Aditya Singhania  ", 
+                        "8", 
+                        "1", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player6": [
+                        "  Dippu Sangma  ", 
+                        "1", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Manipur", 
+                "extras": {
+                    "b": "14", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "43", 
+                    "runs": "172", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "9"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Raj Biswa  ", 
+                        " not out ", 
+                        "44", 
+                        "35", 
+                        "8", 
+                        "0", 
+                        "125.71"
+                    ], 
+                    "player2": [
+                        "  Tarique Siddique  ", 
+                        "  b Thokchom Kishan ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player3": [
+                        "  Jason Lamare (c)  ", 
+                        " not out ", 
+                        "6", 
+                        "29", 
+                        "1", 
+                        "0", 
+                        "20.69"
+                    ]
+                }, 
+                "batTeam": "MGLY", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Thokchom Kishan  ", 
+                        "5", 
+                        "2", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player2": [
+                        "  Kabrambam Homendro  ", 
+                        "5", 
+                        "1", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player3": [
+                        "  Bishworjit Konthoujam  ", 
+                        "1", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "12.00"
+                    ], 
+                    "player4": [
+                        "  William Singh  ", 
+                        "0.1", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "24.00"
+                    ]
+                }, 
+                "bowlTeam": "Manipur", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "11.1", 
+                    "runs": "58", 
+                    "wickets": "1"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Chingangbam Singh", 
+                            " Sagatpam Jayanta", 
+                            " Kennedy Singh  "
+                        ], 
+                        "playing11": [
+                            " Prafullomani Singh (wk)", 
+                            " Lakhan Rawat", 
+                            " Kangabam Singh", 
+                            " Yashpal Singh (c)", 
+                            " Bimol Singh", 
+                            " Syed Mujibur Rahaman", 
+                            " Thokchom Santosh", 
+                            " Homendro Meitei", 
+                            " William Singh", 
+                            " Thokchom Kishan", 
+                            " Bishworjit Konthoujam  "
+                        ], 
+                        "teamName": "Manipur\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Amiangshu Sen", 
+                            " Mark Ingty", 
+                            " Babloo Passah  "
+                        ], 
+                        "playing11": [
+                            " Raj Biswa", 
+                            " Jason Lamare (c)", 
+                            " Tarique Siddique", 
+                            " Puneet Bisht (wk)", 
+                            " Gurinder Singh", 
+                            " Abhay Negi", 
+                            " Yogesh Nagar", 
+                            " Aditya Singhania", 
+                            " Chengkam Sangma", 
+                            " Dippu Sangma", 
+                            " Lakhan Singh  "
+                        ], 
+                        "teamName": "Meghalaya\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Manipur", 
+                    "team2": "Meghalaya"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Meghalaya"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Youraj Singh"
+                }, 
+                "venue": "Jadavpur University Campus 2nd Ground, Kolkata"
+            }
+        }
+    ]
+}

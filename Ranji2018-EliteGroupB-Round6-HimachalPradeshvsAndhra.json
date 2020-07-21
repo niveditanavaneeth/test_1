@@ -1,0 +1,733 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 327, 
+                        "teamScore": "173"
+                    }, 
+                    "player2": {
+                        "ballNo": 80, 
+                        "teamScore": "52"
+                    }, 
+                    "player3": {
+                        "ballNo": 140, 
+                        "teamScore": "85"
+                    }, 
+                    "player4": {
+                        "ballNo": 156, 
+                        "teamScore": "87"
+                    }, 
+                    "player5": {
+                        "ballNo": 192, 
+                        "teamScore": "109"
+                    }, 
+                    "player6": {
+                        "ballNo": 204, 
+                        "teamScore": "117"
+                    }, 
+                    "player7": {
+                        "ballNo": 239, 
+                        "teamScore": "135"
+                    }, 
+                    "player8": {
+                        "ballNo": 241, 
+                        "teamScore": "135"
+                    }, 
+                    "player9": {
+                        "ballNo": 249, 
+                        "teamScore": "136"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prasanth Kumar  ", 
+                        "  b Arpit Guleria ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  B Ayyappa  ", 
+                        " lbw b Rishi Dhawan ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player11": [
+                        "  C Stephen  ", 
+                        " not out ", 
+                        "3", 
+                        "36", 
+                        "0", 
+                        "0", 
+                        "8.33"
+                    ], 
+                    "player2": [
+                        "  G Rao  ", 
+                        " c Praveen Thakur b Arpit Guleria ", 
+                        "19", 
+                        "41", 
+                        "3", 
+                        "0", 
+                        "46.34"
+                    ], 
+                    "player3": [
+                        "  J Krishna  ", 
+                        "  b P Jaiswal ", 
+                        "74", 
+                        "111", 
+                        "9", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player4": [
+                        "  Bhui  ", 
+                        "  b P Jaiswal ", 
+                        "10", 
+                        "32", 
+                        "2", 
+                        "0", 
+                        "31.25"
+                    ], 
+                    "player5": [
+                        "  Srikar Bharat (wk)  ", 
+                        "  b P Jaiswal ", 
+                        "1", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "7.69"
+                    ], 
+                    "player6": [
+                        "  B Sumanth (c)  ", 
+                        "  b P Jaiswal ", 
+                        "9", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "56.25"
+                    ], 
+                    "player7": [
+                        "  Girinath Reddy  ", 
+                        " c Praveen Thakur b P Jaiswal ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player8": [
+                        "  Shoaib Md Khan  ", 
+                        " c G Singh b Rishi Dhawan ", 
+                        "5", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "29.41"
+                    ], 
+                    "player9": [
+                        "  Manish Golamaru  ", 
+                        " c Chopra b Mayank Dagar ", 
+                        "32", 
+                        "47", 
+                        "6", 
+                        "0", 
+                        "68.09"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Arpit Guleria  ", 
+                        "10", 
+                        "3", 
+                        "43", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player2": [
+                        "  P Jaiswal  ", 
+                        "19", 
+                        "3", 
+                        "50", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Rishi Dhawan  ", 
+                        "17", 
+                        "2", 
+                        "47", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Mayank Dagar  ", 
+                        "2.3", 
+                        "0", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player5": [
+                        "  G Singh  ", 
+                        "6", 
+                        "3", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Himachal Pradesh", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "6", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "54.3", 
+                    "runs": "173", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 40, 
+                        "teamScore": "22"
+                    }, 
+                    "player10": {
+                        "ballNo": 868, 
+                        "teamScore": "460"
+                    }, 
+                    "player2": {
+                        "ballNo": 177, 
+                        "teamScore": "78"
+                    }, 
+                    "player3": {
+                        "ballNo": 255, 
+                        "teamScore": "108"
+                    }, 
+                    "player4": {
+                        "ballNo": 289, 
+                        "teamScore": "122"
+                    }, 
+                    "player5": {
+                        "ballNo": 586, 
+                        "teamScore": "263"
+                    }, 
+                    "player6": {
+                        "ballNo": 736, 
+                        "teamScore": "354"
+                    }, 
+                    "player7": {
+                        "ballNo": 837, 
+                        "teamScore": "420"
+                    }, 
+                    "player8": {
+                        "ballNo": 843, 
+                        "teamScore": "430"
+                    }, 
+                    "player9": {
+                        "ballNo": 855, 
+                        "teamScore": "457"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Raghav Dhawan  ", 
+                        " c Srikar Bharat b B Ayyappa ", 
+                        "9", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "39.13"
+                    ], 
+                    "player10": [
+                        "  G Singh  ", 
+                        " not out ", 
+                        "4", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player11": [
+                        "  Arpit Guleria  ", 
+                        "  b Manish Golamaru ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Chopra (c)  ", 
+                        " c Srikar Bharat b B Ayyappa ", 
+                        "65", 
+                        "126", 
+                        "9", 
+                        "0", 
+                        "51.59"
+                    ], 
+                    "player3": [
+                        "  Praveen Thakur (wk)  ", 
+                        "  b C Stephen ", 
+                        "17", 
+                        "63", 
+                        "3", 
+                        "0", 
+                        "26.98"
+                    ], 
+                    "player4": [
+                        "  Nikhil Gangta  ", 
+                        " c B Ayyappa b Shoaib Md Khan ", 
+                        "20", 
+                        "63", 
+                        "3", 
+                        "0", 
+                        "31.75"
+                    ], 
+                    "player5": [
+                        "  Ankit Kalsi  ", 
+                        " c Srikar Bharat b J Krishna ", 
+                        "120", 
+                        "247", 
+                        "12", 
+                        "0", 
+                        "48.58"
+                    ], 
+                    "player6": [
+                        "  Rishi Dhawan  ", 
+                        " run out (B Ayyappa)  ", 
+                        "76", 
+                        "142", 
+                        "10", 
+                        "0", 
+                        "53.52"
+                    ], 
+                    "player7": [
+                        "  A Kumar  ", 
+                        " lbw b Shoaib Md Khan ", 
+                        "65", 
+                        "117", 
+                        "7", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player8": [
+                        "  Mayank Dagar  ", 
+                        "  b Manish Golamaru ", 
+                        "41", 
+                        "60", 
+                        "4", 
+                        "0", 
+                        "68.33"
+                    ], 
+                    "player9": [
+                        "  P Jaiswal  ", 
+                        " c Bhui b Manish Golamaru ", 
+                        "32", 
+                        "11", 
+                        "1", 
+                        "4", 
+                        "290.91"
+                    ]
+                }, 
+                "batTeam": "HP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  B Ayyappa  ", 
+                        "32", 
+                        "8", 
+                        "103", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player2": [
+                        "  C Stephen  ", 
+                        "30.2", 
+                        "7", 
+                        "77", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Girinath Reddy  ", 
+                        "20.4", 
+                        "3", 
+                        "58", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Manish Golamaru  ", 
+                        "31.4", 
+                        "4", 
+                        "102", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player5": [
+                        "  Shoaib Md Khan  ", 
+                        "25", 
+                        "4", 
+                        "99", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player6": [
+                        "  J Krishna  ", 
+                        "5", 
+                        "1", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ]
+                }, 
+                "bowlTeam": "Himachal Pradesh", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "144.4", 
+                    "runs": "460", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 268, 
+                        "teamScore": "142"
+                    }, 
+                    "player10": {
+                        "ballNo": 605, 
+                        "teamScore": "284"
+                    }, 
+                    "player2": {
+                        "ballNo": 394, 
+                        "teamScore": "194"
+                    }, 
+                    "player3": {
+                        "ballNo": 423, 
+                        "teamScore": "196"
+                    }, 
+                    "player4": {
+                        "ballNo": 439, 
+                        "teamScore": "199"
+                    }, 
+                    "player5": {
+                        "ballNo": 444, 
+                        "teamScore": "203"
+                    }, 
+                    "player6": {
+                        "ballNo": 471, 
+                        "teamScore": "220"
+                    }, 
+                    "player7": {
+                        "ballNo": 544, 
+                        "teamScore": "244"
+                    }, 
+                    "player8": {
+                        "ballNo": 553, 
+                        "teamScore": "244"
+                    }, 
+                    "player9": {
+                        "ballNo": 567, 
+                        "teamScore": "251"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Gnaneswara Rao  ", 
+                        " c Nikhil Gangta b Mayank Dagar ", 
+                        "103", 
+                        "191", 
+                        "14", 
+                        "1", 
+                        "53.93"
+                    ], 
+                    "player10": [
+                        "  Bandaru Ayyappa  ", 
+                        "  b G Singh ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Cheepurapalli Stephen  ", 
+                        " c Praveen Thakur b Arpit Guleria ", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Prasanth Kumar  ", 
+                        " lbw b Chopra ", 
+                        "52", 
+                        "142", 
+                        "6", 
+                        "0", 
+                        "36.62"
+                    ], 
+                    "player3": [
+                        "  Jyothi Sai Krishna  ", 
+                        " not out ", 
+                        "82", 
+                        "171", 
+                        "11", 
+                        "1", 
+                        "47.95"
+                    ], 
+                    "player4": [
+                        "  Ricky Bhui  ", 
+                        " c Praveen Thakur b Arpit Guleria ", 
+                        "1", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "6.25"
+                    ], 
+                    "player5": [
+                        "  Srikar Bharat (wk)  ", 
+                        "  b Mayank Dagar ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player6": [
+                        "  Bodapati Sumanth (c)  ", 
+                        " c Rishi Dhawan b Mayank Dagar ", 
+                        "4", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player7": [
+                        "  Girinath Reddy  ", 
+                        "  b G Singh ", 
+                        "3", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player8": [
+                        "  Shoaib Md Khan  ", 
+                        " c Nikhil Gangta b G Singh ", 
+                        "13", 
+                        "40", 
+                        "0", 
+                        "0", 
+                        "32.50"
+                    ], 
+                    "player9": [
+                        "  Manish Golamaru  ", 
+                        " run out (P Jaiswal)  ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Jaiswal  ", 
+                        "10", 
+                        "1", 
+                        "41", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player2": [
+                        "  Arpit Guleria  ", 
+                        "14.5", 
+                        "3", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player3": [
+                        "  Mayank Dagar  ", 
+                        "28", 
+                        "6", 
+                        "89", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Gurvinder Singh  ", 
+                        "26", 
+                        "6", 
+                        "62", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player5": [
+                        "  Raghav Dhawan  ", 
+                        "10", 
+                        "3", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player6": [
+                        "  Prashant Chopra (c)  ", 
+                        "12", 
+                        "4", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Himachal Pradesh", 
+                "extras": {
+                    "b": "13", 
+                    "lb": "8", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "100.5", 
+                    "runs": "284", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-17T16:30:00", 
+                    "startDate": "2018-12-14T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 6", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Sumeet Verma", 
+                            " Ankush Bains", 
+                            " Priyanshu Khanduri ", 
+                            " Shresth Nirmohi", 
+                            " Ekant Sen", 
+                            " Akash Vasisht", 
+                            " RI Thakur  "
+                        ], 
+                        "playing11": [
+                            " Prashant Chopra (c)", 
+                            " Gurvinder Singh", 
+                            " Ankit Kalsi", 
+                            " Praveen Thakur (wk)", 
+                            " Nikhil Gangta", 
+                            " Rishi Dhawan", 
+                            " Mayank Dagar", 
+                            " Arpit Guleria", 
+                            " Pankaj Jaiswal", 
+                            " Raghav Dhawan", 
+                            " Amit Kumar  "
+                        ], 
+                        "teamName": "Himachal Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Ashwin Hebbar", 
+                            " Karthik Raman", 
+                            " Yarra Prithviraj", 
+                            " Dwaraka Ravi Teja", 
+                            " KV Sasikanth", 
+                            " Karn Sharma", 
+                            " Paidikalva Vijaykumar", 
+                            " Siva charan singh  "
+                        ], 
+                        "playing11": [
+                            " Prasanth Kumar", 
+                            " Gnaneswara Rao", 
+                            " Jyothi Sai Krishna", 
+                            " Ricky Bhui", 
+                            " Srikar Bharat (wk)", 
+                            " Bodapati Sumanth (c)", 
+                            " Girinath Reddy", 
+                            " Manish Golamaru", 
+                            " Bandaru Ayyappa", 
+                            " Shoaib Md Khan", 
+                            " Cheepurapalli Stephen  "
+                        ], 
+                        "teamName": "Andhra\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Himachal Pradesh", 
+                    "team2": "Andhra"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Himachal"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Raul"
+                }, 
+                "venue": "Atal Bihari Vajpayee Stadium, Nadaun"
+            }
+        }
+    ]
+}

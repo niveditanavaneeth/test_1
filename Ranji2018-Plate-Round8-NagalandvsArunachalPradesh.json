@@ -1,0 +1,716 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 327, 
+                        "teamScore": "135"
+                    }, 
+                    "player2": {
+                        "ballNo": 5, 
+                        "teamScore": "0"
+                    }, 
+                    "player3": {
+                        "ballNo": 15, 
+                        "teamScore": "6"
+                    }, 
+                    "player4": {
+                        "ballNo": 62, 
+                        "teamScore": "29"
+                    }, 
+                    "player5": {
+                        "ballNo": 168, 
+                        "teamScore": "73"
+                    }, 
+                    "player6": {
+                        "ballNo": 229, 
+                        "teamScore": "98"
+                    }, 
+                    "player7": {
+                        "ballNo": 232, 
+                        "teamScore": "98"
+                    }, 
+                    "player8": {
+                        "ballNo": 245, 
+                        "teamScore": "103"
+                    }, 
+                    "player9": {
+                        "ballNo": 283, 
+                        "teamScore": "116"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Neelam Obi  ", 
+                        "  b Suyal ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Deendyal  ", 
+                        "  b Imliwati Lemtur ", 
+                        "9", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player11": [
+                        "  Licha Tehi  ", 
+                        " c Jonathan R b Tahmeed Rahman ", 
+                        "4", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player2": [
+                        "  Techi Doria  ", 
+                        " lbw b Suyal ", 
+                        "15", 
+                        "31", 
+                        "2", 
+                        "0", 
+                        "48.39"
+                    ], 
+                    "player3": [
+                        "  Techi Tahin  ", 
+                        "  b Suyal ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Indiya Toku  ", 
+                        "  b Suyal ", 
+                        "4", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player5": [
+                        "  Robin Toko  ", 
+                        " lbw b Mughavi Wotsa ", 
+                        "24", 
+                        "76", 
+                        "5", 
+                        "0", 
+                        "31.58"
+                    ], 
+                    "player6": [
+                        "  Song Tacho  ", 
+                        "  b A Kazi ", 
+                        "31", 
+                        "96", 
+                        "3", 
+                        "0", 
+                        "32.29"
+                    ], 
+                    "player7": [
+                        "  Kamsha Yangfo (c)  ", 
+                        "  b A Kazi ", 
+                        "20", 
+                        "27", 
+                        "4", 
+                        "0", 
+                        "74.07"
+                    ], 
+                    "player8": [
+                        "  Tana David (wk)  ", 
+                        "  b A Kazi ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Techi Neri  ", 
+                        " not out ", 
+                        "22", 
+                        "53", 
+                        "4", 
+                        "0", 
+                        "41.51"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Suyal  ", 
+                        "13", 
+                        "6", 
+                        "28", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Toni Chishi  ", 
+                        "6", 
+                        "1", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Mughavi Wotsa  ", 
+                        "10", 
+                        "2", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Rachit Bhatia  ", 
+                        "3", 
+                        "1", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  Imliwati Lemtur  ", 
+                        "7", 
+                        "1", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  A Kazi  ", 
+                        "9", 
+                        "3", 
+                        "13", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player7": [
+                        "  Tahmeed Rahman  ", 
+                        "6.3", 
+                        "1", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "1", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "54.3", 
+                    "runs": "135", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 207, 
+                        "teamScore": "156"
+                    }, 
+                    "player2": {
+                        "ballNo": 251, 
+                        "teamScore": "182"
+                    }, 
+                    "player3": {
+                        "ballNo": 252, 
+                        "teamScore": "182"
+                    }, 
+                    "player4": {
+                        "ballNo": 260, 
+                        "teamScore": "182"
+                    }, 
+                    "player5": {
+                        "ballNo": 261, 
+                        "teamScore": "182"
+                    }, 
+                    "player6": {
+                        "ballNo": 267, 
+                        "teamScore": "184"
+                    }, 
+                    "player7": {
+                        "ballNo": 280, 
+                        "teamScore": "185"
+                    }, 
+                    "player8": {
+                        "ballNo": 457, 
+                        "teamScore": "371"
+                    }, 
+                    "player9": {
+                        "ballNo": 460, 
+                        "teamScore": "375"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Paras Sehrawat  ", 
+                        "  b Deendyal ", 
+                        "112", 
+                        "124", 
+                        "16", 
+                        "1", 
+                        "90.32"
+                    ], 
+                    "player10": [
+                        "  Rachit Bhatia  ", 
+                        " c (sub)Ketan Garg b Techi Doria ", 
+                        "4", 
+                        "3", 
+                        "1", 
+                        "0", 
+                        "133.33"
+                    ], 
+                    "player2": [
+                        "  Sedezhalie Rupero  ", 
+                        " c Tana David b Licha Tehi ", 
+                        "65", 
+                        "110", 
+                        "6", 
+                        "0", 
+                        "59.09"
+                    ], 
+                    "player3": [
+                        "  Toni Chishi  ", 
+                        " c Techi Doria b Licha Tehi ", 
+                        "2", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "6.90"
+                    ], 
+                    "player4": [
+                        "  Mughavi Wotsa  ", 
+                        " c Techi Doria b Deendyal ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Imliwati Lemtur  ", 
+                        "  b Deendyal ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Tahmeed Rahman  ", 
+                        "  b Deendyal ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  KB Pawan (wk)  ", 
+                        " c Neelam Obi b Licha Tehi ", 
+                        "2", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player8": [
+                        "  Jonathan R (c)  ", 
+                        "  b Techi Doria ", 
+                        "131", 
+                        "107", 
+                        "6", 
+                        "10", 
+                        "122.43"
+                    ], 
+                    "player9": [
+                        "  A Kazi  ", 
+                        " not out ", 
+                        "50", 
+                        "81", 
+                        "4", 
+                        "0", 
+                        "61.73"
+                    ]
+                }, 
+                "batTeam": "NGL", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "18", 
+                        "2", 
+                        "80", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player2": [
+                        "  Deendyal  ", 
+                        "25", 
+                        "5", 
+                        "84", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player3": [
+                        "  Techi Doria  ", 
+                        "17", 
+                        "0", 
+                        "121", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "7.10"
+                    ], 
+                    "player4": [
+                        "  Techi Neri  ", 
+                        "17.1", 
+                        "0", 
+                        "88", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.10"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "0", 
+                    "nb": "7", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "77.1", 
+                    "runs": "377", 
+                    "wickets": "9"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 87, 
+                        "teamScore": "47"
+                    }, 
+                    "player10": {
+                        "ballNo": 323, 
+                        "teamScore": "122"
+                    }, 
+                    "player2": {
+                        "ballNo": 91, 
+                        "teamScore": "47"
+                    }, 
+                    "player3": {
+                        "ballNo": 97, 
+                        "teamScore": "48"
+                    }, 
+                    "player4": {
+                        "ballNo": 175, 
+                        "teamScore": "71"
+                    }, 
+                    "player5": {
+                        "ballNo": 196, 
+                        "teamScore": "75"
+                    }, 
+                    "player6": {
+                        "ballNo": 218, 
+                        "teamScore": "86"
+                    }, 
+                    "player7": {
+                        "ballNo": 235, 
+                        "teamScore": "91"
+                    }, 
+                    "player8": {
+                        "ballNo": 279, 
+                        "teamScore": "106"
+                    }, 
+                    "player9": {
+                        "ballNo": 281, 
+                        "teamScore": "106"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Techi Doria  ", 
+                        "  b Tahmeed Rahman ", 
+                        "33", 
+                        "49", 
+                        "4", 
+                        "0", 
+                        "67.35"
+                    ], 
+                    "player10": [
+                        "  Deendyal  ", 
+                        " c KB Pawan b A Kazi ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Licha Tehi  ", 
+                        " run out (Tahmeed Rahman)  ", 
+                        "10", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "52.63"
+                    ], 
+                    "player2": [
+                        "  Neelam Obi  ", 
+                        " lbw b A Kazi ", 
+                        "12", 
+                        "39", 
+                        "2", 
+                        "0", 
+                        "30.77"
+                    ], 
+                    "player3": [
+                        "  Kamsha Yangfo (c)  ", 
+                        "  b A Kazi ", 
+                        "11", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "22.45"
+                    ], 
+                    "player4": [
+                        "  Robin Toko  ", 
+                        " lbw b A Kazi ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player5": [
+                        "  Techi Tahin  ", 
+                        " c KB Pawan b Imliwati Lemtur ", 
+                        "7", 
+                        "43", 
+                        "0", 
+                        "0", 
+                        "16.28"
+                    ], 
+                    "player6": [
+                        "  Indiya Toku  ", 
+                        " lbw b A Kazi ", 
+                        "11", 
+                        "22", 
+                        "1", 
+                        "1", 
+                        "50.00"
+                    ], 
+                    "player7": [
+                        "  Song Tacho  ", 
+                        " not out ", 
+                        "19", 
+                        "64", 
+                        "3", 
+                        "0", 
+                        "29.69"
+                    ], 
+                    "player8": [
+                        "  Tana David (wk)  ", 
+                        "  b Suyal ", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "11.11"
+                    ], 
+                    "player9": [
+                        "  Techi Neri  ", 
+                        "  b A Kazi ", 
+                        "7", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "31.82"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pawan Suyal  ", 
+                        "15", 
+                        "5", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Rachit Bhatia  ", 
+                        "3", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ], 
+                    "player3": [
+                        "  Abrar Kazi  ", 
+                        "19", 
+                        "10", 
+                        "22", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ], 
+                    "player4": [
+                        "  Tahmeed Rahman  ", 
+                        "9.5", 
+                        "3", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player5": [
+                        "  Imliwati Lemtur  ", 
+                        "7", 
+                        "2", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "53.5", 
+                    "runs": "122", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-02T15:30:00", 
+                    "startDate": "2018-12-30T08:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Hokaito Zhimomi", 
+                            " Nitesh Lohchab", 
+                            " Inakato Zhimomi", 
+                            " Jala uddin", 
+                            " Arun   "
+                        ], 
+                        "playing11": [
+                            " Sedezhalie Rupero", 
+                            " Paras Sehrawat", 
+                            " Mughavi Wotsa", 
+                            " KB Pawan (wk)", 
+                            " Rongsen Jonathan (c)", 
+                            " Abrar Kazi", 
+                            " Toni Chishi", 
+                            " Imliwati Lemtur", 
+                            " Rachit Bhatia", 
+                            " Tahmeed Rahman", 
+                            " Pawan Suyal  "
+                        ], 
+                        "teamName": "Nagaland\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Utsav Pankaj", 
+                            " Kshitiz Sharma", 
+                            " Akhilesh Sahani", 
+                            " Samarth Seth", 
+                            " Sandeep Thakur", 
+                            " Takar Paja", 
+                            " Sams Alam", 
+                            " Myendung Singpho", 
+                            " Shoyeb", 
+                            " Subhash Sharma", 
+                            " Aakash Singh", 
+                            " Hayat Ansari", 
+                            " Prateek Singh", 
+                            " Nipun Malhotra", 
+                            " Ketan Garg", 
+                            " Momar Ori  "
+                        ], 
+                        "playing11": [
+                            " Neelam Obi", 
+                            " Techi Doria", 
+                            " Techi Tahin", 
+                            " Indiya Toku", 
+                            " Robin Toko", 
+                            " Kamsha Yangfo (c)", 
+                            " Tana Davit (wk)", 
+                            " Song Tacho", 
+                            " Licha Tehi", 
+                            " Techi Neri", 
+                            " Deendyal  "
+                        ], 
+                        "teamName": "Arunachal Pradesh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Nagaland", 
+                    "team2": "Arunachal Pradesh"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Nagaland"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Prasanta Mohapatra"
+                }, 
+                "venue": "Nagaland Cricket Stadium, Sovima, Dimapur"
+            }
+        }
+    ]
+}

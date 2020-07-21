@@ -1,0 +1,536 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 6, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 1010, 
+                        "teamScore": "521"
+                    }, 
+                    "player2": {
+                        "ballNo": 8, 
+                        "teamScore": "0"
+                    }, 
+                    "player3": {
+                        "ballNo": 68, 
+                        "teamScore": "27"
+                    }, 
+                    "player4": {
+                        "ballNo": 368, 
+                        "teamScore": "194"
+                    }, 
+                    "player5": {
+                        "ballNo": 393, 
+                        "teamScore": "206"
+                    }, 
+                    "player6": {
+                        "ballNo": 500, 
+                        "teamScore": "256"
+                    }, 
+                    "player7": {
+                        "ballNo": 880, 
+                        "teamScore": "444"
+                    }, 
+                    "player8": {
+                        "ballNo": 903, 
+                        "teamScore": "463"
+                    }, 
+                    "player9": {
+                        "ballNo": 978, 
+                        "teamScore": "504"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Harvik Desai  ", 
+                        " c Pinal Shah b R Arothe ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Chetan Sakariya  ", 
+                        " c Pinal Shah b A Sheth ", 
+                        "25", 
+                        "60", 
+                        "4", 
+                        "0", 
+                        "41.67"
+                    ], 
+                    "player11": [
+                        "  H Rathod  ", 
+                        " not out ", 
+                        "2", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "15.38"
+                    ], 
+                    "player2": [
+                        "  Snell Patel (wk)  ", 
+                        " c V Solanki b A Sheth ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Vasavada  ", 
+                        " c V Solanki b R Arothe ", 
+                        "120", 
+                        "230", 
+                        "15", 
+                        "0", 
+                        "52.17"
+                    ], 
+                    "player4": [
+                        "  Jackson  ", 
+                        " c Pinal Shah b A Sheth ", 
+                        "16", 
+                        "32", 
+                        "4", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Prerak Mankad  ", 
+                        " run out (V Solanki)  ", 
+                        "85", 
+                        "163", 
+                        "13", 
+                        "0", 
+                        "52.15"
+                    ], 
+                    "player6": [
+                        "  Chirag Jani  ", 
+                        " c Deepak Hooda b Y Pathan ", 
+                        "7", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "46.67"
+                    ], 
+                    "player7": [
+                        "  Jaydev Shah (c)  ", 
+                        " c A Sheth b B Pathan ", 
+                        "165", 
+                        "274", 
+                        "23", 
+                        "3", 
+                        "60.22"
+                    ], 
+                    "player8": [
+                        "  DA Jadeja  ", 
+                        " c K Devdhar b B Bhatt ", 
+                        "87", 
+                        "204", 
+                        "9", 
+                        "0", 
+                        "42.65"
+                    ], 
+                    "player9": [
+                        "  Yuvraj Chudasama  ", 
+                        " c R Arothe b B Bhatt ", 
+                        "3", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "23.08"
+                    ]
+                }, 
+                "batTeam": "Saurashtra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  R Arothe  ", 
+                        "27", 
+                        "5", 
+                        "84", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  A Sheth  ", 
+                        "23.2", 
+                        "4", 
+                        "74", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  B Pathan  ", 
+                        "21", 
+                        "2", 
+                        "94", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player4": [
+                        "  Deepak Hooda  ", 
+                        "20", 
+                        "2", 
+                        "40", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player5": [
+                        "  B Bhatt  ", 
+                        "30", 
+                        "4", 
+                        "108", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player6": [
+                        "  Swapnil Singh  ", 
+                        "8", 
+                        "0", 
+                        "36", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player7": [
+                        "  Y Pathan  ", 
+                        "36", 
+                        "10", 
+                        "72", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player8": [
+                        "  V Solanki  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player9": [
+                        "  A Waghmode  ", 
+                        "2", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Baroda", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "5", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "168.2", 
+                    "runs": "521", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 165, 
+                        "teamScore": "110"
+                    }, 
+                    "player2": {
+                        "ballNo": 656, 
+                        "teamScore": "343"
+                    }, 
+                    "player3": {
+                        "ballNo": 689, 
+                        "teamScore": "355"
+                    }, 
+                    "player4": {
+                        "ballNo": 716, 
+                        "teamScore": "369"
+                    }, 
+                    "player5": {
+                        "ballNo": 727, 
+                        "teamScore": "372"
+                    }, 
+                    "player6": {
+                        "ballNo": 827, 
+                        "teamScore": "410"
+                    }, 
+                    "player7": {
+                        "ballNo": 836, 
+                        "teamScore": "413"
+                    }, 
+                    "player8": {
+                        "ballNo": 859, 
+                        "teamScore": "433"
+                    }, 
+                    "player9": {
+                        "ballNo": 1004, 
+                        "teamScore": "533"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kedar Devdhar (c)  ", 
+                        " c Prerak Mankad b DA Jadeja ", 
+                        "224", 
+                        "336", 
+                        "29", 
+                        "3", 
+                        "66.67"
+                    ], 
+                    "player10": [
+                        "  Bhargav Bhatt  ", 
+                        " run out (Yuvraj Chudasama)  ", 
+                        "44", 
+                        "67", 
+                        "5", 
+                        "2", 
+                        "65.67"
+                    ], 
+                    "player2": [
+                        "  Aditya Waghmode  ", 
+                        "  b Prerak Mankad ", 
+                        "32", 
+                        "85", 
+                        "5", 
+                        "0", 
+                        "37.65"
+                    ], 
+                    "player3": [
+                        "  Vishnu Solanki  ", 
+                        " c Jackson b H Rathod ", 
+                        "116", 
+                        "308", 
+                        "9", 
+                        "1", 
+                        "37.66"
+                    ], 
+                    "player4": [
+                        "  Deepak Hooda  ", 
+                        "  c and b Yuvraj Chudasama ", 
+                        "9", 
+                        "20", 
+                        "0", 
+                        "1", 
+                        "45.00"
+                    ], 
+                    "player5": [
+                        "  Swapnil Singh  ", 
+                        " c Jackson b DA Jadeja ", 
+                        "5", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "23.81"
+                    ], 
+                    "player6": [
+                        "  Yusuf Pathan  ", 
+                        " lbw b DA Jadeja ", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player7": [
+                        "  Pinal Shah (wk)  ", 
+                        " lbw b H Rathod ", 
+                        "16", 
+                        "57", 
+                        "3", 
+                        "0", 
+                        "28.07"
+                    ], 
+                    "player8": [
+                        "  Atit Sheth  ", 
+                        " not out ", 
+                        "55", 
+                        "92", 
+                        "6", 
+                        "1", 
+                        "59.78"
+                    ], 
+                    "player9": [
+                        "  Rishi Arothe  ", 
+                        " c Snell Patel b H Rathod ", 
+                        "14", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "87.50"
+                    ]
+                }, 
+                "batTeam": "Baroda", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Chetan Sakariya  ", 
+                        "22", 
+                        "2", 
+                        "94", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player2": [
+                        "  Hardik Rathod  ", 
+                        "27", 
+                        "2", 
+                        "98", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player3": [
+                        "  Yuvraj Chudasama  ", 
+                        "48", 
+                        "6", 
+                        "145", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player4": [
+                        "  Chirag Jani  ", 
+                        "14", 
+                        "3", 
+                        "45", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player5": [
+                        "  Prerak Mankad  ", 
+                        "14", 
+                        "4", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player6": [
+                        "  Dharmendrasinh Jadeja  ", 
+                        "42.2", 
+                        "6", 
+                        "121", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ]
+                }, 
+                "bowlTeam": "Saurashtra", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "11", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "167.2", 
+                    "runs": "533", 
+                    "wickets": "9"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Samarth Vyas", 
+                            " Kamlesh Makvana", 
+                            " Shaurya Sanandia", 
+                            " Jaydev Unadkat", 
+                            " Agnivesh Ayachi", 
+                            " Avi Barot ", 
+                            " Kishan Parmar", 
+                            " Jay Chauhan  "
+                        ], 
+                        "playing11": [
+                            " Harvik Desai", 
+                            " Snell Patel (wk)", 
+                            " Arpit Vasavada", 
+                            " Sheldon Jackson", 
+                            " Chirag Jani", 
+                            " Jaydev Shah (c)", 
+                            " Prerak Mankad", 
+                            " Chetan Sakariya", 
+                            " Dharmendrasinh Jadeja", 
+                            " Hardik Rathod", 
+                            " Yuvraj Chudasama  "
+                        ], 
+                        "teamName": "Saurashtra\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Soaeb Tai", 
+                            " Lukman Meriwala", 
+                            " Pratyush Kumar", 
+                            " Sagar Mangalorkar  "
+                        ], 
+                        "playing11": [
+                            " Kedar Devdhar (c)", 
+                            " Aditya Waghmode", 
+                            " Vishnu Solanki", 
+                            " Deepak Hooda", 
+                            " Swapnil Singh", 
+                            " Yusuf Pathan", 
+                            " Pinal Shah (wk)", 
+                            " Rishi Arothe", 
+                            " Atit Sheth", 
+                            " Bhargav Bhatt", 
+                            " Babashafi Pathan  "
+                        ], 
+                        "teamName": "Baroda\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Saurashtra", 
+                    "team2": "Baroda"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Saurashtra"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Prasanta Mohapatra"
+                }, 
+                "venue": "Saurashtra Cricket Association Stadium, Rajkot"
+            }
+        }
+    ]
+}

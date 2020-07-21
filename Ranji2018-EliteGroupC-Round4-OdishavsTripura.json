@@ -1,0 +1,904 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 258, 
+                        "teamScore": "122"
+                    }, 
+                    "player2": {
+                        "ballNo": 72, 
+                        "teamScore": "20"
+                    }, 
+                    "player3": {
+                        "ballNo": 84, 
+                        "teamScore": "24"
+                    }, 
+                    "player4": {
+                        "ballNo": 92, 
+                        "teamScore": "24"
+                    }, 
+                    "player5": {
+                        "ballNo": 127, 
+                        "teamScore": "54"
+                    }, 
+                    "player6": {
+                        "ballNo": 129, 
+                        "teamScore": "54"
+                    }, 
+                    "player7": {
+                        "ballNo": 153, 
+                        "teamScore": "58"
+                    }, 
+                    "player8": {
+                        "ballNo": 197, 
+                        "teamScore": "89"
+                    }, 
+                    "player9": {
+                        "ballNo": 223, 
+                        "teamScore": "112"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh (c)  ", 
+                        "  b Pradhan ", 
+                        "9", 
+                        "59", 
+                        "0", 
+                        "0", 
+                        "15.25"
+                    ], 
+                    "player10": [
+                        "  Abhijit Sarkar  ", 
+                        " c Samantray b Pradhan ", 
+                        "10", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player11": [
+                        "  Ajoy S Sarkar  ", 
+                        " not out ", 
+                        "7", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "36.84"
+                    ], 
+                    "player2": [
+                        "  Udiyan Bose  ", 
+                        "  b Basant Mohanty ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Ninad Kadam  ", 
+                        " c Debabrata Pradhan b Pradhan ", 
+                        "13", 
+                        "33", 
+                        "0", 
+                        "0", 
+                        "39.39"
+                    ], 
+                    "player4": [
+                        "  Smit Patel (wk)  ", 
+                        "  b Pradhan ", 
+                        "3", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player5": [
+                        "  Rajesh Banik  ", 
+                        " c G Poddar b Pradhan ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        " c Basant Mohanty b Debabrata Pradhan ", 
+                        "43", 
+                        "57", 
+                        "6", 
+                        "0", 
+                        "75.44"
+                    ], 
+                    "player7": [
+                        "  M Murasingh  ", 
+                        " c Rajesh Dhuper b Pradhan ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Harmeet Singh  ", 
+                        " c Sujit Lenka b Pradhan ", 
+                        "4", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player9": [
+                        "  Rana Dutta  ", 
+                        " c Rajesh Dhuper b G Poddar ", 
+                        "24", 
+                        "54", 
+                        "3", 
+                        "0", 
+                        "44.44"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Basant Mohanty  ", 
+                        "11", 
+                        "4", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Rajesh Mohanty  ", 
+                        "10", 
+                        "1", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Pradhan  ", 
+                        "13", 
+                        "3", 
+                        "40", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Debabrata Pradhan  ", 
+                        "8", 
+                        "1", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player5": [
+                        "  G Poddar  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Odisha", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "43", 
+                    "runs": "122", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 3, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 356, 
+                        "teamScore": "212"
+                    }, 
+                    "player2": {
+                        "ballNo": 38, 
+                        "teamScore": "20"
+                    }, 
+                    "player3": {
+                        "ballNo": 116, 
+                        "teamScore": "61"
+                    }, 
+                    "player4": {
+                        "ballNo": 209, 
+                        "teamScore": "106"
+                    }, 
+                    "player5": {
+                        "ballNo": 247, 
+                        "teamScore": "131"
+                    }, 
+                    "player6": {
+                        "ballNo": 250, 
+                        "teamScore": "131"
+                    }, 
+                    "player7": {
+                        "ballNo": 262, 
+                        "teamScore": "137"
+                    }, 
+                    "player8": {
+                        "ballNo": 315, 
+                        "teamScore": "165"
+                    }, 
+                    "player9": {
+                        "ballNo": 353, 
+                        "teamScore": "212"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anurag Sarangi  ", 
+                        " c Smit Patel b M Murasingh ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Pradhan  ", 
+                        " c Pratyush Singh b Harmeet Singh ", 
+                        "14", 
+                        "17", 
+                        "1", 
+                        "1", 
+                        "82.35"
+                    ], 
+                    "player11": [
+                        "  Basant Mohanty  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rajesh Dhuper  ", 
+                        " lbw b Ajoy S Sarkar ", 
+                        "31", 
+                        "47", 
+                        "5", 
+                        "0", 
+                        "65.96"
+                    ], 
+                    "player3": [
+                        "  G Poddar  ", 
+                        " c Smit Patel b M Murasingh ", 
+                        "4", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player4": [
+                        "  Subhranshu Senapati  ", 
+                        "  b Rana Dutta ", 
+                        "41", 
+                        "83", 
+                        "6", 
+                        "0", 
+                        "49.40"
+                    ], 
+                    "player5": [
+                        "  Samantray (c)  ", 
+                        " c Smit Patel b M Murasingh ", 
+                        "89", 
+                        "142", 
+                        "13", 
+                        "0", 
+                        "62.68"
+                    ], 
+                    "player6": [
+                        "  A Raut  ", 
+                        "  b Abhijit Sarkar ", 
+                        "1", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "7.14"
+                    ], 
+                    "player7": [
+                        "  Rajesh Mohanty  ", 
+                        "  b Abhijit Sarkar ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Sujit Lenka (wk)  ", 
+                        " c Smit Patel b Abhijit Sarkar ", 
+                        "4", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "44.44"
+                    ], 
+                    "player9": [
+                        "  Debabrata Pradhan  ", 
+                        " c Smit Patel b Ajoy S Sarkar ", 
+                        "7", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "38.89"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  M Murasingh  ", 
+                        "18.2", 
+                        "7", 
+                        "37", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  Rana Dutta  ", 
+                        "16", 
+                        "2", 
+                        "55", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player3": [
+                        "  Ajoy S Sarkar  ", 
+                        "13", 
+                        "2", 
+                        "61", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player4": [
+                        "  Abhijit Sarkar  ", 
+                        "11", 
+                        "1", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Harmeet Singh  ", 
+                        "1", 
+                        "0", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "9.00"
+                    ]
+                }, 
+                "bowlTeam": "Tripura", 
+                "extras": {
+                    "b": "9", 
+                    "lb": "8", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "59.2", 
+                    "runs": "212", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 549, 
+                        "teamScore": "304"
+                    }, 
+                    "player2": {
+                        "ballNo": 119, 
+                        "teamScore": "44"
+                    }, 
+                    "player3": {
+                        "ballNo": 180, 
+                        "teamScore": "86"
+                    }, 
+                    "player4": {
+                        "ballNo": 190, 
+                        "teamScore": "99"
+                    }, 
+                    "player5": {
+                        "ballNo": 242, 
+                        "teamScore": "114"
+                    }, 
+                    "player6": {
+                        "ballNo": 357, 
+                        "teamScore": "146"
+                    }, 
+                    "player7": {
+                        "ballNo": 403, 
+                        "teamScore": "177"
+                    }, 
+                    "player8": {
+                        "ballNo": 504, 
+                        "teamScore": "261"
+                    }, 
+                    "player9": {
+                        "ballNo": 538, 
+                        "teamScore": "296"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh (c)  ", 
+                        " c Sujit Lenka b Rajesh Mohanty ", 
+                        "48", 
+                        "88", 
+                        "8", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player10": [
+                        "  Abhijit Sarkar  ", 
+                        " not out ", 
+                        "13", 
+                        "15", 
+                        "3", 
+                        "0", 
+                        "86.67"
+                    ], 
+                    "player11": [
+                        "  Ajoy S Sarkar  ", 
+                        "  b Basant Mohanty ", 
+                        "3", 
+                        "6", 
+                        "3", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player2": [
+                        "  Udiyan Bose  ", 
+                        " lbw b Basant Mohanty ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Ninad Kadam  ", 
+                        " c Sujit Lenka b Rajesh Mohanty ", 
+                        "11", 
+                        "62", 
+                        "1", 
+                        "0", 
+                        "17.74"
+                    ], 
+                    "player4": [
+                        "  Smit Patel (wk)  ", 
+                        " lbw b Rajesh Mohanty ", 
+                        "29", 
+                        "35", 
+                        "6", 
+                        "0", 
+                        "82.86"
+                    ], 
+                    "player5": [
+                        "  Rajesh Banik  ", 
+                        " c Rajesh Dhuper b Pradhan ", 
+                        "3", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "13.04"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        " c Sujit Lenka b Rajesh Mohanty ", 
+                        "32", 
+                        "90", 
+                        "2", 
+                        "0", 
+                        "35.56"
+                    ], 
+                    "player7": [
+                        "  Rana Dutta  ", 
+                        "  b Debabrata Pradhan ", 
+                        "29", 
+                        "79", 
+                        "3", 
+                        "0", 
+                        "36.71"
+                    ], 
+                    "player8": [
+                        "  M Murasingh  ", 
+                        "  b Basant Mohanty ", 
+                        "75", 
+                        "104", 
+                        "13", 
+                        "1", 
+                        "72.12"
+                    ], 
+                    "player9": [
+                        "  Harmeet Singh  ", 
+                        " c Sujit Lenka b Basant Mohanty ", 
+                        "42", 
+                        "46", 
+                        "6", 
+                        "1", 
+                        "91.30"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pradhan  ", 
+                        "21", 
+                        "3", 
+                        "59", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Basant Mohanty  ", 
+                        "25.3", 
+                        "9", 
+                        "53", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Debabrata Pradhan  ", 
+                        "8", 
+                        "1", 
+                        "44", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player4": [
+                        "  Rajesh Mohanty  ", 
+                        "25", 
+                        "3", 
+                        "94", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player5": [
+                        "  G Poddar  ", 
+                        "6", 
+                        "1", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player6": [
+                        "  A Raut  ", 
+                        "2", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player7": [
+                        "  Samantray (c)  ", 
+                        "4", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Odisha", 
+                "extras": {
+                    "b": "11", 
+                    "lb": "5", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "91.3", 
+                    "runs": "304", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "3"
+                    }, 
+                    "player2": {
+                        "ballNo": 43, 
+                        "teamScore": "23"
+                    }, 
+                    "player3": {
+                        "ballNo": 152, 
+                        "teamScore": "74"
+                    }, 
+                    "player4": {
+                        "ballNo": 170, 
+                        "teamScore": "79"
+                    }, 
+                    "player5": {
+                        "ballNo": 172, 
+                        "teamScore": "79"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anurag Sarangi  ", 
+                        " c Smit Patel b M Murasingh ", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player2": [
+                        "  Rajesh Dhuper  ", 
+                        " c Smit Patel b Ajoy S Sarkar ", 
+                        "37", 
+                        "83", 
+                        "5", 
+                        "0", 
+                        "44.58"
+                    ], 
+                    "player3": [
+                        "  Govinda Poddar  ", 
+                        " c Abhijit Sarkar b M Murasingh ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Subhranshu Senapati  ", 
+                        " not out ", 
+                        "84", 
+                        "169", 
+                        "9", 
+                        "0", 
+                        "49.70"
+                    ], 
+                    "player5": [
+                        "  Biplab Samantray (c)  ", 
+                        " lbw b M Murasingh ", 
+                        "3", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player6": [
+                        "  Suryakant Pradhan  ", 
+                        " c Bishal Ghosh b M Murasingh ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Abhishek Raut  ", 
+                        " not out ", 
+                        "83", 
+                        "104", 
+                        "9", 
+                        "2", 
+                        "79.81"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ajoy S Sarkar  ", 
+                        "14", 
+                        "1", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player2": [
+                        "  Manisankar Murasingh  ", 
+                        "19", 
+                        "3", 
+                        "54", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  Rana Dutta  ", 
+                        "11.1", 
+                        "4", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player4": [
+                        "  Abhijit Sarkar  ", 
+                        "12", 
+                        "1", 
+                        "40", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player5": [
+                        "  Harmeet Singh  ", 
+                        "4.5", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        "2", 
+                        "0", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "9.00"
+                    ], 
+                    "player7": [
+                        "  Udiyan Bose  ", 
+                        "0.2", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "18.00"
+                    ]
+                }, 
+                "bowlTeam": "Tripura", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "5", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "63.2", 
+                    "runs": "217", 
+                    "wickets": "5"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:00:00", 
+                    "startDate": "2018-11-28T09:00:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Santanu Mishra", 
+                            " Subham Nayak", 
+                            " Sandeep Pattnaik", 
+                            " Dhiraj Singh", 
+                            " Ranjit Singh", 
+                            " Pappu Roy  "
+                        ], 
+                        "playing11": [
+                            " Anurag Sarangi", 
+                            " Rajesh Dhuper", 
+                            " Govinda Poddar", 
+                            " Subhranshu Senapati", 
+                            " Biplab Samantray (c)", 
+                            " Sujit Lenka (wk)", 
+                            " Suryakant Pradhan", 
+                            " Abhishek Raut", 
+                            " Rajesh Mohanty", 
+                            " Debabrata Pradhan", 
+                            " Basant Mohanty  "
+                        ], 
+                        "teamName": "Odisha\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Bravish Shetty", 
+                            " Abhijit Chakraborty", 
+                            " Viki Saha", 
+                            " Nirupam Sen", 
+                            " Subham Ghosh  "
+                        ], 
+                        "playing11": [
+                            " Bishal Ghosh (c)", 
+                            " Udiyan Bose", 
+                            " Ninad Kadam", 
+                            " Smit Patel (wk)", 
+                            " Pratyush Singh", 
+                            " Manisankar Murasingh", 
+                            " Harmeet Singh", 
+                            " Rana Dutta", 
+                            " Ajoy Sarkar", 
+                            " Rajesh Banik", 
+                            " Abhijit Sarkar  "
+                        ], 
+                        "teamName": "Tripura\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Odisha", 
+                    "team2": "Tripura"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Odisha"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Prakash Bhatt"
+                }, 
+                "venue": "DRIEMS Ground, Cuttack"
+            }
+        }
+    ]
+}

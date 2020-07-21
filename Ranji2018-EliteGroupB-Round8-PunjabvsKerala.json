@@ -1,0 +1,795 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 75, 
+                        "teamScore": "38"
+                    }, 
+                    "player10": {
+                        "ballNo": 222, 
+                        "teamScore": "121"
+                    }, 
+                    "player2": {
+                        "ballNo": 80, 
+                        "teamScore": "46"
+                    }, 
+                    "player3": {
+                        "ballNo": 90, 
+                        "teamScore": "54"
+                    }, 
+                    "player4": {
+                        "ballNo": 113, 
+                        "teamScore": "65"
+                    }, 
+                    "player5": {
+                        "ballNo": 128, 
+                        "teamScore": "71"
+                    }, 
+                    "player6": {
+                        "ballNo": 149, 
+                        "teamScore": "81"
+                    }, 
+                    "player7": {
+                        "ballNo": 164, 
+                        "teamScore": "88"
+                    }, 
+                    "player8": {
+                        "ballNo": 168, 
+                        "teamScore": "88"
+                    }, 
+                    "player9": {
+                        "ballNo": 218, 
+                        "teamScore": "116"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Ponnam Rahul  ", 
+                        " lbw b S Kaul ", 
+                        "20", 
+                        "35", 
+                        "4", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player10": [
+                        "  Nidheesh  ", 
+                        " lbw b S Kaul ", 
+                        "6", 
+                        "23", 
+                        "1", 
+                        "0", 
+                        "26.09"
+                    ], 
+                    "player11": [
+                        "  Warrier  ", 
+                        " not out ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Arun Karthik  ", 
+                        " lbw b Baltej Singh ", 
+                        "21", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player3": [
+                        "  Mohammed Azharuddeen  ", 
+                        " lbw b S Kaul ", 
+                        "8", 
+                        "9", 
+                        "2", 
+                        "0", 
+                        "88.89"
+                    ], 
+                    "player4": [
+                        "  Samson (wk)  ", 
+                        "  b S Kaul ", 
+                        "14", 
+                        "15", 
+                        "2", 
+                        "0", 
+                        "93.33"
+                    ], 
+                    "player5": [
+                        "  Sachin Baby (c)  ", 
+                        " c Anmolpreet Singh b Gony ", 
+                        "2", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "9.09"
+                    ], 
+                    "player6": [
+                        "  Jalaj Saxena  ", 
+                        " c Yuvraj b S Kaul ", 
+                        "11", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "78.57"
+                    ], 
+                    "player7": [
+                        "  Vishnu Vinod  ", 
+                        " c Shubman Gill b S Kaul ", 
+                        "35", 
+                        "52", 
+                        "4", 
+                        "0", 
+                        "67.31"
+                    ], 
+                    "player8": [
+                        "  Sijomon  ", 
+                        " c Shubman Gill b Markande ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player9": [
+                        "  Basil Thampi  ", 
+                        " lbw b Markande ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Kerala", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Gony  ", 
+                        "9", 
+                        "1", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  S Kaul  ", 
+                        "15", 
+                        "0", 
+                        "55", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player3": [
+                        "  Baltej Singh  ", 
+                        "9", 
+                        "3", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Markande  ", 
+                        "4", 
+                        "1", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ]
+                }, 
+                "bowlTeam": "Punjab", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "37", 
+                    "runs": "121", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 60, 
+                        "teamScore": "30"
+                    }, 
+                    "player10": {
+                        "ballNo": 452, 
+                        "teamScore": "217"
+                    }, 
+                    "player2": {
+                        "ballNo": 67, 
+                        "teamScore": "30"
+                    }, 
+                    "player3": {
+                        "ballNo": 254, 
+                        "teamScore": "137"
+                    }, 
+                    "player4": {
+                        "ballNo": 290, 
+                        "teamScore": "157"
+                    }, 
+                    "player5": {
+                        "ballNo": 292, 
+                        "teamScore": "157"
+                    }, 
+                    "player6": {
+                        "ballNo": 323, 
+                        "teamScore": "162"
+                    }, 
+                    "player7": {
+                        "ballNo": 348, 
+                        "teamScore": "169"
+                    }, 
+                    "player8": {
+                        "ballNo": 416, 
+                        "teamScore": "203"
+                    }, 
+                    "player9": {
+                        "ballNo": 444, 
+                        "teamScore": "216"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  J Singh  ", 
+                        " c Mohammed Azharuddeen b Warrier ", 
+                        "69", 
+                        "129", 
+                        "11", 
+                        "0", 
+                        "53.49"
+                    ], 
+                    "player10": [
+                        "  S Kaul  ", 
+                        "  b Warrier ", 
+                        "6", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player11": [
+                        "  Baltej Singh  ", 
+                        " not out ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Shubman Gill  ", 
+                        "  b Basil Thampi ", 
+                        "24", 
+                        "36", 
+                        "4", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player3": [
+                        "  Anmolpreet Singh  ", 
+                        "  b Basil Thampi ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Mandeep (c)  ", 
+                        " c Warrier b Mohammed Azharuddeen ", 
+                        "89", 
+                        "182", 
+                        "6", 
+                        "1", 
+                        "48.90"
+                    ], 
+                    "player5": [
+                        "  Yuvraj  ", 
+                        " c Arun Karthik b Warrier ", 
+                        "8", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player6": [
+                        "  Gurkeerat Singh  ", 
+                        " c Mohammed Azharuddeen b Warrier ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Gitansh Khera (wk)  ", 
+                        " lbw b Nidheesh ", 
+                        "2", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "10.53"
+                    ], 
+                    "player8": [
+                        "  Markande  ", 
+                        " run out (Basil Thampi)  ", 
+                        "1", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "6.67"
+                    ], 
+                    "player9": [
+                        "  Gony  ", 
+                        " run out (Samson)  ", 
+                        "11", 
+                        "39", 
+                        "1", 
+                        "0", 
+                        "28.21"
+                    ]
+                }, 
+                "batTeam": "Punjab", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Warrier  ", 
+                        "27.2", 
+                        "3", 
+                        "85", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  Basil Thampi  ", 
+                        "17", 
+                        "2", 
+                        "46", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Nidheesh  ", 
+                        "20", 
+                        "5", 
+                        "50", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Sijomon  ", 
+                        "10", 
+                        "1", 
+                        "33", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player5": [
+                        "  Jalaj Saxena  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Kerala", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "3", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "75.2", 
+                    "runs": "217", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 5, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 439, 
+                        "teamScore": "223"
+                    }, 
+                    "player2": {
+                        "ballNo": 137, 
+                        "teamScore": "76"
+                    }, 
+                    "player3": {
+                        "ballNo": 169, 
+                        "teamScore": "92"
+                    }, 
+                    "player4": {
+                        "ballNo": 264, 
+                        "teamScore": "135"
+                    }, 
+                    "player5": {
+                        "ballNo": 345, 
+                        "teamScore": "190"
+                    }, 
+                    "player6": {
+                        "ballNo": 359, 
+                        "teamScore": "200"
+                    }, 
+                    "player7": {
+                        "ballNo": 385, 
+                        "teamScore": "204"
+                    }, 
+                    "player8": {
+                        "ballNo": 387, 
+                        "teamScore": "204"
+                    }, 
+                    "player9": {
+                        "ballNo": 437, 
+                        "teamScore": "223"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Ponnam Rahul  ", 
+                        " c Baltej Singh b Markande ", 
+                        "28", 
+                        "75", 
+                        "2", 
+                        "0", 
+                        "37.33"
+                    ], 
+                    "player10": [
+                        "  Nidheesh  ", 
+                        "  b Markande ", 
+                        "11", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "35.48"
+                    ], 
+                    "player11": [
+                        "  Warrier  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Arun Karthik  ", 
+                        "  b Gony ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Mohammed Azharuddeen  ", 
+                        " c Anmolpreet Singh b Baltej Singh ", 
+                        "112", 
+                        "168", 
+                        "12", 
+                        "2", 
+                        "66.67"
+                    ], 
+                    "player4": [
+                        "  Samson (wk)  ", 
+                        " c J Singh b S Kaul ", 
+                        "3", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "27.27"
+                    ], 
+                    "player5": [
+                        "  Sachin Baby (c)  ", 
+                        "  b Gony ", 
+                        "16", 
+                        "46", 
+                        "2", 
+                        "0", 
+                        "34.78"
+                    ], 
+                    "player6": [
+                        "  Vishnu Vinod  ", 
+                        " lbw b Markande ", 
+                        "36", 
+                        "56", 
+                        "3", 
+                        "0", 
+                        "64.29"
+                    ], 
+                    "player7": [
+                        "  Jalaj Saxena  ", 
+                        "  b Baltej Singh ", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player8": [
+                        "  Sijomon  ", 
+                        " c Shubman Gill b S Kaul ", 
+                        "7", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "18.92"
+                    ], 
+                    "player9": [
+                        "  Basil Thampi  ", 
+                        " c (sub)Vinay Choudhary b Markande ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Kerala", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Gony  ", 
+                        "13", 
+                        "4", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player2": [
+                        "  Baltej Singh  ", 
+                        "19", 
+                        "2", 
+                        "73", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player3": [
+                        "  S Kaul  ", 
+                        "19.1", 
+                        "0", 
+                        "65", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player4": [
+                        "  Markande  ", 
+                        "21", 
+                        "2", 
+                        "56", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player5": [
+                        "  Gurkeerat Singh  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Punjab", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "6", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "73.1", 
+                    "runs": "223", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {}, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Jiwanjot Singh  ", 
+                        " not out ", 
+                        "48", 
+                        "95", 
+                        "7", 
+                        "0", 
+                        "50.53"
+                    ], 
+                    "player2": [
+                        "  Shubman Gill  ", 
+                        " not out ", 
+                        "69", 
+                        "73", 
+                        "11", 
+                        "0", 
+                        "94.52"
+                    ]
+                }, 
+                "batTeam": "Punjab", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Sandeep Warrier  ", 
+                        "10", 
+                        "1", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  Basil Thampi  ", 
+                        "6", 
+                        "0", 
+                        "33", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player3": [
+                        "  MD Nidheesh  ", 
+                        "3", 
+                        "1", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.30"
+                    ], 
+                    "player4": [
+                        "  Sijomon Joseph  ", 
+                        "5.4", 
+                        "0", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player5": [
+                        "  Sachin Baby (c)  ", 
+                        "3", 
+                        "0", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.70"
+                    ]
+                }, 
+                "bowlTeam": "Kerala", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "4", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "27.4", 
+                    "runs": "131", 
+                    "wickets": "0"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-02T16:30:00", 
+                    "startDate": "2018-12-30T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Shubek Gill", 
+                            " Sanvir Singh", 
+                            " Abhishek Gupta", 
+                            " Arpit Pannu", 
+                            " Abhishek Sharma", 
+                            " Vinay Choudhary", 
+                            " Sharad Lumba", 
+                            " Barinder Sran", 
+                            " Abhijeet Garg", 
+                            " Sandeep Sharma", 
+                            " Raghu Sharma  "
+                        ], 
+                        "playing11": [
+                            " Jiwanjot Singh", 
+                            " Shubman Gill", 
+                            " Anmolpreet Singh", 
+                            " Mandeep Singh (c)", 
+                            " Yuvraj Singh", 
+                            " Gurkeerat Singh Mann", 
+                            " Gitansh Khera (wk)", 
+                            " Mayank Markande", 
+                            " Manpreet Gony", 
+                            " Siddarth Kaul", 
+                            " Baltej Singh  "
+                        ], 
+                        "teamName": "Punjab\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Vasudevan Arundhadi Jagadeesh", 
+                            " Vathsal Govind", 
+                            " Vinoop Manoharan", 
+                            " KC Akshay", 
+                            " Akshay Chandran", 
+                            " Rohan Prem", 
+                            " Salman Nizar  "
+                        ], 
+                        "playing11": [
+                            " Sanju Samson (wk)", 
+                            " Jalaj Saxena", 
+                            " Basil Thampi", 
+                            " Arun Karthik", 
+                            " Sachin Baby (c)", 
+                            " Sandeep Warrier", 
+                            " Mohammed Azharuddeen", 
+                            " Vishnu Vinod", 
+                            " MD Nidheesh", 
+                            " Ponnam Rahul", 
+                            " Sijomon Joseph  "
+                        ], 
+                        "teamName": "Kerala\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Punjab", 
+                    "team2": "Kerala"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Punjab"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Shakti Singh"
+                }, 
+                "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali"
+            }
+        }
+    ]
+}

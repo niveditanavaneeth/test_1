@@ -1,0 +1,761 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 25, 
+                        "teamScore": "15"
+                    }, 
+                    "player10": {
+                        "ballNo": 503, 
+                        "teamScore": "377"
+                    }, 
+                    "player2": {
+                        "ballNo": 91, 
+                        "teamScore": "52"
+                    }, 
+                    "player3": {
+                        "ballNo": 97, 
+                        "teamScore": "57"
+                    }, 
+                    "player4": {
+                        "ballNo": 162, 
+                        "teamScore": "90"
+                    }, 
+                    "player5": {
+                        "ballNo": 326, 
+                        "teamScore": "234"
+                    }, 
+                    "player6": {
+                        "ballNo": 419, 
+                        "teamScore": "300"
+                    }, 
+                    "player7": {
+                        "ballNo": 462, 
+                        "teamScore": "337"
+                    }, 
+                    "player8": {
+                        "ballNo": 478, 
+                        "teamScore": "355"
+                    }, 
+                    "player9": {
+                        "ballNo": 483, 
+                        "teamScore": "355"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  V Saxena  ", 
+                        "  b G Lalbiakvela ", 
+                        "35", 
+                        "47", 
+                        "5", 
+                        "0", 
+                        "74.47"
+                    ], 
+                    "player10": [
+                        "  Dhanraj Sharma  ", 
+                        "  b Akhil Rajput ", 
+                        "5", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player11": [
+                        "  Sunny Rana  ", 
+                        " not out ", 
+                        "17", 
+                        "12", 
+                        "1", 
+                        "1", 
+                        "141.67"
+                    ], 
+                    "player2": [
+                        "  Karn Veer Kaushal  ", 
+                        "  b HM Ralte ", 
+                        "6", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player3": [
+                        "  Vaibhav Bhatt (wk)  ", 
+                        "  b T Kohli ", 
+                        "26", 
+                        "74", 
+                        "2", 
+                        "0", 
+                        "35.14"
+                    ], 
+                    "player4": [
+                        "  Vaibhav Singh  ", 
+                        "  b T Kohli ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Saurabh Rawat  ", 
+                        " c Lalhruaizela b G Lalbiakvela ", 
+                        "102", 
+                        "149", 
+                        "14", 
+                        "0", 
+                        "68.46"
+                    ], 
+                    "player6": [
+                        "  R Bhatia (c)  ", 
+                        " lbw b Andrew Vanlalhruaia ", 
+                        "84", 
+                        "84", 
+                        "9", 
+                        "1", 
+                        "100.00"
+                    ], 
+                    "player7": [
+                        "  M Rangarajan  ", 
+                        "  b Akhil Rajput ", 
+                        "58", 
+                        "76", 
+                        "5", 
+                        "1", 
+                        "76.32"
+                    ], 
+                    "player8": [
+                        "  Mayank Mishra  ", 
+                        " c HM Ralte b Zorinliana ", 
+                        "21", 
+                        "28", 
+                        "1", 
+                        "1", 
+                        "75.00"
+                    ], 
+                    "player9": [
+                        "  Deepak Dhapola  ", 
+                        "  b Zorinliana ", 
+                        "8", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "72.73"
+                    ]
+                }, 
+                "batTeam": "UTK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  HM Ralte  ", 
+                        "9", 
+                        "1", 
+                        "39", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player2": [
+                        "  Andrew Vanlalhruaia  ", 
+                        "13", 
+                        "1", 
+                        "51", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        "21", 
+                        "3", 
+                        "61", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  G Lalbiakvela  ", 
+                        "17", 
+                        "3", 
+                        "88", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player5": [
+                        "  Sinan Khadir  ", 
+                        "10", 
+                        "0", 
+                        "52", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ], 
+                    "player6": [
+                        "  Zorinliana (c)  ", 
+                        "9", 
+                        "0", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "5.80"
+                    ], 
+                    "player7": [
+                        "  Akhil Rajput  ", 
+                        "4.5", 
+                        "1", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "10", 
+                    "lb": "3", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "83.5", 
+                    "runs": "377", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 49, 
+                        "teamScore": "31"
+                    }, 
+                    "player10": {
+                        "ballNo": 452, 
+                        "teamScore": "198"
+                    }, 
+                    "player2": {
+                        "ballNo": 106, 
+                        "teamScore": "46"
+                    }, 
+                    "player3": {
+                        "ballNo": 119, 
+                        "teamScore": "52"
+                    }, 
+                    "player4": {
+                        "ballNo": 150, 
+                        "teamScore": "67"
+                    }, 
+                    "player5": {
+                        "ballNo": 293, 
+                        "teamScore": "124"
+                    }, 
+                    "player6": {
+                        "ballNo": 310, 
+                        "teamScore": "133"
+                    }, 
+                    "player7": {
+                        "ballNo": 322, 
+                        "teamScore": "135"
+                    }, 
+                    "player8": {
+                        "ballNo": 358, 
+                        "teamScore": "151"
+                    }, 
+                    "player9": {
+                        "ballNo": 450, 
+                        "teamScore": "197"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        " c V Saxena b Sunny Rana ", 
+                        "21", 
+                        "61", 
+                        "1", 
+                        "0", 
+                        "34.43"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        " c Vaibhav Bhatt b Vaibhav Singh ", 
+                        "13", 
+                        "33", 
+                        "3", 
+                        "0", 
+                        "39.39"
+                    ], 
+                    "player11": [
+                        "  Andrew Vanlalhruaia  ", 
+                        " run out (Mayank Mishra)  ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Lalhruaizela  ", 
+                        " c Vaibhav Bhatt b Deepak Dhapola ", 
+                        "19", 
+                        "24", 
+                        "3", 
+                        "0", 
+                        "79.17"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        " not out ", 
+                        "96", 
+                        "199", 
+                        "10", 
+                        "0", 
+                        "48.24"
+                    ], 
+                    "player4": [
+                        "  C Lalrinsanga  ", 
+                        " c Vaibhav Bhatt b Sunny Rana ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player5": [
+                        "  Abhay Joshi  ", 
+                        " c Vaibhav Bhatt b Dhanraj Sharma ", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  HM Ralte  ", 
+                        " lbw b Mayank Mishra ", 
+                        "30", 
+                        "86", 
+                        "4", 
+                        "0", 
+                        "34.88"
+                    ], 
+                    "player7": [
+                        "  Sinan Khadir  ", 
+                        "  b Dhanraj Sharma ", 
+                        "3", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "23.08"
+                    ], 
+                    "player8": [
+                        "  Zorinliana (c)  ", 
+                        "  b Dhanraj Sharma ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Darremsanga (wk)  ", 
+                        " run out (Karn Veer Kaushal)  ", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Deepak Dhapola  ", 
+                        "21", 
+                        "6", 
+                        "45", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Dhanraj Sharma  ", 
+                        "16", 
+                        "4", 
+                        "49", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  Sunny Rana  ", 
+                        "12", 
+                        "1", 
+                        "46", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player4": [
+                        "  R Bhatia (c)  ", 
+                        "5.2", 
+                        "1", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player5": [
+                        "  Mayank Mishra  ", 
+                        "17", 
+                        "5", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player6": [
+                        "  M Rangarajan  ", 
+                        "3", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player7": [
+                        "  Vaibhav Singh  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "9", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "75.2", 
+                    "runs": "198", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 47, 
+                        "teamScore": "31"
+                    }, 
+                    "player10": {
+                        "ballNo": 354, 
+                        "teamScore": "123"
+                    }, 
+                    "player2": {
+                        "ballNo": 92, 
+                        "teamScore": "36"
+                    }, 
+                    "player3": {
+                        "ballNo": 151, 
+                        "teamScore": "57"
+                    }, 
+                    "player4": {
+                        "ballNo": 257, 
+                        "teamScore": "83"
+                    }, 
+                    "player5": {
+                        "ballNo": 266, 
+                        "teamScore": "85"
+                    }, 
+                    "player6": {
+                        "ballNo": 272, 
+                        "teamScore": "88"
+                    }, 
+                    "player7": {
+                        "ballNo": 276, 
+                        "teamScore": "92"
+                    }, 
+                    "player8": {
+                        "ballNo": 305, 
+                        "teamScore": "101"
+                    }, 
+                    "player9": {
+                        "ballNo": 348, 
+                        "teamScore": "122"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        " lbw b M Rangarajan ", 
+                        "5", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "27.78"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        " lbw b Sunny Rana ", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Andrew Vanlalhruaia  ", 
+                        "  b R Bhatia ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Lalhruaizela  ", 
+                        " c V Saxena b Sunny Rana ", 
+                        "19", 
+                        "54", 
+                        "2", 
+                        "0", 
+                        "35.19"
+                    ], 
+                    "player3": [
+                        "  Taruwar Kohli  ", 
+                        " not out ", 
+                        "68", 
+                        "136", 
+                        "6", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player4": [
+                        "  HM Ralte  ", 
+                        " c V Saxena b Mayank Mishra ", 
+                        "7", 
+                        "38", 
+                        "0", 
+                        "0", 
+                        "18.42"
+                    ], 
+                    "player5": [
+                        "  C Lalrinsanga  ", 
+                        " lbw b R Bhatia ", 
+                        "6", 
+                        "70", 
+                        "0", 
+                        "0", 
+                        "8.57"
+                    ], 
+                    "player6": [
+                        "  Abhay Joshi  ", 
+                        " c Vaibhav Bhatt b R Bhatia ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player7": [
+                        "  Sinan Abdul Khadir  ", 
+                        " c M Rangarajan b Mayank Mishra ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player8": [
+                        "  Darremsanga (wk)  ", 
+                        " c Vaibhav Bhatt b Mayank Mishra ", 
+                        "4", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player9": [
+                        "  Zorinliana (c)  ", 
+                        "  b R Bhatia ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Deepak Dhapola  ", 
+                        "11", 
+                        "2", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player2": [
+                        "  Dhanraj Sharma  ", 
+                        "7", 
+                        "1", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Sunny Rana  ", 
+                        "9", 
+                        "4", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player4": [
+                        "  Malolan Rangarajan  ", 
+                        "7", 
+                        "1", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.30"
+                    ], 
+                    "player5": [
+                        "  Mayank Mishra  ", 
+                        "16", 
+                        "7", 
+                        "29", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player6": [
+                        "  Rajat Bhatia (c)  ", 
+                        "9", 
+                        "0", 
+                        "17", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ]
+                }, 
+                "bowlTeam": "Uttarakhand", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "5", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "59", 
+                    "runs": "123", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-10T16:30:00", 
+                    "startDate": "2019-01-07T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 9", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Kartik", 
+                            " Shivam Khurana", 
+                            " Kartik Joshi", 
+                            " Sunny Kashyap", 
+                            " Piyush Joshi", 
+                            " Girish Rauturi  "
+                        ], 
+                        "playing11": [
+                            " Vineet Saxena", 
+                            " Karn Veer Kaushal", 
+                            " Deepak Dhapola", 
+                            " Dhanraj Sharma", 
+                            " Mayank Mishra", 
+                            " Sunny Rana", 
+                            " Vaibhav Bhatt (wk)", 
+                            " Vaibhav Singh", 
+                            " Malolan Rangarajan", 
+                            " Rajat Bhatia (c)", 
+                            " Saurabh Rawat  "
+                        ], 
+                        "teamName": "Uttarakhand\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " K Lalremruata", 
+                            " Moia", 
+                            " Gaurav Singh", 
+                            " Lalhmangaiha", 
+                            " Lalnun Tluanga", 
+                            " Marema", 
+                            " Darremsanga  "
+                        ], 
+                        "playing11": [
+                            " Andrew Vanlalhruaia", 
+                            " Darremsanga (wk)", 
+                            " G Lalbiakvela", 
+                            " Lalhruai Ralte", 
+                            " Zorinliana (c)", 
+                            " C Lalrinsanga", 
+                            " Abhay Joshi", 
+                            " Sinan Abdul Khadir", 
+                            " Taruwar Kohli", 
+                            " Akhil Rajput", 
+                            " Lalhruaizela  "
+                        ], 
+                        "teamName": "Mizoram\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Uttarakhand", 
+                    "team2": "Mizoram"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Mizoram"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "P Ranganathan"
+                }, 
+                "venue": "Rajiv Gandhi International Cricket Stadium, Dehradun"
+            }
+        }
+    ]
+}

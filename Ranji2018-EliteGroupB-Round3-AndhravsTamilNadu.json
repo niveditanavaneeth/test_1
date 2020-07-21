@@ -1,0 +1,577 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 28, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 539, 
+                        "teamScore": "216"
+                    }, 
+                    "player2": {
+                        "ballNo": 34, 
+                        "teamScore": "16"
+                    }, 
+                    "player3": {
+                        "ballNo": 139, 
+                        "teamScore": "56"
+                    }, 
+                    "player4": {
+                        "ballNo": 176, 
+                        "teamScore": "68"
+                    }, 
+                    "player5": {
+                        "ballNo": 332, 
+                        "teamScore": "141"
+                    }, 
+                    "player6": {
+                        "ballNo": 339, 
+                        "teamScore": "142"
+                    }, 
+                    "player7": {
+                        "ballNo": 467, 
+                        "teamScore": "195"
+                    }, 
+                    "player8": {
+                        "ballNo": 468, 
+                        "teamScore": "195"
+                    }, 
+                    "player9": {
+                        "ballNo": 490, 
+                        "teamScore": "205"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prasanth Kumar  ", 
+                        " c N Jagadeesan b T Natarajan ", 
+                        "4", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "23.53"
+                    ], 
+                    "player10": [
+                        "  B Ayyappa  ", 
+                        "  b Sai Kishore ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Karthik Raman  ", 
+                        " lbw b T Natarajan ", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Ashwin Hebbar  ", 
+                        " c Kaushik Gandhi b M Mohammed ", 
+                        "12", 
+                        "15", 
+                        "2", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player3": [
+                        "  J Krishna  ", 
+                        " c K Vignesh b M Mohammed ", 
+                        "58", 
+                        "149", 
+                        "8", 
+                        "0", 
+                        "38.93"
+                    ], 
+                    "player4": [
+                        "  Bhui  ", 
+                        " lbw b M Mohammed ", 
+                        "22", 
+                        "53", 
+                        "4", 
+                        "0", 
+                        "41.51"
+                    ], 
+                    "player5": [
+                        "  B Sumanth (c)  ", 
+                        " c N Jagadeesan b M Mohammed ", 
+                        "1", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "5.26"
+                    ], 
+                    "player6": [
+                        "  Girinath Reddy  ", 
+                        " not out ", 
+                        "86", 
+                        "197", 
+                        "5", 
+                        "3", 
+                        "43.65"
+                    ], 
+                    "player7": [
+                        "  Siva charan singh (wk)  ", 
+                        " c Aparajith b T Natarajan ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Shoaib Md Khan  ", 
+                        "  b Sai Kishore ", 
+                        "26", 
+                        "65", 
+                        "3", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player9": [
+                        "  KV Sasikanth  ", 
+                        "  b Sai Kishore ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  K Vignesh  ", 
+                        "14", 
+                        "3", 
+                        "53", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player2": [
+                        "  M Mohammed  ", 
+                        "25", 
+                        "3", 
+                        "70", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  T Natarajan  ", 
+                        "19.5", 
+                        "5", 
+                        "36", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player4": [
+                        "  J Kousik  ", 
+                        "16", 
+                        "8", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player5": [
+                        "  Sai Kishore  ", 
+                        "15", 
+                        "5", 
+                        "29", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "2", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "89.5", 
+                    "runs": "216", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 167, 
+                        "teamScore": "70"
+                    }, 
+                    "player10": {
+                        "ballNo": 676, 
+                        "teamScore": "254"
+                    }, 
+                    "player2": {
+                        "ballNo": 181, 
+                        "teamScore": "80"
+                    }, 
+                    "player3": {
+                        "ballNo": 242, 
+                        "teamScore": "93"
+                    }, 
+                    "player4": {
+                        "ballNo": 304, 
+                        "teamScore": "124"
+                    }, 
+                    "player5": {
+                        "ballNo": 428, 
+                        "teamScore": "158"
+                    }, 
+                    "player6": {
+                        "ballNo": 530, 
+                        "teamScore": "201"
+                    }, 
+                    "player7": {
+                        "ballNo": 540, 
+                        "teamScore": "208"
+                    }, 
+                    "player8": {
+                        "ballNo": 578, 
+                        "teamScore": "214"
+                    }, 
+                    "player9": {
+                        "ballNo": 667, 
+                        "teamScore": "253"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kaushik Gandhi  ", 
+                        " c Siva charan singh b Girinath Reddy ", 
+                        "38", 
+                        "89", 
+                        "7", 
+                        "0", 
+                        "42.70"
+                    ], 
+                    "player10": [
+                        "  K Vignesh  ", 
+                        " c (sub)Manish Golamaru b Bhui ", 
+                        "10", 
+                        "46", 
+                        "1", 
+                        "0", 
+                        "21.74"
+                    ], 
+                    "player11": [
+                        "  T Natarajan  ", 
+                        " lbw b Shoaib Md Khan ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Mukund  ", 
+                        " lbw b B Ayyappa ", 
+                        "31", 
+                        "89", 
+                        "5", 
+                        "0", 
+                        "34.83"
+                    ], 
+                    "player3": [
+                        "  Aparajith  ", 
+                        " c Siva charan singh b Karthik Raman ", 
+                        "57", 
+                        "184", 
+                        "6", 
+                        "0", 
+                        "30.98"
+                    ], 
+                    "player4": [
+                        "  Indrajith (c)  ", 
+                        " c Siva charan singh b Karthik Raman ", 
+                        "7", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player5": [
+                        "  N Jagadeesan (wk)  ", 
+                        " c Siva charan singh b B Ayyappa ", 
+                        "10", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "41.67"
+                    ], 
+                    "player6": [
+                        "  Balchander Anirudh  ", 
+                        " c J Krishna b Shoaib Md Khan ", 
+                        "17", 
+                        "70", 
+                        "1", 
+                        "0", 
+                        "24.29"
+                    ], 
+                    "player7": [
+                        "  J Kousik  ", 
+                        " c Siva charan singh b Karthik Raman ", 
+                        "33", 
+                        "76", 
+                        "4", 
+                        "0", 
+                        "43.42"
+                    ], 
+                    "player8": [
+                        "  M Mohammed  ", 
+                        " run out (B Ayyappa)  ", 
+                        "2", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player9": [
+                        "  Sai Kishore  ", 
+                        " not out ", 
+                        "27", 
+                        "66", 
+                        "4", 
+                        "0", 
+                        "40.91"
+                    ]
+                }, 
+                "batTeam": "TN", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  B Ayyappa  ", 
+                        "29", 
+                        "6", 
+                        "62", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  KV Sasikanth  ", 
+                        "29", 
+                        "4", 
+                        "63", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  Karthik Raman  ", 
+                        "20", 
+                        "3", 
+                        "51", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Girinath Reddy  ", 
+                        "20", 
+                        "8", 
+                        "36", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player5": [
+                        "  Shoaib Md Khan  ", 
+                        "8.4", 
+                        "1", 
+                        "15", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player6": [
+                        "  Bhui  ", 
+                        "6", 
+                        "2", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ]
+                }, 
+                "bowlTeam": "Andhra", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "3", 
+                    "nb": "10", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "112.4", 
+                    "runs": "254", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {}, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Prasanth Kumar  ", 
+                        " not out ", 
+                        "2", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "10.53"
+                    ], 
+                    "player2": [
+                        "  Ashwin Hebbar  ", 
+                        " not out ", 
+                        "5", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "21.74"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Baba Aparajith  ", 
+                        "3", 
+                        "2", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player2": [
+                        "  Ravisrinivasan Sai Kishore  ", 
+                        "3", 
+                        "2", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.70"
+                    ], 
+                    "player3": [
+                        "  N Jagadeesan (wk)  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "7", 
+                    "runs": "8", 
+                    "wickets": "0"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-23T16:30:00", 
+                    "startDate": "2018-11-20T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 3", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Hanuma Vihari", 
+                            " Srikar Bharat", 
+                            " Karn Sharma", 
+                            " Paidikalva Vijaykumar", 
+                            " Manish Golamaru", 
+                            " Dwaraka Ravi Teja", 
+                            " Yarra Prithviraj  "
+                        ], 
+                        "playing11": [
+                            " Ashwin Hebbar", 
+                            " Girinath Reddy", 
+                            " Karthik Raman", 
+                            " Ricky Bhui", 
+                            " Bandaru Ayyappa", 
+                            " Bodapati Sumanth (c)", 
+                            " Prasanth Kumar", 
+                            " Jyothi Sai Krishna", 
+                            " Siva charan singh (wk)", 
+                            " KV Sasikanth", 
+                            " Shoaib Md Khan  "
+                        ], 
+                        "teamName": "Andhra\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Rahil Shah", 
+                            " Abhishek Tanwar", 
+                            " Varun Chakravarthy", 
+                            " Shahrukh Khan  "
+                        ], 
+                        "playing11": [
+                            " Abhinav Mukund", 
+                            " Baba Indrajith (c)", 
+                            " Baba Aparajith", 
+                            " Jagatheesan Kousik", 
+                            " M Mohammed", 
+                            " Kaushik Gandhi", 
+                            " Krishnamoorthy Vignesh", 
+                            " Balchander Anirudh", 
+                            " N Jagadeesan (wk)", 
+                            " T Natarajan", 
+                            " Ravisrinivasan Sai Kishore  "
+                        ], 
+                        "teamName": "Tamil Nadu\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Andhra", 
+                    "team2": "Tamil Nadu"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Tamil"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Nitin Goel"
+                }, 
+                "venue": "CSR Sharma College Ground, Ongole"
+            }
+        }
+    ]
+}

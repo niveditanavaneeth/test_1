@@ -1,0 +1,745 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 3, 
+                        "teamScore": "0"
+                    }, 
+                    "player2": {
+                        "ballNo": 366, 
+                        "teamScore": "285"
+                    }, 
+                    "player3": {
+                        "ballNo": 479, 
+                        "teamScore": "386"
+                    }, 
+                    "player4": {
+                        "ballNo": 511, 
+                        "teamScore": "407"
+                    }, 
+                    "player5": {
+                        "ballNo": 810, 
+                        "teamScore": "583"
+                    }, 
+                    "player6": {
+                        "ballNo": 866, 
+                        "teamScore": "619"
+                    }, 
+                    "player7": {
+                        "ballNo": 887, 
+                        "teamScore": "630"
+                    }, 
+                    "player8": {
+                        "ballNo": 892, 
+                        "teamScore": "631"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sargunam  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Abhijeet Saranath  ", 
+                        " not out ", 
+                        "10", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "37.04"
+                    ], 
+                    "player2": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        " c Karma Bhutia b Lee Yong Lepcha ", 
+                        "78", 
+                        "161", 
+                        "10", 
+                        "0", 
+                        "48.45"
+                    ], 
+                    "player3": [
+                        "  P Dogra  ", 
+                        "  b Bipul Sharma ", 
+                        "253", 
+                        "244", 
+                        "30", 
+                        "7", 
+                        "103.69"
+                    ], 
+                    "player4": [
+                        "  D Rohit (c)  ", 
+                        " st Karma Bhutia b Bipul Sharma ", 
+                        "59", 
+                        "93", 
+                        "6", 
+                        "1", 
+                        "63.44"
+                    ], 
+                    "player5": [
+                        "  Fabid Ahmed  ", 
+                        " c Lee Yong Lepcha b Dinesh Rai ", 
+                        "99", 
+                        "161", 
+                        "5", 
+                        "1", 
+                        "61.49"
+                    ], 
+                    "player6": [
+                        "  Saju Chothan  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "81", 
+                        "179", 
+                        "8", 
+                        "0", 
+                        "45.25"
+                    ], 
+                    "player7": [
+                        "  Nayar  ", 
+                        " not out ", 
+                        "30", 
+                        "66", 
+                        "3", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player8": [
+                        "  B Ranjit (wk)  ", 
+                        " c Nilesh Lamichaney b Lee Yong Lepcha ", 
+                        "6", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "46.15"
+                    ], 
+                    "player9": [
+                        "  Pankaj Singh  ", 
+                        " c Bipul Sharma b Dinesh Rai ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "PDC", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "27", 
+                        "3", 
+                        "118", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player2": [
+                        "  Mandup Bhutia  ", 
+                        "14", 
+                        "2", 
+                        "56", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player3": [
+                        "  Bipul Sharma  ", 
+                        "44", 
+                        "5", 
+                        "141", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Lee Yong Lepcha  ", 
+                        "38", 
+                        "1", 
+                        "173", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player5": [
+                        "  Milind Kumar  ", 
+                        "12.4", 
+                        "0", 
+                        "56", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player6": [
+                        "  Dinesh Rai  ", 
+                        "20", 
+                        "3", 
+                        "70", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player7": [
+                        "  Asish Thapa  ", 
+                        "1.2", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.80"
+                    ]
+                }, 
+                "bowlTeam": "Sikkim", 
+                "extras": {
+                    "b": "16", 
+                    "lb": "8", 
+                    "nb": "7", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "157", 
+                    "runs": "647", 
+                    "wickets": "8"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 16, 
+                        "teamScore": "3"
+                    }, 
+                    "player10": {
+                        "ballNo": 434, 
+                        "teamScore": "247"
+                    }, 
+                    "player2": {
+                        "ballNo": 23, 
+                        "teamScore": "3"
+                    }, 
+                    "player3": {
+                        "ballNo": 74, 
+                        "teamScore": "28"
+                    }, 
+                    "player4": {
+                        "ballNo": 83, 
+                        "teamScore": "29"
+                    }, 
+                    "player5": {
+                        "ballNo": 115, 
+                        "teamScore": "40"
+                    }, 
+                    "player6": {
+                        "ballNo": 176, 
+                        "teamScore": "76"
+                    }, 
+                    "player7": {
+                        "ballNo": 306, 
+                        "teamScore": "180"
+                    }, 
+                    "player8": {
+                        "ballNo": 328, 
+                        "teamScore": "193"
+                    }, 
+                    "player9": {
+                        "ballNo": 362, 
+                        "teamScore": "205"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        "  b Abhijeet Saranath ", 
+                        "0", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Mandup Bhutia  ", 
+                        "  b D Rohit ", 
+                        "5", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player11": [
+                        "  Ishwar Chaudhary  ", 
+                        " not out ", 
+                        "29", 
+                        "30", 
+                        "2", 
+                        "2", 
+                        "96.67"
+                    ], 
+                    "player2": [
+                        "  Bibek Dayali  ", 
+                        "  b Pankaj Singh ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player3": [
+                        "  Asish Thapa  ", 
+                        " c P Dogra b D Rohit ", 
+                        "14", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "53.85"
+                    ], 
+                    "player4": [
+                        "  Jahan Uddin  ", 
+                        "  b D Rohit ", 
+                        "16", 
+                        "47", 
+                        "1", 
+                        "0", 
+                        "34.04"
+                    ], 
+                    "player5": [
+                        "  Lee Yong Lepcha  ", 
+                        " c Sargunam b Pankaj Singh ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Karma Bhutia (wk)  ", 
+                        " c B Ranjit b Nayar ", 
+                        "4", 
+                        "40", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player7": [
+                        "  Milind Kumar  ", 
+                        " run out (Abhijeet Saranath)  ", 
+                        "96", 
+                        "102", 
+                        "16", 
+                        "2", 
+                        "94.12"
+                    ], 
+                    "player8": [
+                        "  Bipul Sharma  ", 
+                        " run out (Akshay Jain)  ", 
+                        "47", 
+                        "79", 
+                        "5", 
+                        "2", 
+                        "59.49"
+                    ], 
+                    "player9": [
+                        "  Dinesh Rai  ", 
+                        "  b Pankaj Singh ", 
+                        "18", 
+                        "65", 
+                        "2", 
+                        "0", 
+                        "27.69"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Singh  ", 
+                        "14.2", 
+                        "4", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player2": [
+                        "  Fabid Ahmed  ", 
+                        "3", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.30"
+                    ], 
+                    "player3": [
+                        "  Abhijeet Saranath  ", 
+                        "6", 
+                        "2", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player4": [
+                        "  Akshay Jain  ", 
+                        "13", 
+                        "2", 
+                        "59", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player5": [
+                        "  D Rohit (c)  ", 
+                        "21", 
+                        "10", 
+                        "67", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player6": [
+                        "  Nayar  ", 
+                        "11", 
+                        "2", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player7": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        "2", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player8": [
+                        "  P Dogra  ", 
+                        "2", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Sikkim", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "6", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "72.2", 
+                    "runs": "247", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 6, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 455, 
+                        "teamScore": "241"
+                    }, 
+                    "player2": {
+                        "ballNo": 130, 
+                        "teamScore": "79"
+                    }, 
+                    "player3": {
+                        "ballNo": 196, 
+                        "teamScore": "99"
+                    }, 
+                    "player4": {
+                        "ballNo": 236, 
+                        "teamScore": "110"
+                    }, 
+                    "player5": {
+                        "ballNo": 265, 
+                        "teamScore": "116"
+                    }, 
+                    "player6": {
+                        "ballNo": 344, 
+                        "teamScore": "169"
+                    }, 
+                    "player7": {
+                        "ballNo": 375, 
+                        "teamScore": "190"
+                    }, 
+                    "player8": {
+                        "ballNo": 408, 
+                        "teamScore": "199"
+                    }, 
+                    "player9": {
+                        "ballNo": 420, 
+                        "teamScore": "205"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bibek Dayali  ", 
+                        " lbw b Pankaj Singh ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Mandup Bhutia  ", 
+                        " c Saju Chothan b Nayar ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Ishwar Chaudhary  ", 
+                        " c Nayar b Pankaj Singh ", 
+                        "22", 
+                        "20", 
+                        "2", 
+                        "2", 
+                        "110.00"
+                    ], 
+                    "player2": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " c Vikneshwaran Marimuthu b Nayar ", 
+                        "41", 
+                        "68", 
+                        "7", 
+                        "0", 
+                        "60.29"
+                    ], 
+                    "player3": [
+                        "  Asish Thapa  ", 
+                        " lbw b D Rohit ", 
+                        "52", 
+                        "88", 
+                        "10", 
+                        "0", 
+                        "59.09"
+                    ], 
+                    "player4": [
+                        "  Karma Bhutia (wk)  ", 
+                        " c B Ranjit b Pankaj Singh ", 
+                        "10", 
+                        "56", 
+                        "1", 
+                        "0", 
+                        "17.86"
+                    ], 
+                    "player5": [
+                        "  Jahan Uddin  ", 
+                        " c Vikneshwaran Marimuthu b Nayar ", 
+                        "5", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "15.15"
+                    ], 
+                    "player6": [
+                        "  Milind Kumar  ", 
+                        " not out ", 
+                        "77", 
+                        "102", 
+                        "13", 
+                        "0", 
+                        "75.49"
+                    ], 
+                    "player7": [
+                        "  Bipul Sharma  ", 
+                        " st B Ranjit b Akshay Jain ", 
+                        "18", 
+                        "47", 
+                        "1", 
+                        "0", 
+                        "38.30"
+                    ], 
+                    "player8": [
+                        "  Lee Yong Lepcha  ", 
+                        "  b Nayar ", 
+                        "4", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "26.67"
+                    ], 
+                    "player9": [
+                        "  Dinesh Rai  ", 
+                        " c B Ranjit b Nayar ", 
+                        "4", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "21.05"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Singh  ", 
+                        "20", 
+                        "7", 
+                        "40", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  Abhishek Nayar  ", 
+                        "20", 
+                        "3", 
+                        "76", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player3": [
+                        "  D Rohit (c)  ", 
+                        "19", 
+                        "5", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Akshay Jain  ", 
+                        "12", 
+                        "2", 
+                        "37", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  Abhijeet Saranath  ", 
+                        "2", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player6": [
+                        "  Vikneshwaran Marimuthu  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ]
+                }, 
+                "bowlTeam": "Sikkim", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "5", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "76", 
+                    "runs": "241", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-09T16:30:00", 
+                    "startDate": "2018-12-06T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 5", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Faizan Khan", 
+                            " Pritam Nirala  "
+                        ], 
+                        "playing11": [
+                            " Nilesh Lamichaney (c)", 
+                            " Bibek Diyali", 
+                            " Karma Bhutia (wk)", 
+                            " Ashish Thapa", 
+                            " Milind Kumar", 
+                            " Dinesh Rai", 
+                            " Bipul Sharma", 
+                            " Jahan Uddin", 
+                            " Lee Yong Lepcha", 
+                            " Mandup Bhutia", 
+                            " Ishwar Chaudhary  "
+                        ], 
+                        "teamName": "Sikkim\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Abdul Safar", 
+                            " Govindaraajan  "
+                        ], 
+                        "playing11": [
+                            " Thalaivan Sargunam", 
+                            " Vikneshwaran Marimuthu", 
+                            " Paras Dogra", 
+                            " D Rohit (c)", 
+                            " Abhishek Nayar", 
+                            " Fabid Ahmed", 
+                            " Saju Chothan", 
+                            " B Ranjit (wk)", 
+                            " Pankaj Singh", 
+                            " Abhijeet Saranath", 
+                            " Akshay Jain  "
+                        ], 
+                        "teamName": "Puducherry\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Sikkim", 
+                    "team2": "Puducherry"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Sikkim"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sankinani Vishnuvardhan"
+                }, 
+                "venue": "Krishnagiri Stadium, Wayanad, Kerala"
+            }
+        }
+    ]
+}

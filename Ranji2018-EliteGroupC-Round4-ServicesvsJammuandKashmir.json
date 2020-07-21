@@ -1,0 +1,892 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 25, 
+                        "teamScore": "6"
+                    }, 
+                    "player10": {
+                        "ballNo": 191, 
+                        "teamScore": "95"
+                    }, 
+                    "player2": {
+                        "ballNo": 26, 
+                        "teamScore": "6"
+                    }, 
+                    "player3": {
+                        "ballNo": 95, 
+                        "teamScore": "58"
+                    }, 
+                    "player4": {
+                        "ballNo": 115, 
+                        "teamScore": "70"
+                    }, 
+                    "player5": {
+                        "ballNo": 128, 
+                        "teamScore": "75"
+                    }, 
+                    "player6": {
+                        "ballNo": 130, 
+                        "teamScore": "75"
+                    }, 
+                    "player7": {
+                        "ballNo": 173, 
+                        "teamScore": "90"
+                    }, 
+                    "player8": {
+                        "ballNo": 183, 
+                        "teamScore": "94"
+                    }, 
+                    "player9": {
+                        "ballNo": 188, 
+                        "teamScore": "82"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Bandy  ", 
+                        "  b Diwesh Pathania ", 
+                        "2", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "13.33"
+                    ], 
+                    "player10": [
+                        "  M Mudhasir  ", 
+                        " c G Rahul Singh b Arun Bamal ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player11": [
+                        "  Umar Nazir  ", 
+                        "  b Arun Bamal ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Shubham Khajuria  ", 
+                        " lbw b Arun Bamal ", 
+                        "44", 
+                        "56", 
+                        "6", 
+                        "2", 
+                        "78.57"
+                    ], 
+                    "player3": [
+                        "  Ian Dev Singh  ", 
+                        " c Devender Lohchab b Diwesh Pathania ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Irfan Pathan  ", 
+                        " lbw b Arun Bamal ", 
+                        "12", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player5": [
+                        "  Rasool (c)  ", 
+                        " st Devender Lohchab b Arun Bamal ", 
+                        "11", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "91.67"
+                    ], 
+                    "player6": [
+                        "  Shubham Pundir  ", 
+                        " run out (Vikas Hathwala)  ", 
+                        "4", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player7": [
+                        "  O Haroon (wk)  ", 
+                        " not out ", 
+                        "5", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player8": [
+                        "  A Aziz  ", 
+                        " lbw b Diwesh Pathania ", 
+                        "10", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "47.62"
+                    ], 
+                    "player9": [
+                        "  Waseem Raza  ", 
+                        " c R Paliwal b Diwesh Pathania ", 
+                        "4", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ]
+                }, 
+                "batTeam": "JK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Diwesh Pathania  ", 
+                        "12", 
+                        "3", 
+                        "30", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player2": [
+                        "  S Pandey  ", 
+                        "8", 
+                        "0", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player3": [
+                        "  Nitin Tanwar  ", 
+                        "4", 
+                        "0", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player4": [
+                        "  Arun Bamal  ", 
+                        "7.5", 
+                        "2", 
+                        "13", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ]
+                }, 
+                "bowlTeam": "Services", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "31.5", 
+                    "runs": "95", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 271, 
+                        "teamScore": "114"
+                    }, 
+                    "player10": {
+                        "ballNo": 550, 
+                        "teamScore": "252"
+                    }, 
+                    "player2": {
+                        "ballNo": 273, 
+                        "teamScore": "114"
+                    }, 
+                    "player3": {
+                        "ballNo": 307, 
+                        "teamScore": "123"
+                    }, 
+                    "player4": {
+                        "ballNo": 395, 
+                        "teamScore": "179"
+                    }, 
+                    "player5": {
+                        "ballNo": 404, 
+                        "teamScore": "181"
+                    }, 
+                    "player6": {
+                        "ballNo": 409, 
+                        "teamScore": "181"
+                    }, 
+                    "player7": {
+                        "ballNo": 415, 
+                        "teamScore": "181"
+                    }, 
+                    "player8": {
+                        "ballNo": 480, 
+                        "teamScore": "207"
+                    }, 
+                    "player9": {
+                        "ballNo": 520, 
+                        "teamScore": "237"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Gupta  ", 
+                        "  c and b Rasool ", 
+                        "59", 
+                        "150", 
+                        "7", 
+                        "0", 
+                        "39.33"
+                    ], 
+                    "player10": [
+                        "  Diwesh Pathania  ", 
+                        " st O Haroon b Rasool ", 
+                        "28", 
+                        "42", 
+                        "1", 
+                        "1", 
+                        "66.67"
+                    ], 
+                    "player11": [
+                        "  S Pandey  ", 
+                        " not out ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Navneet Singh  ", 
+                        " st O Haroon b Rasool ", 
+                        "58", 
+                        "140", 
+                        "7", 
+                        "0", 
+                        "41.43"
+                    ], 
+                    "player3": [
+                        "  Ravi Chauhan  ", 
+                        " lbw b Rasool ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  R Paliwal (c)  ", 
+                        " st O Haroon b Rasool ", 
+                        "22", 
+                        "60", 
+                        "2", 
+                        "0", 
+                        "36.67"
+                    ], 
+                    "player5": [
+                        "  G Rahul Singh  ", 
+                        " c Umar Nazir b Rasool ", 
+                        "40", 
+                        "48", 
+                        "8", 
+                        "0", 
+                        "83.33"
+                    ], 
+                    "player6": [
+                        "  Vikas Hathwala  ", 
+                        " c M Mudhasir b A Aziz ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player7": [
+                        "  Devender Lohchab (wk)  ", 
+                        " c O Haroon b Rasool ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Nitin Tanwar  ", 
+                        " c Irfan Pathan b Umar Nazir ", 
+                        "25", 
+                        "61", 
+                        "3", 
+                        "0", 
+                        "40.98"
+                    ], 
+                    "player9": [
+                        "  Arun Bamal  ", 
+                        "  b Rasool ", 
+                        "12", 
+                        "32", 
+                        "0", 
+                        "1", 
+                        "37.50"
+                    ]
+                }, 
+                "batTeam": "Services", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Irfan Pathan  ", 
+                        "10", 
+                        "2", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player2": [
+                        "  M Mudhasir  ", 
+                        "13", 
+                        "2", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  Rasool (c)  ", 
+                        "33.4", 
+                        "8", 
+                        "85", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Umar Nazir  ", 
+                        "13", 
+                        "1", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player5": [
+                        "  Waseem Raza  ", 
+                        "8", 
+                        "2", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player6": [
+                        "  A Aziz  ", 
+                        "12", 
+                        "2", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player7": [
+                        "  Shubham Pundir  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "91.4", 
+                    "runs": "252", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 29, 
+                        "teamScore": "19"
+                    }, 
+                    "player10": {
+                        "ballNo": 593, 
+                        "teamScore": "261"
+                    }, 
+                    "player2": {
+                        "ballNo": 85, 
+                        "teamScore": "28"
+                    }, 
+                    "player3": {
+                        "ballNo": 100, 
+                        "teamScore": "30"
+                    }, 
+                    "player4": {
+                        "ballNo": 147, 
+                        "teamScore": "64"
+                    }, 
+                    "player5": {
+                        "ballNo": 233, 
+                        "teamScore": "88"
+                    }, 
+                    "player6": {
+                        "ballNo": 245, 
+                        "teamScore": "92"
+                    }, 
+                    "player7": {
+                        "ballNo": 450, 
+                        "teamScore": "174"
+                    }, 
+                    "player8": {
+                        "ballNo": 564, 
+                        "teamScore": "238"
+                    }, 
+                    "player9": {
+                        "ballNo": 579, 
+                        "teamScore": "246"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Bandy  ", 
+                        "  b S Pandey ", 
+                        "7", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "18.92"
+                    ], 
+                    "player10": [
+                        "  M Mudhasir  ", 
+                        " c Devender Lohchab b Arun Bamal ", 
+                        "9", 
+                        "10", 
+                        "0", 
+                        "1", 
+                        "90.00"
+                    ], 
+                    "player11": [
+                        "  Umar Nazir  ", 
+                        " not out ", 
+                        "9", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "90.00"
+                    ], 
+                    "player2": [
+                        "  Shubham Khajuria  ", 
+                        " c Nitin Tanwar b Diwesh Pathania ", 
+                        "12", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player3": [
+                        "  Ian Dev Singh  ", 
+                        " lbw b Arun Bamal ", 
+                        "15", 
+                        "57", 
+                        "2", 
+                        "0", 
+                        "26.32"
+                    ], 
+                    "player4": [
+                        "  Irfan Pathan  ", 
+                        " c A Gupta b S Pandey ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player5": [
+                        "  Rasool (c)  ", 
+                        " lbw b Navneet Singh ", 
+                        "115", 
+                        "217", 
+                        "10", 
+                        "1", 
+                        "53.00"
+                    ], 
+                    "player6": [
+                        "  Shubham Pundir  ", 
+                        " lbw b Diwesh Pathania ", 
+                        "11", 
+                        "48", 
+                        "1", 
+                        "0", 
+                        "22.92"
+                    ], 
+                    "player7": [
+                        "  O Haroon (wk)  ", 
+                        " c Devender Lohchab b Diwesh Pathania ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  A Aziz  ", 
+                        " lbw b Arun Bamal ", 
+                        "26", 
+                        "106", 
+                        "2", 
+                        "0", 
+                        "24.53"
+                    ], 
+                    "player9": [
+                        "  Waseem Raza  ", 
+                        "  b Arun Bamal ", 
+                        "30", 
+                        "79", 
+                        "3", 
+                        "1", 
+                        "37.97"
+                    ]
+                }, 
+                "batTeam": "JK", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Diwesh Pathania  ", 
+                        "25.5", 
+                        "3", 
+                        "60", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player2": [
+                        "  S Pandey  ", 
+                        "23", 
+                        "5", 
+                        "58", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Arun Bamal  ", 
+                        "32", 
+                        "7", 
+                        "90", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Nitin Tanwar  ", 
+                        "15", 
+                        "5", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player5": [
+                        "  A Gupta  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player6": [
+                        "  Navneet Singh  ", 
+                        "2", 
+                        "0", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ]
+                }, 
+                "bowlTeam": "Services", 
+                "extras": {
+                    "b": "10", 
+                    "lb": "4", 
+                    "nb": "6", 
+                    "p": "0", 
+                    "wide": "5"
+                }, 
+                "total": {
+                    "overs": "98.5", 
+                    "runs": "261", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 7, 
+                        "teamScore": "4"
+                    }, 
+                    "player2": {
+                        "ballNo": 50, 
+                        "teamScore": "13"
+                    }, 
+                    "player3": {
+                        "ballNo": 84, 
+                        "teamScore": "24"
+                    }, 
+                    "player4": {
+                        "ballNo": 153, 
+                        "teamScore": "49"
+                    }, 
+                    "player5": {
+                        "ballNo": 182, 
+                        "teamScore": "66"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Anshul Gupta  ", 
+                        " c Rasool b A Aziz ", 
+                        "21", 
+                        "77", 
+                        "2", 
+                        "0", 
+                        "27.27"
+                    ], 
+                    "player2": [
+                        "  Navneet Singh  ", 
+                        " lbw b Rasool ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Ravi Chauhan  ", 
+                        " lbw b M Mudhasir ", 
+                        "5", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player4": [
+                        "  Gahlaut Rahul Singh  ", 
+                        "  b Rasool ", 
+                        "9", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "40.91"
+                    ], 
+                    "player5": [
+                        "  Rajat Paliwal (c)  ", 
+                        " not out ", 
+                        "43", 
+                        "74", 
+                        "5", 
+                        "1", 
+                        "58.11"
+                    ], 
+                    "player6": [
+                        "  Diwesh Pathania  ", 
+                        "  b M Mudhasir ", 
+                        "6", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player7": [
+                        "  Vikas Hathwala  ", 
+                        " not out ", 
+                        "5", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "29.41"
+                    ]
+                }, 
+                "batTeam": "Services", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Irfan Pathan  ", 
+                        "4", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player2": [
+                        "  Parvez Rasool (c)  ", 
+                        "13", 
+                        "5", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player3": [
+                        "  Mohammed Mudhasir  ", 
+                        "8", 
+                        "1", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player4": [
+                        "  Umar Nazir Mir  ", 
+                        "5", 
+                        "1", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player5": [
+                        "  Waseem Raza  ", 
+                        "2.5", 
+                        "1", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player6": [
+                        "  Aamir Aziz Sofi  ", 
+                        "4", 
+                        "0", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.20"
+                    ]
+                }, 
+                "bowlTeam": "Jammu and Kashmir", 
+                "extras": {
+                    "b": "14", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "36.5", 
+                    "runs": "107", 
+                    "wickets": "5"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-01T16:30:00", 
+                    "startDate": "2018-11-28T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 4", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Raushan Raj", 
+                            " Nakul Harpal Verma", 
+                            " Vikas Yadav", 
+                            " Akash Sharma", 
+                            " Mohit Ahlawat  "
+                        ], 
+                        "playing11": [
+                            " Anshul Gupta", 
+                            " Navneet Singh", 
+                            " Ravi Chauhan", 
+                            " Rajat Paliwal (c)", 
+                            " Devender Lohchab (wk)", 
+                            " Nitin Tanwar", 
+                            " Gahlaut Rahul Singh", 
+                            " Vikas Hathwala", 
+                            " Diwesh Pathania", 
+                            " Sachidanand Pandey", 
+                            " Arun Bamal  "
+                        ], 
+                        "teamName": "Services\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Paras Sharma", 
+                            " Owais Amin Shah", 
+                            " Fazil Rashid", 
+                            " Rohit Sharma  "
+                        ], 
+                        "playing11": [
+                            " Shubham Khajuria", 
+                            " Ian Dev Singh", 
+                            " Shubham Pundir", 
+                            " Irfan Pathan", 
+                            " Parvez Rasool (c)", 
+                            " Ahmed Banday", 
+                            " Obaid Haroon (wk)", 
+                            " Waseem Raza", 
+                            " Umar Nazir Mir", 
+                            " Aamir Aziz Sofi", 
+                            " Mohammed Mudhasir  "
+                        ], 
+                        "teamName": "Jammu and Kashmir\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Services", 
+                    "team2": "Jammu and Kashmir"
+                }, 
+                "toss": {
+                    "decision": "opt", 
+                    "winner": "Jammu"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Nitin Goel"
+                }, 
+                "venue": "Palam A Stadium, Delhi"
+            }
+        }
+    ]
+}

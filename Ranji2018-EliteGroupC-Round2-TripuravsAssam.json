@@ -1,0 +1,906 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 281, 
+                        "teamScore": "159"
+                    }, 
+                    "player10": {
+                        "ballNo": 628, 
+                        "teamScore": "327"
+                    }, 
+                    "player2": {
+                        "ballNo": 294, 
+                        "teamScore": "161"
+                    }, 
+                    "player3": {
+                        "ballNo": 326, 
+                        "teamScore": "177"
+                    }, 
+                    "player4": {
+                        "ballNo": 334, 
+                        "teamScore": "177"
+                    }, 
+                    "player5": {
+                        "ballNo": 515, 
+                        "teamScore": "270"
+                    }, 
+                    "player6": {
+                        "ballNo": 532, 
+                        "teamScore": "281"
+                    }, 
+                    "player7": {
+                        "ballNo": 548, 
+                        "teamScore": "283"
+                    }, 
+                    "player8": {
+                        "ballNo": 601, 
+                        "teamScore": "314"
+                    }, 
+                    "player9": {
+                        "ballNo": 620, 
+                        "teamScore": "324"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Rishav Das  ", 
+                        " c Udiyan Bose b Abhijit Sarkar ", 
+                        "70", 
+                        "145", 
+                        "12", 
+                        "0", 
+                        "48.28"
+                    ], 
+                    "player10": [
+                        "  Mukhtar Hussain  ", 
+                        " c Rana Dutta b Abhijit Sarkar ", 
+                        "12", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "63.16"
+                    ], 
+                    "player11": [
+                        "  Rahul Singh  ", 
+                        " not out ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player2": [
+                        "  Aziz  ", 
+                        " c BR Shetty b Harmeet Singh ", 
+                        "88", 
+                        "167", 
+                        "14", 
+                        "1", 
+                        "52.69"
+                    ], 
+                    "player3": [
+                        "  Sibsankar Roy  ", 
+                        " c Udiyan Bose b Abhijit Sarkar ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player4": [
+                        "  G Sharma  ", 
+                        " c Smit Patel b Rana Dutta ", 
+                        "2", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "15.38"
+                    ], 
+                    "player5": [
+                        "  Riyan Parag  ", 
+                        "  b Abhijit Sarkar ", 
+                        "40", 
+                        "94", 
+                        "7", 
+                        "0", 
+                        "42.55"
+                    ], 
+                    "player6": [
+                        "  A Sinha (c)  ", 
+                        " c Smit Patel b Abhijit Sarkar ", 
+                        "59", 
+                        "107", 
+                        "6", 
+                        "1", 
+                        "55.14"
+                    ], 
+                    "player7": [
+                        "  Wasiqur Rahman (wk)  ", 
+                        " c Subham Ghosh b M Murasingh ", 
+                        "7", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "87.50"
+                    ], 
+                    "player8": [
+                        "  Arup Das  ", 
+                        " c Subham Ghosh b Harmeet Singh ", 
+                        "7", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "18.92"
+                    ], 
+                    "player9": [
+                        "  Ranjit Mali  ", 
+                        "  b Rana Dutta ", 
+                        "22", 
+                        "30", 
+                        "4", 
+                        "0", 
+                        "73.33"
+                    ]
+                }, 
+                "batTeam": "Assam", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  M Murasingh  ", 
+                        "26", 
+                        "6", 
+                        "76", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  Rana Dutta  ", 
+                        "20", 
+                        "4", 
+                        "60", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Abhijit Sarkar  ", 
+                        "26.4", 
+                        "2", 
+                        "107", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player4": [
+                        "  Harmeet Singh  ", 
+                        "26", 
+                        "10", 
+                        "45", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player5": [
+                        "  Pratyush Singh  ", 
+                        "5", 
+                        "0", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player6": [
+                        "  Subham Ghosh  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Tripura", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "9", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "104.4", 
+                    "runs": "327", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 42, 
+                        "teamScore": "17"
+                    }, 
+                    "player10": {
+                        "ballNo": 321, 
+                        "teamScore": "139"
+                    }, 
+                    "player2": {
+                        "ballNo": 52, 
+                        "teamScore": "17"
+                    }, 
+                    "player3": {
+                        "ballNo": 101, 
+                        "teamScore": "34"
+                    }, 
+                    "player4": {
+                        "ballNo": 142, 
+                        "teamScore": "44"
+                    }, 
+                    "player5": {
+                        "ballNo": 207, 
+                        "teamScore": "83"
+                    }, 
+                    "player6": {
+                        "ballNo": 259, 
+                        "teamScore": "104"
+                    }, 
+                    "player7": {
+                        "ballNo": 302, 
+                        "teamScore": "117"
+                    }, 
+                    "player8": {
+                        "ballNo": 307, 
+                        "teamScore": "125"
+                    }, 
+                    "player9": {
+                        "ballNo": 318, 
+                        "teamScore": "135"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh (c)  ", 
+                        " lbw b Arup Das ", 
+                        "15", 
+                        "53", 
+                        "3", 
+                        "0", 
+                        "28.30"
+                    ], 
+                    "player10": [
+                        "  Rana Dutta  ", 
+                        "  c and b Arup Das ", 
+                        "8", 
+                        "10", 
+                        "2", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player11": [
+                        "  Abhijit Sarkar  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Udiyan Bose  ", 
+                        "  b Arup Das ", 
+                        "4", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "21.05"
+                    ], 
+                    "player3": [
+                        "  Smit Patel (wk)  ", 
+                        " lbw b Arup Das ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Ninad Kadam  ", 
+                        " c Wasiqur Rahman b Ranjit Mali ", 
+                        "28", 
+                        "70", 
+                        "4", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player5": [
+                        "  BR Shetty  ", 
+                        "  b Mukhtar Hussain ", 
+                        "0", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        "  b Mukhtar Hussain ", 
+                        "47", 
+                        "78", 
+                        "6", 
+                        "0", 
+                        "60.26"
+                    ], 
+                    "player7": [
+                        "  M Murasingh  ", 
+                        " c Wasiqur Rahman b Mukhtar Hussain ", 
+                        "10", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "38.46"
+                    ], 
+                    "player8": [
+                        "  Subham Ghosh  ", 
+                        " c Wasiqur Rahman b Arup Das ", 
+                        "6", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player9": [
+                        "  Harmeet Singh  ", 
+                        " c Sibsankar Roy b Mukhtar Hussain ", 
+                        "13", 
+                        "9", 
+                        "3", 
+                        "0", 
+                        "144.44"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Arup Das  ", 
+                        "19", 
+                        "9", 
+                        "42", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player2": [
+                        "  Ranjit Mali  ", 
+                        "17", 
+                        "7", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  Mukhtar Hussain  ", 
+                        "14.3", 
+                        "1", 
+                        "43", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player4": [
+                        "  Rahul Singh  ", 
+                        "2", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Riyan Parag  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Assam", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "53.3", 
+                    "runs": "139", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 131, 
+                        "teamScore": "65"
+                    }, 
+                    "player2": {
+                        "ballNo": 133, 
+                        "teamScore": "65"
+                    }, 
+                    "player3": {
+                        "ballNo": 173, 
+                        "teamScore": "79"
+                    }, 
+                    "player4": {
+                        "ballNo": 264, 
+                        "teamScore": "151"
+                    }, 
+                    "player5": {
+                        "ballNo": 266, 
+                        "teamScore": "152"
+                    }, 
+                    "player6": {
+                        "ballNo": 330, 
+                        "teamScore": "229"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Rishav Das  ", 
+                        " lbw b Harmeet Singh ", 
+                        "38", 
+                        "72", 
+                        "6", 
+                        "0", 
+                        "52.78"
+                    ], 
+                    "player2": [
+                        "  Aziz  ", 
+                        " c Smit Patel b Rana Dutta ", 
+                        "24", 
+                        "60", 
+                        "4", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player3": [
+                        "  Sibsankar Roy  ", 
+                        " c Smit Patel b M Murasingh ", 
+                        "39", 
+                        "73", 
+                        "4", 
+                        "0", 
+                        "53.42"
+                    ], 
+                    "player4": [
+                        "  G Sharma  ", 
+                        " c M Murasingh b Harmeet Singh ", 
+                        "7", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "28.00"
+                    ], 
+                    "player5": [
+                        "  Riyan Parag  ", 
+                        " c Smit Patel b Pratyush Singh ", 
+                        "80", 
+                        "64", 
+                        "7", 
+                        "3", 
+                        "125.00"
+                    ], 
+                    "player6": [
+                        "  A Sinha (c)  ", 
+                        "  c and b Subham Ghosh ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Wasiqur Rahman (wk)  ", 
+                        " not out ", 
+                        "37", 
+                        "42", 
+                        "4", 
+                        "0", 
+                        "88.10"
+                    ], 
+                    "player8": [
+                        "  Arup Das  ", 
+                        " not out ", 
+                        "7", 
+                        "9", 
+                        "0", 
+                        "1", 
+                        "77.78"
+                    ]
+                }, 
+                "batTeam": "Assam", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  M Murasingh  ", 
+                        "15", 
+                        "4", 
+                        "53", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player2": [
+                        "  Abhijit Sarkar  ", 
+                        "6", 
+                        "0", 
+                        "27", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player3": [
+                        "  Rana Dutta  ", 
+                        "9", 
+                        "3", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Harmeet Singh  ", 
+                        "15", 
+                        "0", 
+                        "57", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player5": [
+                        "  Pratyush Singh  ", 
+                        "3", 
+                        "0", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ], 
+                    "player6": [
+                        "  Subham Ghosh  ", 
+                        "9", 
+                        "0", 
+                        "51", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.70"
+                    ]
+                }, 
+                "bowlTeam": "Tripura", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "0", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "57", 
+                    "runs": "239", 
+                    "wickets": "6"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 28, 
+                        "teamScore": "15"
+                    }, 
+                    "player10": {
+                        "ballNo": 444, 
+                        "teamScore": "216"
+                    }, 
+                    "player2": {
+                        "ballNo": 34, 
+                        "teamScore": "15"
+                    }, 
+                    "player3": {
+                        "ballNo": 124, 
+                        "teamScore": "49"
+                    }, 
+                    "player4": {
+                        "ballNo": 142, 
+                        "teamScore": "63"
+                    }, 
+                    "player5": {
+                        "ballNo": 214, 
+                        "teamScore": "115"
+                    }, 
+                    "player6": {
+                        "ballNo": 240, 
+                        "teamScore": "120"
+                    }, 
+                    "player7": {
+                        "ballNo": 284, 
+                        "teamScore": "133"
+                    }, 
+                    "player8": {
+                        "ballNo": 417, 
+                        "teamScore": "192"
+                    }, 
+                    "player9": {
+                        "ballNo": 421, 
+                        "teamScore": "196"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bishal Ghosh (c)  ", 
+                        " lbw b Ranjit Mali ", 
+                        "10", 
+                        "21", 
+                        "1", 
+                        "1", 
+                        "47.62"
+                    ], 
+                    "player10": [
+                        "  Rana Dutta  ", 
+                        " c Ranjit Mali b Mukhtar Hussain ", 
+                        "13", 
+                        "19", 
+                        "3", 
+                        "0", 
+                        "68.42"
+                    ], 
+                    "player11": [
+                        "  Abhijit Sarkar  ", 
+                        " not out ", 
+                        "8", 
+                        "8", 
+                        "2", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Udiyan Bose  ", 
+                        " lbw b Arup Das ", 
+                        "5", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player3": [
+                        "  Smit Patel (wk)  ", 
+                        " c (sub)Romario Sharma b Ranjit Mali ", 
+                        "20", 
+                        "44", 
+                        "3", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player4": [
+                        "  Ninad Kadam  ", 
+                        " c Wasiqur Rahman b Mukhtar Hussain ", 
+                        "18", 
+                        "57", 
+                        "3", 
+                        "0", 
+                        "31.58"
+                    ], 
+                    "player5": [
+                        "  Bravish Shetty  ", 
+                        " c Aziz b Mukhtar Hussain ", 
+                        "31", 
+                        "63", 
+                        "6", 
+                        "0", 
+                        "49.21"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        "  b Mukhtar Hussain ", 
+                        "22", 
+                        "37", 
+                        "4", 
+                        "0", 
+                        "59.46"
+                    ], 
+                    "player7": [
+                        "  Subham Ghosh  ", 
+                        " c Mukhtar Hussain b Arup Das ", 
+                        "23", 
+                        "90", 
+                        "5", 
+                        "0", 
+                        "25.56"
+                    ], 
+                    "player8": [
+                        "  Manisankar Murasingh  ", 
+                        "  c and b Ranjit Mali ", 
+                        "12", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "46.15"
+                    ], 
+                    "player9": [
+                        "  Harmeet Singh  ", 
+                        " c Rahul Singh b Mukhtar Hussain ", 
+                        "33", 
+                        "77", 
+                        "5", 
+                        "0", 
+                        "42.86"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Arup Das  ", 
+                        "20", 
+                        "5", 
+                        "57", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Ranjit Mali  ", 
+                        "19", 
+                        "7", 
+                        "52", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Mukhtar Hussain  ", 
+                        "23", 
+                        "5", 
+                        "73", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Gokul Sharma  ", 
+                        "5", 
+                        "3", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player5": [
+                        "  Rahul Singh  ", 
+                        "3", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player6": [
+                        "  Riyan Parag  ", 
+                        "4", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ]
+                }, 
+                "bowlTeam": "Assam", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "6", 
+                    "nb": "9", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "74", 
+                    "runs": "216", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T15:45:00", 
+                    "startDate": "2018-11-12T08:45:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Rajesh Banik", 
+                            " Viki Saha", 
+                            " Ajoy Sarkar", 
+                            " Nirupam Sen", 
+                            " Abhijit Chakraborty  "
+                        ], 
+                        "playing11": [
+                            " Bishal Ghosh (c)", 
+                            " Udiyan Bose", 
+                            " Smit Patel (wk)", 
+                            " Bravish Shetty", 
+                            " Ninad Kadam", 
+                            " Manisankar Murasingh", 
+                            " Harmeet Singh", 
+                            " Rana Dutta", 
+                            " Abhijit Sarkar", 
+                            " Pratyush Singh", 
+                            " Subham Ghosh  "
+                        ], 
+                        "teamName": "Tripura\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Pallavkumar Das", 
+                            " Jitumoni Kalita", 
+                            " Mrinmoy Dutta", 
+                            " Kunal Saikia", 
+                            " Romario Sharma  "
+                        ], 
+                        "playing11": [
+                            " Rishav Das", 
+                            " Parvez Aziz", 
+                            " Sibsankar Roy", 
+                            " Gokul Sharma", 
+                            " Riyan Parag", 
+                            " Amit Sinha (c)", 
+                            " Wasiqur Rahman (wk)", 
+                            " Arup Das", 
+                            " Ranjit Mali", 
+                            " Mukhtar Hussain", 
+                            " Rahul Singh  "
+                        ], 
+                        "teamName": "Assam\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Tripura", 
+                    "team2": "Assam"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Tripura"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Prasanta Mohapatra"
+                }, 
+                "venue": "Maharaja Bir Bikram College Stadium, Agartala"
+            }
+        }
+    ]
+}

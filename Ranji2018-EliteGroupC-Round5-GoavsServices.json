@@ -1,0 +1,854 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 38, 
+                        "teamScore": "12"
+                    }, 
+                    "player10": {
+                        "ballNo": 429, 
+                        "teamScore": "184"
+                    }, 
+                    "player2": {
+                        "ballNo": 149, 
+                        "teamScore": "60"
+                    }, 
+                    "player3": {
+                        "ballNo": 173, 
+                        "teamScore": "70"
+                    }, 
+                    "player4": {
+                        "ballNo": 182, 
+                        "teamScore": "75"
+                    }, 
+                    "player5": {
+                        "ballNo": 229, 
+                        "teamScore": "99"
+                    }, 
+                    "player6": {
+                        "ballNo": 256, 
+                        "teamScore": "112"
+                    }, 
+                    "player7": {
+                        "ballNo": 346, 
+                        "teamScore": "141"
+                    }, 
+                    "player8": {
+                        "ballNo": 352, 
+                        "teamScore": "142"
+                    }, 
+                    "player9": {
+                        "ballNo": 406, 
+                        "teamScore": "176"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Gupta  ", 
+                        " c Darshan Misal b Lakshay Garg ", 
+                        "10", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player10": [
+                        "  S Pandey  ", 
+                        " not out ", 
+                        "3", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "10.34"
+                    ], 
+                    "player11": [
+                        "  Akash Sharma  ", 
+                        " c Pandrekar b Lakshay Garg ", 
+                        "6", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player2": [
+                        "  Navneet Singh  ", 
+                        " c SK Kamat b Vijesh Prabhudessai ", 
+                        "23", 
+                        "81", 
+                        "4", 
+                        "0", 
+                        "28.40"
+                    ], 
+                    "player3": [
+                        "  Ravi Chauhan  ", 
+                        " c (sub)Suyash Prabhudessai b Pandrekar ", 
+                        "75", 
+                        "144", 
+                        "11", 
+                        "1", 
+                        "52.08"
+                    ], 
+                    "player4": [
+                        "  R Paliwal (c)  ", 
+                        "  b Vijesh Prabhudessai ", 
+                        "4", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "19.05"
+                    ], 
+                    "player5": [
+                        "  G Rahul Singh  ", 
+                        " c Snehal Kauthankar b Vijesh Prabhudessai ", 
+                        "6", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player6": [
+                        "  Devender Lohchab (wk)  ", 
+                        " c Sumiran Amonkar b Pandrekar ", 
+                        "20", 
+                        "44", 
+                        "2", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player7": [
+                        "  Arun Bamal  ", 
+                        " c Keenan Vaz b Vijesh Prabhudessai ", 
+                        "11", 
+                        "22", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player8": [
+                        "  Nitin Tanwar  ", 
+                        " lbw b Pandrekar ", 
+                        "14", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player9": [
+                        "  Diwesh Pathania  ", 
+                        " c Keenan Vaz b Vijesh Prabhudessai ", 
+                        "1", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ]
+                }, 
+                "batTeam": "Services", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Lakshay Garg  ", 
+                        "24.3", 
+                        "6", 
+                        "68", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Vijesh Prabhudessai  ", 
+                        "24", 
+                        "10", 
+                        "52", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  AS Desai  ", 
+                        "7", 
+                        "1", 
+                        "26", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player4": [
+                        "  Pandrekar  ", 
+                        "12", 
+                        "1", 
+                        "27", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player5": [
+                        "  Darshan Misal  ", 
+                        "4", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "1", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "71.3", 
+                    "runs": "184", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 43, 
+                        "teamScore": "10"
+                    }, 
+                    "player10": {
+                        "ballNo": 602, 
+                        "teamScore": "259"
+                    }, 
+                    "player2": {
+                        "ballNo": 118, 
+                        "teamScore": "45"
+                    }, 
+                    "player3": {
+                        "ballNo": 119, 
+                        "teamScore": "45"
+                    }, 
+                    "player4": {
+                        "ballNo": 138, 
+                        "teamScore": "51"
+                    }, 
+                    "player5": {
+                        "ballNo": 145, 
+                        "teamScore": "51"
+                    }, 
+                    "player6": {
+                        "ballNo": 161, 
+                        "teamScore": "53"
+                    }, 
+                    "player7": {
+                        "ballNo": 263, 
+                        "teamScore": "95"
+                    }, 
+                    "player8": {
+                        "ballNo": 301, 
+                        "teamScore": "120"
+                    }, 
+                    "player9": {
+                        "ballNo": 575, 
+                        "teamScore": "241"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sumiran Amonkar  ", 
+                        "  b S Pandey ", 
+                        "13", 
+                        "58", 
+                        "1", 
+                        "0", 
+                        "22.41"
+                    ], 
+                    "player10": [
+                        "  Lakshay Garg  ", 
+                        " run out (Nitin Tanwar)  ", 
+                        "50", 
+                        "158", 
+                        "6", 
+                        "0", 
+                        "31.65"
+                    ], 
+                    "player11": [
+                        "  Vijesh Prabhudessai  ", 
+                        " not out ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  AS Desai  ", 
+                        " c R Paliwal b S Pandey ", 
+                        "5", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "21.74"
+                    ], 
+                    "player3": [
+                        "  SK Kamat (c)  ", 
+                        " lbw b Diwesh Pathania ", 
+                        "26", 
+                        "47", 
+                        "4", 
+                        "0", 
+                        "55.32"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " c Devender Lohchab b S Pandey ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Snehal Kauthankar  ", 
+                        " c R Paliwal b Diwesh Pathania ", 
+                        "26", 
+                        "82", 
+                        "4", 
+                        "0", 
+                        "31.71"
+                    ], 
+                    "player6": [
+                        "  Keenan Vaz (wk)  ", 
+                        " lbw b Diwesh Pathania ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Mohammad Asaduddin  ", 
+                        " lbw b Diwesh Pathania ", 
+                        "2", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "18.18"
+                    ], 
+                    "player8": [
+                        "  Darshan Misal  ", 
+                        " c Devender Lohchab b Diwesh Pathania ", 
+                        "101", 
+                        "196", 
+                        "8", 
+                        "2", 
+                        "51.53"
+                    ], 
+                    "player9": [
+                        "  Pandrekar  ", 
+                        " c Devender Lohchab b S Pandey ", 
+                        "15", 
+                        "20", 
+                        "3", 
+                        "0", 
+                        "75.00"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Diwesh Pathania  ", 
+                        "31.2", 
+                        "7", 
+                        "74", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player2": [
+                        "  Akash Sharma  ", 
+                        "18", 
+                        "4", 
+                        "38", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  S Pandey  ", 
+                        "26", 
+                        "4", 
+                        "59", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player4": [
+                        "  Arun Bamal  ", 
+                        "13", 
+                        "3", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player5": [
+                        "  Nitin Tanwar  ", 
+                        "10", 
+                        "1", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player6": [
+                        "  Navneet Singh  ", 
+                        "2", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ]
+                }, 
+                "bowlTeam": "Services", 
+                "extras": {
+                    "b": "11", 
+                    "lb": "5", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "100.2", 
+                    "runs": "259", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 14, 
+                        "teamScore": "2"
+                    }, 
+                    "player10": {
+                        "ballNo": 622, 
+                        "teamScore": "332"
+                    }, 
+                    "player2": {
+                        "ballNo": 20, 
+                        "teamScore": "7"
+                    }, 
+                    "player3": {
+                        "ballNo": 245, 
+                        "teamScore": "130"
+                    }, 
+                    "player4": {
+                        "ballNo": 418, 
+                        "teamScore": "230"
+                    }, 
+                    "player5": {
+                        "ballNo": 429, 
+                        "teamScore": "235"
+                    }, 
+                    "player6": {
+                        "ballNo": 542, 
+                        "teamScore": "295"
+                    }, 
+                    "player7": {
+                        "ballNo": 575, 
+                        "teamScore": "313"
+                    }, 
+                    "player8": {
+                        "ballNo": 593, 
+                        "teamScore": "315"
+                    }, 
+                    "player9": {
+                        "ballNo": 607, 
+                        "teamScore": "327"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  A Gupta  ", 
+                        " lbw b Lakshay Garg ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  S Pandey  ", 
+                        "  b Amit Verma ", 
+                        "1", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "9.09"
+                    ], 
+                    "player11": [
+                        "  Akash Sharma  ", 
+                        " not out ", 
+                        "4", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player2": [
+                        "  Navneet Singh  ", 
+                        "  c and b Vijesh Prabhudessai ", 
+                        "67", 
+                        "130", 
+                        "6", 
+                        "0", 
+                        "51.54"
+                    ], 
+                    "player3": [
+                        "  Ravi Chauhan  ", 
+                        " c AS Desai b Vijesh Prabhudessai ", 
+                        "5", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player4": [
+                        "  R Paliwal (c)  ", 
+                        " c Darshan Misal b Amit Verma ", 
+                        "94", 
+                        "185", 
+                        "11", 
+                        "0", 
+                        "50.81"
+                    ], 
+                    "player5": [
+                        "  G Rahul Singh  ", 
+                        " c AS Desai b Amit Verma ", 
+                        "111", 
+                        "202", 
+                        "14", 
+                        "0", 
+                        "54.95"
+                    ], 
+                    "player6": [
+                        "  Devender Lohchab (wk)  ", 
+                        " lbw b Amit Verma ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Nitin Tanwar  ", 
+                        " c Darshan Misal b Lakshay Garg ", 
+                        "27", 
+                        "52", 
+                        "1", 
+                        "2", 
+                        "51.92"
+                    ], 
+                    "player8": [
+                        "  Arun Bamal  ", 
+                        " c Snehal Kauthankar b Amit Verma ", 
+                        "4", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "23.53"
+                    ], 
+                    "player9": [
+                        "  Diwesh Pathania  ", 
+                        " run out (Lakshay Garg)  ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Services", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Lakshay Garg  ", 
+                        "31", 
+                        "4", 
+                        "90", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  Vijesh Prabhudessai  ", 
+                        "23", 
+                        "6", 
+                        "61", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player3": [
+                        "  Pandrekar  ", 
+                        "15", 
+                        "1", 
+                        "67", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player4": [
+                        "  Darshan Misal  ", 
+                        "16", 
+                        "3", 
+                        "48", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Amit Verma  ", 
+                        "11.4", 
+                        "0", 
+                        "39", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player6": [
+                        "  AS Desai  ", 
+                        "7", 
+                        "0", 
+                        "21", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "2", 
+                    "nb": "9", 
+                    "p": "0", 
+                    "wide": "4"
+                }, 
+                "total": {
+                    "overs": "103.4", 
+                    "runs": "332", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 73, 
+                        "teamScore": "25"
+                    }, 
+                    "player2": {
+                        "ballNo": 78, 
+                        "teamScore": "25"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sumiran Amonkar  ", 
+                        " not out ", 
+                        "20", 
+                        "168", 
+                        "3", 
+                        "0", 
+                        "11.90"
+                    ], 
+                    "player2": [
+                        "  Amogh Sunil Desai  ", 
+                        " c Arun Bamal b Akash Sharma ", 
+                        "9", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "26.47"
+                    ], 
+                    "player3": [
+                        "  Sagun Kamat (c)  ", 
+                        " lbw b Akash Sharma ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " not out ", 
+                        "23", 
+                        "121", 
+                        "2", 
+                        "0", 
+                        "19.01"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Diwesh Pathania  ", 
+                        "13", 
+                        "6", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player2": [
+                        "  Akash Sharma  ", 
+                        "10", 
+                        "4", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player3": [
+                        "  Sachidanand Pandey  ", 
+                        "14", 
+                        "7", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player4": [
+                        "  Arun Bamal  ", 
+                        "11", 
+                        "6", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.50"
+                    ], 
+                    "player5": [
+                        "  Nitin Tanwar  ", 
+                        "5", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.20"
+                    ], 
+                    "player6": [
+                        "  Rajat Paliwal (c)  ", 
+                        "1", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "bowlTeam": "Services", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "5", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "54", 
+                    "runs": "67", 
+                    "wickets": "2"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-09T16:30:00", 
+                    "startDate": "2018-12-06T09:30:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 5", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Felix Alemao", 
+                            " Krishna Das", 
+                            " Samar Shravan Dubhashi", 
+                            " Vishamber Kahlon", 
+                            " Suyash Prabhudessai  "
+                        ], 
+                        "playing11": [
+                            " Sumiran Amonkar", 
+                            " Amogh Sunil Desai", 
+                            " Sagun Kamat (c)", 
+                            " Amit Verma", 
+                            " Snehal Suhas Kauthankar", 
+                            " Keenan Vaz (wk)", 
+                            " Darshan Misal", 
+                            " Mohammad Asaduddin", 
+                            " Lakshay Garg ", 
+                            " Amulya Pandrekar", 
+                            " Vijesh Prabhudessai  "
+                        ], 
+                        "teamName": "Goa\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Vikas Hathwala", 
+                            " Mohit Ahlawat", 
+                            " Raushan Raj", 
+                            " Nakul Harpal Verma", 
+                            " Vikas Yadav  "
+                        ], 
+                        "playing11": [
+                            " Anshul Gupta", 
+                            " Navneet Singh", 
+                            " Ravi Chauhan", 
+                            " Rajat Paliwal (c)", 
+                            " Gahlaut Rahul Singh", 
+                            " Devender Lohchab (wk)", 
+                            " Nitin Tanwar", 
+                            " Arun Bamal", 
+                            " Akash Sharma", 
+                            " Diwesh Pathania", 
+                            " Sachidanand Pandey  "
+                        ], 
+                        "teamName": "Services\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Goa", 
+                    "team2": "Services"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Goa"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Raul"
+                }, 
+                "venue": "Goa Cricket Association Academy Ground, Porvorim"
+            }
+        }
+    ]
+}

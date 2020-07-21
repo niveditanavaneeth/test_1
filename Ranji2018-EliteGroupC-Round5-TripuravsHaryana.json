@@ -1,0 +1,974 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 64, 
+                        "teamScore": "23"
+                    }, 
+                    "player10": {
+                        "ballNo": 604, 
+                        "teamScore": "292"
+                    }, 
+                    "player2": {
+                        "ballNo": 86, 
+                        "teamScore": "32"
+                    }, 
+                    "player3": {
+                        "ballNo": 110, 
+                        "teamScore": "44"
+                    }, 
+                    "player4": {
+                        "ballNo": 116, 
+                        "teamScore": "45"
+                    }, 
+                    "player5": {
+                        "ballNo": 451, 
+                        "teamScore": "217"
+                    }, 
+                    "player6": {
+                        "ballNo": 497, 
+                        "teamScore": "240"
+                    }, 
+                    "player7": {
+                        "ballNo": 540, 
+                        "teamScore": "258"
+                    }, 
+                    "player8": {
+                        "ballNo": 552, 
+                        "teamScore": "262"
+                    }, 
+                    "player9": {
+                        "ballNo": 576, 
+                        "teamScore": "270"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  H Rana  ", 
+                        " c Smit Patel b Ajoy Sarkar ", 
+                        "23", 
+                        "55", 
+                        "3", 
+                        "0", 
+                        "41.82"
+                    ], 
+                    "player10": [
+                        "  A Hooda  ", 
+                        "  b Ajoy Sarkar ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Tinu Kundu  ", 
+                        " not out ", 
+                        "3", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player2": [
+                        "  N Saini (wk)  ", 
+                        " lbw b M Murasingh ", 
+                        "8", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "38.10"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        " c S Singha b Harmeet Singh ", 
+                        "82", 
+                        "196", 
+                        "8", 
+                        "0", 
+                        "41.84"
+                    ], 
+                    "player4": [
+                        "  R Dalal  ", 
+                        " lbw b Ajoy Sarkar ", 
+                        "5", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player5": [
+                        "  Pramod Chandila  ", 
+                        "  b M Murasingh ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player6": [
+                        "  Rahul Dagar  ", 
+                        " lbw b Ajoy Sarkar ", 
+                        "114", 
+                        "210", 
+                        "14", 
+                        "0", 
+                        "54.29"
+                    ], 
+                    "player7": [
+                        "  Poonish Mehta  ", 
+                        " c Subham Ghosh b M Murasingh ", 
+                        "7", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "25.93"
+                    ], 
+                    "player8": [
+                        "  Harshal Patel (c)  ", 
+                        "  c and b M Murasingh ", 
+                        "34", 
+                        "57", 
+                        "2", 
+                        "2", 
+                        "59.65"
+                    ], 
+                    "player9": [
+                        "  Amit Rana  ", 
+                        "  b Ajoy Sarkar ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  M Murasingh  ", 
+                        "28.4", 
+                        "6", 
+                        "74", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player2": [
+                        "  Ajoy Sarkar  ", 
+                        "27", 
+                        "4", 
+                        "57", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Abhijit Sarkar  ", 
+                        "16", 
+                        "2", 
+                        "49", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Subham Ghosh  ", 
+                        "3", 
+                        "1", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  Harmeet Singh  ", 
+                        "19", 
+                        "2", 
+                        "59", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ], 
+                    "player7": [
+                        "  Nirupam Chowdhary  ", 
+                        "4", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Tripura", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "100.4", 
+                    "runs": "292", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 34, 
+                        "teamScore": "11"
+                    }, 
+                    "player10": {
+                        "ballNo": 457, 
+                        "teamScore": "250"
+                    }, 
+                    "player2": {
+                        "ballNo": 72, 
+                        "teamScore": "39"
+                    }, 
+                    "player3": {
+                        "ballNo": 135, 
+                        "teamScore": "71"
+                    }, 
+                    "player4": {
+                        "ballNo": 247, 
+                        "teamScore": "142"
+                    }, 
+                    "player5": {
+                        "ballNo": 273, 
+                        "teamScore": "149"
+                    }, 
+                    "player6": {
+                        "ballNo": 328, 
+                        "teamScore": "173"
+                    }, 
+                    "player7": {
+                        "ballNo": 412, 
+                        "teamScore": "232"
+                    }, 
+                    "player8": {
+                        "ballNo": 443, 
+                        "teamScore": "239"
+                    }, 
+                    "player9": {
+                        "ballNo": 451, 
+                        "teamScore": "244"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Udiyan Bose  ", 
+                        " c Tinu Kundu b Poonish Mehta ", 
+                        "4", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "21.05"
+                    ], 
+                    "player10": [
+                        "  Abhijit Sarkar  ", 
+                        " c H Rana b A Hooda ", 
+                        "1", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "14.29"
+                    ], 
+                    "player11": [
+                        "  Ajoy Sarkar  ", 
+                        " not out ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player2": [
+                        "  S Singha  ", 
+                        " c H Rana b Chaitanya Bishnoi ", 
+                        "22", 
+                        "51", 
+                        "4", 
+                        "0", 
+                        "43.14"
+                    ], 
+                    "player3": [
+                        "  Ninad Kadam  ", 
+                        " c N Saini b Harshal Patel ", 
+                        "15", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "68.18"
+                    ], 
+                    "player4": [
+                        "  Smit Patel (c) (wk)  ", 
+                        " c Amit Rana b Tinu Kundu ", 
+                        "16", 
+                        "38", 
+                        "4", 
+                        "0", 
+                        "42.11"
+                    ], 
+                    "player5": [
+                        "  Pratyush Singh  ", 
+                        " c N Saini b Poonish Mehta ", 
+                        "76", 
+                        "110", 
+                        "11", 
+                        "0", 
+                        "69.09"
+                    ], 
+                    "player6": [
+                        "  Nirupam Chowdhary  ", 
+                        " c Pramod Chandila b Harshal Patel ", 
+                        "33", 
+                        "60", 
+                        "4", 
+                        "0", 
+                        "55.00"
+                    ], 
+                    "player7": [
+                        "  Subham Ghosh  ", 
+                        " c H Rana b Tinu Kundu ", 
+                        "11", 
+                        "43", 
+                        "2", 
+                        "0", 
+                        "25.58"
+                    ], 
+                    "player8": [
+                        "  M Murasingh  ", 
+                        " c N Saini b Harshal Patel ", 
+                        "44", 
+                        "89", 
+                        "5", 
+                        "1", 
+                        "49.44"
+                    ], 
+                    "player9": [
+                        "  Harmeet Singh  ", 
+                        " c N Saini b Harshal Patel ", 
+                        "9", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "52.94"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  A Hooda  ", 
+                        "13.1", 
+                        "3", 
+                        "40", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Poonish Mehta  ", 
+                        "12", 
+                        "4", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Harshal Patel (c)  ", 
+                        "16", 
+                        "1", 
+                        "49", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player4": [
+                        "  Tinu Kundu  ", 
+                        "20", 
+                        "3", 
+                        "58", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player5": [
+                        "  H Rana  ", 
+                        "2", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.50"
+                    ], 
+                    "player6": [
+                        "  Amit Rana  ", 
+                        "9", 
+                        "1", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player7": [
+                        "  Chaitanya Bishnoi  ", 
+                        "4", 
+                        "0", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "11", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "76.1", 
+                    "runs": "250", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 89, 
+                        "teamScore": "31"
+                    }, 
+                    "player10": {
+                        "ballNo": 266, 
+                        "teamScore": "119"
+                    }, 
+                    "player2": {
+                        "ballNo": 110, 
+                        "teamScore": "49"
+                    }, 
+                    "player3": {
+                        "ballNo": 133, 
+                        "teamScore": "65"
+                    }, 
+                    "player4": {
+                        "ballNo": 142, 
+                        "teamScore": "67"
+                    }, 
+                    "player5": {
+                        "ballNo": 187, 
+                        "teamScore": "97"
+                    }, 
+                    "player6": {
+                        "ballNo": 217, 
+                        "teamScore": "105"
+                    }, 
+                    "player7": {
+                        "ballNo": 241, 
+                        "teamScore": "105"
+                    }, 
+                    "player8": {
+                        "ballNo": 242, 
+                        "teamScore": "105"
+                    }, 
+                    "player9": {
+                        "ballNo": 263, 
+                        "teamScore": "119"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  H Rana  ", 
+                        " c S Singha b M Murasingh ", 
+                        "64", 
+                        "104", 
+                        "9", 
+                        "0", 
+                        "61.54"
+                    ], 
+                    "player10": [
+                        "  A Hooda  ", 
+                        "  b Ajoy Sarkar ", 
+                        "1", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "8.33"
+                    ], 
+                    "player11": [
+                        "  Tinu Kundu  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  N Saini (wk)  ", 
+                        " c Pratyush Singh b M Murasingh ", 
+                        "14", 
+                        "47", 
+                        "1", 
+                        "0", 
+                        "29.79"
+                    ], 
+                    "player3": [
+                        "  Chaitanya Bishnoi  ", 
+                        " c Smit Patel b Subham Ghosh ", 
+                        "5", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "41.67"
+                    ], 
+                    "player4": [
+                        "  R Dalal  ", 
+                        " c Harmeet Singh b Subham Ghosh ", 
+                        "4", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "30.77"
+                    ], 
+                    "player5": [
+                        "  Pramod Chandila  ", 
+                        " lbw b Harmeet Singh ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Rahul Dagar  ", 
+                        " lbw b Harmeet Singh ", 
+                        "7", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "38.89"
+                    ], 
+                    "player7": [
+                        "  Poonish Mehta  ", 
+                        "  b Ajoy Sarkar ", 
+                        "3", 
+                        "28", 
+                        "0", 
+                        "0", 
+                        "10.71"
+                    ], 
+                    "player8": [
+                        "  Harshal Patel (c)  ", 
+                        " lbw b Harmeet Singh ", 
+                        "12", 
+                        "23", 
+                        "3", 
+                        "0", 
+                        "52.17"
+                    ], 
+                    "player9": [
+                        "  Amit Rana  ", 
+                        " c Udiyan Bose b Ajoy Sarkar ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Haryana", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  M Murasingh  ", 
+                        "11", 
+                        "3", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player2": [
+                        "  Ajoy Sarkar  ", 
+                        "7.2", 
+                        "4", 
+                        "15", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player3": [
+                        "  Abhijit Sarkar  ", 
+                        "2", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player4": [
+                        "  Harmeet Singh  ", 
+                        "16", 
+                        "2", 
+                        "45", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Subham Ghosh  ", 
+                        "8", 
+                        "2", 
+                        "29", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ]
+                }, 
+                "bowlTeam": "Tripura", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "2", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "44.2", 
+                    "runs": "119", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 81, 
+                        "teamScore": "44"
+                    }, 
+                    "player10": {
+                        "ballNo": 195, 
+                        "teamScore": "106"
+                    }, 
+                    "player2": {
+                        "ballNo": 87, 
+                        "teamScore": "44"
+                    }, 
+                    "player3": {
+                        "ballNo": 96, 
+                        "teamScore": "48"
+                    }, 
+                    "player4": {
+                        "ballNo": 102, 
+                        "teamScore": "48"
+                    }, 
+                    "player5": {
+                        "ballNo": 116, 
+                        "teamScore": "54"
+                    }, 
+                    "player6": {
+                        "ballNo": 120, 
+                        "teamScore": "54"
+                    }, 
+                    "player7": {
+                        "ballNo": 147, 
+                        "teamScore": "75"
+                    }, 
+                    "player8": {
+                        "ballNo": 188, 
+                        "teamScore": "104"
+                    }, 
+                    "player9": {
+                        "ballNo": 192, 
+                        "teamScore": "106"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Udiyan Bose  ", 
+                        " c Harshal Patel b Amit Rana ", 
+                        "17", 
+                        "47", 
+                        "3", 
+                        "0", 
+                        "36.17"
+                    ], 
+                    "player10": [
+                        "  Ajoy Sarkar  ", 
+                        "  b Harshal Patel ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player11": [
+                        "  Abhijit Sarkar  ", 
+                        " not out ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Samrat Singha  ", 
+                        " lbw b Amit Rana ", 
+                        "22", 
+                        "43", 
+                        "3", 
+                        "0", 
+                        "51.16"
+                    ], 
+                    "player3": [
+                        "  Ninad Kadam  ", 
+                        " lbw b Tinu Kundu ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Smit Patel (c) (wk)  ", 
+                        " lbw b Tinu Kundu ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Manisankar Murasingh  ", 
+                        " c Chaitanya Bishnoi b Amit Rana ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player6": [
+                        "  Pratyush Singh  ", 
+                        "  b A Hooda ", 
+                        "23", 
+                        "48", 
+                        "2", 
+                        "0", 
+                        "47.92"
+                    ], 
+                    "player7": [
+                        "  Nirupam Chowdhary  ", 
+                        " c Chaitanya Bishnoi b Amit Rana ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Subham Ghosh  ", 
+                        " c Chaitanya Bishnoi b Tinu Kundu ", 
+                        "14", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "116.67"
+                    ], 
+                    "player9": [
+                        "  Harmeet Singh  ", 
+                        " c Pramod Chandila b Harshal Patel ", 
+                        "16", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "76.19"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ashish Hooda  ", 
+                        "2.3", 
+                        "0", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player2": [
+                        "  Poonish Mehta  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player3": [
+                        "  Tinu Kundu  ", 
+                        "13", 
+                        "6", 
+                        "19", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player4": [
+                        "  Harshal Patel (c)  ", 
+                        "3", 
+                        "0", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player5": [
+                        "  Amit Rana  ", 
+                        "11", 
+                        "2", 
+                        "37", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Chaitanya Bishnoi  ", 
+                        "1", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ]
+                }, 
+                "bowlTeam": "Haryana", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "5", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "32.3", 
+                    "runs": "106", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-09T15:45:00", 
+                    "startDate": "2018-12-06T08:45:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 5", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Rana Dutta", 
+                            " Bishal Ghosh", 
+                            " Rajesh Banik", 
+                            " Abhijit Chakraborty", 
+                            " Viki Saha", 
+                            " Bravish Shetty", 
+                            " Nirupam Sen  "
+                        ], 
+                        "playing11": [
+                            " Udiyan Bose", 
+                            " Subham Ghosh", 
+                            " Ninad Kadam", 
+                            " Smit Patel (c & wk)", 
+                            " Manisankar Murasingh", 
+                            " Nirupam Chowdhary", 
+                            " Pratyush Singh", 
+                            " Harmeet Singh", 
+                            " Samrat Singha", 
+                            " Abhijit Sarkar", 
+                            " Ajoy Sarkar  "
+                        ], 
+                        "teamName": "Tripura\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Ajit Chahal", 
+                            " Shubham Rohilla", 
+                            " Mohit Sharma", 
+                            " Rohit Parmod Sharma", 
+                            " Rahul Tewatia", 
+                            " Jayant Yadav", 
+                            " Prashant Kumar", 
+                            " Prashant Vashist  "
+                        ], 
+                        "playing11": [
+                            " Chaitanya Bishnoi", 
+                            " Nitin Saini (wk)", 
+                            " Himanshu Rana", 
+                            " Pramod Chandila", 
+                            " Poonish Mehta", 
+                            " Rahul Dalal", 
+                            " Rahul Dagar", 
+                            " Amit Rana", 
+                            " Harshal Patel (c)", 
+                            " Tinu Kundu", 
+                            " Ashish Hooda  "
+                        ], 
+                        "teamName": "Haryana\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Tripura", 
+                    "team2": "Haryana"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Haryana"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Daniel Manohar"
+                }, 
+                "venue": "Maharaja Bir Bikram College Stadium, Agartala"
+            }
+        }
+    ]
+}

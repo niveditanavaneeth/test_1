@@ -1,0 +1,893 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 49, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 671, 
+                        "teamScore": "352"
+                    }, 
+                    "player2": {
+                        "ballNo": 135, 
+                        "teamScore": "48"
+                    }, 
+                    "player3": {
+                        "ballNo": 151, 
+                        "teamScore": "53"
+                    }, 
+                    "player4": {
+                        "ballNo": 385, 
+                        "teamScore": "170"
+                    }, 
+                    "player5": {
+                        "ballNo": 462, 
+                        "teamScore": "189"
+                    }, 
+                    "player6": {
+                        "ballNo": 479, 
+                        "teamScore": "191"
+                    }, 
+                    "player7": {
+                        "ballNo": 505, 
+                        "teamScore": "200"
+                    }, 
+                    "player8": {
+                        "ballNo": 595, 
+                        "teamScore": "278"
+                    }, 
+                    "player9": {
+                        "ballNo": 616, 
+                        "teamScore": "304"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sandeep Pattnaik  ", 
+                        " c Suyash Prabhudessai b Lakshay Garg ", 
+                        "100", 
+                        "194", 
+                        "10", 
+                        "1", 
+                        "51.55"
+                    ], 
+                    "player10": [
+                        "  Basant Mohanty  ", 
+                        "  b Pandrekar ", 
+                        "28", 
+                        "40", 
+                        "3", 
+                        "1", 
+                        "70.00"
+                    ], 
+                    "player11": [
+                        "  Rajesh Mohanty  ", 
+                        " not out ", 
+                        "30", 
+                        "25", 
+                        "4", 
+                        "1", 
+                        "120.00"
+                    ], 
+                    "player2": [
+                        "  Anurag Sarangi  ", 
+                        "  b Krishna Das ", 
+                        "2", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "8.70"
+                    ], 
+                    "player3": [
+                        "  Debasish Samantray  ", 
+                        " c Keenan Vaz b Lakshay Garg ", 
+                        "11", 
+                        "32", 
+                        "2", 
+                        "0", 
+                        "34.38"
+                    ], 
+                    "player4": [
+                        "  Subhranshu Senapati (c)  ", 
+                        " c Suyash Prabhudessai b Krishna Das ", 
+                        "4", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player5": [
+                        "  Santanu Mishra  ", 
+                        " c Darshan Misal b AS Desai ", 
+                        "59", 
+                        "183", 
+                        "6", 
+                        "0", 
+                        "32.24"
+                    ], 
+                    "player6": [
+                        "  Samantray  ", 
+                        " lbw b Darshan Misal ", 
+                        "7", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "22.58"
+                    ], 
+                    "player7": [
+                        "  A Raut  ", 
+                        "  b Lakshay Garg ", 
+                        "33", 
+                        "65", 
+                        "4", 
+                        "0", 
+                        "50.77"
+                    ], 
+                    "player8": [
+                        "  Sujit Lenka (wk)  ", 
+                        " c Suyash Prabhudessai b AS Desai ", 
+                        "5", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "41.67"
+                    ], 
+                    "player9": [
+                        "  Pradhan  ", 
+                        " c Suyash Prabhudessai b AS Desai ", 
+                        "65", 
+                        "59", 
+                        "5", 
+                        "4", 
+                        "110.17"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Krishna Das  ", 
+                        "27", 
+                        "6", 
+                        "57", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Lakshay Garg  ", 
+                        "28.1", 
+                        "4", 
+                        "87", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player3": [
+                        "  AS Desai  ", 
+                        "24", 
+                        "5", 
+                        "77", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player4": [
+                        "  Darshan Misal  ", 
+                        "16.5", 
+                        "3", 
+                        "60", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player5": [
+                        "  Amit Verma  ", 
+                        "9", 
+                        "1", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player6": [
+                        "  Pandrekar  ", 
+                        "6.5", 
+                        "1", 
+                        "34", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "6", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "111.5", 
+                    "runs": "352", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 97, 
+                        "teamScore": "49"
+                    }, 
+                    "player10": {
+                        "ballNo": 234, 
+                        "teamScore": "116"
+                    }, 
+                    "player2": {
+                        "ballNo": 111, 
+                        "teamScore": "53"
+                    }, 
+                    "player3": {
+                        "ballNo": 161, 
+                        "teamScore": "78"
+                    }, 
+                    "player4": {
+                        "ballNo": 164, 
+                        "teamScore": "78"
+                    }, 
+                    "player5": {
+                        "ballNo": 173, 
+                        "teamScore": "79"
+                    }, 
+                    "player6": {
+                        "ballNo": 175, 
+                        "teamScore": "79"
+                    }, 
+                    "player7": {
+                        "ballNo": 177, 
+                        "teamScore": "79"
+                    }, 
+                    "player8": {
+                        "ballNo": 207, 
+                        "teamScore": "90"
+                    }, 
+                    "player9": {
+                        "ballNo": 230, 
+                        "teamScore": "108"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  SK Kamat (c)  ", 
+                        " lbw b Pradhan ", 
+                        "43", 
+                        "61", 
+                        "9", 
+                        "0", 
+                        "70.49"
+                    ], 
+                    "player10": [
+                        "  Pandrekar  ", 
+                        " c Samantray b Pradhan ", 
+                        "10", 
+                        "11", 
+                        "2", 
+                        "0", 
+                        "90.91"
+                    ], 
+                    "player11": [
+                        "  Krishna Das  ", 
+                        "  b Pradhan ", 
+                        "8", 
+                        "4", 
+                        "2", 
+                        "0", 
+                        "200.00"
+                    ], 
+                    "player2": [
+                        "  Sumiran Amonkar  ", 
+                        " lbw b Basant Mohanty ", 
+                        "20", 
+                        "70", 
+                        "2", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player3": [
+                        "  AS Desai  ", 
+                        " lbw b Pradhan ", 
+                        "4", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        " c Sandeep Pattnaik b Rajesh Mohanty ", 
+                        "10", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player5": [
+                        "  Snehal Kauthankar  ", 
+                        " c Sujit Lenka b Rajesh Mohanty ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Suyash Prabhudessai  ", 
+                        " c Sandeep Pattnaik b Basant Mohanty ", 
+                        "1", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player7": [
+                        "  Keenan Vaz (wk)  ", 
+                        " not out ", 
+                        "17", 
+                        "27", 
+                        "4", 
+                        "0", 
+                        "62.96"
+                    ], 
+                    "player8": [
+                        "  Darshan Misal  ", 
+                        "  b Rajesh Mohanty ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Lakshay Garg  ", 
+                        " c Anurag Sarangi b Pradhan ", 
+                        "2", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Rajesh Mohanty  ", 
+                        "15", 
+                        "4", 
+                        "52", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player2": [
+                        "  Basant Mohanty  ", 
+                        "14", 
+                        "7", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.10"
+                    ], 
+                    "player3": [
+                        "  Pradhan  ", 
+                        "10", 
+                        "2", 
+                        "48", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ]
+                }, 
+                "bowlTeam": "Odisha", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "39", 
+                    "runs": "116", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 1, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 262, 
+                        "teamScore": "151"
+                    }, 
+                    "player2": {
+                        "ballNo": 95, 
+                        "teamScore": "43"
+                    }, 
+                    "player3": {
+                        "ballNo": 126, 
+                        "teamScore": "52"
+                    }, 
+                    "player4": {
+                        "ballNo": 157, 
+                        "teamScore": "69"
+                    }, 
+                    "player5": {
+                        "ballNo": 191, 
+                        "teamScore": "84"
+                    }, 
+                    "player6": {
+                        "ballNo": 200, 
+                        "teamScore": "85"
+                    }, 
+                    "player7": {
+                        "ballNo": 212, 
+                        "teamScore": "102"
+                    }, 
+                    "player8": {
+                        "ballNo": 229, 
+                        "teamScore": "122"
+                    }, 
+                    "player9": {
+                        "ballNo": 247, 
+                        "teamScore": "136"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sandeep Pattnaik  ", 
+                        " c SK Kamat b Krishna Das ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Basant Mohanty  ", 
+                        " c Keenan Vaz b Lakshay Garg ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Rajesh Mohanty  ", 
+                        " not out ", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player2": [
+                        "  Anurag Sarangi  ", 
+                        "  b Lakshay Garg ", 
+                        "23", 
+                        "50", 
+                        "3", 
+                        "1", 
+                        "46.00"
+                    ], 
+                    "player3": [
+                        "  Debasish Samantray  ", 
+                        " lbw b Krishna Das ", 
+                        "31", 
+                        "76", 
+                        "3", 
+                        "1", 
+                        "40.79"
+                    ], 
+                    "player4": [
+                        "  Subhranshu Senapati (c)  ", 
+                        "  c and b Krishna Das ", 
+                        "9", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "47.37"
+                    ], 
+                    "player5": [
+                        "  Santanu Mishra  ", 
+                        " lbw b Lakshay Garg ", 
+                        "14", 
+                        "34", 
+                        "2", 
+                        "0", 
+                        "41.18"
+                    ], 
+                    "player6": [
+                        "  Samantray  ", 
+                        " c Snehal Kauthankar b Lakshay Garg ", 
+                        "2", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "15.38"
+                    ], 
+                    "player7": [
+                        "  A Raut  ", 
+                        " c Keenan Vaz b Lakshay Garg ", 
+                        "10", 
+                        "14", 
+                        "2", 
+                        "0", 
+                        "71.43"
+                    ], 
+                    "player8": [
+                        "  Pradhan  ", 
+                        " c Amit Verma b Krishna Das ", 
+                        "17", 
+                        "13", 
+                        "2", 
+                        "1", 
+                        "130.77"
+                    ], 
+                    "player9": [
+                        "  Sujit Lenka (wk)  ", 
+                        " lbw b Amit Verma ", 
+                        "39", 
+                        "30", 
+                        "8", 
+                        "0", 
+                        "130.00"
+                    ]
+                }, 
+                "batTeam": "Odisha", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Krishna Das  ", 
+                        "22", 
+                        "10", 
+                        "57", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player2": [
+                        "  Lakshay Garg  ", 
+                        "20", 
+                        "5", 
+                        "75", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player3": [
+                        "  AS Desai  ", 
+                        "1", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.00"
+                    ], 
+                    "player4": [
+                        "  Amit Verma  ", 
+                        "0.4", 
+                        "0", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "12.00"
+                    ]
+                }, 
+                "bowlTeam": "Goa", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "43.4", 
+                    "runs": "151", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 8, 
+                        "teamScore": "6"
+                    }, 
+                    "player10": {
+                        "ballNo": 179, 
+                        "teamScore": "111"
+                    }, 
+                    "player2": {
+                        "ballNo": 26, 
+                        "teamScore": "6"
+                    }, 
+                    "player3": {
+                        "ballNo": 36, 
+                        "teamScore": "10"
+                    }, 
+                    "player4": {
+                        "ballNo": 40, 
+                        "teamScore": "11"
+                    }, 
+                    "player5": {
+                        "ballNo": 84, 
+                        "teamScore": "44"
+                    }, 
+                    "player6": {
+                        "ballNo": 100, 
+                        "teamScore": "54"
+                    }, 
+                    "player7": {
+                        "ballNo": 158, 
+                        "teamScore": "86"
+                    }, 
+                    "player8": {
+                        "ballNo": 168, 
+                        "teamScore": "95"
+                    }, 
+                    "player9": {
+                        "ballNo": 171, 
+                        "teamScore": "99"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sagun Kamat (c)  ", 
+                        " c Santanu Mishra b Basant Mohanty ", 
+                        "6", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player10": [
+                        "  Amulya Pandrekar  ", 
+                        " c Pradhan b Rajesh Mohanty ", 
+                        "12", 
+                        "5", 
+                        "3", 
+                        "0", 
+                        "240.00"
+                    ], 
+                    "player11": [
+                        "  Krishna Das  ", 
+                        " not out ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Sumiran Amonkar  ", 
+                        " c Santanu Mishra b Rajesh Mohanty ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Keenan Vaz (wk)  ", 
+                        "  b Rajesh Mohanty ", 
+                        "4", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player4": [
+                        "  Amogh Sunil Desai  ", 
+                        "  b Samantray ", 
+                        "28", 
+                        "40", 
+                        "6", 
+                        "0", 
+                        "70.00"
+                    ], 
+                    "player5": [
+                        "  Amit Verma  ", 
+                        " lbw b Basant Mohanty ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Snehal Suhas Kauthankar  ", 
+                        "  b Rajesh Mohanty ", 
+                        "15", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "71.43"
+                    ], 
+                    "player7": [
+                        "  Suyash Prabhudessai  ", 
+                        " c Sandeep Pattnaik b Basant Mohanty ", 
+                        "18", 
+                        "32", 
+                        "3", 
+                        "0", 
+                        "56.25"
+                    ], 
+                    "player8": [
+                        "  Darshan Misal  ", 
+                        " lbw b Basant Mohanty ", 
+                        "20", 
+                        "36", 
+                        "3", 
+                        "0", 
+                        "55.56"
+                    ], 
+                    "player9": [
+                        "  Lakshay Garg  ", 
+                        " lbw b Rajesh Mohanty ", 
+                        "4", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ]
+                }, 
+                "batTeam": "Goa", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Basant Mohanty  ", 
+                        "10", 
+                        "4", 
+                        "21", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Rajesh Mohanty  ", 
+                        "9.5", 
+                        "2", 
+                        "49", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player3": [
+                        "  Suryakant Pradhan  ", 
+                        "5", 
+                        "0", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player4": [
+                        "  Biplab Samantray  ", 
+                        "5", 
+                        "0", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ]
+                }, 
+                "bowlTeam": "Odisha", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "4", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "29.5", 
+                    "runs": "111", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-10T16:00:00", 
+                    "startDate": "2019-01-07T09:00:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 9", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Roshan Kumar Rao", 
+                            " Subham Nayak", 
+                            " Ranjit Singh", 
+                            " Debabrata Pradhan", 
+                            " Pappu Roy", 
+                            " Govinda Poddar", 
+                            " Dhiraj Singh", 
+                            " Rajesh Dhuper  "
+                        ], 
+                        "playing11": [
+                            " Anurag Sarangi", 
+                            " Santanu Mishra", 
+                            " Debasish Samantray", 
+                            " Biplab Samantray", 
+                            " Sujit Lenka (wk)", 
+                            " Subhranshu Senapati (c)", 
+                            " Sandeep Pattnaik", 
+                            " Suryakant Pradhan", 
+                            " Basant Mohanty", 
+                            " Rajesh Mohanty", 
+                            " Abhishek Raut  "
+                        ], 
+                        "teamName": "Odisha\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Felix Alemao", 
+                            " Samar Shravan Dubhashi", 
+                            " Vishamber Kahlon", 
+                            " Vijesh Prabhudessai", 
+                            " Mohammad Asaduddin", 
+                            " Rajashekhar Harikant  "
+                        ], 
+                        "playing11": [
+                            " Sagun Kamat (c)", 
+                            " Sumiran Amonkar", 
+                            " Amogh Sunil Desai", 
+                            " Snehal Suhas Kauthankar", 
+                            " Keenan Vaz (wk)", 
+                            " Amit Verma", 
+                            " Krishna Das", 
+                            " Darshan Misal", 
+                            " Lakshay Garg ", 
+                            " Amulya Pandrekar", 
+                            " Suyash Prabhudessai  "
+                        ], 
+                        "teamName": "Goa\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Odisha", 
+                    "team2": "Goa"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Goa"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Verma"
+                }, 
+                "venue": "Vikas Cricket Ground, Bhubaneswar"
+            }
+        }
+    ]
+}

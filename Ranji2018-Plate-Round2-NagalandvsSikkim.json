@@ -1,0 +1,859 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 3, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 317, 
+                        "teamScore": "179"
+                    }, 
+                    "player2": {
+                        "ballNo": 6, 
+                        "teamScore": "5"
+                    }, 
+                    "player3": {
+                        "ballNo": 39, 
+                        "teamScore": "30"
+                    }, 
+                    "player4": {
+                        "ballNo": 97, 
+                        "teamScore": "58"
+                    }, 
+                    "player5": {
+                        "ballNo": 107, 
+                        "teamScore": "63"
+                    }, 
+                    "player6": {
+                        "ballNo": 118, 
+                        "teamScore": "66"
+                    }, 
+                    "player7": {
+                        "ballNo": 130, 
+                        "teamScore": "74"
+                    }, 
+                    "player8": {
+                        "ballNo": 234, 
+                        "teamScore": "141"
+                    }, 
+                    "player9": {
+                        "ballNo": 263, 
+                        "teamScore": "157"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nitesh Lohchab  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Rachit Bhatia  ", 
+                        " not out ", 
+                        "22", 
+                        "48", 
+                        "4", 
+                        "0", 
+                        "45.83"
+                    ], 
+                    "player11": [
+                        "  Suyal  ", 
+                        " c Asish Thapa b Milind Kumar ", 
+                        "2", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "10.53"
+                    ], 
+                    "player2": [
+                        "  Sedezhalie Rupero  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  KB Pawan (wk)  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "14", 
+                        "17", 
+                        "3", 
+                        "0", 
+                        "82.35"
+                    ], 
+                    "player4": [
+                        "  Jonathan R (c)  ", 
+                        " c Asish Thapa b Ishwar Chaudhary ", 
+                        "86", 
+                        "112", 
+                        "9", 
+                        "1", 
+                        "76.79"
+                    ], 
+                    "player5": [
+                        "  H Zhimomi  ", 
+                        " c Milind Kumar b Lee Yong Lepcha ", 
+                        "9", 
+                        "31", 
+                        "0", 
+                        "0", 
+                        "29.03"
+                    ], 
+                    "player6": [
+                        "  A Kazi  ", 
+                        " c Milind Kumar b Bipul Sharma ", 
+                        "4", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "44.44"
+                    ], 
+                    "player7": [
+                        "  Mughavi Wotsa  ", 
+                        " lbw b Bipul Sharma ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Imliwati Lemtur  ", 
+                        " st Chitiz Tamang b Bipul Sharma ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player9": [
+                        "  Tahmeed Rahman  ", 
+                        " c Asish Thapa b Milind Kumar ", 
+                        "33", 
+                        "63", 
+                        "2", 
+                        "2", 
+                        "52.38"
+                    ]
+                }, 
+                "batTeam": "NGL", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "16", 
+                        "2", 
+                        "65", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player2": [
+                        "  Padam limboo  ", 
+                        "3", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Bipul Sharma  ", 
+                        "17", 
+                        "4", 
+                        "46", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player4": [
+                        "  Plazor Tamang  ", 
+                        "1", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ], 
+                    "player5": [
+                        "  Lee Yong Lepcha  ", 
+                        "3", 
+                        "1", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player6": [
+                        "  Amosi Rai  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ], 
+                    "player7": [
+                        "  Milind Kumar  ", 
+                        "9.5", 
+                        "1", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "0", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "52.5", 
+                    "runs": "179", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 497, 
+                        "teamScore": "374"
+                    }, 
+                    "player2": {
+                        "ballNo": 29, 
+                        "teamScore": "9"
+                    }, 
+                    "player3": {
+                        "ballNo": 76, 
+                        "teamScore": "25"
+                    }, 
+                    "player4": {
+                        "ballNo": 87, 
+                        "teamScore": "30"
+                    }, 
+                    "player5": {
+                        "ballNo": 210, 
+                        "teamScore": "120"
+                    }, 
+                    "player6": {
+                        "ballNo": 399, 
+                        "teamScore": "294"
+                    }, 
+                    "player7": {
+                        "ballNo": 411, 
+                        "teamScore": "308"
+                    }, 
+                    "player8": {
+                        "ballNo": 463, 
+                        "teamScore": "358"
+                    }, 
+                    "player9": {
+                        "ballNo": 494, 
+                        "teamScore": "372"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Faizan Khan  ", 
+                        " lbw b Suyal ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Amosi Rai  ", 
+                        " not out ", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Ishwar Chaudhary  ", 
+                        " c Imliwati Lemtur b Tahmeed Rahman ", 
+                        "2", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player2": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " c Jonathan R b Suyal ", 
+                        "11", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "31.43"
+                    ], 
+                    "player3": [
+                        "  Plazor Tamang  ", 
+                        " lbw b Suyal ", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Chitiz Tamang (wk)  ", 
+                        "  b Suyal ", 
+                        "11", 
+                        "27", 
+                        "2", 
+                        "0", 
+                        "40.74"
+                    ], 
+                    "player5": [
+                        "  Milind Kumar  ", 
+                        " c Suyal b Tahmeed Rahman ", 
+                        "224", 
+                        "215", 
+                        "31", 
+                        "3", 
+                        "104.19"
+                    ], 
+                    "player6": [
+                        "  Asish Thapa  ", 
+                        " c Jonathan R b Suyal ", 
+                        "17", 
+                        "65", 
+                        "2", 
+                        "0", 
+                        "26.15"
+                    ], 
+                    "player7": [
+                        "  Bipul Sharma  ", 
+                        "  b Suyal ", 
+                        "90", 
+                        "100", 
+                        "10", 
+                        "3", 
+                        "90.00"
+                    ], 
+                    "player8": [
+                        "  Lee Yong Lepcha  ", 
+                        "  b Suyal ", 
+                        "7", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "87.50"
+                    ], 
+                    "player9": [
+                        "  Padam limboo  ", 
+                        " lbw b Imliwati Lemtur ", 
+                        "4", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Suyal  ", 
+                        "25", 
+                        "7", 
+                        "108", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "4.30"
+                    ], 
+                    "player2": [
+                        "  Nitesh Lohchab  ", 
+                        "4", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Rachit Bhatia  ", 
+                        "6", 
+                        "0", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player4": [
+                        "  Imliwati Lemtur  ", 
+                        "13", 
+                        "2", 
+                        "72", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "5.50"
+                    ], 
+                    "player5": [
+                        "  Tahmeed Rahman  ", 
+                        "12.5", 
+                        "0", 
+                        "62", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player6": [
+                        "  H Zhimomi  ", 
+                        "8", 
+                        "0", 
+                        "32", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player7": [
+                        "  Jonathan R (c)  ", 
+                        "14", 
+                        "1", 
+                        "57", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "4", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "82.5", 
+                    "runs": "374", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 6, 
+                        "teamScore": "0"
+                    }, 
+                    "player10": {
+                        "ballNo": 570, 
+                        "teamScore": "273"
+                    }, 
+                    "player2": {
+                        "ballNo": 28, 
+                        "teamScore": "13"
+                    }, 
+                    "player3": {
+                        "ballNo": 67, 
+                        "teamScore": "26"
+                    }, 
+                    "player4": {
+                        "ballNo": 141, 
+                        "teamScore": "67"
+                    }, 
+                    "player5": {
+                        "ballNo": 145, 
+                        "teamScore": "68"
+                    }, 
+                    "player6": {
+                        "ballNo": 267, 
+                        "teamScore": "108"
+                    }, 
+                    "player7": {
+                        "ballNo": 484, 
+                        "teamScore": "240"
+                    }, 
+                    "player8": {
+                        "ballNo": 561, 
+                        "teamScore": "268"
+                    }, 
+                    "player9": {
+                        "ballNo": 564, 
+                        "teamScore": "269"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nitesh Lohchab  ", 
+                        " c Chitiz Tamang b Ishwar Chaudhary ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Rachit Bhatia  ", 
+                        " c Chitiz Tamang b Ishwar Chaudhary ", 
+                        "8", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "38.10"
+                    ], 
+                    "player11": [
+                        "  Suyal  ", 
+                        "  b Milind Kumar ", 
+                        "5", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player2": [
+                        "  Sedezhalie Rupero  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "0", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  KB Pawan (wk)  ", 
+                        " c Milind Kumar b Ishwar Chaudhary ", 
+                        "134", 
+                        "208", 
+                        "12", 
+                        "1", 
+                        "64.42"
+                    ], 
+                    "player4": [
+                        "  Jonathan R (c)  ", 
+                        " c Nilesh Lamichaney b Bipul Sharma ", 
+                        "11", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "35.48"
+                    ], 
+                    "player5": [
+                        "  H Zhimomi  ", 
+                        " st Chitiz Tamang b Lee Yong Lepcha ", 
+                        "10", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "26.32"
+                    ], 
+                    "player6": [
+                        "  A Kazi  ", 
+                        " c Chitiz Tamang b Bipul Sharma ", 
+                        "1", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player7": [
+                        "  Mughavi Wotsa  ", 
+                        "  b Bipul Sharma ", 
+                        "6", 
+                        "68", 
+                        "0", 
+                        "0", 
+                        "8.82"
+                    ], 
+                    "player8": [
+                        "  Imliwati Lemtur  ", 
+                        " c Lee Yong Lepcha b Ishwar Chaudhary ", 
+                        "61", 
+                        "157", 
+                        "5", 
+                        "2", 
+                        "38.85"
+                    ], 
+                    "player9": [
+                        "  Tahmeed Rahman  ", 
+                        " not out ", 
+                        "2", 
+                        "19", 
+                        "0", 
+                        "0", 
+                        "10.53"
+                    ]
+                }, 
+                "batTeam": "NGL", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "24", 
+                        "5", 
+                        "70", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  Bipul Sharma  ", 
+                        "31", 
+                        "9", 
+                        "67", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player3": [
+                        "  Milind Kumar  ", 
+                        "25", 
+                        "2", 
+                        "72", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Padam limboo  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Lee Yong Lepcha  ", 
+                        "9", 
+                        "2", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player6": [
+                        "  Amosi Rai  ", 
+                        "5", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "26", 
+                    "lb": "5", 
+                    "nb": "3", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "95", 
+                    "runs": "273", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 140, 
+                        "teamScore": "61"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " not out ", 
+                        "33", 
+                        "68", 
+                        "3", 
+                        "0", 
+                        "48.53"
+                    ], 
+                    "player2": [
+                        "  Faizan Khan  ", 
+                        " lbw b Suyal ", 
+                        "27", 
+                        "73", 
+                        "3", 
+                        "0", 
+                        "36.99"
+                    ], 
+                    "player3": [
+                        "  Asish Thapa  ", 
+                        " not out ", 
+                        "20", 
+                        "13", 
+                        "3", 
+                        "0", 
+                        "153.85"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pawan Suyal  ", 
+                        "8.4", 
+                        "1", 
+                        "33", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player2": [
+                        "  Rachit Bhatia  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player3": [
+                        "  Imliwati Lemtur  ", 
+                        "5", 
+                        "2", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player4": [
+                        "  Rongsen Jonathan (c)  ", 
+                        "4", 
+                        "0", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.80"
+                    ], 
+                    "player5": [
+                        "  Tahmeed Rahman  ", 
+                        "7", 
+                        "3", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "25.4", 
+                    "runs": "81", 
+                    "wickets": "1"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-15T15:45:00", 
+                    "startDate": "2018-11-12T08:45:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 2", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Inakato Zhimomi", 
+                            " Paras Sehrawat", 
+                            " Toni Chishi  "
+                        ], 
+                        "playing11": [
+                            " Nitesh Lohchab", 
+                            " Sedezhalie Rupero", 
+                            " KB Pawan (wk)", 
+                            " Rongsen Jonathan (c)", 
+                            " Hokaito Zhimomi", 
+                            " Abrar Kazi", 
+                            " Mughavi Wotsa", 
+                            " Imliwati Lemtur", 
+                            " Tahmeed Rahman", 
+                            " Rachit Bhatia", 
+                            " Pawan Suyal  "
+                        ], 
+                        "teamName": "Nagaland\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Bibek Diyali", 
+                            " Bijay Subba", 
+                            " Bhusan Subba", 
+                            " Binod Gupta", 
+                            " Ajay Shrestha  "
+                        ], 
+                        "playing11": [
+                            " Chitiz Tamang (wk)", 
+                            " Faizan Khan", 
+                            " Nilesh Lamichaney (c)", 
+                            " Plazor Tamang", 
+                            " Milind Kumar", 
+                            " Ashish Thapa", 
+                            " Bipul Sharma", 
+                            " Lee Yong Lepcha", 
+                            " Padam limboo", 
+                            " Ishwar Chaudhary", 
+                            " Amos Rai  "
+                        ], 
+                        "teamName": "Sikkim\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Nagaland", 
+                    "team2": "Sikkim"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Sikkim"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sanjay Raul"
+                }, 
+                "venue": "Nagaland Cricket Stadium, Sovima, Dimapur"
+            }
+        }
+    ]
+}

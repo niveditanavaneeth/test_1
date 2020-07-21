@@ -1,0 +1,869 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 45, 
+                        "teamScore": "22"
+                    }, 
+                    "player10": {
+                        "ballNo": 415, 
+                        "teamScore": "219"
+                    }, 
+                    "player2": {
+                        "ballNo": 261, 
+                        "teamScore": "146"
+                    }, 
+                    "player3": {
+                        "ballNo": 317, 
+                        "teamScore": "171"
+                    }, 
+                    "player4": {
+                        "ballNo": 342, 
+                        "teamScore": "189"
+                    }, 
+                    "player5": {
+                        "ballNo": 365, 
+                        "teamScore": "201"
+                    }, 
+                    "player6": {
+                        "ballNo": 390, 
+                        "teamScore": "211"
+                    }, 
+                    "player7": {
+                        "ballNo": 403, 
+                        "teamScore": "216"
+                    }, 
+                    "player8": {
+                        "ballNo": 410, 
+                        "teamScore": "216"
+                    }, 
+                    "player9": {
+                        "ballNo": 411, 
+                        "teamScore": "216"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        "  b Thokchom Kishan ", 
+                        "61", 
+                        "127", 
+                        "9", 
+                        "0", 
+                        "48.03"
+                    ], 
+                    "player10": [
+                        "  Lalnunkima Varte  ", 
+                        "  b Bishworjit Konthoujam ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Moia  ", 
+                        " c Thokchom Kishan b Priyojit K Singh ", 
+                        "3", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "150.00"
+                    ], 
+                    "player2": [
+                        "  Lalhruaizela  ", 
+                        " lbw b Bishworjit Konthoujam ", 
+                        "16", 
+                        "23", 
+                        "3", 
+                        "0", 
+                        "69.57"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        " c Prafullomani Singh b Bishworjit Konthoujam ", 
+                        "100", 
+                        "181", 
+                        "14", 
+                        "0", 
+                        "55.25"
+                    ], 
+                    "player4": [
+                        "  Michael Lalremkima  ", 
+                        "  b Yashpal Singh ", 
+                        "9", 
+                        "24", 
+                        "2", 
+                        "0", 
+                        "37.50"
+                    ], 
+                    "player5": [
+                        "  K Vanlalruata  ", 
+                        " run out (Prafullomani Singh)  ", 
+                        "10", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player6": [
+                        "  Saidingliana Sailo (wk)  ", 
+                        " c Priyojit K Singh b William Singh ", 
+                        "8", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "44.44"
+                    ], 
+                    "player7": [
+                        "  Zorinliana (c)  ", 
+                        " lbw b William Singh ", 
+                        "0", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  HM Ralte  ", 
+                        " lbw b Priyojit K Singh ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  G Lalbiakvela  ", 
+                        " not out ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Thokchom Kishan  ", 
+                        "17", 
+                        "4", 
+                        "56", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player2": [
+                        "  Kabrambam Homendro  ", 
+                        "6", 
+                        "3", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player3": [
+                        "  Bishworjit Konthoujam  ", 
+                        "13", 
+                        "1", 
+                        "50", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player4": [
+                        "  Priyojit K Singh  ", 
+                        "11.1", 
+                        "3", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player5": [
+                        "  William Singh  ", 
+                        "9", 
+                        "1", 
+                        "41", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.60"
+                    ], 
+                    "player6": [
+                        "  Kennedy Singh  ", 
+                        "2", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player7": [
+                        "  Yashpal Singh (c)  ", 
+                        "11", 
+                        "2", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "69.1", 
+                    "runs": "219", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 27, 
+                        "teamScore": "15"
+                    }, 
+                    "player10": {
+                        "ballNo": 522, 
+                        "teamScore": "319"
+                    }, 
+                    "player2": {
+                        "ballNo": 33, 
+                        "teamScore": "19"
+                    }, 
+                    "player3": {
+                        "ballNo": 56, 
+                        "teamScore": "30"
+                    }, 
+                    "player4": {
+                        "ballNo": 249, 
+                        "teamScore": "155"
+                    }, 
+                    "player5": {
+                        "ballNo": 323, 
+                        "teamScore": "183"
+                    }, 
+                    "player6": {
+                        "ballNo": 329, 
+                        "teamScore": "184"
+                    }, 
+                    "player7": {
+                        "ballNo": 389, 
+                        "teamScore": "219"
+                    }, 
+                    "player8": {
+                        "ballNo": 448, 
+                        "teamScore": "267"
+                    }, 
+                    "player9": {
+                        "ballNo": 489, 
+                        "teamScore": "286"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Lakhan Rawat  ", 
+                        " c K Vanlalruata b Lalnunkima Varte ", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player10": [
+                        "  Thokchom Kishan  ", 
+                        " c K Vanlalruata b Moia ", 
+                        "10", 
+                        "8", 
+                        "1", 
+                        "1", 
+                        "125.00"
+                    ], 
+                    "player11": [
+                        "  Bishworjit Konthoujam  ", 
+                        " run out (T Kohli)  ", 
+                        "4", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Chingangbam Singh  ", 
+                        "  b HM Ralte ", 
+                        "10", 
+                        "16", 
+                        "2", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player3": [
+                        "  Priyojit K Singh  ", 
+                        " lbw b Lalnunkima Varte ", 
+                        "14", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "63.64"
+                    ], 
+                    "player4": [
+                        "  Yashpal Singh (c)  ", 
+                        " not out ", 
+                        "156", 
+                        "244", 
+                        "17", 
+                        "3", 
+                        "63.93"
+                    ], 
+                    "player5": [
+                        "  Prafullomani Singh (wk)  ", 
+                        "  b Moia ", 
+                        "51", 
+                        "95", 
+                        "7", 
+                        "0", 
+                        "53.68"
+                    ], 
+                    "player6": [
+                        "  Sagatpam Jayanta  ", 
+                        " lbw b Moia ", 
+                        "19", 
+                        "48", 
+                        "3", 
+                        "0", 
+                        "39.58"
+                    ], 
+                    "player7": [
+                        "  Kennedy Singh  ", 
+                        "  b T Kohli ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Kabrambam Homendro  ", 
+                        " c Zorinliana b G Lalbiakvela ", 
+                        "22", 
+                        "36", 
+                        "5", 
+                        "0", 
+                        "61.11"
+                    ], 
+                    "player9": [
+                        "  William Singh  ", 
+                        " lbw b Zorinliana ", 
+                        "21", 
+                        "32", 
+                        "2", 
+                        "1", 
+                        "65.62"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  HM Ralte  ", 
+                        "9", 
+                        "2", 
+                        "42", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player2": [
+                        "  Lalnunkima Varte  ", 
+                        "11", 
+                        "1", 
+                        "43", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player3": [
+                        "  G Lalbiakvela  ", 
+                        "12", 
+                        "2", 
+                        "35", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Zorinliana (c)  ", 
+                        "15", 
+                        "1", 
+                        "62", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player5": [
+                        "  T Kohli  ", 
+                        "12", 
+                        "3", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player6": [
+                        "  Moia  ", 
+                        "24", 
+                        "3", 
+                        "88", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player7": [
+                        "  Akhil Rajput  ", 
+                        "4", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "3", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "87", 
+                    "runs": "319", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 87, 
+                        "teamScore": "46"
+                    }, 
+                    "player10": {
+                        "ballNo": 222, 
+                        "teamScore": "116"
+                    }, 
+                    "player2": {
+                        "ballNo": 103, 
+                        "teamScore": "48"
+                    }, 
+                    "player3": {
+                        "ballNo": 112, 
+                        "teamScore": "48"
+                    }, 
+                    "player4": {
+                        "ballNo": 116, 
+                        "teamScore": "52"
+                    }, 
+                    "player5": {
+                        "ballNo": 141, 
+                        "teamScore": "69"
+                    }, 
+                    "player6": {
+                        "ballNo": 200, 
+                        "teamScore": "93"
+                    }, 
+                    "player7": {
+                        "ballNo": 206, 
+                        "teamScore": "106"
+                    }, 
+                    "player8": {
+                        "ballNo": 215, 
+                        "teamScore": "112"
+                    }, 
+                    "player9": {
+                        "ballNo": 221, 
+                        "teamScore": "116"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        " lbw b Thokchom Kishan ", 
+                        "16", 
+                        "48", 
+                        "1", 
+                        "1", 
+                        "33.33"
+                    ], 
+                    "player10": [
+                        "  Lalnunkima Varte  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Moia  ", 
+                        " run out (Priyojit K Singh)  ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Michael Lalremkima  ", 
+                        "  b Kabrambam Homendro ", 
+                        "18", 
+                        "46", 
+                        "3", 
+                        "0", 
+                        "39.13"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        " c Prafullomani Singh b Thokchom Kishan ", 
+                        "2", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "15.38"
+                    ], 
+                    "player4": [
+                        "  Lalhruaizela  ", 
+                        " c (sub)Kshetrimayum Narisingh b Thokchom Kishan ", 
+                        "28", 
+                        "57", 
+                        "6", 
+                        "0", 
+                        "49.12"
+                    ], 
+                    "player5": [
+                        "  K Vanlalruata  ", 
+                        " run out (Bishworjit Konthoujam)  ", 
+                        "4", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "200.00"
+                    ], 
+                    "player6": [
+                        "  Saidingliana Sailo (wk)  ", 
+                        "  b Bishworjit Konthoujam ", 
+                        "5", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "38.46"
+                    ], 
+                    "player7": [
+                        "  Zorinliana (c)  ", 
+                        "  b Bishworjit Konthoujam ", 
+                        "7", 
+                        "27", 
+                        "1", 
+                        "0", 
+                        "25.93"
+                    ], 
+                    "player8": [
+                        "  HM Ralte  ", 
+                        " c Kennedy Singh b Bishworjit Konthoujam ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player9": [
+                        "  G Lalbiakvela  ", 
+                        " lbw b Thokchom Kishan ", 
+                        "6", 
+                        "9", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Thokchom Kishan  ", 
+                        "13", 
+                        "6", 
+                        "20", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player2": [
+                        "  Kabrambam Homendro  ", 
+                        "8", 
+                        "5", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Bishworjit Konthoujam  ", 
+                        "8", 
+                        "2", 
+                        "27", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.40"
+                    ], 
+                    "player4": [
+                        "  Priyojit K Singh  ", 
+                        "6", 
+                        "0", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player5": [
+                        "  Yashpal Singh (c)  ", 
+                        "1", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "6.00"
+                    ], 
+                    "player6": [
+                        "  William Singh  ", 
+                        "1", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "17", 
+                    "lb": "8", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "37", 
+                    "runs": "116", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 21, 
+                        "teamScore": "1"
+                    }, 
+                    "player2": {
+                        "ballNo": 38, 
+                        "teamScore": "8"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Lakhan Rawat  ", 
+                        " lbw b Moia ", 
+                        "0", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Chingangbam Singh  ", 
+                        " not out ", 
+                        "9", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "52.94"
+                    ], 
+                    "player3": [
+                        "  Priyojit K Singh  ", 
+                        " lbw b HM Ralte ", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player4": [
+                        "  Prafullomani Singh (wk)  ", 
+                        " not out ", 
+                        "8", 
+                        "6", 
+                        "2", 
+                        "0", 
+                        "133.33"
+                    ]
+                }, 
+                "batTeam": "MNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Taruwar Kohli  ", 
+                        "3", 
+                        "2", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.70"
+                    ], 
+                    "player2": [
+                        "  Moia  ", 
+                        "3", 
+                        "1", 
+                        "2", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.70"
+                    ], 
+                    "player3": [
+                        "  HM Ralte  ", 
+                        "1", 
+                        "0", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "7.00"
+                    ], 
+                    "player4": [
+                        "  Lalnunkima Varte  ", 
+                        "0.5", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "8.40"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "7.5", 
+                    "runs": "19", 
+                    "wickets": "2"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-23T15:45:00", 
+                    "startDate": "2018-11-20T08:45:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 3", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " C Lalrinsanga", 
+                            " Lalhmangaiha", 
+                            " Sinan Abdul Khadir", 
+                            " Lalrempuia", 
+                            " Marema", 
+                            " Lalnun Tluanga", 
+                            " Gaurav Singh  "
+                        ], 
+                        "playing11": [
+                            " Michael Lalremkima", 
+                            " Akhil Rajput", 
+                            " Taruwar Kohli", 
+                            " K Vanlalruata", 
+                            " Saidingliana Sailo (wk)", 
+                            " Lalhruai Ralte", 
+                            " G Lalbiakvela", 
+                            " Moia", 
+                            " Lalnunkima Varte", 
+                            " Zorinliana (c)", 
+                            " Lalhruaizela  "
+                        ], 
+                        "teamName": "Mizoram\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Kshetrimayum Narisingh", 
+                            " Shelley Shaurya", 
+                            " Rex Singh", 
+                            " Sultan Karim", 
+                            " Jitender", 
+                            " Somorjit Salam", 
+                            " Hrithik Kanojia", 
+                            " Shashikant Singh  "
+                        ], 
+                        "playing11": [
+                            " Prafullomani Singh (wk)", 
+                            " Lakhan Rawat", 
+                            " Chingangbam Singh", 
+                            " Yashpal Singh (c)", 
+                            " Kangabam Singh", 
+                            " Sagatpam Jayanta", 
+                            " Thokchom Kishan", 
+                            " Bishworjit Konthoujam", 
+                            " Homendro Meitei", 
+                            " William Singh", 
+                            " Kennedy Singh  "
+                        ], 
+                        "teamName": "Manipur\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Mizoram", 
+                    "team2": "Manipur"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Manipur"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Gaurav Vashisht"
+                }, 
+                "venue": "Jorhat Stadium, Jorhat"
+            }
+        }
+    ]
+}

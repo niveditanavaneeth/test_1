@@ -1,0 +1,867 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 22, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 663, 
+                        "teamScore": "300"
+                    }, 
+                    "player2": {
+                        "ballNo": 71, 
+                        "teamScore": "15"
+                    }, 
+                    "player3": {
+                        "ballNo": 103, 
+                        "teamScore": "31"
+                    }, 
+                    "player4": {
+                        "ballNo": 337, 
+                        "teamScore": "144"
+                    }, 
+                    "player5": {
+                        "ballNo": 403, 
+                        "teamScore": "170"
+                    }, 
+                    "player6": {
+                        "ballNo": 458, 
+                        "teamScore": "191"
+                    }, 
+                    "player7": {
+                        "ballNo": 607, 
+                        "teamScore": "281"
+                    }, 
+                    "player8": {
+                        "ballNo": 619, 
+                        "teamScore": "289"
+                    }, 
+                    "player9": {
+                        "ballNo": 658, 
+                        "teamScore": "296"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Abhishek Raman  ", 
+                        "  b KV Sasikanth ", 
+                        "6", 
+                        "35", 
+                        "0", 
+                        "0", 
+                        "17.14"
+                    ], 
+                    "player10": [
+                        "  Mukesh Kumar  ", 
+                        "  b Yarra Prithviraj ", 
+                        "3", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "17.65"
+                    ], 
+                    "player11": [
+                        "  Ishan Porel  ", 
+                        " not out ", 
+                        "2", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player2": [
+                        "  Abhimanyu Easwaran  ", 
+                        " c Shoaib Md Khan b Yarra Prithviraj ", 
+                        "2", 
+                        "12", 
+                        "0", 
+                        "0", 
+                        "16.67"
+                    ], 
+                    "player3": [
+                        "  Sudip Chatterjee  ", 
+                        " c Srikar Bharat b KV Sasikanth ", 
+                        "8", 
+                        "43", 
+                        "1", 
+                        "0", 
+                        "18.60"
+                    ], 
+                    "player4": [
+                        "  Manoj Tiwary (c)  ", 
+                        " c Prasanth Kumar b P Vijaykumar ", 
+                        "90", 
+                        "164", 
+                        "14", 
+                        "0", 
+                        "54.88"
+                    ], 
+                    "player5": [
+                        "  Agniv Pan (wk)  ", 
+                        " c Srikar Bharat b Yarra Prithviraj ", 
+                        "39", 
+                        "106", 
+                        "6", 
+                        "0", 
+                        "36.79"
+                    ], 
+                    "player6": [
+                        "  Writtick Chatterjee  ", 
+                        "  c and b KV Sasikanth ", 
+                        "76", 
+                        "171", 
+                        "11", 
+                        "0", 
+                        "44.44"
+                    ], 
+                    "player7": [
+                        "  Sahabaz Ahmed  ", 
+                        " c Bhui b Shoaib Md Khan ", 
+                        "11", 
+                        "31", 
+                        "1", 
+                        "0", 
+                        "35.48"
+                    ], 
+                    "player8": [
+                        "  Pradipta Pramanik  ", 
+                        "  b KV Sasikanth ", 
+                        "43", 
+                        "77", 
+                        "6", 
+                        "0", 
+                        "55.84"
+                    ], 
+                    "player9": [
+                        "  Dinda  ", 
+                        "  b KV Sasikanth ", 
+                        "2", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ]
+                }, 
+                "batTeam": "Bengal", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  P Vijaykumar  ", 
+                        "25", 
+                        "8", 
+                        "51", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  Yarra Prithviraj  ", 
+                        "25.3", 
+                        "5", 
+                        "81", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player3": [
+                        "  Shoaib Md Khan  ", 
+                        "14", 
+                        "3", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player4": [
+                        "  KV Sasikanth  ", 
+                        "29", 
+                        "7", 
+                        "55", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player5": [
+                        "  Girinath Reddy  ", 
+                        "16", 
+                        "2", 
+                        "61", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player6": [
+                        "  J Krishna  ", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Andhra", 
+                "extras": {
+                    "b": "5", 
+                    "lb": "7", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "5"
+                }, 
+                "total": {
+                    "overs": "110.3", 
+                    "runs": "300", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 10, 
+                        "teamScore": "4"
+                    }, 
+                    "player10": {
+                        "ballNo": 717, 
+                        "teamScore": "321"
+                    }, 
+                    "player2": {
+                        "ballNo": 256, 
+                        "teamScore": "108"
+                    }, 
+                    "player3": {
+                        "ballNo": 290, 
+                        "teamScore": "113"
+                    }, 
+                    "player4": {
+                        "ballNo": 464, 
+                        "teamScore": "197"
+                    }, 
+                    "player5": {
+                        "ballNo": 515, 
+                        "teamScore": "231"
+                    }, 
+                    "player6": {
+                        "ballNo": 584, 
+                        "teamScore": "259"
+                    }, 
+                    "player7": {
+                        "ballNo": 654, 
+                        "teamScore": "290"
+                    }, 
+                    "player8": {
+                        "ballNo": 655, 
+                        "teamScore": "290"
+                    }, 
+                    "player9": {
+                        "ballNo": 692, 
+                        "teamScore": "312"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  CR Gnaneshwar  ", 
+                        " c Abhimanyu Easwaran b Ishan Porel ", 
+                        "66", 
+                        "141", 
+                        "9", 
+                        "1", 
+                        "46.81"
+                    ], 
+                    "player10": [
+                        "  Yarra Prithviraj  ", 
+                        "  b Mukesh Kumar ", 
+                        "12", 
+                        "23", 
+                        "3", 
+                        "0", 
+                        "52.17"
+                    ], 
+                    "player11": [
+                        "  P Vijaykumar  ", 
+                        " not out ", 
+                        "4", 
+                        "7", 
+                        "1", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player2": [
+                        "  Prasanth Kumar  ", 
+                        "  b Mukesh Kumar ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  J Krishna  ", 
+                        " c Abhishek Raman b Sahabaz Ahmed ", 
+                        "43", 
+                        "130", 
+                        "2", 
+                        "1", 
+                        "33.08"
+                    ], 
+                    "player4": [
+                        "  Bhui  ", 
+                        " c Agniv Pan b Dinda ", 
+                        "52", 
+                        "146", 
+                        "5", 
+                        "0", 
+                        "35.62"
+                    ], 
+                    "player5": [
+                        "  Srikar Bharat (wk)  ", 
+                        "  b Pradipta Pramanik ", 
+                        "61", 
+                        "93", 
+                        "9", 
+                        "1", 
+                        "65.59"
+                    ], 
+                    "player6": [
+                        "  B Sumanth (c)  ", 
+                        "  b Pradipta Pramanik ", 
+                        "20", 
+                        "33", 
+                        "1", 
+                        "1", 
+                        "60.61"
+                    ], 
+                    "player7": [
+                        "  Girinath Reddy  ", 
+                        "  b Mukesh Kumar ", 
+                        "34", 
+                        "63", 
+                        "6", 
+                        "0", 
+                        "53.97"
+                    ], 
+                    "player8": [
+                        "  Shoaib Md Khan  ", 
+                        " c Abhishek Raman b Pradipta Pramanik ", 
+                        "9", 
+                        "46", 
+                        "0", 
+                        "0", 
+                        "19.57"
+                    ], 
+                    "player9": [
+                        "  KV Sasikanth  ", 
+                        "  b Mukesh Kumar ", 
+                        "10", 
+                        "32", 
+                        "1", 
+                        "0", 
+                        "31.25"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Dinda  ", 
+                        "29", 
+                        "4", 
+                        "81", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Mukesh Kumar  ", 
+                        "22.3", 
+                        "8", 
+                        "45", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player3": [
+                        "  Sahabaz Ahmed  ", 
+                        "9", 
+                        "0", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Ishan Porel  ", 
+                        "33", 
+                        "14", 
+                        "77", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player5": [
+                        "  Writtick Chatterjee  ", 
+                        "4", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player6": [
+                        "  Pradipta Pramanik  ", 
+                        "22", 
+                        "3", 
+                        "69", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ]
+                }, 
+                "bowlTeam": "Bengal", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "6", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "119.3", 
+                    "runs": "321", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 33, 
+                        "teamScore": "23"
+                    }, 
+                    "player2": {
+                        "ballNo": 136, 
+                        "teamScore": "112"
+                    }, 
+                    "player3": {
+                        "ballNo": 148, 
+                        "teamScore": "121"
+                    }, 
+                    "player4": {
+                        "ballNo": 172, 
+                        "teamScore": "143"
+                    }, 
+                    "player5": {
+                        "ballNo": 188, 
+                        "teamScore": "170"
+                    }, 
+                    "player6": {
+                        "ballNo": 223, 
+                        "teamScore": "200"
+                    }, 
+                    "player7": {
+                        "ballNo": 243, 
+                        "teamScore": "223"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Abhishek Raman  ", 
+                        " c Srikar Bharat b Yarra Prithviraj ", 
+                        "6", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player2": [
+                        "  Abhimanyu Easwaran  ", 
+                        " c B Sumanth b P Vijaykumar ", 
+                        "57", 
+                        "76", 
+                        "6", 
+                        "0", 
+                        "75.00"
+                    ], 
+                    "player3": [
+                        "  Sudip Chatterjee  ", 
+                        " c Srikar Bharat b P Vijaykumar ", 
+                        "47", 
+                        "56", 
+                        "5", 
+                        "1", 
+                        "83.93"
+                    ], 
+                    "player4": [
+                        "  Manoj Tiwary (c)  ", 
+                        " run out (P Vijaykumar)  ", 
+                        "18", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player5": [
+                        "  Agniv Pan (wk)  ", 
+                        " c Srikar Bharat b Shoaib Md Khan ", 
+                        "25", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "138.89"
+                    ], 
+                    "player6": [
+                        "  Writtick Chatterjee  ", 
+                        " not out ", 
+                        "40", 
+                        "40", 
+                        "1", 
+                        "2", 
+                        "100.00"
+                    ], 
+                    "player7": [
+                        "  Sahabaz Ahmed  ", 
+                        " run out (Girinath Reddy)  ", 
+                        "12", 
+                        "13", 
+                        "0", 
+                        "1", 
+                        "92.31"
+                    ], 
+                    "player8": [
+                        "  Pradipta Pramanik  ", 
+                        "  c and b Yarra Prithviraj ", 
+                        "10", 
+                        "11", 
+                        "0", 
+                        "1", 
+                        "90.91"
+                    ]
+                }, 
+                "batTeam": "Bengal", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  P Vijaykumar  ", 
+                        "13", 
+                        "0", 
+                        "84", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "6.50"
+                    ], 
+                    "player2": [
+                        "  KV Sasikanth  ", 
+                        "7", 
+                        "0", 
+                        "51", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "7.30"
+                    ], 
+                    "player3": [
+                        "  Yarra Prithviraj  ", 
+                        "12.3", 
+                        "1", 
+                        "49", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player4": [
+                        "  Shoaib Md Khan  ", 
+                        "8", 
+                        "0", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ]
+                }, 
+                "bowlTeam": "Andhra", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "7"
+                }, 
+                "total": {
+                    "overs": "40.3", 
+                    "runs": "223", 
+                    "wickets": "7"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 19, 
+                        "teamScore": "9"
+                    }, 
+                    "player2": {
+                        "ballNo": 97, 
+                        "teamScore": "93"
+                    }, 
+                    "player3": {
+                        "ballNo": 127, 
+                        "teamScore": "117"
+                    }, 
+                    "player4": {
+                        "ballNo": 132, 
+                        "teamScore": "118"
+                    }, 
+                    "player5": {
+                        "ballNo": 148, 
+                        "teamScore": "147"
+                    }, 
+                    "player6": {
+                        "ballNo": 161, 
+                        "teamScore": "170"
+                    }, 
+                    "player7": {
+                        "ballNo": 163, 
+                        "teamScore": "170"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  CR Gnaneshwar  ", 
+                        " c Agniv Pan b Ishan Porel ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Prasanth Kumar  ", 
+                        "  b Ishan Porel ", 
+                        "90", 
+                        "81", 
+                        "10", 
+                        "3", 
+                        "111.11"
+                    ], 
+                    "player3": [
+                        "  Jyothi Sai Krishna  ", 
+                        " c Writtick Chatterjee b Mukesh Kumar ", 
+                        "45", 
+                        "41", 
+                        "5", 
+                        "1", 
+                        "109.76"
+                    ], 
+                    "player4": [
+                        "  Ricky Bhui  ", 
+                        " c Manoj Tiwary b Dinda ", 
+                        "16", 
+                        "13", 
+                        "3", 
+                        "0", 
+                        "123.08"
+                    ], 
+                    "player5": [
+                        "  Srikar Bharat (wk)  ", 
+                        " c Agniv Pan b Dinda ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Girinath Reddy  ", 
+                        "  c and b Mukesh Kumar ", 
+                        "9", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "112.50"
+                    ], 
+                    "player7": [
+                        "  KV Sasikanth  ", 
+                        "  b Dinda ", 
+                        "7", 
+                        "5", 
+                        "0", 
+                        "1", 
+                        "140.00"
+                    ], 
+                    "player8": [
+                        "  Bodapati Sumanth (c)  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Shoaib Md Khan  ", 
+                        " not out ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Andhra", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ashok Dinda  ", 
+                        "10", 
+                        "1", 
+                        "50", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player2": [
+                        "  Ishan Porel  ", 
+                        "9", 
+                        "1", 
+                        "61", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "6.80"
+                    ], 
+                    "player3": [
+                        "  Sahabaz Ahmed  ", 
+                        "1", 
+                        "0", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "11.00"
+                    ], 
+                    "player4": [
+                        "  Mukesh Kumar  ", 
+                        "7", 
+                        "0", 
+                        "43", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "6.10"
+                    ], 
+                    "player5": [
+                        "  Pradipta Pramanik  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Bengal", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "3"
+                }, 
+                "total": {
+                    "overs": "28", 
+                    "runs": "170", 
+                    "wickets": "7"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-25T16:15:00", 
+                    "startDate": "2018-12-22T09:15:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 7", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Manish Golamaru", 
+                            " Bandaru Ayyappa", 
+                            " Cheepurapalli Stephen", 
+                            " Ashwin Hebbar", 
+                            " Karthik Raman", 
+                            " Dwaraka Ravi Teja", 
+                            " Karn Sharma", 
+                            " Siva charan singh", 
+                            " Gnaneswara Rao  "
+                        ], 
+                        "playing11": [
+                            " Prasanth Kumar", 
+                            " CR Gnaneshwar", 
+                            " Jyothi Sai Krishna", 
+                            " Ricky Bhui", 
+                            " Srikar Bharat (wk)", 
+                            " Bodapati Sumanth (c)", 
+                            " Girinath Reddy", 
+                            " Shoaib Md Khan", 
+                            " Yarra Prithviraj", 
+                            " Paidikalva Vijaykumar", 
+                            " KV Sasikanth  "
+                        ], 
+                        "teamName": "Andhra\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Aamir Gani", 
+                            " Anustup Majumdar", 
+                            " Koushik Ghosh", 
+                            " Saurabh Singh", 
+                            " Boddupalli Amit", 
+                            " Shreevats Goswami", 
+                            " Prayas Barman", 
+                            " Vivek Singh  "
+                        ], 
+                        "playing11": [
+                            "  Abhishek Raman", 
+                            " Abhimanyu Easwaran", 
+                            " Sudip Chatterjee", 
+                            " Manoj Tiwary (c)", 
+                            " Agniv Pan (wk)", 
+                            " Sahabaz Ahmed", 
+                            " Writtick Chatterjee", 
+                            " Ashok Dinda", 
+                            " Mukesh Kumar", 
+                            " Pradipta Pramanik", 
+                            " Ishan Porel  "
+                        ], 
+                        "teamName": "Bengal\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Andhra", 
+                    "team2": "Bengal"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Andhra"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Shakti Singh"
+                }, 
+                "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam"
+            }
+        }
+    ]
+}

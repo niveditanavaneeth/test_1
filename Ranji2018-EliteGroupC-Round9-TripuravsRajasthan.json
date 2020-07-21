@@ -1,0 +1,677 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 8, 
+                        "teamScore": "4"
+                    }, 
+                    "player2": {
+                        "ballNo": 10, 
+                        "teamScore": "4"
+                    }, 
+                    "player3": {
+                        "ballNo": 35, 
+                        "teamScore": "12"
+                    }, 
+                    "player4": {
+                        "ballNo": 56, 
+                        "teamScore": "17"
+                    }, 
+                    "player5": {
+                        "ballNo": 58, 
+                        "teamScore": "17"
+                    }, 
+                    "player6": {
+                        "ballNo": 74, 
+                        "teamScore": "22"
+                    }, 
+                    "player7": {
+                        "ballNo": 100, 
+                        "teamScore": "33"
+                    }, 
+                    "player8": {
+                        "ballNo": 107, 
+                        "teamScore": "34"
+                    }, 
+                    "player9": {
+                        "ballNo": 112, 
+                        "teamScore": "35"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Rajesh Banik (wk)  ", 
+                        " c Salman Khan b Aniket Choudhary ", 
+                        "8", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player10": [
+                        "  Harmeet Singh  ", 
+                        " c Salman Khan b D Chahar ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Saurabh Das  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  K Acharjee  ", 
+                        " lbw b Aniket Choudhary ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Udiyan Bose  ", 
+                        " c R Bishnoi b Aniket Choudhary ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  Smit Patel (c)  ", 
+                        " retd out ", 
+                        "2", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player5": [
+                        "  Pratyush Singh  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "2", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player6": [
+                        "  Nirupam Sen  ", 
+                        " lbw b TM Ul-Haq ", 
+                        "6", 
+                        "29", 
+                        "1", 
+                        "0", 
+                        "20.69"
+                    ], 
+                    "player7": [
+                        "  M Murasingh  ", 
+                        " lbw b Aniket Choudhary ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  R Saha  ", 
+                        "  b TM Ul-Haq ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Neelambuj Vats  ", 
+                        " not out ", 
+                        "11", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "44.00"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  D Chahar  ", 
+                        "7", 
+                        "2", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player2": [
+                        "  Aniket Choudhary  ", 
+                        "7", 
+                        "3", 
+                        "11", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player3": [
+                        "  TM Ul-Haq  ", 
+                        "4.5", 
+                        "4", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.20"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "6", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "18.5", 
+                    "runs": "35", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 25, 
+                        "teamScore": "22"
+                    }, 
+                    "player10": {
+                        "ballNo": 309, 
+                        "teamScore": "218"
+                    }, 
+                    "player2": {
+                        "ballNo": 44, 
+                        "teamScore": "36"
+                    }, 
+                    "player3": {
+                        "ballNo": 49, 
+                        "teamScore": "36"
+                    }, 
+                    "player4": {
+                        "ballNo": 83, 
+                        "teamScore": "55"
+                    }, 
+                    "player5": {
+                        "ballNo": 118, 
+                        "teamScore": "74"
+                    }, 
+                    "player6": {
+                        "ballNo": 133, 
+                        "teamScore": "83"
+                    }, 
+                    "player7": {
+                        "ballNo": 189, 
+                        "teamScore": "109"
+                    }, 
+                    "player8": {
+                        "ballNo": 209, 
+                        "teamScore": "129"
+                    }, 
+                    "player9": {
+                        "ballNo": 239, 
+                        "teamScore": "157"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amitkumar Gautam  ", 
+                        "  b M Murasingh ", 
+                        "14", 
+                        "13", 
+                        "2", 
+                        "0", 
+                        "107.69"
+                    ], 
+                    "player10": [
+                        "  Aniket Choudhary  ", 
+                        " not out ", 
+                        "30", 
+                        "50", 
+                        "2", 
+                        "1", 
+                        "60.00"
+                    ], 
+                    "player11": [
+                        "  TM Ul-Haq  ", 
+                        " st Rajesh Banik b R Saha ", 
+                        "37", 
+                        "35", 
+                        "4", 
+                        "2", 
+                        "105.71"
+                    ], 
+                    "player2": [
+                        "  Chetan Bist (wk)  ", 
+                        " c Pratyush Singh b Saurabh Das ", 
+                        "8", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player3": [
+                        "  Lomror (c)  ", 
+                        " lbw b M Murasingh ", 
+                        "13", 
+                        "8", 
+                        "3", 
+                        "0", 
+                        "162.50"
+                    ], 
+                    "player4": [
+                        "  R Bist  ", 
+                        " c Rajesh Banik b M Murasingh ", 
+                        "18", 
+                        "30", 
+                        "4", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player5": [
+                        "  Menaria  ", 
+                        " c Rajesh Banik b Neelambuj Vats ", 
+                        "12", 
+                        "23", 
+                        "2", 
+                        "0", 
+                        "52.17"
+                    ], 
+                    "player6": [
+                        "  R Bishnoi  ", 
+                        "  b Saurabh Das ", 
+                        "25", 
+                        "56", 
+                        "5", 
+                        "0", 
+                        "44.64"
+                    ], 
+                    "player7": [
+                        "  Salman Khan  ", 
+                        "  b Neelambuj Vats ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player8": [
+                        "  D Chahar  ", 
+                        " c Rajesh Banik b M Murasingh ", 
+                        "22", 
+                        "38", 
+                        "3", 
+                        "0", 
+                        "57.89"
+                    ], 
+                    "player9": [
+                        "  Rahul Chahar  ", 
+                        " c Nirupam Sen b Harmeet Singh ", 
+                        "27", 
+                        "27", 
+                        "2", 
+                        "1", 
+                        "100.00"
+                    ]
+                }, 
+                "batTeam": "Rajasthan", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  M Murasingh  ", 
+                        "19", 
+                        "4", 
+                        "75", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player2": [
+                        "  Saurabh Das  ", 
+                        "14", 
+                        "3", 
+                        "59", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player3": [
+                        "  Harmeet Singh  ", 
+                        "7", 
+                        "1", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player4": [
+                        "  Neelambuj Vats  ", 
+                        "11", 
+                        "1", 
+                        "45", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player5": [
+                        "  R Saha  ", 
+                        "0.3", 
+                        "0", 
+                        "12", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "24.00"
+                    ]
+                }, 
+                "bowlTeam": "Tripura", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "7", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "51.3", 
+                    "runs": "218", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 21, 
+                        "teamScore": "5"
+                    }, 
+                    "player2": {
+                        "ballNo": 58, 
+                        "teamScore": "21"
+                    }, 
+                    "player3": {
+                        "ballNo": 59, 
+                        "teamScore": "21"
+                    }, 
+                    "player4": {
+                        "ballNo": 72, 
+                        "teamScore": "27"
+                    }, 
+                    "player5": {
+                        "ballNo": 78, 
+                        "teamScore": "31"
+                    }, 
+                    "player6": {
+                        "ballNo": 83, 
+                        "teamScore": "33"
+                    }, 
+                    "player7": {
+                        "ballNo": 87, 
+                        "teamScore": "34"
+                    }, 
+                    "player8": {
+                        "ballNo": 131, 
+                        "teamScore": "73"
+                    }, 
+                    "player9": {
+                        "ballNo": 153, 
+                        "teamScore": "106"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Rajesh Banik (wk)  ", 
+                        " c Menaria b D Chahar ", 
+                        "4", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player10": [
+                        "  Saurabh Das  ", 
+                        " not out ", 
+                        "15", 
+                        "8", 
+                        "1", 
+                        "1", 
+                        "187.50"
+                    ], 
+                    "player11": [
+                        "  Smit Patel (c)  ", 
+                        " abs hurt ", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rajib Saha  ", 
+                        " c Chetan Bist b TM Ul-Haq ", 
+                        "24", 
+                        "38", 
+                        "5", 
+                        "0", 
+                        "63.16"
+                    ], 
+                    "player3": [
+                        "  Udiyan Bose  ", 
+                        " c Chetan Bist b D Chahar ", 
+                        "3", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "13.64"
+                    ], 
+                    "player4": [
+                        "  Kaushal Acharjee  ", 
+                        " lbw b D Chahar ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Pratyush Singh  ", 
+                        " c Salman Khan b D Chahar ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Nirupam Sen  ", 
+                        " lbw b D Chahar ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Neelambuj Vats  ", 
+                        " c Chetan Bist b Aniket Choudhary ", 
+                        "19", 
+                        "26", 
+                        "2", 
+                        "0", 
+                        "73.08"
+                    ], 
+                    "player8": [
+                        "  Manisankar Murasingh  ", 
+                        "  b TM Ul-Haq ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Harmeet Singh  ", 
+                        " c Amitkumar Gautam b Aniket Choudhary ", 
+                        "29", 
+                        "34", 
+                        "4", 
+                        "1", 
+                        "85.29"
+                    ]
+                }, 
+                "batTeam": "Tripura", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  TM Ul-Haq  ", 
+                        "9", 
+                        "4", 
+                        "21", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player2": [
+                        "  Deepak Chahar  ", 
+                        "8", 
+                        "2", 
+                        "17", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Aniket Choudhary  ", 
+                        "4.3", 
+                        "0", 
+                        "18", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player4": [
+                        "  Rahul Chahar  ", 
+                        "4", 
+                        "0", 
+                        "39", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "9.80"
+                    ]
+                }, 
+                "bowlTeam": "Rajasthan", 
+                "extras": {
+                    "b": "2", 
+                    "lb": "9", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "25.3", 
+                    "runs": "106", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-10T15:45:00", 
+                    "startDate": "2019-01-07T08:45:00"
+                }, 
+                "groupName": "Elite Group C", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 9", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Bishal Ghosh", 
+                            " Samrat Singha", 
+                            " Nirupam Chowdhary", 
+                            " Abhijit Chakraborty", 
+                            " Ninad Kadam", 
+                            " Rana Dutta", 
+                            " Viki Saha", 
+                            " Abhijit Sarkar", 
+                            " Ajoy Sarkar", 
+                            " Bravish Shetty", 
+                            " Subham Ghosh  "
+                        ], 
+                        "playing11": [
+                            " Kaushal Acharjee", 
+                            " Manisankar Murasingh", 
+                            " Nirupam Sen", 
+                            " Rajib Saha", 
+                            " Smit Patel (c)", 
+                            " Saurabh Das", 
+                            " Udiyan Bose", 
+                            " Rajesh Banik (wk)", 
+                            " Pratyush Singh", 
+                            " Harmeet Singh", 
+                            " Neelambuj Vats  "
+                        ], 
+                        "teamName": "Tripura\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Rajesh Bishnoi Jr", 
+                            " Arjit Gupta", 
+                            " Manender Narender Singh", 
+                            " Nathu Singh", 
+                            " Tajinder Singh", 
+                            " K Khaleel Ahmed  "
+                        ], 
+                        "playing11": [
+                            " Amitkumar Gautam", 
+                            " Mahipal Lomror (c)", 
+                            " Salman Khan", 
+                            " Rahul Chahar", 
+                            " Robin Bist", 
+                            " Ashok Menaria", 
+                            " Aniket Choudhary", 
+                            " Chetan Bist (wk)", 
+                            " Deepak Chahar", 
+                            " Rajesh Bishnoi", 
+                            " Tanveer Ul-Haq  "
+                        ], 
+                        "teamName": "Rajasthan\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Tripura", 
+                    "team2": "Rajasthan"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Tripura"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Sunil Chaturvedi"
+                }, 
+                "venue": "Maharaja Bir Bikram College Stadium, Agartala"
+            }
+        }
+    ]
+}

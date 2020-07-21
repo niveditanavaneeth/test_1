@@ -1,0 +1,79 @@
+{
+    "Ranji2018": [
+        {
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-23T16:30:00", 
+                    "startDate": "2018-11-20T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 3", 
+                "squad": {
+                    "team1": {
+                        "bench": "", 
+                        "playing11": [
+                            " D Rohit (c)", 
+                            " B Ranjit (wk)", 
+                            " Narayanan", 
+                            " Vikneshwaran Marimuthu", 
+                            " Paras Dogra", 
+                            " Abhishek Nayar", 
+                            " Pawan Kumar", 
+                            " Fabid Ahmed", 
+                            " Pankaj Singh", 
+                            " Akshay Jain", 
+                            " Vengadeshwaran", 
+                            " Iqlas Naha", 
+                            " Sagar Trivedi", 
+                            " Thalaivan Sargunam", 
+                            " Nikhilesh Surendran", 
+                            " Magendiran Chinnadurai", 
+                            " Prabhakaran Gopalakrishnan", 
+                            " Saiju Titus", 
+                            " Parikshit Valsangkar", 
+                            " Sarag Udheshi", 
+                            " Shashank Singh", 
+                            " Ashith Rajiv", 
+                            " Madhavan Manohar", 
+                            " Govindaraajan", 
+                            " Abdul Safar "
+                        ], 
+                        "teamName": "Puducherry\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": "", 
+                        "playing11": [
+                            " Vikash Ranjan (wk)", 
+                            " Pragyan Ojha (c)", 
+                            " Kumar Rajnish", 
+                            " Babul Kumar", 
+                            " Vivek Mohan", 
+                            " Keshav Kumar", 
+                            " MD Rahmatullah", 
+                            " Ashutosh Aman", 
+                            " Samar Quadri", 
+                            " Anunay Singh", 
+                            " Himanshu Hari", 
+                            " Abhijeet Saket", 
+                            " Sabir Khan", 
+                            " Babur Kumar "
+                        ], 
+                        "teamName": "Bihar\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Puducherry", 
+                    "team2": "Bihar"
+                }, 
+                "toss": {}, 
+                "umpire": {
+                    "thirdUmpire": "", 
+                    "umpire1": "", 
+                    "umpire2": ""
+                }, 
+                "venue": "Cricket Association Puducherry Siechem Ground, Puducherry"
+            }
+        }
+    ]
+}

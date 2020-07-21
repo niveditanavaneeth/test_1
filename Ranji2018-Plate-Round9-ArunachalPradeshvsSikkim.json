@@ -1,0 +1,778 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 30, 
+                        "teamScore": "24"
+                    }, 
+                    "player10": {
+                        "ballNo": 295, 
+                        "teamScore": "169"
+                    }, 
+                    "player2": {
+                        "ballNo": 63, 
+                        "teamScore": "41"
+                    }, 
+                    "player3": {
+                        "ballNo": 105, 
+                        "teamScore": "67"
+                    }, 
+                    "player4": {
+                        "ballNo": 112, 
+                        "teamScore": "68"
+                    }, 
+                    "player5": {
+                        "ballNo": 123, 
+                        "teamScore": "68"
+                    }, 
+                    "player6": {
+                        "ballNo": 148, 
+                        "teamScore": "75"
+                    }, 
+                    "player7": {
+                        "ballNo": 201, 
+                        "teamScore": "127"
+                    }, 
+                    "player8": {
+                        "ballNo": 263, 
+                        "teamScore": "152"
+                    }, 
+                    "player9": {
+                        "ballNo": 270, 
+                        "teamScore": "155"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amit Kumar  ", 
+                        " c Asish Thapa b Ishwar Chaudhary ", 
+                        "8", 
+                        "30", 
+                        "1", 
+                        "0", 
+                        "26.67"
+                    ], 
+                    "player10": [
+                        "  Deendyal  ", 
+                        " c Bibek Dayali b Ishwar Chaudhary ", 
+                        "2", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "100.00"
+                    ], 
+                    "player11": [
+                        "  Licha Tehi  ", 
+                        " not out ", 
+                        "2", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ], 
+                    "player2": [
+                        "  Techi Doria  ", 
+                        " lbw b Ishwar Chaudhary ", 
+                        "14", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "70.00"
+                    ], 
+                    "player3": [
+                        "  Kamsha Yangfo (c) (wk)  ", 
+                        " c Bibek Dayali b Bipul Sharma ", 
+                        "14", 
+                        "31", 
+                        "2", 
+                        "0", 
+                        "45.16"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        " c Nilesh Lamichaney b Lee Yong Lepcha ", 
+                        "59", 
+                        "71", 
+                        "8", 
+                        "1", 
+                        "83.10"
+                    ], 
+                    "player5": [
+                        "  Song Tacho  ", 
+                        " lbw b Milind Kumar ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Neelam Obi  ", 
+                        "  b Milind Kumar ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Indiya Toku  ", 
+                        " lbw b Milind Kumar ", 
+                        "6", 
+                        "13", 
+                        "1", 
+                        "0", 
+                        "46.15"
+                    ], 
+                    "player8": [
+                        "  Prateek Kataria  ", 
+                        " c Asish Thapa b Milind Kumar ", 
+                        "30", 
+                        "73", 
+                        "3", 
+                        "0", 
+                        "41.10"
+                    ], 
+                    "player9": [
+                        "  Techi Neri  ", 
+                        " lbw b Milind Kumar ", 
+                        "13", 
+                        "38", 
+                        "2", 
+                        "0", 
+                        "34.21"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "14", 
+                        "1", 
+                        "55", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player2": [
+                        "  Tashi Pintso  ", 
+                        "2", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player3": [
+                        "  Bipul Sharma  ", 
+                        "16", 
+                        "6", 
+                        "26", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player4": [
+                        "  Milind Kumar  ", 
+                        "14.1", 
+                        "0", 
+                        "42", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player5": [
+                        "  Lee Yong Lepcha  ", 
+                        "3", 
+                        "0", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "6.30"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "6", 
+                    "lb": "13", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "49.1", 
+                    "runs": "169", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 39, 
+                        "teamScore": "10"
+                    }, 
+                    "player10": {
+                        "ballNo": 573, 
+                        "teamScore": "262"
+                    }, 
+                    "player2": {
+                        "ballNo": 56, 
+                        "teamScore": "23"
+                    }, 
+                    "player3": {
+                        "ballNo": 171, 
+                        "teamScore": "68"
+                    }, 
+                    "player4": {
+                        "ballNo": 255, 
+                        "teamScore": "133"
+                    }, 
+                    "player5": {
+                        "ballNo": 262, 
+                        "teamScore": "133"
+                    }, 
+                    "player6": {
+                        "ballNo": 351, 
+                        "teamScore": "168"
+                    }, 
+                    "player7": {
+                        "ballNo": 548, 
+                        "teamScore": "254"
+                    }, 
+                    "player8": {
+                        "ballNo": 553, 
+                        "teamScore": "247"
+                    }, 
+                    "player9": {
+                        "ballNo": 564, 
+                        "teamScore": "254"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Bibek Dayali (wk)  ", 
+                        " lbw b Techi Doria ", 
+                        "37", 
+                        "84", 
+                        "4", 
+                        "0", 
+                        "44.05"
+                    ], 
+                    "player10": [
+                        "  Mandup Bhutia  ", 
+                        " lbw b Prateek Kataria ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Ishwar Chaudhary  ", 
+                        " run out (Song Tacho)  ", 
+                        "2", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player2": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " lbw b Licha Tehi ", 
+                        "1", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "6.25"
+                    ], 
+                    "player3": [
+                        "  Asish Thapa  ", 
+                        " c Kshitiz Sharma b Deendyal ", 
+                        "13", 
+                        "11", 
+                        "2", 
+                        "0", 
+                        "118.18"
+                    ], 
+                    "player4": [
+                        "  Jahan Uddin  ", 
+                        " c Kshitiz Sharma b Licha Tehi ", 
+                        "27", 
+                        "104", 
+                        "3", 
+                        "0", 
+                        "25.96"
+                    ], 
+                    "player5": [
+                        "  Milind Kumar  ", 
+                        " c Kshitiz Sharma b Deendyal ", 
+                        "51", 
+                        "44", 
+                        "5", 
+                        "2", 
+                        "115.91"
+                    ], 
+                    "player6": [
+                        "  Karma Bhutia  ", 
+                        " c Kamsha Yangfo b Deendyal ", 
+                        "27", 
+                        "159", 
+                        "0", 
+                        "0", 
+                        "16.98"
+                    ], 
+                    "player7": [
+                        "  Bipul Sharma  ", 
+                        " lbw b Techi Neri ", 
+                        "31", 
+                        "39", 
+                        "5", 
+                        "0", 
+                        "79.49"
+                    ], 
+                    "player8": [
+                        "  Lee Yong Lepcha  ", 
+                        " not out ", 
+                        "58", 
+                        "105", 
+                        "7", 
+                        "0", 
+                        "55.24"
+                    ], 
+                    "player9": [
+                        "  Tashi Pintso  ", 
+                        " c Kamsha Yangfo b Prateek Kataria ", 
+                        "1", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "15", 
+                        "9", 
+                        "25", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player2": [
+                        "  Deendyal  ", 
+                        "29.3", 
+                        "5", 
+                        "96", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Prateek Kataria  ", 
+                        "6", 
+                        "2", 
+                        "17", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Techi Doria  ", 
+                        "14", 
+                        "2", 
+                        "50", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.60"
+                    ], 
+                    "player5": [
+                        "  Kshitiz Sharma  ", 
+                        "10", 
+                        "3", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player6": [
+                        "  Techi Neri  ", 
+                        "21", 
+                        "3", 
+                        "41", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "10", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "4"
+                }, 
+                "total": {
+                    "overs": "95.3", 
+                    "runs": "262", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 16, 
+                        "teamScore": "6"
+                    }, 
+                    "player10": {
+                        "ballNo": 273, 
+                        "teamScore": "109"
+                    }, 
+                    "player2": {
+                        "ballNo": 22, 
+                        "teamScore": "6"
+                    }, 
+                    "player3": {
+                        "ballNo": 41, 
+                        "teamScore": "16"
+                    }, 
+                    "player4": {
+                        "ballNo": 70, 
+                        "teamScore": "36"
+                    }, 
+                    "player5": {
+                        "ballNo": 168, 
+                        "teamScore": "54"
+                    }, 
+                    "player6": {
+                        "ballNo": 188, 
+                        "teamScore": "63"
+                    }, 
+                    "player7": {
+                        "ballNo": 191, 
+                        "teamScore": "64"
+                    }, 
+                    "player8": {
+                        "ballNo": 215, 
+                        "teamScore": "71"
+                    }, 
+                    "player9": {
+                        "ballNo": 260, 
+                        "teamScore": "105"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Amit Kumar  ", 
+                        "  c and b Ishwar Chaudhary ", 
+                        "4", 
+                        "10", 
+                        "1", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player10": [
+                        "  Deendyal  ", 
+                        " c Mandup Bhutia b Ishwar Chaudhary ", 
+                        "17", 
+                        "14", 
+                        "1", 
+                        "1", 
+                        "121.43"
+                    ], 
+                    "player11": [
+                        "  Licha Tehi  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player2": [
+                        "  Neelam Obi  ", 
+                        " lbw b Bipul Sharma ", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player3": [
+                        "  Kamsha Yangfo (c) (wk)  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "6", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "54.55"
+                    ], 
+                    "player4": [
+                        "  Kshitiz Sharma  ", 
+                        " c Milind Kumar b Ishwar Chaudhary ", 
+                        "31", 
+                        "72", 
+                        "3", 
+                        "0", 
+                        "43.06"
+                    ], 
+                    "player5": [
+                        "  Techi Doria  ", 
+                        " lbw b Bipul Sharma ", 
+                        "5", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "31.25"
+                    ], 
+                    "player6": [
+                        "  Song Tacho  ", 
+                        " lbw b Milind Kumar ", 
+                        "5", 
+                        "56", 
+                        "1", 
+                        "0", 
+                        "8.93"
+                    ], 
+                    "player7": [
+                        "  Indiya Toku  ", 
+                        " c Bibek Dayali b Ishwar Chaudhary ", 
+                        "5", 
+                        "15", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player8": [
+                        "  Prateek Kataria  ", 
+                        "  b Ishwar Chaudhary ", 
+                        "4", 
+                        "14", 
+                        "0", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player9": [
+                        "  Techi Neri  ", 
+                        " not out ", 
+                        "23", 
+                        "46", 
+                        "3", 
+                        "0", 
+                        "50.00"
+                    ]
+                }, 
+                "batTeam": "ARNP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ishwar Chaudhary  ", 
+                        "16.3", 
+                        "4", 
+                        "51", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  Bipul Sharma  ", 
+                        "18", 
+                        "4", 
+                        "35", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.90"
+                    ], 
+                    "player3": [
+                        "  Milind Kumar  ", 
+                        "11", 
+                        "4", 
+                        "19", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "1", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "45.3", 
+                    "runs": "109", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {}, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Milind Kumar  ", 
+                        " not out ", 
+                        "19", 
+                        "8", 
+                        "4", 
+                        "0", 
+                        "237.50"
+                    ], 
+                    "player2": [
+                        "  Nilesh Lamichaney (c)  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "SKM", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Licha Tehi  ", 
+                        "1", 
+                        "0", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "15.00"
+                    ], 
+                    "player2": [
+                        "  Deendyal  ", 
+                        "0.3", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ]
+                }, 
+                "bowlTeam": "Arunachal Pradesh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "1.3", 
+                    "runs": "19", 
+                    "wickets": "0"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-10T16:00:00", 
+                    "startDate": "2019-01-07T09:00:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 9", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Techi Tahin", 
+                            " Akhilesh Sahani", 
+                            " Samarth Seth", 
+                            " Sandeep Thakur", 
+                            " Tana Davit", 
+                            " Robin Toko", 
+                            " Momar Ori", 
+                            " Takar Paja", 
+                            " Utsav Pankaj", 
+                            " Sams Alam", 
+                            " Myendung Singpho", 
+                            " Shoyeb", 
+                            " Subhash Sharma", 
+                            " Aakash Singh", 
+                            " Hayat Ansari", 
+                            " Prateek Singh", 
+                            " Nipun Malhotra", 
+                            " Ketan Garg  "
+                        ], 
+                        "playing11": [
+                            " Deendyal", 
+                            " Licha Tehi", 
+                            " Neelam Obi", 
+                            " Techi Doria", 
+                            " Techi Neri", 
+                            " Kshitiz Sharma", 
+                            " Indiya Toku", 
+                            " Kamsha Yangfo (c & wk)", 
+                            " Song Tacho", 
+                            " Amit Kumar", 
+                            " Prateek Kataria  "
+                        ], 
+                        "teamName": "Arunachal Pradesh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Faizan Khan", 
+                            " Bijay Subba", 
+                            " Padam limboo", 
+                            " Amos Rai", 
+                            " Karma Rinzing", 
+                            " Plazor Tamang", 
+                            " Bhusan Subba", 
+                            " Binod Gupta", 
+                            " Ajay Shrestha", 
+                            " Chitiz Tamang", 
+                            " Pritam Nirala", 
+                            " Dinesh Rai", 
+                            " Tshering Bhutia  "
+                        ], 
+                        "playing11": [
+                            " Bibek Diyali (wk)", 
+                            " Ishwar Chaudhary", 
+                            " Jahan Uddin", 
+                            " Milind Kumar", 
+                            " Bipul Sharma", 
+                            " Lee Yong Lepcha", 
+                            " Tashi Bhalla", 
+                            " Mandup Bhutia", 
+                            " Nilesh Lamichaney (c)", 
+                            " Ashish Thapa", 
+                            " Karma Bhutia  "
+                        ], 
+                        "teamName": "Sikkim\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Arunachal Pradesh", 
+                    "team2": "Sikkim"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Sikkim"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Madhusudhan Reddy"
+                }, 
+                "venue": "DN Singha Stadium, Goalpara"
+            }
+        }
+    ]
+}

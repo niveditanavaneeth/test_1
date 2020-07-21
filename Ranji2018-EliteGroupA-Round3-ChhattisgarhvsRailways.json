@@ -1,0 +1,751 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 109, 
+                        "teamScore": "36"
+                    }, 
+                    "player10": {
+                        "ballNo": 648, 
+                        "teamScore": "300"
+                    }, 
+                    "player2": {
+                        "ballNo": 175, 
+                        "teamScore": "60"
+                    }, 
+                    "player3": {
+                        "ballNo": 263, 
+                        "teamScore": "105"
+                    }, 
+                    "player4": {
+                        "ballNo": 385, 
+                        "teamScore": "161"
+                    }, 
+                    "player5": {
+                        "ballNo": 407, 
+                        "teamScore": "168"
+                    }, 
+                    "player6": {
+                        "ballNo": 562, 
+                        "teamScore": "246"
+                    }, 
+                    "player7": {
+                        "ballNo": 597, 
+                        "teamScore": "266"
+                    }, 
+                    "player8": {
+                        "ballNo": 613, 
+                        "teamScore": "284"
+                    }, 
+                    "player9": {
+                        "ballNo": 646, 
+                        "teamScore": "300"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sahil Gupta  ", 
+                        " c A Ghosh b Karan Thakur ", 
+                        "29", 
+                        "90", 
+                        "6", 
+                        "0", 
+                        "32.22"
+                    ], 
+                    "player10": [
+                        "  Pankaj Rao  ", 
+                        " not out ", 
+                        "10", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "83.33"
+                    ], 
+                    "player11": [
+                        "  Shahnawaz  ", 
+                        " run out (Pratham Singh)  ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rishabh Tiwari  ", 
+                        " c Harsh Tyagi b Manjeet Singh ", 
+                        "14", 
+                        "51", 
+                        "2", 
+                        "0", 
+                        "27.45"
+                    ], 
+                    "player3": [
+                        "  Sanjeet Desai  ", 
+                        " c N Bhille b Manjeet Singh ", 
+                        "20", 
+                        "76", 
+                        "3", 
+                        "0", 
+                        "26.32"
+                    ], 
+                    "player4": [
+                        "  Harpreet Singh (c)  ", 
+                        " c N Bhille b Manjeet Singh ", 
+                        "79", 
+                        "121", 
+                        "9", 
+                        "0", 
+                        "65.29"
+                    ], 
+                    "player5": [
+                        "  Amandeep Khare  ", 
+                        " c (sub)Faiz Ahmed b Anureet Singh ", 
+                        "54", 
+                        "134", 
+                        "7", 
+                        "0", 
+                        "40.30"
+                    ], 
+                    "player6": [
+                        "  M Singh (wk)  ", 
+                        " c Pratham Singh b Karan Thakur ", 
+                        "1", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "6.25"
+                    ], 
+                    "player7": [
+                        "  Vishal Kushwah  ", 
+                        " c S Shukla b Karan Thakur ", 
+                        "52", 
+                        "91", 
+                        "6", 
+                        "1", 
+                        "57.14"
+                    ], 
+                    "player8": [
+                        "  Sumit Ruikar  ", 
+                        " c S Shukla b Manjeet Singh ", 
+                        "12", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player9": [
+                        "  Shivendra Singh  ", 
+                        " c N Bhille b Karan Thakur ", 
+                        "17", 
+                        "32", 
+                        "3", 
+                        "0", 
+                        "53.12"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Anureet Singh  ", 
+                        "36", 
+                        "12", 
+                        "82", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player2": [
+                        "  Karan Thakur  ", 
+                        "35", 
+                        "14", 
+                        "98", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player3": [
+                        "  Manjeet Singh  ", 
+                        "19", 
+                        "3", 
+                        "85", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ], 
+                    "player4": [
+                        "  Avinash Yadav  ", 
+                        "14", 
+                        "6", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.10"
+                    ], 
+                    "player5": [
+                        "  Harsh Tyagi  ", 
+                        "4", 
+                        "1", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ]
+                }, 
+                "bowlTeam": "Railways", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "5", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "108", 
+                    "runs": "300", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 32, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 731, 
+                        "teamScore": "330"
+                    }, 
+                    "player2": {
+                        "ballNo": 38, 
+                        "teamScore": "9"
+                    }, 
+                    "player3": {
+                        "ballNo": 134, 
+                        "teamScore": "33"
+                    }, 
+                    "player4": {
+                        "ballNo": 254, 
+                        "teamScore": "111"
+                    }, 
+                    "player5": {
+                        "ballNo": 374, 
+                        "teamScore": "165"
+                    }, 
+                    "player6": {
+                        "ballNo": 603, 
+                        "teamScore": "267"
+                    }, 
+                    "player7": {
+                        "ballNo": 614, 
+                        "teamScore": "269"
+                    }, 
+                    "player8": {
+                        "ballNo": 648, 
+                        "teamScore": "276"
+                    }, 
+                    "player9": {
+                        "ballNo": 707, 
+                        "teamScore": "311"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  S Wakaskar  ", 
+                        " c Sanjeet Desai b Shivendra Singh ", 
+                        "9", 
+                        "17", 
+                        "1", 
+                        "0", 
+                        "52.94"
+                    ], 
+                    "player10": [
+                        "  Manjeet Singh  ", 
+                        " c Vishal Kushwah b Sumit Ruikar ", 
+                        "26", 
+                        "29", 
+                        "2", 
+                        "1", 
+                        "89.66"
+                    ], 
+                    "player11": [
+                        "  Karan Thakur  ", 
+                        " not out ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  S Shukla  ", 
+                        " c M Singh b Pankaj Rao ", 
+                        "0", 
+                        "17", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  N Bhille  ", 
+                        " c M Singh b Vishal Kushwah ", 
+                        "10", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "18.52"
+                    ], 
+                    "player4": [
+                        "  Pratham Singh  ", 
+                        " c M Singh b Pankaj Rao ", 
+                        "66", 
+                        "159", 
+                        "8", 
+                        "0", 
+                        "41.51"
+                    ], 
+                    "player5": [
+                        "  A Ghosh  ", 
+                        " c M Singh b Pankaj Rao ", 
+                        "34", 
+                        "65", 
+                        "3", 
+                        "2", 
+                        "52.31"
+                    ], 
+                    "player6": [
+                        "  Mahesh Rawat (c) (wk)  ", 
+                        "  b Pankaj Rao ", 
+                        "110", 
+                        "187", 
+                        "12", 
+                        "1", 
+                        "58.82"
+                    ], 
+                    "player7": [
+                        "  Harsh Tyagi  ", 
+                        " c Shivendra Singh b Sumit Ruikar ", 
+                        "55", 
+                        "179", 
+                        "6", 
+                        "1", 
+                        "30.73"
+                    ], 
+                    "player8": [
+                        "  Avinash Yadav  ", 
+                        " c Vishal Kushwah b Pankaj Rao ", 
+                        "2", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "22.22"
+                    ], 
+                    "player9": [
+                        "  Anureet Singh  ", 
+                        " c Shivendra Singh b Shahnawaz ", 
+                        "4", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ]
+                }, 
+                "batTeam": "Railways", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pankaj Rao  ", 
+                        "35", 
+                        "9", 
+                        "72", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Shivendra Singh  ", 
+                        "23", 
+                        "7", 
+                        "56", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player3": [
+                        "  Shahnawaz  ", 
+                        "29", 
+                        "5", 
+                        "87", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player4": [
+                        "  Vishal Kushwah  ", 
+                        "17", 
+                        "5", 
+                        "38", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player5": [
+                        "  Sumit Ruikar  ", 
+                        "17.5", 
+                        "1", 
+                        "68", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "6", 
+                    "nb": "5", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "121.5", 
+                    "runs": "330", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 9, 
+                        "teamScore": "0"
+                    }, 
+                    "player2": {
+                        "ballNo": 19, 
+                        "teamScore": "1"
+                    }, 
+                    "player3": {
+                        "ballNo": 141, 
+                        "teamScore": "85"
+                    }, 
+                    "player4": {
+                        "ballNo": 228, 
+                        "teamScore": "138"
+                    }, 
+                    "player5": {
+                        "ballNo": 344, 
+                        "teamScore": "219"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Sahil Gupta  ", 
+                        "  b Karan Thakur ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Rishabh Tiwari  ", 
+                        "  b Karan Thakur ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Sanjeet Desai  ", 
+                        " lbw b Karan Thakur ", 
+                        "67", 
+                        "122", 
+                        "9", 
+                        "1", 
+                        "54.92"
+                    ], 
+                    "player4": [
+                        "  Shivendra Singh  ", 
+                        " c A Ghosh b Anureet Singh ", 
+                        "38", 
+                        "56", 
+                        "6", 
+                        "0", 
+                        "67.86"
+                    ], 
+                    "player5": [
+                        "  Harpreet Singh (c)  ", 
+                        " not out ", 
+                        "59", 
+                        "92", 
+                        "9", 
+                        "0", 
+                        "64.13"
+                    ], 
+                    "player6": [
+                        "  Amandeep Khare  ", 
+                        " c Harsh Tyagi b S Shukla ", 
+                        "43", 
+                        "64", 
+                        "7", 
+                        "1", 
+                        "67.19"
+                    ], 
+                    "player7": [
+                        "  Vishal Kushwah  ", 
+                        " not out ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "Chhattisgarh", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Anureet Singh  ", 
+                        "15", 
+                        "3", 
+                        "62", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player2": [
+                        "  Karan Thakur  ", 
+                        "15", 
+                        "2", 
+                        "44", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player3": [
+                        "  Manjeet Singh  ", 
+                        "7", 
+                        "1", 
+                        "35", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player4": [
+                        "  Avinash Yadav  ", 
+                        "13", 
+                        "3", 
+                        "40", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  Harsh Tyagi  ", 
+                        "7.1", 
+                        "1", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.20"
+                    ], 
+                    "player6": [
+                        "  S Shukla  ", 
+                        "1", 
+                        "0", 
+                        "4", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ]
+                }, 
+                "bowlTeam": "Railways", 
+                "extras": {
+                    "b": "3", 
+                    "lb": "8", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "58.1", 
+                    "runs": "219", 
+                    "wickets": "5"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 4, 
+                        "teamScore": "1"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Saurabh Wakaskar  ", 
+                        " not out ", 
+                        "17", 
+                        "46", 
+                        "0", 
+                        "0", 
+                        "36.96"
+                    ], 
+                    "player2": [
+                        "  Shivakant Shukla  ", 
+                        " c M Singh b Sumit Ruikar ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Nitin Bhille  ", 
+                        " not out ", 
+                        "53", 
+                        "71", 
+                        "9", 
+                        "0", 
+                        "74.65"
+                    ]
+                }, 
+                "batTeam": "Railways", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Sumit Ruikar  ", 
+                        "10", 
+                        "0", 
+                        "24", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ], 
+                    "player2": [
+                        "  Pankaj Kumar Rao  ", 
+                        "7", 
+                        "1", 
+                        "36", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.10"
+                    ], 
+                    "player3": [
+                        "  Shahnawaz Hussain  ", 
+                        "3", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ]
+                }, 
+                "bowlTeam": "Chhattisgarh", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "20", 
+                    "runs": "70", 
+                    "wickets": "1"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-23T16:15:00", 
+                    "startDate": "2018-11-20T09:15:00"
+                }, 
+                "groupName": "Elite Group A", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 3", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Ashutosh Singh", 
+                            " Omkar Verma", 
+                            " Ajay Jadav Mandal", 
+                            " Siddharth Chandrakar", 
+                            " Abhishek Tamrakar ", 
+                            " Sahban Khan", 
+                            " Shashank Chandraker", 
+                            " Shubham Agarwal", 
+                            " Avnish Dhaliwal", 
+                            " Jatin Saxena", 
+                            " Abhimanyu Chauhan", 
+                            " Shubham Singh  "
+                        ], 
+                        "playing11": [
+                            " Sanjeet Desai", 
+                            " Sumit Ruikar", 
+                            " Harpreet Singh (c)", 
+                            " Sahil Gupta", 
+                            " Rishabh Tiwari", 
+                            " Shahnawaz Hussain", 
+                            " Manoj Singh (wk)", 
+                            " Pankaj Kumar Rao", 
+                            " Shivendra Singh", 
+                            " Vishal Kushwah", 
+                            " Amandeep Khare  "
+                        ], 
+                        "teamName": "Chhattisgarh\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Faiz Ahmed", 
+                            " Madhur Khatri", 
+                            " Manish Rao", 
+                            " Abhinav Dixit  "
+                        ], 
+                        "playing11": [
+                            " Saurabh Wakaskar", 
+                            " Mahesh Rawat (c & wk)", 
+                            " Arindam Ghosh", 
+                            " Anureet Singh", 
+                            " Karan Thakur", 
+                            " Nitin Bhille", 
+                            " Shivakant Shukla", 
+                            " Manjeet Singh", 
+                            " Avinash Yadav", 
+                            " Pratham Singh", 
+                            " Harsh Tyagi  "
+                        ], 
+                        "teamName": "Railways\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Chhattisgarh", 
+                    "team2": "Railways"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Railways"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Madhusudhan Reddy"
+                }, 
+                "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur"
+            }
+        }
+    ]
+}

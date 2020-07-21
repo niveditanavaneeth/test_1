@@ -1,0 +1,731 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 49, 
+                        "teamScore": "25"
+                    }, 
+                    "player10": {
+                        "ballNo": 284, 
+                        "teamScore": "106"
+                    }, 
+                    "player2": {
+                        "ballNo": 77, 
+                        "teamScore": "25"
+                    }, 
+                    "player3": {
+                        "ballNo": 130, 
+                        "teamScore": "47"
+                    }, 
+                    "player4": {
+                        "ballNo": 146, 
+                        "teamScore": "52"
+                    }, 
+                    "player5": {
+                        "ballNo": 161, 
+                        "teamScore": "54"
+                    }, 
+                    "player6": {
+                        "ballNo": 244, 
+                        "teamScore": "92"
+                    }, 
+                    "player7": {
+                        "ballNo": 250, 
+                        "teamScore": "97"
+                    }, 
+                    "player8": {
+                        "ballNo": 268, 
+                        "teamScore": "106"
+                    }, 
+                    "player9": {
+                        "ballNo": 273, 
+                        "teamScore": "106"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Michael Lalremkima (c)  ", 
+                        " c Jonathan R b Suyal ", 
+                        "5", 
+                        "28", 
+                        "1", 
+                        "0", 
+                        "17.86"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        " not out ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Moia  ", 
+                        "  b Imliwati Lemtur ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Akhil Rajput  ", 
+                        " c Imliwati Lemtur b Tahmeed Rahman ", 
+                        "28", 
+                        "67", 
+                        "5", 
+                        "0", 
+                        "41.79"
+                    ], 
+                    "player3": [
+                        "  C Lalrinsanga  ", 
+                        " lbw b Suyal ", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player4": [
+                        "  T Kohli  ", 
+                        "  c and b Imliwati Lemtur ", 
+                        "49", 
+                        "86", 
+                        "8", 
+                        "0", 
+                        "56.98"
+                    ], 
+                    "player5": [
+                        "  K Vanlalruata  ", 
+                        "  b A Kazi ", 
+                        "1", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "11.11"
+                    ], 
+                    "player6": [
+                        "  Lalhmangaiha  ", 
+                        "  b A Kazi ", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Sinan Khadir  ", 
+                        "  b A Kazi ", 
+                        "14", 
+                        "44", 
+                        "2", 
+                        "0", 
+                        "31.82"
+                    ], 
+                    "player8": [
+                        "  Saidingliana Sailo (wk)  ", 
+                        " run out (Tahmeed Rahman)  ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  HM Ralte  ", 
+                        " lbw b A Kazi ", 
+                        "0", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Suyal  ", 
+                        "14", 
+                        "5", 
+                        "42", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player2": [
+                        "  Nitesh Lohchab  ", 
+                        "4", 
+                        "2", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.50"
+                    ], 
+                    "player3": [
+                        "  Rachit Bhatia  ", 
+                        "6", 
+                        "3", 
+                        "9", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.50"
+                    ], 
+                    "player4": [
+                        "  A Kazi  ", 
+                        "16", 
+                        "7", 
+                        "16", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.00"
+                    ], 
+                    "player5": [
+                        "  Tahmeed Rahman  ", 
+                        "6", 
+                        "0", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player6": [
+                        "  Imliwati Lemtur  ", 
+                        "1.2", 
+                        "1", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "0", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "47.2", 
+                    "runs": "106", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 95, 
+                        "teamScore": "64"
+                    }, 
+                    "player2": {
+                        "ballNo": 108, 
+                        "teamScore": "70"
+                    }, 
+                    "player3": {
+                        "ballNo": 189, 
+                        "teamScore": "147"
+                    }, 
+                    "player4": {
+                        "ballNo": 216, 
+                        "teamScore": "163"
+                    }, 
+                    "player5": {
+                        "ballNo": 254, 
+                        "teamScore": "195"
+                    }, 
+                    "player6": {
+                        "ballNo": 479, 
+                        "teamScore": "344"
+                    }, 
+                    "player7": {
+                        "ballNo": 612, 
+                        "teamScore": "451"
+                    }, 
+                    "player8": {
+                        "ballNo": 680, 
+                        "teamScore": "511"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Nitesh Lohchab  ", 
+                        " c T Kohli b Moia ", 
+                        "45", 
+                        "68", 
+                        "8", 
+                        "0", 
+                        "66.18"
+                    ], 
+                    "player10": [
+                        "  Rachit Bhatia  ", 
+                        " not out ", 
+                        "5", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "62.50"
+                    ], 
+                    "player2": [
+                        "  Sedezhalie Rupero  ", 
+                        " lbw b Moia ", 
+                        "24", 
+                        "40", 
+                        "3", 
+                        "0", 
+                        "60.00"
+                    ], 
+                    "player3": [
+                        "  KB Pawan (wk)  ", 
+                        " c T Kohli b Akhil Rajput ", 
+                        "30", 
+                        "40", 
+                        "3", 
+                        "1", 
+                        "75.00"
+                    ], 
+                    "player4": [
+                        "  Jonathan R (c)  ", 
+                        " c T Kohli b G Lalbiakvela ", 
+                        "72", 
+                        "76", 
+                        "9", 
+                        "1", 
+                        "94.74"
+                    ], 
+                    "player5": [
+                        "  H Zhimomi  ", 
+                        " lbw b Akhil Rajput ", 
+                        "2", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "10.00"
+                    ], 
+                    "player6": [
+                        "  A Kazi  ", 
+                        " not out ", 
+                        "200", 
+                        "215", 
+                        "22", 
+                        "1", 
+                        "93.02"
+                    ], 
+                    "player7": [
+                        "  Mughavi Wotsa  ", 
+                        " c Michael Lalremkima b Sinan Khadir ", 
+                        "58", 
+                        "125", 
+                        "6", 
+                        "2", 
+                        "46.40"
+                    ], 
+                    "player8": [
+                        "  Imliwati Lemtur  ", 
+                        "  b G Lalbiakvela ", 
+                        "50", 
+                        "77", 
+                        "9", 
+                        "0", 
+                        "64.94"
+                    ], 
+                    "player9": [
+                        "  Tahmeed Rahman  ", 
+                        " c G Lalbiakvela b Moia ", 
+                        "34", 
+                        "39", 
+                        "3", 
+                        "2", 
+                        "87.18"
+                    ]
+                }, 
+                "batTeam": "NGL", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  HM Ralte  ", 
+                        "10", 
+                        "0", 
+                        "50", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player2": [
+                        "  G Lalbiakvela  ", 
+                        "23", 
+                        "1", 
+                        "128", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "5.60"
+                    ], 
+                    "player3": [
+                        "  Sinan Khadir  ", 
+                        "33", 
+                        "1", 
+                        "135", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player4": [
+                        "  Moia  ", 
+                        "19.2", 
+                        "1", 
+                        "90", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "4.70"
+                    ], 
+                    "player5": [
+                        "  T Kohli  ", 
+                        "15", 
+                        "0", 
+                        "55", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player6": [
+                        "  Akhil Rajput  ", 
+                        "13", 
+                        "3", 
+                        "50", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player7": [
+                        "  K Vanlalruata  ", 
+                        "4", 
+                        "0", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.50"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "3", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "117.2", 
+                    "runs": "530", 
+                    "wickets": "8"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 30, 
+                        "teamScore": "6"
+                    }, 
+                    "player10": {
+                        "ballNo": 250, 
+                        "teamScore": "91"
+                    }, 
+                    "player2": {
+                        "ballNo": 53, 
+                        "teamScore": "13"
+                    }, 
+                    "player3": {
+                        "ballNo": 67, 
+                        "teamScore": "16"
+                    }, 
+                    "player4": {
+                        "ballNo": 103, 
+                        "teamScore": "25"
+                    }, 
+                    "player5": {
+                        "ballNo": 167, 
+                        "teamScore": "65"
+                    }, 
+                    "player6": {
+                        "ballNo": 168, 
+                        "teamScore": "65"
+                    }, 
+                    "player7": {
+                        "ballNo": 211, 
+                        "teamScore": "81"
+                    }, 
+                    "player8": {
+                        "ballNo": 218, 
+                        "teamScore": "82"
+                    }, 
+                    "player9": {
+                        "ballNo": 219, 
+                        "teamScore": "82"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Akhil Rajput  ", 
+                        " c A Kazi b Suyal ", 
+                        "6", 
+                        "18", 
+                        "1", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        " st KB Pawan b A Kazi ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Moia  ", 
+                        "  b Tahmeed Rahman ", 
+                        "1", 
+                        "13", 
+                        "0", 
+                        "0", 
+                        "7.69"
+                    ], 
+                    "player2": [
+                        "  Michael Lalremkima (c)  ", 
+                        " c KB Pawan b Rachit Bhatia ", 
+                        "8", 
+                        "52", 
+                        "0", 
+                        "0", 
+                        "15.38"
+                    ], 
+                    "player3": [
+                        "  Saidingliana Sailo (wk)  ", 
+                        " lbw b A Kazi ", 
+                        "4", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "36.36"
+                    ], 
+                    "player4": [
+                        "  C Lalrinsanga  ", 
+                        " lbw b Rachit Bhatia ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  Taruwar Kohli  ", 
+                        " not out ", 
+                        "48", 
+                        "90", 
+                        "7", 
+                        "0", 
+                        "53.33"
+                    ], 
+                    "player6": [
+                        "  K Vanlalruata  ", 
+                        " c Nitesh Lohchab b A Kazi ", 
+                        "14", 
+                        "33", 
+                        "2", 
+                        "0", 
+                        "42.42"
+                    ], 
+                    "player7": [
+                        "  Lalhmangaiha  ", 
+                        "  b A Kazi ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Sinan Abdul Khadir  ", 
+                        "  b Tahmeed Rahman ", 
+                        "8", 
+                        "21", 
+                        "1", 
+                        "0", 
+                        "38.10"
+                    ], 
+                    "player9": [
+                        "  HM Ralte  ", 
+                        " st KB Pawan b A Kazi ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Pawan Suyal  ", 
+                        "9", 
+                        "5", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player2": [
+                        "  Rachit Bhatia  ", 
+                        "7", 
+                        "3", 
+                        "12", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player3": [
+                        "  Tahmeed Rahman  ", 
+                        "8.4", 
+                        "5", 
+                        "19", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player4": [
+                        "  Abrar Kazi  ", 
+                        "9", 
+                        "4", 
+                        "13", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player5": [
+                        "  Imliwati Lemtur  ", 
+                        "6", 
+                        "1", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player6": [
+                        "  Mughavi Wotsa  ", 
+                        "2", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ]
+                }, 
+                "bowlTeam": "Nagaland", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "41.4", 
+                    "runs": "91", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Toni Chishi", 
+                            " Paras Sehrawat", 
+                            " Inakato Zhimomi  "
+                        ], 
+                        "playing11": [
+                            " Hokaito Zhimomi", 
+                            " Mughavi Wotsa", 
+                            " Nitesh Lohchab", 
+                            " KB Pawan (wk)", 
+                            " Rongsen Jonathan (c)", 
+                            " Abrar Kazi", 
+                            " Pawan Suyal", 
+                            " Sedezhalie Rupero", 
+                            " Tahmeed Rahman", 
+                            " Imliwati Lemtur", 
+                            " Rachit Bhatia  "
+                        ], 
+                        "teamName": "Nagaland\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Gaurav Singh", 
+                            " Lalnunkima Varte", 
+                            " Lalnun Tluanga", 
+                            " Zorinliana", 
+                            " Varte Kima", 
+                            " Marema", 
+                            " Lalrempuia  "
+                        ], 
+                        "playing11": [
+                            " G Lalbiakvela", 
+                            " Lalhruai Ralte", 
+                            " C Lalrinsanga", 
+                            " Michael Lalremkima (c)", 
+                            " Saidingliana Sailo (wk)", 
+                            " K Vanlalruata", 
+                            " Sinan Abdul Khadir", 
+                            " Taruwar Kohli", 
+                            " Akhil Rajput", 
+                            " Lalhmangaiha", 
+                            " Moia  "
+                        ], 
+                        "teamName": "Mizoram\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Nagaland", 
+                    "team2": "Mizoram"
+                }, 
+                "toss": {
+                    "decision": "bat", 
+                    "winner": "Mizoram"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Shakti Singh"
+                }, 
+                "venue": "Nagaland Cricket Stadium, Sovima, Dimapur"
+            }
+        }
+    ]
+}

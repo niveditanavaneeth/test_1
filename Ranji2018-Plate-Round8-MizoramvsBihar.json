@@ -1,0 +1,736 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 45, 
+                        "teamScore": "31"
+                    }, 
+                    "player2": {
+                        "ballNo": 58, 
+                        "teamScore": "48"
+                    }, 
+                    "player3": {
+                        "ballNo": 84, 
+                        "teamScore": "59"
+                    }, 
+                    "player4": {
+                        "ballNo": 89, 
+                        "teamScore": "60"
+                    }, 
+                    "player5": {
+                        "ballNo": 193, 
+                        "teamScore": "106"
+                    }, 
+                    "player6": {
+                        "ballNo": 215, 
+                        "teamScore": "117"
+                    }, 
+                    "player7": {
+                        "ballNo": 372, 
+                        "teamScore": "244"
+                    }, 
+                    "player8": {
+                        "ballNo": 551, 
+                        "teamScore": "397"
+                    }, 
+                    "player9": {
+                        "ballNo": 570, 
+                        "teamScore": "409"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Indrajit Kumar  ", 
+                        " c Darremsanga b HM Ralte ", 
+                        "26", 
+                        "34", 
+                        "5", 
+                        "0", 
+                        "76.47"
+                    ], 
+                    "player10": [
+                        "  S Quadri  ", 
+                        " not out ", 
+                        "27", 
+                        "33", 
+                        "1", 
+                        "1", 
+                        "81.82"
+                    ], 
+                    "player11": [
+                        "  Abhijeet Saket  ", 
+                        " not out ", 
+                        "11", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "47.83"
+                    ], 
+                    "player2": [
+                        "  Babul Kumar  ", 
+                        " lbw b HM Ralte ", 
+                        "12", 
+                        "19", 
+                        "3", 
+                        "0", 
+                        "63.16"
+                    ], 
+                    "player3": [
+                        "  Mangal Mehrur  ", 
+                        " lbw b HM Ralte ", 
+                        "7", 
+                        "16", 
+                        "1", 
+                        "0", 
+                        "43.75"
+                    ], 
+                    "player4": [
+                        "  MD Rahmatullah  ", 
+                        " run out (Zorinliana)  ", 
+                        "99", 
+                        "156", 
+                        "11", 
+                        "0", 
+                        "63.46"
+                    ], 
+                    "player5": [
+                        "  Utkarsh Bhaskar  ", 
+                        " lbw b G Lalbiakvela ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Anshuman Gautam  ", 
+                        " lbw b Lalhmangaiha ", 
+                        "28", 
+                        "54", 
+                        "5", 
+                        "0", 
+                        "51.85"
+                    ], 
+                    "player7": [
+                        "  Vikash Ranjan (wk)  ", 
+                        " c G Lalbiakvela b HM Ralte ", 
+                        "6", 
+                        "14", 
+                        "1", 
+                        "0", 
+                        "42.86"
+                    ], 
+                    "player8": [
+                        "  Ashutosh Aman (c)  ", 
+                        " c Akhil Rajput b T Kohli ", 
+                        "111", 
+                        "168", 
+                        "13", 
+                        "0", 
+                        "66.07"
+                    ], 
+                    "player9": [
+                        "  Vivek Kumar  ", 
+                        " c Darremsanga b HM Ralte ", 
+                        "102", 
+                        "93", 
+                        "18", 
+                        "1", 
+                        "109.68"
+                    ]
+                }, 
+                "batTeam": "BIH", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  T Kohli  ", 
+                        "22", 
+                        "1", 
+                        "105", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.80"
+                    ], 
+                    "player2": [
+                        "  HM Ralte  ", 
+                        "29", 
+                        "3", 
+                        "122", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ], 
+                    "player3": [
+                        "  G Lalbiakvela  ", 
+                        "15", 
+                        "2", 
+                        "52", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.50"
+                    ], 
+                    "player4": [
+                        "  Sinan Khadir  ", 
+                        "17", 
+                        "2", 
+                        "67", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.90"
+                    ], 
+                    "player5": [
+                        "  Lalhmangaiha  ", 
+                        "13", 
+                        "2", 
+                        "39", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player6": [
+                        "  Zorinliana (c)  ", 
+                        "2", 
+                        "0", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ], 
+                    "player7": [
+                        "  Akhil Rajput  ", 
+                        "3", 
+                        "0", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "8.00"
+                    ], 
+                    "player8": [
+                        "  K Lalremruata  ", 
+                        "1", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "7", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "102", 
+                    "runs": "440", 
+                    "wickets": "9"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 36, 
+                        "teamScore": "14"
+                    }, 
+                    "player10": {
+                        "ballNo": 215, 
+                        "teamScore": "77"
+                    }, 
+                    "player2": {
+                        "ballNo": 81, 
+                        "teamScore": "28"
+                    }, 
+                    "player3": {
+                        "ballNo": 83, 
+                        "teamScore": "28"
+                    }, 
+                    "player4": {
+                        "ballNo": 90, 
+                        "teamScore": "29"
+                    }, 
+                    "player5": {
+                        "ballNo": 155, 
+                        "teamScore": "54"
+                    }, 
+                    "player6": {
+                        "ballNo": 191, 
+                        "teamScore": "66"
+                    }, 
+                    "player7": {
+                        "ballNo": 192, 
+                        "teamScore": "66"
+                    }, 
+                    "player8": {
+                        "ballNo": 203, 
+                        "teamScore": "68"
+                    }, 
+                    "player9": {
+                        "ballNo": 200, 
+                        "teamScore": "67"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  C Lalrinsanga  ", 
+                        " lbw b Abhijeet Saket ", 
+                        "1", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "5.00"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Moia  ", 
+                        "  b S Quadri ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Akhil Rajput  ", 
+                        " lbw b S Quadri ", 
+                        "49", 
+                        "107", 
+                        "6", 
+                        "0", 
+                        "45.79"
+                    ], 
+                    "player3": [
+                        "  T Kohli  ", 
+                        " lbw b Abhijeet Saket ", 
+                        "8", 
+                        "20", 
+                        "2", 
+                        "0", 
+                        "40.00"
+                    ], 
+                    "player4": [
+                        "  Lalhruaizela  ", 
+                        " c Vikash Ranjan b Abhijeet Saket ", 
+                        "0", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player5": [
+                        "  K Lalremruata  ", 
+                        "  b Ashutosh Aman ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  HM Ralte  ", 
+                        " lbw b S Quadri ", 
+                        "8", 
+                        "28", 
+                        "2", 
+                        "0", 
+                        "28.57"
+                    ], 
+                    "player7": [
+                        "  Sinan Khadir  ", 
+                        "  b S Quadri ", 
+                        "6", 
+                        "23", 
+                        "0", 
+                        "0", 
+                        "26.09"
+                    ], 
+                    "player8": [
+                        "  Zorinliana (c)  ", 
+                        " lbw b S Quadri ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Darremsanga (wk)  ", 
+                        " lbw b S Quadri ", 
+                        "0", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vivek Kumar  ", 
+                        "7", 
+                        "4", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.40"
+                    ], 
+                    "player2": [
+                        "  Abhijeet Saket  ", 
+                        "10", 
+                        "3", 
+                        "26", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player3": [
+                        "  Ashutosh Aman (c)  ", 
+                        "11", 
+                        "3", 
+                        "20", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ], 
+                    "player4": [
+                        "  S Quadri  ", 
+                        "7.5", 
+                        "0", 
+                        "19", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "2.40"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "1", 
+                    "nb": "2", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "35.5", 
+                    "runs": "77", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 26, 
+                        "teamScore": "16"
+                    }, 
+                    "player10": {
+                        "ballNo": 374, 
+                        "teamScore": "147"
+                    }, 
+                    "player2": {
+                        "ballNo": 103, 
+                        "teamScore": "56"
+                    }, 
+                    "player3": {
+                        "ballNo": 126, 
+                        "teamScore": "63"
+                    }, 
+                    "player4": {
+                        "ballNo": 172, 
+                        "teamScore": "77"
+                    }, 
+                    "player5": {
+                        "ballNo": 202, 
+                        "teamScore": "80"
+                    }, 
+                    "player6": {
+                        "ballNo": 319, 
+                        "teamScore": "132"
+                    }, 
+                    "player7": {
+                        "ballNo": 354, 
+                        "teamScore": "145"
+                    }, 
+                    "player8": {
+                        "ballNo": 360, 
+                        "teamScore": "145"
+                    }, 
+                    "player9": {
+                        "ballNo": 371, 
+                        "teamScore": "147"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  C Lalrinsanga  ", 
+                        " c Babul Kumar b Vivek Kumar ", 
+                        "1", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "9.09"
+                    ], 
+                    "player10": [
+                        "  G Lalbiakvela  ", 
+                        " c Utkarsh Bhaskar b Ashutosh Aman ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Moia  ", 
+                        " not out ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Akhil Rajput  ", 
+                        " lbw b S Quadri ", 
+                        "30", 
+                        "56", 
+                        "6", 
+                        "0", 
+                        "53.57"
+                    ], 
+                    "player3": [
+                        "  Taruwar Kohli  ", 
+                        " c Mangal Mehrur b Ashutosh Aman ", 
+                        "76", 
+                        "151", 
+                        "13", 
+                        "0", 
+                        "50.33"
+                    ], 
+                    "player4": [
+                        "  Lalhruaizela  ", 
+                        "  b Ashutosh Aman ", 
+                        "7", 
+                        "20", 
+                        "0", 
+                        "0", 
+                        "35.00"
+                    ], 
+                    "player5": [
+                        "  K Lalremruata  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "3", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "12.50"
+                    ], 
+                    "player6": [
+                        "  HM Ralte  ", 
+                        " lbw b S Quadri ", 
+                        "1", 
+                        "15", 
+                        "0", 
+                        "0", 
+                        "6.67"
+                    ], 
+                    "player7": [
+                        "  Sinan Abdul Khadir  ", 
+                        " lbw b Ashutosh Aman ", 
+                        "15", 
+                        "65", 
+                        "2", 
+                        "0", 
+                        "23.08"
+                    ], 
+                    "player8": [
+                        "  Zorinliana (c)  ", 
+                        " c Vikash Ranjan b S Quadri ", 
+                        "1", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "4.55"
+                    ], 
+                    "player9": [
+                        "  Darremsanga (wk)  ", 
+                        " lbw b S Quadri ", 
+                        "2", 
+                        "8", 
+                        "0", 
+                        "0", 
+                        "25.00"
+                    ]
+                }, 
+                "batTeam": "MIZ", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Vivek Kumar  ", 
+                        "8", 
+                        "0", 
+                        "25", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player2": [
+                        "  Abhijeet Saket  ", 
+                        "7", 
+                        "2", 
+                        "34", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.90"
+                    ], 
+                    "player3": [
+                        "  Samar Quadri  ", 
+                        "23.2", 
+                        "7", 
+                        "50", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player4": [
+                        "  Ashutosh Aman (c)  ", 
+                        "23", 
+                        "12", 
+                        "28", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ], 
+                    "player5": [
+                        "  Babul Kumar  ", 
+                        "1", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ]
+                }, 
+                "bowlTeam": "Mizoram", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "3", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "62.2", 
+                    "runs": "147", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2019-01-02T15:45:00", 
+                    "startDate": "2018-12-30T08:45:00"
+                }, 
+                "groupName": "Plate", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 8", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Michael Lalremkima", 
+                            " K Vanlalruata", 
+                            " Saidingliana Sailo", 
+                            " Bobby Zothansanga", 
+                            " Marema", 
+                            " Gaurav Singh", 
+                            " Lalnun Tluanga", 
+                            " Lalnunkima Varte", 
+                            " Lalrempuia", 
+                            " Varte Kima", 
+                            " Hmar Zothanchhunga", 
+                            " Lalhmangaiha  "
+                        ], 
+                        "playing11": [
+                            " Akhil Rajput", 
+                            " Lalhruaizela", 
+                            " Taruwar Kohli", 
+                            " K Lalremruata", 
+                            " Darremsanga (wk)", 
+                            " G Lalbiakvela", 
+                            " Zorinliana (c)", 
+                            " Sinan Abdul Khadir", 
+                            " Lalhruai Ralte", 
+                            " C Lalrinsanga", 
+                            " Moia  "
+                        ], 
+                        "teamName": "Mizoram\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Keshav Kumar", 
+                            " Harsh Singh", 
+                            " Pragyan Ojha", 
+                            " Anunay Singh", 
+                            " Sabir Khan", 
+                            " Himanshu Hari", 
+                            " Kumar Rajnish", 
+                            " Vivek Mohan", 
+                            " Vishal Das", 
+                            " Rehan Khan  "
+                        ], 
+                        "playing11": [
+                            " Mangal Mahrour", 
+                            " Indrajit Kumar", 
+                            " Babul Kumar", 
+                            " Abhijeet Saket", 
+                            " Utkarsh Bhaskar", 
+                            " MD Rahmatullah", 
+                            " Samar Quadri", 
+                            " Ashutosh Aman (c)", 
+                            " Vikash Ranjan (wk)", 
+                            " Vivek Kumar", 
+                            " Anshuman Gautam  "
+                        ], 
+                        "teamName": "Bihar\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Mizoram", 
+                    "team2": "Bihar"
+                }, 
+                "toss": {
+                    "decision": "bowl", 
+                    "winner": "Mizoram"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Pankaj Dharmani"
+                }, 
+                "venue": "Jorhat Stadium, Jorhat"
+            }
+        }
+    ]
+}

@@ -1,0 +1,883 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 2, 
+                        "teamScore": "1"
+                    }, 
+                    "player10": {
+                        "ballNo": 588, 
+                        "teamScore": "268"
+                    }, 
+                    "player2": {
+                        "ballNo": 49, 
+                        "teamScore": "19"
+                    }, 
+                    "player3": {
+                        "ballNo": 56, 
+                        "teamScore": "23"
+                    }, 
+                    "player4": {
+                        "ballNo": 67, 
+                        "teamScore": "31"
+                    }, 
+                    "player5": {
+                        "ballNo": 214, 
+                        "teamScore": "81"
+                    }, 
+                    "player6": {
+                        "ballNo": 400, 
+                        "teamScore": "184"
+                    }, 
+                    "player7": {
+                        "ballNo": 545, 
+                        "teamScore": "253"
+                    }, 
+                    "player8": {
+                        "ballNo": 578, 
+                        "teamScore": "267"
+                    }, 
+                    "player9": {
+                        "ballNo": 585, 
+                        "teamScore": "268"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kaushik Gandhi  ", 
+                        " c Arun Karthik b Basil Thampi ", 
+                        "16", 
+                        "28", 
+                        "3", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player10": [
+                        "  Rahil  ", 
+                        " c Arun Karthik b Basil Thampi ", 
+                        "0", 
+                        "6", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  T Natarajan  ", 
+                        "  b Basil Thampi ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Mukund  ", 
+                        " lbw b Warrier ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player3": [
+                        "  Aparajith  ", 
+                        "  b Warrier ", 
+                        "3", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "13.64"
+                    ], 
+                    "player4": [
+                        "  Indrajith (c)  ", 
+                        "  b Warrier ", 
+                        "87", 
+                        "188", 
+                        "8", 
+                        "0", 
+                        "46.28"
+                    ], 
+                    "player5": [
+                        "  Karthik (wk)  ", 
+                        " c Arun Karthik b Basil Thampi ", 
+                        "4", 
+                        "5", 
+                        "1", 
+                        "0", 
+                        "80.00"
+                    ], 
+                    "player6": [
+                        "  N Jagadeesan  ", 
+                        " c Ponnam Rahul b Jalaj Saxena ", 
+                        "21", 
+                        "67", 
+                        "0", 
+                        "1", 
+                        "31.34"
+                    ], 
+                    "player7": [
+                        "  Shahrukh Khan  ", 
+                        " not out ", 
+                        "92", 
+                        "155", 
+                        "8", 
+                        "1", 
+                        "59.35"
+                    ], 
+                    "player8": [
+                        "  M Mohammed  ", 
+                        " c Vishnu Vinod b Warrier ", 
+                        "29", 
+                        "90", 
+                        "3", 
+                        "0", 
+                        "32.22"
+                    ], 
+                    "player9": [
+                        "  Sai Kishore  ", 
+                        " c Vishnu Vinod b Warrier ", 
+                        "5", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "20.83"
+                    ]
+                }, 
+                "batTeam": "TN", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Warrier  ", 
+                        "25", 
+                        "7", 
+                        "52", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  Basil Thampi  ", 
+                        "19", 
+                        "4", 
+                        "62", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Akshay Chandran  ", 
+                        "13", 
+                        "2", 
+                        "30", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ], 
+                    "player4": [
+                        "  Jalaj Saxena  ", 
+                        "25", 
+                        "1", 
+                        "77", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.10"
+                    ], 
+                    "player5": [
+                        "  Sijomon  ", 
+                        "16", 
+                        "1", 
+                        "37", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.30"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "6", 
+                    "nb": "1", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "98", 
+                    "runs": "268", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 26, 
+                        "teamScore": "11"
+                    }, 
+                    "player10": {
+                        "ballNo": 461, 
+                        "teamScore": "152"
+                    }, 
+                    "player2": {
+                        "ballNo": 110, 
+                        "teamScore": "46"
+                    }, 
+                    "player3": {
+                        "ballNo": 142, 
+                        "teamScore": "71"
+                    }, 
+                    "player4": {
+                        "ballNo": 200, 
+                        "teamScore": "85"
+                    }, 
+                    "player5": {
+                        "ballNo": 253, 
+                        "teamScore": "97"
+                    }, 
+                    "player6": {
+                        "ballNo": 268, 
+                        "teamScore": "103"
+                    }, 
+                    "player7": {
+                        "ballNo": 322, 
+                        "teamScore": "111"
+                    }, 
+                    "player8": {
+                        "ballNo": 402, 
+                        "teamScore": "138"
+                    }, 
+                    "player9": {
+                        "ballNo": 408, 
+                        "teamScore": "141"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Arun Karthik  ", 
+                        " lbw b Rahil ", 
+                        "22", 
+                        "52", 
+                        "2", 
+                        "1", 
+                        "42.31"
+                    ], 
+                    "player10": [
+                        "  Basil Thampi  ", 
+                        " c Karthik b T Natarajan ", 
+                        "2", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player11": [
+                        "  Warrier  ", 
+                        " not out ", 
+                        "0", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Jalaj Saxena  ", 
+                        "  b T Natarajan ", 
+                        "4", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "36.36"
+                    ], 
+                    "player3": [
+                        "  Ponnam Rahul  ", 
+                        " lbw b Sai Kishore ", 
+                        "59", 
+                        "116", 
+                        "5", 
+                        "1", 
+                        "50.86"
+                    ], 
+                    "player4": [
+                        "  Samson  ", 
+                        "  b T Natarajan ", 
+                        "9", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "40.91"
+                    ], 
+                    "player5": [
+                        "  Sachin Baby (c)  ", 
+                        " c Indrajith b Rahil ", 
+                        "1", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player6": [
+                        "  VA Jagadeesh  ", 
+                        " c Shahrukh Khan b Rahil ", 
+                        "8", 
+                        "57", 
+                        "1", 
+                        "0", 
+                        "14.04"
+                    ], 
+                    "player7": [
+                        "  Vishnu Vinod (wk)  ", 
+                        " c Indrajith b Sai Kishore ", 
+                        "0", 
+                        "10", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Akshay Chandran  ", 
+                        " c Indrajith b Aparajith ", 
+                        "14", 
+                        "70", 
+                        "1", 
+                        "0", 
+                        "20.00"
+                    ], 
+                    "player9": [
+                        "  Sijomon  ", 
+                        " lbw b Rahil ", 
+                        "29", 
+                        "89", 
+                        "0", 
+                        "1", 
+                        "32.58"
+                    ]
+                }, 
+                "batTeam": "Kerala", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  T Natarajan  ", 
+                        "21", 
+                        "6", 
+                        "43", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  M Mohammed  ", 
+                        "14", 
+                        "4", 
+                        "29", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player3": [
+                        "  Rahil  ", 
+                        "19.5", 
+                        "9", 
+                        "32", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ], 
+                    "player4": [
+                        "  Kaushik Gandhi  ", 
+                        "4", 
+                        "1", 
+                        "16", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.00"
+                    ], 
+                    "player5": [
+                        "  Sai Kishore  ", 
+                        "13", 
+                        "5", 
+                        "22", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player6": [
+                        "  Aparajith  ", 
+                        "5", 
+                        "0", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "1.60"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "1", 
+                    "lb": "1", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "76.5", 
+                    "runs": "152", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings3": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 89, 
+                        "teamScore": "55"
+                    }, 
+                    "player2": {
+                        "ballNo": 106, 
+                        "teamScore": "62"
+                    }, 
+                    "player3": {
+                        "ballNo": 253, 
+                        "teamScore": "140"
+                    }, 
+                    "player4": {
+                        "ballNo": 257, 
+                        "teamScore": "142"
+                    }, 
+                    "player5": {
+                        "ballNo": 345, 
+                        "teamScore": "189"
+                    }, 
+                    "player6": {
+                        "ballNo": 421, 
+                        "teamScore": "251"
+                    }, 
+                    "player7": {
+                        "ballNo": 425, 
+                        "teamScore": "252"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Kaushik Gandhi  ", 
+                        " lbw b Sijomon ", 
+                        "59", 
+                        "140", 
+                        "4", 
+                        "0", 
+                        "42.14"
+                    ], 
+                    "player2": [
+                        "  Mukund  ", 
+                        " c Vishnu Vinod b Jalaj Saxena ", 
+                        "33", 
+                        "43", 
+                        "6", 
+                        "0", 
+                        "76.74"
+                    ], 
+                    "player3": [
+                        "  Aparajith  ", 
+                        " c Vishnu Vinod b Warrier ", 
+                        "4", 
+                        "8", 
+                        "1", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player4": [
+                        "  Indrajith (c)  ", 
+                        " c Arun Karthik b Sijomon ", 
+                        "92", 
+                        "148", 
+                        "6", 
+                        "0", 
+                        "62.16"
+                    ], 
+                    "player5": [
+                        "  Karthik (wk)  ", 
+                        " c Arun Karthik b Sijomon ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ], 
+                    "player6": [
+                        "  N Jagadeesan  ", 
+                        " c Vishnu Vinod b Warrier ", 
+                        "19", 
+                        "45", 
+                        "2", 
+                        "0", 
+                        "42.22"
+                    ], 
+                    "player7": [
+                        "  Shahrukh Khan  ", 
+                        " c Arun Karthik b Sijomon ", 
+                        "34", 
+                        "39", 
+                        "2", 
+                        "1", 
+                        "87.18"
+                    ], 
+                    "player8": [
+                        "  M Mohammed  ", 
+                        " not out ", 
+                        "1", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "33.33"
+                    ]
+                }, 
+                "batTeam": "TN", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Warrier  ", 
+                        "18", 
+                        "6", 
+                        "53", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.90"
+                    ], 
+                    "player2": [
+                        "  Basil Thampi  ", 
+                        "12", 
+                        "1", 
+                        "53", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.40"
+                    ], 
+                    "player3": [
+                        "  Jalaj Saxena  ", 
+                        "16", 
+                        "1", 
+                        "65", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "4.10"
+                    ], 
+                    "player4": [
+                        "  Sijomon  ", 
+                        "18.5", 
+                        "0", 
+                        "51", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.70"
+                    ], 
+                    "player5": [
+                        "  Akshay Chandran  ", 
+                        "6", 
+                        "0", 
+                        "25", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "4.20"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "5", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "0"
+                }, 
+                "total": {
+                    "overs": "70.5", 
+                    "runs": "252", 
+                    "wickets": "7"
+                }
+            }, 
+            "innings4": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 41, 
+                        "teamScore": "23"
+                    }, 
+                    "player10": {
+                        "ballNo": 534, 
+                        "teamScore": "217"
+                    }, 
+                    "player2": {
+                        "ballNo": 137, 
+                        "teamScore": "60"
+                    }, 
+                    "player3": {
+                        "ballNo": 318, 
+                        "teamScore": "157"
+                    }, 
+                    "player4": {
+                        "ballNo": 328, 
+                        "teamScore": "159"
+                    }, 
+                    "player5": {
+                        "ballNo": 329, 
+                        "teamScore": "159"
+                    }, 
+                    "player6": {
+                        "ballNo": 345, 
+                        "teamScore": "160"
+                    }, 
+                    "player7": {
+                        "ballNo": 451, 
+                        "teamScore": "195"
+                    }, 
+                    "player8": {
+                        "ballNo": 513, 
+                        "teamScore": "210"
+                    }, 
+                    "player9": {
+                        "ballNo": 521, 
+                        "teamScore": "211"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Arun Karthik  ", 
+                        " c N Jagadeesan b Sai Kishore ", 
+                        "33", 
+                        "69", 
+                        "3", 
+                        "1", 
+                        "47.83"
+                    ], 
+                    "player10": [
+                        "  Basil Thampi  ", 
+                        " c Indrajith b T Natarajan ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player11": [
+                        "  Sandeep Warrier  ", 
+                        " lbw b T Natarajan ", 
+                        "0", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player2": [
+                        "  Jalaj Saxena  ", 
+                        " c Indrajith b T Natarajan ", 
+                        "12", 
+                        "21", 
+                        "3", 
+                        "0", 
+                        "57.14"
+                    ], 
+                    "player3": [
+                        "  Sijomon Joseph  ", 
+                        " lbw b T Natarajan ", 
+                        "55", 
+                        "132", 
+                        "3", 
+                        "2", 
+                        "41.67"
+                    ], 
+                    "player4": [
+                        "  Sanju Samson  ", 
+                        " c N Jagadeesan b Aparajith ", 
+                        "91", 
+                        "192", 
+                        "10", 
+                        "2", 
+                        "47.40"
+                    ], 
+                    "player5": [
+                        "  Ponnam Rahul  ", 
+                        " run out (M Mohammed)  ", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player6": [
+                        "  Sachin Baby (c)  ", 
+                        " lbw b T Natarajan ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player7": [
+                        "  Vasudevan Arundhadi Jagadeesh  ", 
+                        " lbw b Sai Kishore ", 
+                        "0", 
+                        "7", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player8": [
+                        "  Vishnu Vinod (wk)  ", 
+                        " c Shahrukh Khan b Aparajith ", 
+                        "14", 
+                        "52", 
+                        "2", 
+                        "0", 
+                        "26.92"
+                    ], 
+                    "player9": [
+                        "  Akshay Chandran  ", 
+                        " not out ", 
+                        "8", 
+                        "49", 
+                        "1", 
+                        "0", 
+                        "16.33"
+                    ]
+                }, 
+                "batTeam": "Kerala", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  T Natarajan  ", 
+                        "20", 
+                        "5", 
+                        "41", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player2": [
+                        "  M Mohammed  ", 
+                        "9", 
+                        "3", 
+                        "18", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.00"
+                    ], 
+                    "player3": [
+                        "  Rahil Shah  ", 
+                        "23", 
+                        "4", 
+                        "68", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "3.00"
+                    ], 
+                    "player4": [
+                        "  Ravisrinivasan Sai Kishore  ", 
+                        "24", 
+                        "5", 
+                        "51", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player5": [
+                        "  Baba Aparajith  ", 
+                        "13", 
+                        "5", 
+                        "36", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "0", 
+                    "lb": "3", 
+                    "nb": "0", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "89", 
+                    "runs": "217", 
+                    "wickets": "10"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-12-09T16:30:00", 
+                    "startDate": "2018-12-06T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 5", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Rohit Raj", 
+                            " Abhishek Tanwar  "
+                        ], 
+                        "playing11": [
+                            " Kaushik Gandhi", 
+                            " Abhinav Mukund", 
+                            " Shahrukh Khan", 
+                            " Baba Aparajith", 
+                            " Baba Indrajith (c)", 
+                            " N Jagadeesan", 
+                            " Dinesh Karthik (wk)", 
+                            " Ravisrinivasan Sai Kishore", 
+                            " M Mohammed", 
+                            " Rahil Shah", 
+                            " T Natarajan  "
+                        ], 
+                        "teamName": "Tamil Nadu\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Salman Nizar  "
+                        ], 
+                        "playing11": [
+                            " Arun Karthik", 
+                            " Jalaj Saxena", 
+                            " Sanju Samson", 
+                            " Sachin Baby (c)", 
+                            " Ponnam Rahul", 
+                            " Vasudevan Arundhadi Jagadeesh", 
+                            " Vishnu Vinod (wk)", 
+                            " Akshay Chandran", 
+                            " Basil Thampi", 
+                            " Sijomon Joseph", 
+                            " Sandeep Warrier  "
+                        ], 
+                        "teamName": "Kerala\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Tamil Nadu", 
+                    "team2": "Kerala"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Tamil"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Prakash Bhatt"
+                }, 
+                "venue": "MA Chidambaram Stadium, Chennai"
+            }
+        }
+    ]
+}

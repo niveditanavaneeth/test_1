@@ -1,0 +1,449 @@
+{
+    "Ranji2018": [
+        {
+            "innings1": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 10, 
+                        "teamScore": "9"
+                    }, 
+                    "player10": {
+                        "ballNo": 946, 
+                        "teamScore": "393"
+                    }, 
+                    "player2": {
+                        "ballNo": 341, 
+                        "teamScore": "133"
+                    }, 
+                    "player3": {
+                        "ballNo": 502, 
+                        "teamScore": "211"
+                    }, 
+                    "player4": {
+                        "ballNo": 721, 
+                        "teamScore": "293"
+                    }, 
+                    "player5": {
+                        "ballNo": 852, 
+                        "teamScore": "359"
+                    }, 
+                    "player6": {
+                        "ballNo": 859, 
+                        "teamScore": "360"
+                    }, 
+                    "player7": {
+                        "ballNo": 860, 
+                        "teamScore": "360"
+                    }, 
+                    "player8": {
+                        "ballNo": 877, 
+                        "teamScore": "361"
+                    }, 
+                    "player9": {
+                        "ballNo": 892, 
+                        "teamScore": "371"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Aryaman Birla  ", 
+                        " c Balchander Anirudh b Ashwin ", 
+                        "51", 
+                        "166", 
+                        "6", 
+                        "0", 
+                        "30.72"
+                    ], 
+                    "player10": [
+                        "  I Pandey  ", 
+                        " c Vijay b Ashwin ", 
+                        "5", 
+                        "11", 
+                        "1", 
+                        "0", 
+                        "45.45"
+                    ], 
+                    "player11": [
+                        "  Kuldeep Sen  ", 
+                        "  c and b Ashwin ", 
+                        "4", 
+                        "22", 
+                        "0", 
+                        "0", 
+                        "18.18"
+                    ], 
+                    "player2": [
+                        "  Ankit Dane (wk)  ", 
+                        " c Aparajith b M Mohammed ", 
+                        "4", 
+                        "6", 
+                        "1", 
+                        "0", 
+                        "66.67"
+                    ], 
+                    "player3": [
+                        "  Rajat Patidar  ", 
+                        " c N Jagadeesan b M Mohammed ", 
+                        "196", 
+                        "406", 
+                        "17", 
+                        "1", 
+                        "48.28"
+                    ], 
+                    "player4": [
+                        "  Naman Ojha (c)  ", 
+                        " c Indrajith b Vijay Shankar ", 
+                        "45", 
+                        "92", 
+                        "2", 
+                        "2", 
+                        "48.91"
+                    ], 
+                    "player5": [
+                        "  Shubham Sharma  ", 
+                        " c N Jagadeesan b Rahil ", 
+                        "43", 
+                        "143", 
+                        "3", 
+                        "0", 
+                        "30.07"
+                    ], 
+                    "player6": [
+                        "  Yash Dubey  ", 
+                        " c N Jagadeesan b M Mohammed ", 
+                        "6", 
+                        "45", 
+                        "1", 
+                        "0", 
+                        "13.33"
+                    ], 
+                    "player7": [
+                        "  Ankit Sharma  ", 
+                        " not out ", 
+                        "23", 
+                        "47", 
+                        "2", 
+                        "1", 
+                        "48.94"
+                    ], 
+                    "player8": [
+                        "  Mihir Hirwani  ", 
+                        " c (sub)J Kousik b M Mohammed ", 
+                        "0", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "0.00"
+                    ], 
+                    "player9": [
+                        "  Avesh Khan  ", 
+                        " c Abhishek Tanwar b Ashwin ", 
+                        "1", 
+                        "11", 
+                        "0", 
+                        "0", 
+                        "9.09"
+                    ]
+                }, 
+                "batTeam": "MP", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Abhishek Tanwar  ", 
+                        "27", 
+                        "9", 
+                        "58", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player2": [
+                        "  M Mohammed  ", 
+                        "30", 
+                        "6", 
+                        "98", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "3.30"
+                    ], 
+                    "player3": [
+                        "  Ashwin  ", 
+                        "38.4", 
+                        "5", 
+                        "85", 
+                        "4", 
+                        "0", 
+                        "0", 
+                        "2.20"
+                    ], 
+                    "player4": [
+                        "  Vijay Shankar  ", 
+                        "24", 
+                        "7", 
+                        "51", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.10"
+                    ], 
+                    "player5": [
+                        "  Rahil  ", 
+                        "34", 
+                        "5", 
+                        "87", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.60"
+                    ], 
+                    "player6": [
+                        "  Aparajith  ", 
+                        "4", 
+                        "1", 
+                        "5", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.20"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "8", 
+                    "lb": "1", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "2"
+                }, 
+                "total": {
+                    "overs": "157.4", 
+                    "runs": "393", 
+                    "wickets": "10"
+                }
+            }, 
+            "innings2": {
+                "FallOfWickets": {
+                    "player1": {
+                        "ballNo": 90, 
+                        "teamScore": "43"
+                    }, 
+                    "player2": {
+                        "ballNo": 115, 
+                        "teamScore": "51"
+                    }, 
+                    "player3": {
+                        "ballNo": 297, 
+                        "teamScore": "131"
+                    }, 
+                    "player4": {
+                        "ballNo": 385, 
+                        "teamScore": "185"
+                    }
+                }, 
+                "batScoreCard": {
+                    "player1": [
+                        "  Abhinav Mukund  ", 
+                        " c Rajat Patidar b Ankit Sharma ", 
+                        "28", 
+                        "69", 
+                        "4", 
+                        "0", 
+                        "40.58"
+                    ], 
+                    "player2": [
+                        "  Murali Vijay  ", 
+                        " c Ankit Dane b Avesh Khan ", 
+                        "19", 
+                        "38", 
+                        "3", 
+                        "0", 
+                        "50.00"
+                    ], 
+                    "player3": [
+                        "  Baba Aparajith  ", 
+                        "  b Avesh Khan ", 
+                        "31", 
+                        "95", 
+                        "3", 
+                        "0", 
+                        "32.63"
+                    ], 
+                    "player4": [
+                        "  Baba Indrajith (c)  ", 
+                        " not out ", 
+                        "103", 
+                        "184", 
+                        "13", 
+                        "1", 
+                        "55.98"
+                    ], 
+                    "player5": [
+                        "  Vijay Shankar  ", 
+                        " c Ankit Dane b Mihir Hirwani ", 
+                        "17", 
+                        "39", 
+                        "1", 
+                        "0", 
+                        "43.59"
+                    ], 
+                    "player6": [
+                        "  Balchander Anirudh  ", 
+                        " not out ", 
+                        "28", 
+                        "45", 
+                        "3", 
+                        "1", 
+                        "62.22"
+                    ]
+                }, 
+                "batTeam": "TN", 
+                "bowlScoreCard": {
+                    "player1": [
+                        "  Ankit Sharma  ", 
+                        "19", 
+                        "7", 
+                        "54", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player2": [
+                        "  Mihir Hirwani  ", 
+                        "18", 
+                        "4", 
+                        "67", 
+                        "1", 
+                        "0", 
+                        "0", 
+                        "3.70"
+                    ], 
+                    "player3": [
+                        "  Ishwar Pandey  ", 
+                        "12", 
+                        "3", 
+                        "34", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "2.80"
+                    ], 
+                    "player4": [
+                        "  Kuldeep Sen  ", 
+                        "14", 
+                        "5", 
+                        "24", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.70"
+                    ], 
+                    "player5": [
+                        "  Avesh Khan  ", 
+                        "13", 
+                        "2", 
+                        "49", 
+                        "2", 
+                        "0", 
+                        "0", 
+                        "3.80"
+                    ], 
+                    "player6": [
+                        "  Shubham Sharma  ", 
+                        "1.4", 
+                        "0", 
+                        "3", 
+                        "0", 
+                        "0", 
+                        "0", 
+                        "1.80"
+                    ]
+                }, 
+                "bowlTeam": "Tamil Nadu", 
+                "extras": {
+                    "b": "4", 
+                    "lb": "1", 
+                    "nb": "4", 
+                    "p": "0", 
+                    "wide": "1"
+                }, 
+                "total": {
+                    "overs": "77.4", 
+                    "runs": "236", 
+                    "wickets": "4"
+                }
+            }, 
+            "matchInfo": {
+                "date": {
+                    "endDate": "2018-11-04T16:30:00", 
+                    "startDate": "2018-11-01T09:30:00"
+                }, 
+                "groupName": "Elite Group B", 
+                "matchType": "Ranji Test Match", 
+                "roundNo": "Round 1", 
+                "squad": {
+                    "team1": {
+                        "bench": [
+                            " Dinesh Karthik", 
+                            " Jagatheesan Kousik", 
+                            " Kaushik Gandhi", 
+                            " Washington Sundar", 
+                            " Ravisrinivasan Sai Kishore", 
+                            " Rohit Raj  "
+                        ], 
+                        "playing11": [
+                            " Abhinav Mukund", 
+                            " Murali Vijay", 
+                            " Vijay Shankar", 
+                            " Baba Indrajith (c)", 
+                            " Baba Aparajith", 
+                            " N Jagadeesan (wk)", 
+                            " Balchander Anirudh", 
+                            " Ravichandran Ashwin", 
+                            " M Mohammed", 
+                            " Rahil Shah", 
+                            " Abhishek Tanwar  "
+                        ], 
+                        "teamName": "Tamil Nadu\u00a0Squad"
+                    }, 
+                    "team2": {
+                        "bench": [
+                            " Saransh Jain", 
+                            " Mohnish Mishra", 
+                            " Gaurav Yadav", 
+                            " Venkatesh Iyer", 
+                            " Anshul Tripathi  "
+                        ], 
+                        "playing11": [
+                            " Aryaman Birla", 
+                            " Ankit Dane (wk)", 
+                            " Rajat Patidar", 
+                            " Shubham Sharma", 
+                            " Naman Ojha (c)", 
+                            " Yash Dubey", 
+                            " Ankit Sharma", 
+                            " Mihir Hirwani", 
+                            " Avesh Khan", 
+                            " Kuldeep Sen", 
+                            " Ishwar Pandey  "
+                        ], 
+                        "teamName": "Madhya Pradesh\u00a0Squad"
+                    }
+                }, 
+                "teams": {
+                    "team1": "Tamil Nadu", 
+                    "team2": "Madhya Pradesh"
+                }, 
+                "toss": {
+                    "decision": "to", 
+                    "winner": "Madhya"
+                }, 
+                "umpire": {
+                    "thirdUmpire": "Gaurav Vashisht"
+                }, 
+                "venue": "NPR College Ground, Dindigul"
+            }
+        }
+    ]
+}
