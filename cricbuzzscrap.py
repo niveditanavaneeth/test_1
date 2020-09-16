@@ -47,7 +47,6 @@ for i,url_i in enumerate(url_all):
     #     raise DownloadError("oops, could not grab the page", r)
 
     soup = BeautifulSoup(r.text, 'lxml')
-    detailsObject = {}
 
 
     match_header = soup.find(class_='cb-nav-hdr cb-font-18 line-ht24').text.split(',') 
@@ -70,8 +69,8 @@ for i,url_i in enumerate(url_all):
         if innings_id != None:
             innings_players = innings_id.find_all(class_="cb-col cb-col-100 cb-scrd-itms")
             # print (inningsPlayers)
-            batScoreCard = {}
-            bowlScoreCard = {}
+            bat_score_card = {}
+            bowl_score_card = {}
             extras = {}
             total = {}
             index_bat = 1
@@ -86,10 +85,10 @@ for i,url_i in enumerate(url_all):
                     tempvar.append(div1.text)
                 # print tempvar
                 if len(tempvar) == 7:
-                    batScoreCard['player'+ str(index_bat)] = tempvar
+                    bat_score_card['player'+ str(index_bat)] = tempvar
                     index_bat +=1
                 elif len(tempvar) == 8:
-                    bowlScoreCard['player'+ str(index_bowl)] = tempvar
+                    bowl_score_card['player'+ str(index_bowl)] = tempvar
                     index_bowl +=1
                 else:
                     if tempvar[0] == "Extras":
@@ -139,10 +138,10 @@ for i,url_i in enumerate(url_all):
 
             inning = {
                     "batTeam": innings_batting_team[0],
-                    "batScoreCard": batScoreCard,
+                    "batScoreCard": bat_score_card,
                     "FallOfWickets": fall_of_wickets,
                     "bowlTeam": innings_bowling_team,
-                    "bowlScoreCard": bowlScoreCard,
+                    "bowlScoreCard": bowl_score_card,
                     "extras": extras,
                     "total": total
                 }
@@ -212,10 +211,6 @@ for i,url_i in enumerate(url_all):
         umpire = {'thirdUmpire': main_detail["match referee"]}
     # print umpire
 
-    roundNo = ''
-    groupName = ''
-
-
     squad = {}
     squad['team1'] = { "teamName": squad_detail[0],
                 "playing11": squad_detail[1].split(',') ,
@@ -228,7 +223,7 @@ for i,url_i in enumerate(url_all):
                 } 
     # print squad
 
-    matchInfo = {
+    match_info = {
             "matchType": "Ranji Test Match",
             "teams": teams,
             "toss": toss,
@@ -241,17 +236,17 @@ for i,url_i in enumerate(url_all):
         }
 
     # print json.dumps(matchInfo, indent=2, sort_keys= True)
-    Ranji2018["matchInfo" ] = matchInfo
+    Ranji2018["matchInfo" ] = match_info
     all_matches.append(Ranji2018)
-    finalObject = { "Ranji2018" : [Ranji2018]}
-    file_name = "Ranji2018" + '-' + matchInfo["groupName"].replace(' ', '') + '-' +  matchInfo["roundNo"].replace(' ', '') + '-' + teams["team1"].replace(' ', '') + "vs" + teams["team2"].replace(' ', '') + ".json"
+    final_object = { "Ranji2018" : [Ranji2018]}
+    file_name = "Ranji2018" + '-' + match_info["groupName"].replace(' ', '') + '-' +  match_info["roundNo"].replace(' ', '') + '-' + teams["team1"].replace(' ', '') + "vs" + teams["team2"].replace(' ', '') + ".json"
     print file_name
     with open(file_name, 'w') as json_file:
-        json.dump(finalObject, json_file, indent=4, sort_keys= True)
+        json.dump(final_object, json_file, indent=4, sort_keys= True)
 
-finalObject = { "Ranji2018" : [Ranji2018]} 
+final_object = { "Ranji2018" : [Ranji2018]} 
 
-print json.dumps(finalObject,indent = 2,sort_keys=True)
+print json.dumps(final_object,indent = 2,sort_keys=True)
     
 # with open('RanjiStructure.json', 'w') as json_file:
 #     json.dump(finalObject, json_file, indent=4, sort_keys= True)
